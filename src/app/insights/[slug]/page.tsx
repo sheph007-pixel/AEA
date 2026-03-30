@@ -21,14 +21,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-function formatDate(dateStr: string) {
-  return new Date(dateStr).toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric',
-  });
-}
-
 export default async function InsightPage({ params }: Props) {
   const insight = await getInsightBySlug(params.slug);
   if (!insight) notFound();
@@ -52,13 +44,9 @@ export default async function InsightPage({ params }: Props) {
             <p className="mt-4 text-lg text-ink-500 leading-relaxed">
               {insight.description}
             </p>
-            <div className="flex flex-wrap items-center gap-3 mt-6 text-sm text-ink-400">
+            <p className="mt-6 text-sm text-ink-400">
               <span className="font-medium text-ink-700">{insight.author}</span>
-              <span>&middot;</span>
-              <time>{formatDate(insight.date)}</time>
-              <span>&middot;</span>
-              <span>{insight.readTime}</span>
-            </div>
+            </p>
           </div>
         </header>
 
@@ -84,7 +72,6 @@ export default async function InsightPage({ params }: Props) {
                 <h3 className="text-sm font-semibold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
                   {article.title}
                 </h3>
-                <p className="text-xs text-ink-400 mt-2">{formatDate(article.date)}</p>
               </Link>
             ))}
           </div>

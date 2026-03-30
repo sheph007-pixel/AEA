@@ -8,14 +8,6 @@ export const metadata: Metadata = {
     'Practical guides, compliance updates, and employer resources covering HR, hiring, operations, workplace culture, and more.',
 };
 
-function formatDate(dateStr: string) {
-  return new Date(dateStr).toLocaleDateString('en-US', {
-    month: 'short',
-    day: 'numeric',
-    year: 'numeric',
-  });
-}
-
 export default function ResourcesPage() {
   const resources = getAllResources();
   const categories = getCategories(resources);
@@ -24,7 +16,6 @@ export default function ResourcesPage() {
 
   return (
     <>
-      {/* Header */}
       <section className="border-b border-ink-100">
         <div className="container-wide py-8">
           <h1 className="font-serif text-3xl md:text-4.5xl font-bold text-ink-900">
@@ -36,7 +27,6 @@ export default function ResourcesPage() {
         </div>
       </section>
 
-      {/* Category filters */}
       <section className="border-b border-ink-100 bg-ink-50">
         <div className="container-wide py-3 overflow-x-auto">
           <div className="flex gap-1 min-w-max">
@@ -56,7 +46,6 @@ export default function ResourcesPage() {
         </div>
       </section>
 
-      {/* Featured article */}
       {heroArticle && (
         <section className="border-b border-ink-100 section-padding">
           <div className="container-wide">
@@ -68,19 +57,14 @@ export default function ResourcesPage() {
               <p className="mt-3 text-ink-500 text-lg leading-relaxed">
                 {heroArticle.description}
               </p>
-              <div className="article-card-meta mt-4">
-                <span>{formatDate(heroArticle.date)}</span>
-                <span>&middot;</span>
-                <span>{heroArticle.readTime}</span>
-                <span>&middot;</span>
-                <span>{heroArticle.author}</span>
-              </div>
+              <p className="article-card-meta mt-4">
+                {heroArticle.author}
+              </p>
             </Link>
           </div>
         </section>
       )}
 
-      {/* Articles by category */}
       <section className="section-padding">
         <div className="container-wide">
           {categories.map((cat) => {
@@ -112,11 +96,6 @@ export default function ResourcesPage() {
                       <p className="article-card-excerpt mt-1.5">
                         {resource.description}
                       </p>
-                      <div className="article-card-meta mt-2">
-                        <span>{formatDate(resource.date)}</span>
-                        <span>&middot;</span>
-                        <span>{resource.readTime}</span>
-                      </div>
                     </Link>
                   ))}
                 </div>
@@ -126,7 +105,6 @@ export default function ResourcesPage() {
         </div>
       </section>
 
-      {/* CTA */}
       <section className="bg-ink-900">
         <div className="container-wide py-14 text-center">
           <h2 className="font-serif text-2xl font-bold text-white">

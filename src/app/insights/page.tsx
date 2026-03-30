@@ -9,14 +9,6 @@ export const metadata: Metadata = {
     'The latest compliance updates, employer guidance, and practical insights from AEA.',
 };
 
-function formatDate(dateStr: string) {
-  return new Date(dateStr).toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric',
-  });
-}
-
 export default function InsightsPage() {
   const insights = getAllInsights();
 
@@ -50,13 +42,9 @@ export default function InsightsPage() {
                   <p className="article-card-excerpt mt-2">
                     {insight.description}
                   </p>
-                  <div className="article-card-meta mt-3">
-                    <span>{formatDate(insight.date)}</span>
-                    <span>&middot;</span>
-                    <span>{insight.readTime}</span>
-                    <span>&middot;</span>
-                    <span>{insight.author}</span>
-                  </div>
+                  <p className="article-card-meta mt-3">
+                    {insight.author}
+                  </p>
                 </div>
               </Link>
             ))}

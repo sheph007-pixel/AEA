@@ -21,14 +21,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-function formatDate(dateStr: string) {
-  return new Date(dateStr).toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric',
-  });
-}
-
 export default async function ResourcePage({ params }: Props) {
   const resource = await getResourceBySlug(params.slug);
   if (!resource) notFound();
@@ -59,13 +51,9 @@ export default async function ResourcePage({ params }: Props) {
             <p className="mt-4 text-lg text-ink-500 leading-relaxed">
               {resource.description}
             </p>
-            <div className="flex flex-wrap items-center gap-3 mt-6 text-sm text-ink-400">
+            <p className="mt-6 text-sm text-ink-400">
               <span className="font-medium text-ink-700">{resource.author}</span>
-              <span>&middot;</span>
-              <time>{formatDate(resource.date)}</time>
-              <span>&middot;</span>
-              <span>{resource.readTime}</span>
-            </div>
+            </p>
           </div>
         </header>
 
@@ -110,9 +98,7 @@ export default async function ResourcePage({ params }: Props) {
                     {article.title}
                   </h3>
                   <p className="article-card-meta mt-2">
-                    <span>{formatDate(article.date)}</span>
-                    <span>&middot;</span>
-                    <span>{article.readTime}</span>
+                    {article.category}
                   </p>
                 </Link>
               ))}

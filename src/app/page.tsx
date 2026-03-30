@@ -6,14 +6,6 @@ import {
   getContentByCategory,
 } from '@/lib/content';
 
-function formatDate(dateStr: string) {
-  return new Date(dateStr).toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric',
-  });
-}
-
 export default function HomePage() {
   const allContent = getAllContent();
   const featured = getFeaturedContent();
@@ -26,12 +18,10 @@ export default function HomePage() {
     (a) => a.slug !== heroArticle?.slug && !secondaryArticles.some((s) => s.slug === a.slug)
   ).slice(0, 5);
 
-  // Pick categories that have content, show top 4
   const topCategories = Object.entries(byCategory)
     .sort((a, b) => b[1].length - a[1].length)
     .slice(0, 4);
 
-  // "Editor's Picks" - featured or recent well-distributed across categories
   const editorPicks = featured.length > 1
     ? featured.slice(1, 5)
     : recent.filter((a) => a.slug !== heroArticle?.slug).slice(5, 9);
@@ -42,7 +32,6 @@ export default function HomePage() {
       <section className="border-b border-ink-100">
         <div className="container-wide py-8 md:py-12">
           <div className="grid lg:grid-cols-3 gap-8 lg:gap-12">
-            {/* Main featured article */}
             <div className="lg:col-span-2">
               {heroArticle && (
                 <Link href={`/resources/${heroArticle.slug}`} className="article-card block">
@@ -51,18 +40,13 @@ export default function HomePage() {
                   <p className="mt-4 text-ink-500 text-lg leading-relaxed max-w-2xl">
                     {heroArticle.description}
                   </p>
-                  <div className="article-card-meta mt-4">
-                    <span>{formatDate(heroArticle.date)}</span>
-                    <span>&middot;</span>
-                    <span>{heroArticle.readTime}</span>
-                    <span>&middot;</span>
-                    <span>{heroArticle.author}</span>
-                  </div>
+                  <p className="article-card-meta mt-4">
+                    {heroArticle.author}
+                  </p>
                 </Link>
               )}
             </div>
 
-            {/* Secondary articles */}
             <div className="lg:border-l lg:border-ink-100 lg:pl-8 space-y-6">
               {secondaryArticles.map((article) => (
                 <Link
@@ -74,9 +58,6 @@ export default function HomePage() {
                   <h3 className="font-serif text-base font-bold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
                     {article.title}
                   </h3>
-                  <p className="article-card-meta mt-1.5">
-                    <span>{formatDate(article.date)}</span>
-                  </p>
                 </Link>
               ))}
             </div>
@@ -88,7 +69,6 @@ export default function HomePage() {
       <section className="section-padding">
         <div className="container-wide">
           <div className="grid lg:grid-cols-3 gap-8 lg:gap-12">
-            {/* Latest articles */}
             <div className="lg:col-span-2">
               <h2 className="section-label">Latest</h2>
               <div className="space-y-0 divide-y divide-ink-100">
@@ -106,11 +86,9 @@ export default function HomePage() {
                       <p className="article-card-excerpt mt-1.5 hidden sm:block">
                         {article.description}
                       </p>
-                      <div className="article-card-meta mt-2">
-                        <span>{formatDate(article.date)}</span>
-                        <span>&middot;</span>
-                        <span>{article.readTime}</span>
-                      </div>
+                      <p className="article-card-meta mt-2">
+                        {article.author}
+                      </p>
                     </div>
                   </Link>
                 ))}
@@ -125,9 +103,7 @@ export default function HomePage() {
               </div>
             </div>
 
-            {/* Sidebar */}
             <div className="space-y-10">
-              {/* Most Read */}
               <div>
                 <h3 className="section-label">Most Read</h3>
                 <div className="space-y-4">
@@ -145,7 +121,7 @@ export default function HomePage() {
                           {article.title}
                         </h4>
                         <p className="text-xs text-ink-400 mt-1">
-                          {article.readTime}
+                          {article.category}
                         </p>
                       </div>
                     </Link>
@@ -153,7 +129,6 @@ export default function HomePage() {
                 </div>
               </div>
 
-              {/* Membership CTA */}
               <div className="bg-ink-50 border border-ink-100 p-6">
                 <p className="text-xs font-bold uppercase tracking-widest text-ink-400 mb-3">
                   For Employers
@@ -200,11 +175,6 @@ export default function HomePage() {
                   <p className="article-card-excerpt mt-2">
                     {article.description}
                   </p>
-                  <div className="article-card-meta mt-3">
-                    <span>{formatDate(article.date)}</span>
-                    <span>&middot;</span>
-                    <span>{article.readTime}</span>
-                  </div>
                 </Link>
               ))}
             </div>
@@ -231,45 +201,40 @@ export default function HomePage() {
                 <h3 className="font-serif text-base font-bold text-white group-hover:text-brand-red-light transition-colors leading-snug">
                   {article.title}
                 </h3>
-                <p className="text-xs text-ink-400 mt-2">
-                  {formatDate(article.date)} &middot; {article.readTime}
-                </p>
               </Link>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Bottom stats bar */}
+      {/* About the Association */}
       <section className="border-t border-ink-100 bg-ink-50">
         <div className="container-wide py-10">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
             <div>
-              <p className="text-3xl font-serif font-bold text-ink-900">
-                {allContent.length}+
-              </p>
+              <p className="text-3xl font-serif font-bold text-ink-900">2013</p>
               <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
-                Articles Published
-              </p>
-            </div>
-            <div>
-              <p className="text-3xl font-serif font-bold text-ink-900">10+</p>
-              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
-                Years of Insights
-              </p>
-            </div>
-            <div>
-              <p className="text-3xl font-serif font-bold text-ink-900">
-                {Object.keys(byCategory).length}
-              </p>
-              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
-                Topic Areas
+                Established
               </p>
             </div>
             <div>
               <p className="text-3xl font-serif font-bold text-ink-900">50</p>
               <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
                 States Served
+              </p>
+            </div>
+            <div>
+              <p className="text-3xl font-serif font-bold text-ink-900">
+                2-500
+              </p>
+              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
+                Employees Per Member
+              </p>
+            </div>
+            <div>
+              <p className="text-3xl font-serif font-bold text-ink-900">All</p>
+              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
+                Industries Served
               </p>
             </div>
           </div>

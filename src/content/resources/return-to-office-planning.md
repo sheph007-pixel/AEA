@@ -2,7 +2,7 @@
 title: "Developing a Return-to-Office Plan That Works for Everyone"
 description: "How to plan a phased return to the workplace that balances business needs, safety requirements, and employee preferences."
 category: "Operations"
-date: "2020-12-10"
+date: "2021-01-20"
 tags: ["return to office", "workplace planning", "safety", "hybrid work", "operations"]
 author: "AEA Editorial Team"
 ---
