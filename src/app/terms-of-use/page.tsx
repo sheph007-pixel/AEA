@@ -38,8 +38,8 @@ export default function TermsOfUsePage() {
 
           <h2>Intellectual Property</h2>
           <p>
-            All content on the AEA website—including text, guides, templates,
-            graphics, logos, and other materials—is owned by AEA or its licensors
+            All content on the AEA website - including text, guides, templates,
+            graphics, logos, and other materials - is owned by AEA or its licensors
             and is protected by copyright and other intellectual property laws.
           </p>
           <p>
@@ -96,7 +96,8 @@ export default function TermsOfUsePage() {
           </p>
           <p>
             American Employers Alliance<br />
-            Burlington, Vermont<br />
+            159 Bank Street, Fourth Floor<br />
+            Burlington, VT 05401<br />
             info@americanemployersalliance.org
           </p>
         </div>

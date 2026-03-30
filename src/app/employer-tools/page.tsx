@@ -105,7 +105,7 @@ export default function EmployerToolsPage() {
           <p className="text-gray-600 leading-relaxed mb-6">
             Every tool in the AEA library is designed based on the actual questions,
             challenges, and processes that employers deal with every day. No filler,
-            no theory—just practical resources you can use immediately.
+            no theory - just practical resources you can use immediately.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/membership" className="btn-primary">

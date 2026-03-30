@@ -38,7 +38,7 @@ If an initial determination is unfavorable:
 
 ## Managing Your Tax Rate
 
-Your UI tax rate is based on your experience rating—essentially, how many claims have been filed against your account. To keep your rate low:
+Your UI tax rate is based on your experience rating - essentially, how many claims have been filed against your account. To keep your rate low:
 
 - Respond to all claims promptly and thoroughly
 - Contest claims when appropriate

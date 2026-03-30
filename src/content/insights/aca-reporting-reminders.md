@@ -8,7 +8,7 @@ tags: ["ACA", "reporting", "compliance", "health insurance"]
 
 ## Who Must Report
 
-Applicable Large Employers (ALEs)—those with 50 or more full-time equivalent employees in the prior year—must comply with ACA reporting requirements under Internal Revenue Code Sections 6055 and 6056.
+Applicable Large Employers (ALEs) - those with 50 or more full-time equivalent employees in the prior year - must comply with ACA reporting requirements under Internal Revenue Code Sections 6055 and 6056.
 
 ## Required Forms
 

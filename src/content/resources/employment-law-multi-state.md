@@ -8,7 +8,7 @@ tags: ["multi-state", "employment law", "compliance", "expansion"]
 
 ## The Challenge of Multi-State Compliance
 
-Operating in multiple states means navigating different—and sometimes conflicting—employment laws. What's permissible in one state may be prohibited in another. Multi-state employers must build systems to track and comply with every applicable jurisdiction.
+Operating in multiple states means navigating different - and sometimes conflicting - employment laws. What's permissible in one state may be prohibited in another. Multi-state employers must build systems to track and comply with every applicable jurisdiction.
 
 ## Key Areas of Variation
 

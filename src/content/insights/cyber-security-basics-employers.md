@@ -13,7 +13,7 @@ Small and mid-sized businesses are increasingly targeted by cyberattacks. The co
 ## Essential Practices
 
 ### Access Controls
-- Implement the principle of least privilege—employees should only have access to systems and data they need
+- Implement the principle of least privilege - employees should only have access to systems and data they need
 - Use unique credentials for every employee
 - Disable accounts immediately when employees leave
 - Require strong, unique passwords and a password manager

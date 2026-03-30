@@ -67,7 +67,7 @@ export default function HRCompliancePage() {
     <>
       <PageHero
         title="HR & Compliance"
-        subtitle="Stay current with employment law, access compliance tools, and implement HR best practices—without a full legal department."
+        subtitle="Stay current with employment law, access compliance tools, and implement HR best practices - without a full legal department."
         breadcrumb="HR & Compliance"
       />
 

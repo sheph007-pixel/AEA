@@ -18,7 +18,7 @@ const features = [
   {
     title: 'Employer Tools & Resources',
     description:
-      'Practical checklists, guides, and templates designed specifically for employers with 2–500 employees.',
+      'Practical checklists, guides, and templates designed specifically for employers with 2-500 employees.',
     icon: (
       <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
@@ -77,7 +77,7 @@ export default function HomePage() {
               Practical support for employers who are building something that matters
             </h1>
             <p className="mt-6 text-lg md:text-xl text-navy-200 leading-relaxed max-w-2xl">
-              AEA helps businesses with 2–500 employees operate more efficiently,
+              AEA helps businesses with 2-500 employees operate more efficiently,
               stay compliant, reduce costs, and access the tools and resources they need.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
@@ -98,11 +98,11 @@ export default function HomePage() {
           <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-4 text-sm text-gray-500">
             <span className="font-medium">Serving employers nationwide since 2013</span>
             <span className="hidden sm:inline text-gray-300">|</span>
-            <span>Headquartered in Burlington, VT</span>
+            <span>Burlington, VT &middot; Vestavia Hills, AL</span>
             <span className="hidden sm:inline text-gray-300">|</span>
-            <span>501(c)(6) nonprofit</span>
+            <span>Domestic nonprofit corporation</span>
             <span className="hidden sm:inline text-gray-300">|</span>
-            <span>All industries &middot; 2–500 employees</span>
+            <span>All industries &middot; 2-500 employees</span>
           </div>
         </div>
       </section>
@@ -113,7 +113,7 @@ export default function HomePage() {
           <SectionHeading
             label="What We Do"
             title="Everything employers need to operate with confidence"
-            description="AEA provides the resources, tools, and support that help businesses focus on what they do best—while we help with the rest."
+            description="AEA provides the resources, tools, and support that help businesses focus on what they do best - while we help with the rest."
             centered
           />
           <div className="mt-14 grid md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -142,7 +142,7 @@ export default function HomePage() {
               <SectionHeading
                 label="Membership"
                 title="Built for employers, by employers"
-                description="AEA membership gives your organization access to the tools, guidance, and programs that help you operate more efficiently—regardless of your size or industry."
+                description="AEA membership gives your organization access to the tools, guidance, and programs that help you operate more efficiently - regardless of your size or industry."
               />
               <ul className="mt-8 space-y-3">
                 {memberBenefits.map((benefit) => (

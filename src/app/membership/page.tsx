@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 const tiers = [
   {
     name: 'Essential',
-    audience: '2–25 employees',
+    audience: '2-25 employees',
     features: [
       'Full Resource Center access',
       'Compliance alerts and updates',
@@ -25,7 +25,7 @@ const tiers = [
   },
   {
     name: 'Professional',
-    audience: '26–100 employees',
+    audience: '26-100 employees',
     featured: true,
     features: [
       'Everything in Essential, plus:',
@@ -39,7 +39,7 @@ const tiers = [
   },
   {
     name: 'Enterprise',
-    audience: '101–500 employees',
+    audience: '101-500 employees',
     features: [
       'Everything in Professional, plus:',
       'Dedicated account support',

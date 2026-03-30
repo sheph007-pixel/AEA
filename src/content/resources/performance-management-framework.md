@@ -58,6 +58,6 @@ When performance falls below expectations:
 
 - Get leadership buy-in and participation
 - Train managers on giving effective feedback
-- Make the process manageable—complexity reduces compliance
+- Make the process manageable - complexity reduces compliance
 - Use the data to inform compensation, promotion, and development decisions
 - Review and refine the system annually

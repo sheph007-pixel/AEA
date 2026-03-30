@@ -33,7 +33,7 @@ Most employers with more than 10 employees must maintain records of work-related
 
 ## Handling OSHA Inspections
 
-1. The compliance officer will present credentials—verify them
+1. The compliance officer will present credentials - verify them
 2. You may request a warrant before allowing the inspection
 3. Designate a company representative to accompany the inspector
 4. Take notes and photographs during the inspection

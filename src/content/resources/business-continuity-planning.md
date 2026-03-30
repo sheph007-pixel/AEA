@@ -8,7 +8,7 @@ tags: ["business continuity", "disaster planning", "risk management", "operation
 
 ## What Is Business Continuity Planning?
 
-A business continuity plan (BCP) outlines how your organization will continue operating during and after a disruption—whether a natural disaster, technology failure, pandemic, or other crisis.
+A business continuity plan (BCP) outlines how your organization will continue operating during and after a disruption - whether a natural disaster, technology failure, pandemic, or other crisis.
 
 ## Getting Started
 

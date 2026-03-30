@@ -66,7 +66,7 @@ export default function InsightsPage() {
 
       <CTASection
         title="Stay informed"
-        description="AEA members receive compliance alerts and updates as they happen—not days or weeks later."
+        description="AEA members receive compliance alerts and updates as they happen - not days or weeks later."
       />
     </>
   );

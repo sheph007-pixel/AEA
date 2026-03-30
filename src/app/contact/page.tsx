@@ -81,12 +81,12 @@ export default function ContactPage() {
                     className="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-navy-500 focus:border-navy-500 outline-none transition-colors bg-white"
                   >
                     <option value="">Select range</option>
-                    <option value="2-10">2–10</option>
-                    <option value="11-25">11–25</option>
-                    <option value="26-50">26–50</option>
-                    <option value="51-100">51–100</option>
-                    <option value="101-250">101–250</option>
-                    <option value="251-500">251–500</option>
+                    <option value="2-10">2-10</option>
+                    <option value="11-25">11-25</option>
+                    <option value="26-50">26-50</option>
+                    <option value="51-100">51-100</option>
+                    <option value="101-250">101-250</option>
+                    <option value="251-500">251-500</option>
                   </select>
                 </div>
                 <div>
@@ -134,13 +134,19 @@ export default function ContactPage() {
                   <h3 className="text-sm font-semibold text-navy-700 uppercase tracking-wide mb-3">
                     Headquarters
                   </h3>
-                  <p className="text-gray-700">Burlington, Vermont</p>
+                  <p className="text-gray-700">
+                    159 Bank Street, Fourth Floor<br />
+                    Burlington, VT 05401
+                  </p>
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold text-navy-700 uppercase tracking-wide mb-3">
-                    Member Services
+                    Alabama Office
                   </h3>
-                  <p className="text-gray-700">Alabama</p>
+                  <p className="text-gray-700">
+                    2828 Old 280 Ct<br />
+                    Vestavia Hills, AL 35243
+                  </p>
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold text-navy-700 uppercase tracking-wide mb-3">

@@ -13,7 +13,7 @@ Social media creates both opportunities and risks for employers. Employees' onli
 ## Legal Considerations
 
 ### National Labor Relations Act (NLRA)
-The NLRA protects employees' rights to engage in "concerted activity"—actions taken together or on behalf of a group to improve working conditions. This applies to most private-sector employees, whether unionized or not.
+The NLRA protects employees' rights to engage in "concerted activity" - actions taken together or on behalf of a group to improve working conditions. This applies to most private-sector employees, whether unionized or not.
 
 Social media posts may be protected if they:
 - Discuss wages, hours, or working conditions

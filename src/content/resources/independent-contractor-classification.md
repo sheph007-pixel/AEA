@@ -22,7 +22,7 @@ The IRS uses three categories to determine classification:
 ### Behavioral Control
 Does the company control what the worker does and how they do it?
 - Instructions on when, where, and how to work suggest employee status
-- The right to direct and control the work is key—actual exercise of control is not required
+- The right to direct and control the work is key - actual exercise of control is not required
 
 ### Financial Control
 Does the company control the business aspects of the worker's activities?
@@ -58,7 +58,7 @@ Many states use different tests, often stricter than the federal standard. The "
 
 ## Best Practices
 
-1. Analyze each engagement individually—no single factor is determinative
+1. Analyze each engagement individually - no single factor is determinative
 2. Document the basis for your classification decision
 3. Use written agreements that accurately reflect the relationship
 4. Audit your contractor relationships periodically

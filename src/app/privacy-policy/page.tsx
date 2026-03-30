@@ -105,7 +105,8 @@ export default function PrivacyPolicyPage() {
           </p>
           <p>
             American Employers Alliance<br />
-            Burlington, Vermont<br />
+            159 Bank Street, Fourth Floor<br />
+            Burlington, VT 05401<br />
             info@americanemployersalliance.org
           </p>
         </div>

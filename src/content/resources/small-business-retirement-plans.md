@@ -31,7 +31,7 @@ Best for self-employed individuals and small businesses with few or no employees
 
 **Key features:**
 - Only the employer contributes
-- Contributions are discretionary—can vary year to year
+- Contributions are discretionary - can vary year to year
 - High contribution limits
 - Minimal paperwork
 - No annual filing requirements

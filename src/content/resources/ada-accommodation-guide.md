@@ -12,7 +12,7 @@ The Americans with Disabilities Act (ADA) prohibits discrimination against quali
 
 ## The Interactive Process
 
-When an employee requests an accommodation—or when you become aware that one may be needed—you must engage in an interactive process:
+When an employee requests an accommodation - or when you become aware that one may be needed - you must engage in an interactive process:
 
 1. **Acknowledge the request** promptly, even if informal
 2. **Gather information** about the employee's limitations and how they affect job performance
@@ -40,7 +40,7 @@ An employer is not required to provide an accommodation that would cause signifi
 - The impact on operations
 - The size and type of the organization
 
-The determination must be made on a case-by-case basis—you cannot apply a blanket policy.
+The determination must be made on a case-by-case basis - you cannot apply a blanket policy.
 
 ## Documentation
 

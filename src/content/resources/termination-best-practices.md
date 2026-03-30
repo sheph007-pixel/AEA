@@ -38,7 +38,7 @@ Before proceeding, verify:
 Keep the meeting brief and professional:
 1. State the purpose clearly at the beginning
 2. Explain the reason for termination concisely
-3. Do not debate or argue—the decision has been made
+3. Do not debate or argue - the decision has been made
 4. Provide information about final pay, benefits, and next steps
 5. Treat the employee with respect and dignity
 6. Allow the employee to ask questions about logistics

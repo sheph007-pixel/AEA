@@ -8,7 +8,7 @@ tags: ["hiring", "recruitment", "labor market", "talent"]
 
 ## Reassess Your Approach
 
-If you're struggling to fill positions, the problem may not be a lack of candidates—it may be that your approach needs updating.
+If you're struggling to fill positions, the problem may not be a lack of candidates - it may be that your approach needs updating.
 
 ### Review Job Requirements
 - Are all listed requirements truly necessary, or are some preferences?

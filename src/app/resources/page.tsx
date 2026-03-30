@@ -18,7 +18,7 @@ export default function ResourcesPage() {
     <>
       <PageHero
         title="Resource Center"
-        subtitle="Practical guides, templates, and checklists for employers—organized by topic and designed for everyday use."
+        subtitle="Practical guides, templates, and checklists for employers - organized by topic and designed for everyday use."
         breadcrumb="Resources"
       />
 

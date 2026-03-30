@@ -12,7 +12,7 @@ tags: ["hiring", "employment law", "background checks", "interviewing"]
 - Avoid language that could indicate a preference based on protected characteristics
 - Include essential job functions to support ADA compliance
 - Be cautious with "required" qualifications that could disproportionately exclude protected groups
-- Many jurisdictions now require salary ranges in job postings—check your local requirements
+- Many jurisdictions now require salary ranges in job postings - check your local requirements
 
 ### Best Practices
 Write job descriptions that focus on actual duties and necessary qualifications. Overly inflated requirements may discourage qualified applicants and can create legal risk if they disproportionately impact certain groups.

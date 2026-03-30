@@ -14,15 +14,15 @@ const faqs = [
     items: [
       {
         q: 'What is the American Employers Alliance?',
-        a: 'AEA is a national nonprofit 501(c)(6) employer association founded in 2013. We help employers across the United States operate more efficiently, stay compliant, reduce costs, and access practical tools and support. We are headquartered in Burlington, Vermont, with a member services presence in Alabama.',
+        a: 'AEA is a domestic nonprofit corporation organized as a business association, founded in 2013 in the State of Vermont. We help employers across the United States operate more efficiently, stay compliant, reduce costs, and access practical tools and support. Our headquarters is at 159 Bank Street, Fourth Floor, Burlington, VT 05401, with a member services office in Vestavia Hills, Alabama.',
       },
       {
         q: 'Who is AEA for?',
-        a: 'AEA serves employers with approximately 2–500 employees across all industries. Our members include small businesses, growing companies, and established organizations that need practical, reliable resources for managing their workforce.',
+        a: 'AEA serves employer groups with approximately 2-500 employees across all industries. Our members include small businesses, growing companies, and established organizations that need practical, reliable resources for managing their workforce.',
       },
       {
         q: 'Is AEA an insurance company?',
-        a: 'No. AEA is a nonprofit employer association. While we do offer access to insurance and benefits programs as part of our membership, these are optional. Most of our value comes from compliance resources, employer tools, and cost-saving programs that have nothing to do with insurance.',
+        a: 'No. AEA is a domestic nonprofit corporation organized as a business association. While we do offer access to insurance and benefits programs as part of our membership, these are optional. Most of our value comes from compliance resources, employer tools, and cost-saving programs that have nothing to do with insurance.',
       },
     ],
   },
@@ -52,7 +52,7 @@ const faqs = [
     items: [
       {
         q: 'What kind of resources does AEA provide?',
-        a: 'Our Resource Center includes guides on HR management, compliance checklists, hiring best practices, operational frameworks, policy templates, and more. We also publish regular insights and compliance updates. Resources are written specifically for employers—practical and actionable.',
+        a: 'Our Resource Center includes guides on HR management, compliance checklists, hiring best practices, operational frameworks, policy templates, and more. We also publish regular insights and compliance updates. Resources are written specifically for employers - practical and actionable.',
       },
       {
         q: 'How often are resources updated?',

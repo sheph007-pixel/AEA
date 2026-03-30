@@ -8,7 +8,7 @@ tags: ["remote work", "taxes", "compliance", "multi-state"]
 
 ## The Problem
 
-When employees work from states different from your business location, you may be creating tax nexus—establishing a taxable presence—in those states. This can trigger obligations for state income tax withholding, unemployment insurance, business registration, and more.
+When employees work from states different from your business location, you may be creating tax nexus - establishing a taxable presence - in those states. This can trigger obligations for state income tax withholding, unemployment insurance, business registration, and more.
 
 ## Key Considerations
 

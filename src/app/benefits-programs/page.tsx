@@ -25,8 +25,8 @@ export default function BenefitsProgramsPage() {
             <p className="text-gray-600 leading-relaxed mb-4">
               AEA offers members optional access to group benefits and risk
               management programs. These programs leverage the collective size of
-              our membership to provide options that individual employers—especially
-              those with fewer than 100 employees—often cannot access on their own.
+              our membership to provide options that individual employers - especially
+              those with fewer than 100 employees - often cannot access on their own.
             </p>
             <p className="text-gray-600 leading-relaxed">
               <strong className="text-navy-900">These programs are entirely optional.</strong>{' '}

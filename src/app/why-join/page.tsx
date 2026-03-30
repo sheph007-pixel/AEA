@@ -24,7 +24,7 @@ const reasons = [
   {
     title: 'Access resources built for your size',
     description:
-      'Most HR resources are written for large enterprises or for HR professionals. AEA resources are designed specifically for businesses with 2–500 employees—practical, actionable, and written for employers.',
+      'Most HR resources are written for large enterprises or for HR professionals. AEA resources are designed specifically for businesses with 2-500 employees - practical, actionable, and written for employers.',
     details: [
       'Employee handbook templates and policy guides',
       'Hiring and onboarding checklists',
@@ -68,7 +68,7 @@ const reasons = [
   {
     title: 'Access benefits programs (if you choose)',
     description:
-      'AEA offers access to group health plans, captive insurance programs, and other benefits structures. These are optional—members receive full value even if they never participate in benefits programs.',
+      'AEA offers access to group health plans, captive insurance programs, and other benefits structures. These are optional - members receive full value even if they never participate in benefits programs.',
     details: [
       'Group health plan options',
       'Captive insurance programs',
@@ -83,7 +83,7 @@ export default function WhyJoinPage() {
     <>
       <PageHero
         title="Why Employers Join AEA"
-        subtitle="Membership is designed to deliver immediate, practical value—regardless of your industry, location, or size."
+        subtitle="Membership is designed to deliver immediate, practical value - regardless of your industry, location, or size."
         breadcrumb="Why Join"
       />
 

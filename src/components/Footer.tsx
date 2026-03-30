@@ -43,9 +43,12 @@ export default function Footer() {
               and reduce costs.
             </p>
             <p className="text-navy-400 text-xs">
-              Headquartered in Burlington, Vermont
+              159 Bank Street, Fourth Floor
             </p>
-            <p className="text-navy-400 text-xs">Founded 2013</p>
+            <p className="text-navy-400 text-xs">
+              Burlington, VT 05401
+            </p>
+            <p className="text-navy-400 text-xs mt-2">Founded 2013</p>
           </div>
 
           {/* Link Columns */}
@@ -73,7 +76,7 @@ export default function Footer() {
         <div className="mt-16 pt-8 border-t border-navy-800 flex flex-col md:flex-row items-center justify-between text-sm text-navy-400">
           <p>&copy; {new Date().getFullYear()} American Employers Alliance. All rights reserved.</p>
           <p className="mt-2 md:mt-0">
-            A 501(c)(6) nonprofit employer association
+            A domestic nonprofit corporation &middot; Business association
           </p>
         </div>
       </div>
