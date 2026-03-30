@@ -101,13 +101,13 @@ export default function PrivacyPolicyPage() {
 
           <h2>Contact Us</h2>
           <p>
-            If you have questions about this Privacy Policy, please contact us at:
+            If you have questions about this Privacy Policy, please contact us
+            through our <a href="/contact">contact page</a>.
           </p>
           <p>
             American Employers Alliance<br />
             159 Bank Street, Fourth Floor<br />
-            Burlington, VT 05401<br />
-            info@americanemployersalliance.org
+            Burlington, VT 05401
           </p>
         </div>
       </section>

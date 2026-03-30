@@ -24,10 +24,10 @@ export default function MembershipPage() {
           <div className="grid lg:grid-cols-2 gap-12 lg:gap-20">
             {/* Form */}
             <div>
-              <h2 className="text-xl font-bold text-navy-900 mb-2">
+              <h2 className="text-xl font-bold text-ink-900 mb-2">
                 Become a member
               </h2>
-              <p className="text-gray-600 mb-6">
+              <p className="text-ink-500 mb-6">
                 Complete the form below and we will be in touch to discuss how AEA
                 can support your organization.
               </p>
@@ -36,7 +36,7 @@ export default function MembershipPage() {
 
             {/* Info sidebar */}
             <div>
-              <h2 className="text-xl font-bold text-navy-900 mb-6">
+              <h2 className="text-xl font-bold text-ink-900 mb-6">
                 Why employers join AEA
               </h2>
               <div className="space-y-6">
@@ -63,20 +63,20 @@ export default function MembershipPage() {
                   },
                 ].map((item) => (
                   <div key={item.title} className="flex gap-4">
-                    <svg className="w-5 h-5 text-accent-500 mt-0.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <svg className="w-5 h-5 text-brand-red mt-0.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     <div>
-                      <h3 className="font-semibold text-navy-900 text-sm">{item.title}</h3>
-                      <p className="text-sm text-gray-600 mt-1">{item.desc}</p>
+                      <h3 className="font-semibold text-ink-900 text-sm">{item.title}</h3>
+                      <p className="text-sm text-ink-500 mt-1">{item.desc}</p>
                     </div>
                   </div>
                 ))}
               </div>
 
-              <div className="mt-8 bg-navy-800 rounded-xl p-6 text-white">
+              <div className="mt-8 bg-ink-900 rounded p-6 text-white">
                 <h3 className="font-semibold mb-2">Not sure if AEA is right for you?</h3>
-                <p className="text-sm text-navy-200 leading-relaxed mb-3">
+                <p className="text-sm text-ink-400 leading-relaxed mb-3">
                   We are happy to answer any questions about membership and how AEA
                   supports employers of all sizes.
                 </p>
@@ -93,7 +93,7 @@ export default function MembershipPage() {
       </section>
 
       {/* What membership includes */}
-      <section className="bg-gray-50 section-padding">
+      <section className="bg-ink-50 section-padding">
         <div className="container-wide">
           <SectionHeading
             title="What membership includes"
@@ -126,9 +126,9 @@ export default function MembershipPage() {
                 desc: 'Connect with other employers facing similar challenges, share knowledge, and learn from each other.',
               },
             ].map((item) => (
-              <div key={item.title} className="bg-white rounded-xl border border-gray-200 p-6">
-                <h3 className="font-semibold text-navy-900 mb-2">{item.title}</h3>
-                <p className="text-sm text-gray-600 leading-relaxed">{item.desc}</p>
+              <div key={item.title} className="bg-white rounded border border-ink-100 p-6">
+                <h3 className="font-semibold text-ink-900 mb-2">{item.title}</h3>
+                <p className="text-sm text-ink-500 leading-relaxed">{item.desc}</p>
               </div>
             ))}
           </div>

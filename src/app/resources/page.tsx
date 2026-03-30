@@ -1,82 +1,122 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import PageHero from '@/components/PageHero';
-import { getAllResources, getCategories } from '@/lib/content';
-import CTASection from '@/components/CTASection';
+import { getAllResources, getCategories, getFeaturedContent } from '@/lib/content';
 
 export const metadata: Metadata = {
-  title: 'Resource Center',
+  title: 'Articles & Resources',
   description:
-    'Practical guides, templates, and checklists for employers covering HR, compliance, hiring, operations, and more.',
+    'Practical guides, compliance updates, and employer resources covering HR, hiring, operations, workplace culture, and more.',
 };
+
+function formatDate(dateStr: string) {
+  return new Date(dateStr).toLocaleDateString('en-US', {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric',
+  });
+}
 
 export default function ResourcesPage() {
   const resources = getAllResources();
   const categories = getCategories(resources);
+  const featured = getFeaturedContent();
+  const heroArticle = featured[0] || resources[0];
 
   return (
     <>
-      <PageHero
-        title="Resource Center"
-        subtitle="Practical guides, templates, and checklists for employers - organized by topic and designed for everyday use."
-        breadcrumb="Resources"
-      />
+      {/* Header */}
+      <section className="border-b border-ink-100">
+        <div className="container-wide py-8">
+          <h1 className="font-serif text-3xl md:text-4.5xl font-bold text-ink-900">
+            Articles & Resources
+          </h1>
+          <p className="mt-2 text-ink-500">
+            {resources.length} articles across {categories.length} topics for employers
+          </p>
+        </div>
+      </section>
 
+      {/* Category filters */}
+      <section className="border-b border-ink-100 bg-ink-50">
+        <div className="container-wide py-3 overflow-x-auto">
+          <div className="flex gap-1 min-w-max">
+            <span className="inline-flex items-center px-3 py-1.5 text-xs font-semibold text-white bg-ink-900 rounded">
+              All
+            </span>
+            {categories.map((cat) => (
+              <a
+                key={cat}
+                href={`#${cat.toLowerCase().replace(/\s+/g, '-')}`}
+                className="inline-flex items-center px-3 py-1.5 text-xs font-medium text-ink-600 hover:text-ink-900 hover:bg-white rounded transition-colors"
+              >
+                {cat}
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Featured article */}
+      {heroArticle && (
+        <section className="border-b border-ink-100 section-padding">
+          <div className="container-wide">
+            <Link href={`/resources/${heroArticle.slug}`} className="article-card block max-w-3xl">
+              <p className="category-tag mb-2">{heroArticle.category}</p>
+              <h2 className="font-serif text-2xl md:text-4xl font-bold text-ink-900 group-hover:text-brand-red transition-colors leading-tight">
+                {heroArticle.title}
+              </h2>
+              <p className="mt-3 text-ink-500 text-lg leading-relaxed">
+                {heroArticle.description}
+              </p>
+              <div className="article-card-meta mt-4">
+                <span>{formatDate(heroArticle.date)}</span>
+                <span>&middot;</span>
+                <span>{heroArticle.readTime}</span>
+                <span>&middot;</span>
+                <span>{heroArticle.author}</span>
+              </div>
+            </Link>
+          </div>
+        </section>
+      )}
+
+      {/* Articles by category */}
       <section className="section-padding">
         <div className="container-wide">
-          {/* Category Navigation */}
-          <div className="flex flex-wrap gap-2 mb-12">
-            <span className="inline-flex items-center px-4 py-2 text-sm font-medium text-white bg-navy-800 rounded-full">
-              All Resources ({resources.length})
-            </span>
-            {categories.map((cat) => {
-              const count = resources.filter((r) => r.category === cat).length;
-              return (
-                <a
-                  key={cat}
-                  href={`#${cat.toLowerCase()}`}
-                  className="inline-flex items-center px-4 py-2 text-sm font-medium text-navy-700 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors"
-                >
-                  {cat} ({count})
-                </a>
-              );
-            })}
-          </div>
-
-          {/* Resources by Category */}
           {categories.map((cat) => {
             const catResources = resources.filter((r) => r.category === cat);
             return (
-              <div key={cat} id={cat.toLowerCase()} className="mb-16 last:mb-0">
-                <h2 className="text-xl font-bold text-navy-900 mb-6 pb-3 border-b border-gray-200">
-                  {cat}
-                  <span className="text-gray-400 font-normal text-base ml-3">
-                    {catResources.length} {catResources.length === 1 ? 'resource' : 'resources'}
-                  </span>
-                </h2>
-                <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div
+                key={cat}
+                id={cat.toLowerCase().replace(/\s+/g, '-')}
+                className="mb-14 last:mb-0"
+              >
+                <div className="flex items-center justify-between mb-6">
+                  <h2 className="section-label mb-0 pb-2 inline-block">
+                    {cat}
+                    <span className="text-ink-300 font-normal ml-2">
+                      {catResources.length}
+                    </span>
+                  </h2>
+                </div>
+                <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-6">
                   {catResources.map((resource) => (
                     <Link
                       key={resource.slug}
                       href={`/resources/${resource.slug}`}
-                      className="card group"
+                      className="article-card py-0"
                     >
-                      <div className="flex flex-wrap gap-1.5 mb-3">
-                        {resource.tags.slice(0, 3).map((tag) => (
-                          <span
-                            key={tag}
-                            className="text-xs text-navy-600 bg-navy-50 px-2 py-0.5 rounded"
-                          >
-                            {tag}
-                          </span>
-                        ))}
-                      </div>
-                      <h3 className="font-semibold text-navy-900 group-hover:text-accent-700 transition-colors mb-2 leading-snug">
+                      <h3 className="article-card-title text-base">
                         {resource.title}
                       </h3>
-                      <p className="text-sm text-gray-600 leading-relaxed line-clamp-2">
+                      <p className="article-card-excerpt mt-1.5">
                         {resource.description}
                       </p>
+                      <div className="article-card-meta mt-2">
+                        <span>{formatDate(resource.date)}</span>
+                        <span>&middot;</span>
+                        <span>{resource.readTime}</span>
+                      </div>
                     </Link>
                   ))}
                 </div>
@@ -86,14 +126,26 @@ export default function ResourcesPage() {
         </div>
       </section>
 
-      <CTASection
-        title="Need a resource you don't see?"
-        description="AEA is continuously expanding our resource library. Let us know what topics would be most useful for your organization."
-        primaryLabel="Contact Us"
-        primaryHref="/contact"
-        secondaryLabel="Join AEA"
-        secondaryHref="/membership"
-      />
+      {/* CTA */}
+      <section className="bg-ink-900">
+        <div className="container-wide py-14 text-center">
+          <h2 className="font-serif text-2xl font-bold text-white">
+            Get access to all resources and tools
+          </h2>
+          <p className="mt-3 text-ink-400 max-w-lg mx-auto">
+            AEA members receive full access to our growing library, plus compliance
+            alerts, employer tools, and cost-saving programs.
+          </p>
+          <div className="mt-6">
+            <Link
+              href="/membership"
+              className="inline-flex items-center justify-center px-8 py-3.5 text-sm font-semibold text-ink-900 bg-white rounded hover:bg-ink-100 transition-colors"
+            >
+              Become a Member
+            </Link>
+          </div>
+        </div>
+      </section>
     </>
   );
 }

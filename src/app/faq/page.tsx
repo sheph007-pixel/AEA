@@ -97,16 +97,16 @@ export default function FAQPage() {
           <div className="space-y-16">
             {faqs.map((section) => (
               <div key={section.category}>
-                <h2 className="text-xl font-bold text-navy-900 mb-8 pb-3 border-b border-gray-200">
+                <h2 className="text-xl font-bold text-ink-900 mb-8 pb-3 border-b border-ink-100">
                   {section.category}
                 </h2>
                 <div className="space-y-8">
                   {section.items.map((faq) => (
                     <div key={faq.q}>
-                      <h3 className="text-base font-semibold text-navy-900 mb-2">
+                      <h3 className="text-base font-semibold text-ink-900 mb-2">
                         {faq.q}
                       </h3>
-                      <p className="text-gray-600 leading-relaxed">{faq.a}</p>
+                      <p className="text-ink-500 leading-relaxed">{faq.a}</p>
                     </div>
                   ))}
                 </div>
@@ -114,11 +114,11 @@ export default function FAQPage() {
             ))}
           </div>
 
-          <div className="mt-16 bg-gray-50 rounded-xl border border-gray-200 p-8 text-center">
-            <h2 className="text-lg font-bold text-navy-900 mb-2">
+          <div className="mt-16 bg-ink-50 rounded border border-ink-100 p-8 text-center">
+            <h2 className="text-lg font-bold text-ink-900 mb-2">
               Still have questions?
             </h2>
-            <p className="text-gray-600 mb-6">
+            <p className="text-ink-500 mb-6">
               We&apos;re happy to help. Reach out and we&apos;ll respond within one business day.
             </p>
             <Link href="/contact" className="btn-primary">

@@ -82,10 +82,10 @@ export default function EmployerToolsPage() {
                 <div className="mt-8 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
                   {category.tools.map((tool) => (
                     <div key={tool.name} className="card">
-                      <h3 className="font-semibold text-navy-900 mb-2 text-sm">
+                      <h3 className="font-semibold text-ink-900 mb-2 text-sm">
                         {tool.name}
                       </h3>
-                      <p className="text-xs text-gray-600 leading-relaxed">
+                      <p className="text-xs text-ink-500 leading-relaxed">
                         {tool.desc}
                       </p>
                     </div>
@@ -97,12 +97,12 @@ export default function EmployerToolsPage() {
         </div>
       </section>
 
-      <section className="bg-gray-50 section-padding">
+      <section className="bg-ink-50 section-padding">
         <div className="container-narrow text-center">
-          <h2 className="text-2xl font-bold text-navy-900 mb-4">
+          <h2 className="text-2xl font-bold text-ink-900 mb-4">
             Tools built for real employer needs
           </h2>
-          <p className="text-gray-600 leading-relaxed mb-6">
+          <p className="text-ink-500 leading-relaxed mb-6">
             Every tool in the AEA library is designed based on the actual questions,
             challenges, and processes that employers deal with every day. No filler,
             no theory - just practical resources you can use immediately.

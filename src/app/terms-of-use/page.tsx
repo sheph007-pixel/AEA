@@ -92,13 +92,13 @@ export default function TermsOfUsePage() {
 
           <h2>Contact</h2>
           <p>
-            Questions about these Terms of Use may be directed to:
+            Questions about these Terms of Use may be directed to us through
+            our <a href="/contact">contact page</a>.
           </p>
           <p>
             American Employers Alliance<br />
             159 Bank Street, Fourth Floor<br />
-            Burlington, VT 05401<br />
-            info@americanemployersalliance.org
+            Burlington, VT 05401
           </p>
         </div>
       </section>

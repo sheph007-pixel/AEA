@@ -6,16 +6,16 @@ interface PageHeroProps {
 
 export default function PageHero({ title, subtitle, breadcrumb }: PageHeroProps) {
   return (
-    <section className="bg-navy-900 text-white">
-      <div className="container-wide py-16 md:py-20">
+    <section className="border-b border-ink-100">
+      <div className="container-wide py-12 md:py-16">
         {breadcrumb && (
-          <p className="text-navy-300 text-sm mb-3 tracking-wide uppercase">
-            {breadcrumb}
-          </p>
+          <p className="category-tag mb-3">{breadcrumb}</p>
         )}
-        <h1 className="text-3xl md:text-4.5xl font-bold max-w-3xl">{title}</h1>
+        <h1 className="font-serif text-3xl md:text-5xl font-bold text-ink-900 max-w-3xl leading-tight">
+          {title}
+        </h1>
         {subtitle && (
-          <p className="mt-4 text-lg text-navy-200 max-w-2xl leading-relaxed">
+          <p className="mt-4 text-lg text-ink-500 max-w-2xl leading-relaxed">
             {subtitle}
           </p>
         )}

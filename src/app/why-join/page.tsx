@@ -98,25 +98,25 @@ export default function WhyJoinPage() {
                 }`}
               >
                 <div>
-                  <span className="inline-block text-xs font-semibold text-accent-600 bg-accent-50 px-3 py-1 rounded-full mb-4">
+                  <span className="inline-block text-xs font-semibold text-brand-red bg-ink-50 px-3 py-1 rounded mb-4">
                     {String(i + 1).padStart(2, '0')}
                   </span>
-                  <h2 className="text-2xl font-bold text-navy-900 mb-3">
+                  <h2 className="text-2xl font-bold text-ink-900 mb-3">
                     {reason.title}
                   </h2>
-                  <p className="text-gray-600 leading-relaxed">
+                  <p className="text-ink-500 leading-relaxed">
                     {reason.description}
                   </p>
                 </div>
-                <div className="bg-gray-50 rounded-xl p-6 border border-gray-200">
-                  <h3 className="text-sm font-semibold text-navy-700 mb-4 uppercase tracking-wide">
+                <div className="bg-ink-50 rounded p-6 border border-ink-100">
+                  <h3 className="text-sm font-semibold text-ink-700 mb-4 uppercase tracking-wide">
                     Includes
                   </h3>
                   <ul className="space-y-3">
                     {reason.details.map((detail) => (
                       <li key={detail} className="flex items-start gap-3 text-sm">
                         <svg
-                          className="w-4 h-4 text-accent-500 mt-0.5 shrink-0"
+                          className="w-4 h-4 text-brand-red mt-0.5 shrink-0"
                           fill="none"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
@@ -128,7 +128,7 @@ export default function WhyJoinPage() {
                             d="M5 13l4 4L19 7"
                           />
                         </svg>
-                        <span className="text-gray-700">{detail}</span>
+                        <span className="text-ink-700">{detail}</span>
                       </li>
                     ))}
                   </ul>
@@ -140,12 +140,12 @@ export default function WhyJoinPage() {
       </section>
 
       {/* Quick summary */}
-      <section className="bg-gray-50 section-padding">
+      <section className="bg-ink-50 section-padding">
         <div className="container-narrow text-center">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy-900 mb-6">
+          <h2 className="text-2xl md:text-3xl font-bold text-ink-900 mb-6">
             Membership pays for itself
           </h2>
-          <p className="text-gray-600 leading-relaxed max-w-2xl mx-auto mb-8">
+          <p className="text-ink-500 leading-relaxed max-w-2xl mx-auto mb-8">
             Between compliance resources that help you avoid costly mistakes,
             operational tools that save you time, and cost-saving programs that
             reduce your expenses, most members find that AEA membership pays for

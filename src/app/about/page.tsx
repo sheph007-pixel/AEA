@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import Link from 'next/link';
 import PageHero from '@/components/PageHero';
 import CTASection from '@/components/CTASection';
 
@@ -87,11 +88,6 @@ export default function AboutPage() {
               resources, tools, and programs themselves. Benefits and insurance
               programs are available to members who want them, but they are not the
               primary reason most employers join.
-            </p>
-            <p>
-              We focus on the daily realities of running a business with employees:
-              hiring, compliance, operations, and cost management. Everything we do
-              is designed to make those responsibilities easier and less risky.
             </p>
 
             <h2>National Reach</h2>

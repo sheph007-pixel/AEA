@@ -39,9 +39,9 @@ export default function ContactForm() {
 
   if (status === 'sent') {
     return (
-      <div className="bg-accent-50 border border-accent-200 rounded-xl p-8 text-center">
-        <h3 className="text-lg font-semibold text-navy-900 mb-2">Message sent</h3>
-        <p className="text-gray-600">We will respond within one business day.</p>
+      <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
+        <h3 className="text-lg font-semibold text-ink-900 mb-2">Message sent</h3>
+        <p className="text-ink-500">We will respond within one business day.</p>
       </div>
     );
   }
@@ -50,7 +50,7 @@ export default function ContactForm() {
     <form onSubmit={handleSubmit} className="space-y-5">
       <div className="grid sm:grid-cols-2 gap-5">
         <div>
-          <label htmlFor="firstName" className="block text-sm font-medium text-gray-700 mb-1.5">
+          <label htmlFor="firstName" className="block text-sm font-medium text-ink-700 mb-1.5">
             First name
           </label>
           <input
@@ -58,11 +58,11 @@ export default function ContactForm() {
             id="firstName"
             name="firstName"
             required
-            className="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-navy-500 focus:border-navy-500 outline-none transition-colors"
+            className="w-full px-4 py-2.5 border border-ink-200 rounded-lg text-sm focus:ring-1 focus:ring-ink-500 focus:border-ink-500 outline-none transition-colors"
           />
         </div>
         <div>
-          <label htmlFor="lastName" className="block text-sm font-medium text-gray-700 mb-1.5">
+          <label htmlFor="lastName" className="block text-sm font-medium text-ink-700 mb-1.5">
             Last name
           </label>
           <input
@@ -70,12 +70,12 @@ export default function ContactForm() {
             id="lastName"
             name="lastName"
             required
-            className="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-navy-500 focus:border-navy-500 outline-none transition-colors"
+            className="w-full px-4 py-2.5 border border-ink-200 rounded-lg text-sm focus:ring-1 focus:ring-ink-500 focus:border-ink-500 outline-none transition-colors"
           />
         </div>
       </div>
       <div>
-        <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-1.5">
+        <label htmlFor="email" className="block text-sm font-medium text-ink-700 mb-1.5">
           Email
         </label>
         <input
@@ -83,28 +83,28 @@ export default function ContactForm() {
           id="email"
           name="email"
           required
-          className="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-navy-500 focus:border-navy-500 outline-none transition-colors"
+          className="w-full px-4 py-2.5 border border-ink-200 rounded-lg text-sm focus:ring-1 focus:ring-ink-500 focus:border-ink-500 outline-none transition-colors"
         />
       </div>
       <div>
-        <label htmlFor="company" className="block text-sm font-medium text-gray-700 mb-1.5">
+        <label htmlFor="company" className="block text-sm font-medium text-ink-700 mb-1.5">
           Organization name
         </label>
         <input
           type="text"
           id="company"
           name="company"
-          className="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-navy-500 focus:border-navy-500 outline-none transition-colors"
+          className="w-full px-4 py-2.5 border border-ink-200 rounded-lg text-sm focus:ring-1 focus:ring-ink-500 focus:border-ink-500 outline-none transition-colors"
         />
       </div>
       <div>
-        <label htmlFor="employees" className="block text-sm font-medium text-gray-700 mb-1.5">
+        <label htmlFor="employees" className="block text-sm font-medium text-ink-700 mb-1.5">
           Number of employees
         </label>
         <select
           id="employees"
           name="employees"
-          className="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-navy-500 focus:border-navy-500 outline-none transition-colors bg-white"
+          className="w-full px-4 py-2.5 border border-ink-200 rounded-lg text-sm focus:ring-1 focus:ring-ink-500 focus:border-ink-500 outline-none transition-colors bg-white"
         >
           <option value="">Select range</option>
           <option value="2-10">2-10</option>
@@ -116,13 +116,13 @@ export default function ContactForm() {
         </select>
       </div>
       <div>
-        <label htmlFor="interest" className="block text-sm font-medium text-gray-700 mb-1.5">
+        <label htmlFor="interest" className="block text-sm font-medium text-ink-700 mb-1.5">
           I&apos;m interested in
         </label>
         <select
           id="interest"
           name="interest"
-          className="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-navy-500 focus:border-navy-500 outline-none transition-colors bg-white"
+          className="w-full px-4 py-2.5 border border-ink-200 rounded-lg text-sm focus:ring-1 focus:ring-ink-500 focus:border-ink-500 outline-none transition-colors bg-white"
         >
           <option value="">Select topic</option>
           <option value="membership">Membership information</option>
@@ -134,14 +134,14 @@ export default function ContactForm() {
         </select>
       </div>
       <div>
-        <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-1.5">
+        <label htmlFor="message" className="block text-sm font-medium text-ink-700 mb-1.5">
           Message
         </label>
         <textarea
           id="message"
           name="message"
           rows={4}
-          className="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-navy-500 focus:border-navy-500 outline-none transition-colors resize-none"
+          className="w-full px-4 py-2.5 border border-ink-200 rounded-lg text-sm focus:ring-1 focus:ring-ink-500 focus:border-ink-500 outline-none transition-colors resize-none"
         />
       </div>
       <button

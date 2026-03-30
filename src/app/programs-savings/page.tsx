@@ -99,17 +99,17 @@ export default function ProgramsSavingsPage() {
           <div className="mt-14 grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {programs.map((program) => (
               <div key={program.title} className="card">
-                <h3 className="text-lg font-semibold text-navy-900 mb-2">
+                <h3 className="text-lg font-semibold text-ink-900 mb-2">
                   {program.title}
                 </h3>
-                <p className="text-sm text-gray-600 leading-relaxed mb-4">
+                <p className="text-sm text-ink-500 leading-relaxed mb-4">
                   {program.description}
                 </p>
                 <ul className="space-y-2">
                   {program.features.map((feature) => (
-                    <li key={feature} className="flex items-start gap-2 text-sm text-gray-700">
+                    <li key={feature} className="flex items-start gap-2 text-sm text-ink-700">
                       <svg
-                        className="w-4 h-4 text-accent-500 mt-0.5 shrink-0"
+                        className="w-4 h-4 text-brand-red mt-0.5 shrink-0"
                         fill="none"
                         viewBox="0 0 24 24"
                         stroke="currentColor"
@@ -126,12 +126,12 @@ export default function ProgramsSavingsPage() {
         </div>
       </section>
 
-      <section className="bg-gray-50 section-padding">
+      <section className="bg-ink-50 section-padding">
         <div className="container-narrow text-center">
-          <h2 className="text-2xl font-bold text-navy-900 mb-4">
+          <h2 className="text-2xl font-bold text-ink-900 mb-4">
             Savings that offset membership costs
           </h2>
-          <p className="text-gray-600 leading-relaxed max-w-xl mx-auto mb-8">
+          <p className="text-ink-500 leading-relaxed max-w-xl mx-auto mb-8">
             Most members find that the savings from even one or two programs more
             than cover the cost of their annual membership. And programs are just
             one part of the value AEA delivers.

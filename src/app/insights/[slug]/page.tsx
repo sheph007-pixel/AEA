@@ -1,8 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { getAllInsights, getInsightBySlug } from '@/lib/content';
-import PageHero from '@/components/PageHero';
-import CTASection from '@/components/CTASection';
+import { getAllInsights, getInsightBySlug, getRecentContent } from '@/lib/content';
 import { notFound } from 'next/navigation';
 
 interface Props {
@@ -23,95 +21,75 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+function formatDate(dateStr: string) {
+  return new Date(dateStr).toLocaleDateString('en-US', {
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric',
+  });
+}
+
 export default async function InsightPage({ params }: Props) {
   const insight = await getInsightBySlug(params.slug);
   if (!insight) notFound();
 
-  const allInsights = getAllInsights();
-  const related = allInsights
-    .filter((i) => i.slug !== insight.slug)
-    .slice(0, 4);
+  const recentArticles = getRecentContent(5).filter((r) => r.slug !== insight.slug);
 
   return (
     <>
-      <PageHero
-        title={insight.title}
-        subtitle={insight.description}
-        breadcrumb={`Insights / ${insight.category}`}
-      />
-
-      <section className="section-padding">
-        <div className="container-wide">
-          <div className="grid lg:grid-cols-3 gap-12">
-            <div className="lg:col-span-2">
-              <div className="flex items-center gap-4 mb-8 text-sm text-gray-500">
-                <time>
-                  {new Date(insight.date).toLocaleDateString('en-US', {
-                    month: 'long',
-                    day: 'numeric',
-                    year: 'numeric',
-                  })}
-                </time>
-                <span>&middot;</span>
-                <span>{insight.category}</span>
-              </div>
-              <div
-                className="prose-content"
-                dangerouslySetInnerHTML={{ __html: insight.contentHtml || '' }}
-              />
+      <article>
+        <header className="border-b border-ink-100">
+          <div className="container-article py-10 md:py-14">
+            <Link
+              href="/insights"
+              className="category-tag hover:text-brand-red-dark transition-colors"
+            >
+              {insight.category}
+            </Link>
+            <h1 className="font-serif text-3xl md:text-5xl font-bold text-ink-900 mt-3 leading-tight">
+              {insight.title}
+            </h1>
+            <p className="mt-4 text-lg text-ink-500 leading-relaxed">
+              {insight.description}
+            </p>
+            <div className="flex flex-wrap items-center gap-3 mt-6 text-sm text-ink-400">
+              <span className="font-medium text-ink-700">{insight.author}</span>
+              <span>&middot;</span>
+              <time>{formatDate(insight.date)}</time>
+              <span>&middot;</span>
+              <span>{insight.readTime}</span>
             </div>
+          </div>
+        </header>
 
-            <aside className="lg:col-span-1">
-              <div className="sticky top-28 space-y-8">
-                <div className="bg-gray-50 rounded-xl p-6 border border-gray-200">
-                  <h3 className="text-sm font-semibold text-navy-700 uppercase tracking-wide mb-4">
-                    More insights
-                  </h3>
-                  <ul className="space-y-4">
-                    {related.map((r) => (
-                      <li key={r.slug}>
-                        <Link
-                          href={`/insights/${r.slug}`}
-                          className="block group"
-                        >
-                          <p className="text-xs text-gray-400 mb-1">
-                            {new Date(r.date).toLocaleDateString('en-US', {
-                              month: 'short',
-                              day: 'numeric',
-                              year: 'numeric',
-                            })}
-                          </p>
-                          <p className="text-sm font-medium text-navy-900 group-hover:text-accent-600 transition-colors leading-snug">
-                            {r.title}
-                          </p>
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
+        <div className="container-article py-10 md:py-14">
+          <div
+            className="prose-content"
+            dangerouslySetInnerHTML={{ __html: insight.contentHtml || '' }}
+          />
+        </div>
+      </article>
 
-                <div className="bg-navy-800 rounded-xl p-6 text-white">
-                  <h3 className="font-semibold mb-2">
-                    Get updates delivered
-                  </h3>
-                  <p className="text-sm text-navy-200 mb-4">
-                    AEA members receive compliance alerts and employer
-                    insights as they&apos;re published.
-                  </p>
-                  <Link
-                    href="/membership"
-                    className="inline-flex items-center text-sm font-semibold text-white hover:text-accent-300 transition-colors"
-                  >
-                    Join AEA &rarr;
-                  </Link>
-                </div>
-              </div>
-            </aside>
+      <section className="bg-ink-50 section-padding">
+        <div className="container-wide">
+          <h2 className="section-label">Recent Articles</h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {recentArticles.slice(0, 4).map((article) => (
+              <Link
+                key={article.slug}
+                href={`/resources/${article.slug}`}
+                className="article-card"
+              >
+                <p className="category-tag text-[10px] mb-1">{article.category}</p>
+                <h3 className="text-sm font-semibold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
+                  {article.title}
+                </h3>
+                <p className="text-xs text-ink-400 mt-2">{formatDate(article.date)}</p>
+              </Link>
+            ))}
           </div>
         </div>
       </section>
-
-      <CTASection />
     </>
   );
 }

@@ -79,12 +79,12 @@ export default function HRCompliancePage() {
           />
           <div className="mt-12 grid sm:grid-cols-2 gap-8">
             {topics.map((topic) => (
-              <div key={topic.title} className="bg-gray-50 rounded-xl p-6 border border-gray-200">
-                <h3 className="font-semibold text-navy-900 mb-4">{topic.title}</h3>
+              <div key={topic.title} className="bg-ink-50 rounded p-6 border border-ink-100">
+                <h3 className="font-semibold text-ink-900 mb-4">{topic.title}</h3>
                 <ul className="space-y-2">
                   {topic.items.map((item) => (
-                    <li key={item} className="flex items-start gap-2 text-sm text-gray-700">
-                      <span className="w-1.5 h-1.5 bg-accent-500 rounded-full mt-1.5 shrink-0" />
+                    <li key={item} className="flex items-start gap-2 text-sm text-ink-700">
+                      <span className="w-1.5 h-1.5 bg-ink-500 rounded mt-1.5 shrink-0" />
                       {item}
                     </li>
                   ))}
@@ -95,7 +95,7 @@ export default function HRCompliancePage() {
         </div>
       </section>
 
-      <section className="bg-gray-50 section-padding">
+      <section className="bg-ink-50 section-padding">
         <div className="container-wide">
           <SectionHeading
             title="Related resources"
@@ -108,20 +108,20 @@ export default function HRCompliancePage() {
                 href={`/resources/${resource.slug}`}
                 className="card group"
               >
-                <span className="inline-block text-xs font-medium text-navy-600 bg-navy-50 px-2.5 py-1 rounded-full mb-3">
+                <span className="inline-block text-xs font-medium text-ink-600 bg-ink-50 px-2.5 py-1 rounded mb-3">
                   {resource.category}
                 </span>
-                <h3 className="font-semibold text-navy-900 group-hover:text-accent-700 transition-colors text-sm leading-snug mb-2">
+                <h3 className="font-semibold text-ink-900 group-hover:text-brand-red-dark transition-colors text-sm leading-snug mb-2">
                   {resource.title}
                 </h3>
-                <p className="text-xs text-gray-500 line-clamp-2">
+                <p className="text-xs text-ink-400 line-clamp-2">
                   {resource.description}
                 </p>
               </Link>
             ))}
           </div>
           <div className="mt-8 text-center">
-            <Link href="/resources" className="text-sm font-semibold text-accent-600 hover:text-accent-700">
+            <Link href="/resources" className="text-sm font-semibold text-brand-red hover:text-brand-red-dark">
               Browse all resources &rarr;
             </Link>
           </div>

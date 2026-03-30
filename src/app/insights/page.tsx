@@ -1,61 +1,61 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import PageHero from '@/components/PageHero';
 import { getAllInsights } from '@/lib/content';
 import CTASection from '@/components/CTASection';
 
 export const metadata: Metadata = {
-  title: 'Insights & Updates',
+  title: 'Latest Updates',
   description:
     'The latest compliance updates, employer guidance, and practical insights from AEA.',
 };
+
+function formatDate(dateStr: string) {
+  return new Date(dateStr).toLocaleDateString('en-US', {
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric',
+  });
+}
 
 export default function InsightsPage() {
   const insights = getAllInsights();
 
   return (
     <>
-      <PageHero
-        title="Insights & Updates"
-        subtitle="Timely guidance and analysis on the topics that matter most to employers."
-        breadcrumb="Insights"
-      />
+      <section className="border-b border-ink-100">
+        <div className="container-wide py-8">
+          <h1 className="font-serif text-3xl md:text-4.5xl font-bold text-ink-900">
+            Latest Updates
+          </h1>
+          <p className="mt-2 text-ink-500">
+            Timely guidance and analysis on the topics that matter most to employers.
+          </p>
+        </div>
+      </section>
 
       <section className="section-padding">
         <div className="container-wide">
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="divide-y divide-ink-100">
             {insights.map((insight) => (
               <Link
                 key={insight.slug}
                 href={`/insights/${insight.slug}`}
-                className="card group"
+                className="article-card flex gap-4 py-6 first:pt-0"
               >
-                <p className="text-xs font-medium text-accent-600 uppercase tracking-wide mb-2">
-                  {insight.category}
-                </p>
-                <h3 className="text-lg font-semibold text-navy-900 group-hover:text-accent-700 transition-colors mb-2 leading-snug">
-                  {insight.title}
-                </h3>
-                <p className="text-sm text-gray-600 leading-relaxed line-clamp-3 mb-4">
-                  {insight.description}
-                </p>
-                <div className="flex items-center justify-between">
-                  <p className="text-xs text-gray-400">
-                    {new Date(insight.date).toLocaleDateString('en-US', {
-                      month: 'long',
-                      day: 'numeric',
-                      year: 'numeric',
-                    })}
+                <div className="flex-1 min-w-0">
+                  <p className="category-tag text-[10px] mb-1.5">
+                    {insight.category}
                   </p>
-                  <div className="flex gap-1.5">
-                    {insight.tags.slice(0, 2).map((tag) => (
-                      <span
-                        key={tag}
-                        className="text-xs text-gray-500 bg-gray-100 px-2 py-0.5 rounded"
-                      >
-                        {tag}
-                      </span>
-                    ))}
+                  <h3 className="article-card-title text-lg">{insight.title}</h3>
+                  <p className="article-card-excerpt mt-2">
+                    {insight.description}
+                  </p>
+                  <div className="article-card-meta mt-3">
+                    <span>{formatDate(insight.date)}</span>
+                    <span>&middot;</span>
+                    <span>{insight.readTime}</span>
+                    <span>&middot;</span>
+                    <span>{insight.author}</span>
                   </div>
                 </div>
               </Link>
@@ -66,7 +66,7 @@ export default function InsightsPage() {
 
       <CTASection
         title="Stay informed"
-        description="AEA members receive compliance alerts and updates as they happen - not days or weeks later."
+        description="AEA members receive compliance alerts and updates as regulations change."
       />
     </>
   );

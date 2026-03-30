@@ -22,14 +22,14 @@ export default function BenefitsProgramsPage() {
       <section className="section-padding">
         <div className="container-wide">
           <div className="max-w-3xl mb-16">
-            <p className="text-gray-600 leading-relaxed mb-4">
+            <p className="text-ink-500 leading-relaxed mb-4">
               AEA members can access employee benefits and risk management programs
               that leverage our network of partners and the collective scale of our
               membership. These programs give smaller employers access to options and
               pricing that are typically only available to larger organizations.
             </p>
-            <p className="text-gray-600 leading-relaxed">
-              <strong className="text-navy-900">These programs are entirely optional.</strong>{' '}
+            <p className="text-ink-500 leading-relaxed">
+              <strong className="text-ink-900">These programs are entirely optional.</strong>{' '}
               AEA membership provides substantial value through compliance resources,
               employer tools, and cost-saving programs even for members who never
               participate in benefits programs.
@@ -62,9 +62,9 @@ export default function BenefitsProgramsPage() {
                     desc: 'Guidance on plan selection, enrollment processes, compliance requirements, and ongoing administration.',
                   },
                 ].map((item) => (
-                  <div key={item.title} className="bg-gray-50 rounded-xl border border-gray-200 p-6">
-                    <h3 className="font-semibold text-navy-900 mb-2">{item.title}</h3>
-                    <p className="text-sm text-gray-600 leading-relaxed">{item.desc}</p>
+                  <div key={item.title} className="bg-ink-50 rounded border border-ink-100 p-6">
+                    <h3 className="font-semibold text-ink-900 mb-2">{item.title}</h3>
+                    <p className="text-sm text-ink-500 leading-relaxed">{item.desc}</p>
                   </div>
                 ))}
               </div>
@@ -95,9 +95,9 @@ export default function BenefitsProgramsPage() {
                     desc: 'Clear reporting and visibility into how programs perform, so employers can make informed decisions about their risk management strategy.',
                   },
                 ].map((item) => (
-                  <div key={item.title} className="bg-gray-50 rounded-xl border border-gray-200 p-6">
-                    <h3 className="font-semibold text-navy-900 mb-2">{item.title}</h3>
-                    <p className="text-sm text-gray-600 leading-relaxed">{item.desc}</p>
+                  <div key={item.title} className="bg-ink-50 rounded border border-ink-100 p-6">
+                    <h3 className="font-semibold text-ink-900 mb-2">{item.title}</h3>
+                    <p className="text-sm text-ink-500 leading-relaxed">{item.desc}</p>
                   </div>
                 ))}
               </div>
@@ -118,8 +118,8 @@ export default function BenefitsProgramsPage() {
                   'Voluntary benefits',
                   'Wellness resources',
                 ].map((item) => (
-                  <div key={item} className="bg-gray-50 rounded-xl border border-gray-200 p-4 text-center">
-                    <p className="text-sm font-medium text-navy-900">{item}</p>
+                  <div key={item} className="bg-ink-50 rounded border border-ink-100 p-4 text-center">
+                    <p className="text-sm font-medium text-ink-900">{item}</p>
                   </div>
                 ))}
               </div>
@@ -128,12 +128,12 @@ export default function BenefitsProgramsPage() {
         </div>
       </section>
 
-      <section className="bg-gray-50 section-padding">
+      <section className="bg-ink-50 section-padding">
         <div className="container-narrow text-center">
-          <h2 className="text-2xl font-bold text-navy-900 mb-4">
+          <h2 className="text-2xl font-bold text-ink-900 mb-4">
             Interested in learning more?
           </h2>
-          <p className="text-gray-600 leading-relaxed max-w-xl mx-auto mb-8">
+          <p className="text-ink-500 leading-relaxed max-w-xl mx-auto mb-8">
             Benefits and risk programs are tailored to each organization. Contact us
             to discuss which programs might be a fit for your business.
           </p>
