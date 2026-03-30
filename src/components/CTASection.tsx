@@ -11,7 +11,7 @@ interface CTASectionProps {
 
 export default function CTASection({
   title = 'Ready to strengthen your organization?',
-  description = 'Join thousands of employers who rely on AEA for practical tools, compliance support, and cost-saving programs.',
+  description = 'AEA members get access to practical tools, compliance support, and cost-saving programs designed for employers.',
   primaryLabel = 'Become a Member',
   primaryHref = '/membership',
   secondaryLabel = 'Contact Us',

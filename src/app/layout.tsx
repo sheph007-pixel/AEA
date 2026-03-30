@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     template: '%s | American Employers Alliance',
   },
   description:
-    'AEA is a national nonprofit employer association helping businesses with 2-500 employees operate efficiently, stay compliant, reduce costs, and access practical tools and support.',
+    'AEA is a national employer association helping businesses with 2-500 employees operate efficiently, stay compliant, reduce costs, and access practical tools and support.',
   keywords: [
     'employer association',
     'HR compliance',

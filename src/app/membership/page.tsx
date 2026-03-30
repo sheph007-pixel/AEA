@@ -2,55 +2,13 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import PageHero from '@/components/PageHero';
 import SectionHeading from '@/components/SectionHeading';
-import CTASection from '@/components/CTASection';
+import MembershipForm from '@/components/MembershipForm';
 
 export const metadata: Metadata = {
   title: 'Membership',
   description:
     'AEA membership gives employers access to compliance guidance, HR resources, employer tools, and cost-saving programs.',
 };
-
-const tiers = [
-  {
-    name: 'Essential',
-    audience: '2-25 employees',
-    features: [
-      'Full Resource Center access',
-      'Compliance alerts and updates',
-      'HR policy templates',
-      'Employer toolkits',
-      'Member newsletter',
-      'Community forum access',
-    ],
-  },
-  {
-    name: 'Professional',
-    audience: '26-100 employees',
-    featured: true,
-    features: [
-      'Everything in Essential, plus:',
-      'Advanced compliance guides',
-      'Multi-state compliance tools',
-      'Priority support access',
-      'Webinar library access',
-      'Group purchasing programs',
-      'Benefits program eligibility',
-    ],
-  },
-  {
-    name: 'Enterprise',
-    audience: '101-500 employees',
-    features: [
-      'Everything in Professional, plus:',
-      'Dedicated account support',
-      'Custom compliance reviews',
-      'Executive resource library',
-      'Early access to new programs',
-      'Multi-location support',
-      'Advisory council eligibility',
-    ],
-  },
-];
 
 export default function MembershipPage() {
   return (
@@ -63,69 +21,78 @@ export default function MembershipPage() {
 
       <section className="section-padding">
         <div className="container-wide">
-          <SectionHeading
-            title="Membership tiers designed for your organization"
-            description="Every membership includes full access to the AEA Resource Center, compliance updates, and employer tools. Choose the tier that fits your organization's size and needs."
-            centered
-          />
+          <div className="grid lg:grid-cols-2 gap-12 lg:gap-20">
+            {/* Form */}
+            <div>
+              <h2 className="text-xl font-bold text-navy-900 mb-2">
+                Become a member
+              </h2>
+              <p className="text-gray-600 mb-6">
+                Complete the form below and we will be in touch to discuss how AEA
+                can support your organization.
+              </p>
+              <MembershipForm />
+            </div>
 
-          <div className="mt-14 grid md:grid-cols-3 gap-8">
-            {tiers.map((tier) => (
-              <div
-                key={tier.name}
-                className={`rounded-xl border p-8 ${
-                  tier.featured
-                    ? 'border-navy-800 ring-2 ring-navy-800 bg-white'
-                    : 'border-gray-200 bg-white'
-                }`}
-              >
-                {tier.featured && (
-                  <span className="inline-block text-xs font-semibold text-white bg-navy-800 px-3 py-1 rounded-full mb-4">
-                    Most Popular
-                  </span>
-                )}
-                <h3 className="text-xl font-bold text-navy-900">{tier.name}</h3>
-                <p className="text-sm text-gray-500 mt-1">{tier.audience}</p>
-                <ul className="mt-6 space-y-3">
-                  {tier.features.map((feature) => (
-                    <li key={feature} className="flex items-start gap-3 text-sm">
-                      <svg
-                        className="w-4 h-4 text-accent-500 mt-0.5 shrink-0"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                      >
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          strokeWidth={2}
-                          d="M5 13l4 4L19 7"
-                        />
-                      </svg>
-                      <span className="text-gray-700">{feature}</span>
-                    </li>
-                  ))}
-                </ul>
+            {/* Info sidebar */}
+            <div>
+              <h2 className="text-xl font-bold text-navy-900 mb-6">
+                Why employers join AEA
+              </h2>
+              <div className="space-y-6">
+                {[
+                  {
+                    title: 'Compliance support',
+                    desc: 'Stay current with employment law changes at the federal, state, and local level with plain-language guidance and alerts.',
+                  },
+                  {
+                    title: 'HR resources and tools',
+                    desc: 'Templates, checklists, and practical guides for hiring, performance management, terminations, and more.',
+                  },
+                  {
+                    title: 'Cost savings programs',
+                    desc: 'Group purchasing power for insurance, supplies, technology, and professional services.',
+                  },
+                  {
+                    title: 'Employee benefits options',
+                    desc: 'Access to competitive benefits programs and preferred partner rates that are typically only available to larger organizations.',
+                  },
+                  {
+                    title: 'Employer community',
+                    desc: 'Connect with other employers facing similar challenges. Share knowledge and learn from peers across the country.',
+                  },
+                ].map((item) => (
+                  <div key={item.title} className="flex gap-4">
+                    <svg className="w-5 h-5 text-accent-500 mt-0.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <div>
+                      <h3 className="font-semibold text-navy-900 text-sm">{item.title}</h3>
+                      <p className="text-sm text-gray-600 mt-1">{item.desc}</p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              <div className="mt-8 bg-navy-800 rounded-xl p-6 text-white">
+                <h3 className="font-semibold mb-2">Not sure if AEA is right for you?</h3>
+                <p className="text-sm text-navy-200 leading-relaxed mb-3">
+                  We are happy to answer any questions about membership and how AEA
+                  supports employers of all sizes.
+                </p>
                 <Link
                   href="/contact"
-                  className={`mt-8 w-full text-center ${
-                    tier.featured ? 'btn-primary' : 'btn-secondary'
-                  }`}
+                  className="inline-flex items-center text-sm font-semibold text-white hover:text-accent-300 transition-colors"
                 >
-                  Get Started
+                  Contact us &rarr;
                 </Link>
               </div>
-            ))}
+            </div>
           </div>
-
-          <p className="mt-10 text-center text-sm text-gray-500">
-            Contact us for details on membership fees and enrollment.
-            All memberships are annual and include a satisfaction guarantee.
-          </p>
         </div>
       </section>
 
-      {/* What Members Get */}
+      {/* What membership includes */}
       <section className="bg-gray-50 section-padding">
         <div className="container-wide">
           <SectionHeading
@@ -147,11 +114,11 @@ export default function MembershipPage() {
                 desc: 'Practical calculators, audit checklists, and planning worksheets for everyday employer tasks.',
               },
               {
-                title: 'Programs & Savings',
+                title: 'Programs and Savings',
                 desc: 'Access to group purchasing programs for insurance, supplies, technology, and professional services.',
               },
               {
-                title: 'Insights & Updates',
+                title: 'Insights and Updates',
                 desc: 'Regular articles and analysis on topics that matter to employers, written in plain language.',
               },
               {
@@ -167,15 +134,6 @@ export default function MembershipPage() {
           </div>
         </div>
       </section>
-
-      <CTASection
-        title="Ready to join?"
-        description="Reach out to learn more about membership and how AEA can support your organization."
-        primaryLabel="Contact Us"
-        primaryHref="/contact"
-        secondaryLabel="Why Join"
-        secondaryHref="/why-join"
-      />
     </>
   );
 }

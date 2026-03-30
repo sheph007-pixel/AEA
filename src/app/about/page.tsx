@@ -5,7 +5,7 @@ import CTASection from '@/components/CTASection';
 export const metadata: Metadata = {
   title: 'About AEA',
   description:
-    'Learn about the American Employers Alliance, a national nonprofit employer association founded in 2013 to help businesses operate efficiently and stay compliant.',
+    'Learn about the American Employers Alliance, a national employer association founded in 2013 to help businesses operate efficiently and stay compliant.',
 };
 
 export default function AboutPage() {
@@ -13,7 +13,7 @@ export default function AboutPage() {
     <>
       <PageHero
         title="About American Employers Alliance"
-        subtitle="A national nonprofit employer association dedicated to helping businesses operate with confidence."
+        subtitle="A national employer association dedicated to helping businesses operate with confidence."
         breadcrumb="About"
       />
 
@@ -31,8 +31,8 @@ export default function AboutPage() {
 
             <h2>Who We Are</h2>
             <p>
-              Founded in 2013, AEA is a domestic nonprofit corporation
-              organized as a business association in the State of Vermont. Our
+              Founded in 2013, AEA is a national employer association
+              incorporated in the State of Vermont. Our
               headquarters is located at 159 Bank Street, Fourth Floor,
               Burlington, VT 05401, with a member services office at 2828 Old
               280 Ct, Vestavia Hills, AL 35243. We are not an insurance company,
@@ -74,9 +74,9 @@ export default function AboutPage() {
                 insurance, supplies, professional services, and technology.
               </li>
               <li>
-                <strong>Benefits programs</strong> - Access to group health plans,
-                captive insurance programs, and other benefits structures that are
-                typically available only to larger organizations.
+                <strong>Benefits programs</strong> - Access to competitive employee
+                benefits options and risk management programs through our
+                partners and private programs.
               </li>
             </ul>
 

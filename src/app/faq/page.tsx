@@ -14,7 +14,7 @@ const faqs = [
     items: [
       {
         q: 'What is the American Employers Alliance?',
-        a: 'AEA is a domestic nonprofit corporation organized as a business association, founded in 2013 in the State of Vermont. We help employers across the United States operate more efficiently, stay compliant, reduce costs, and access practical tools and support. Our headquarters is at 159 Bank Street, Fourth Floor, Burlington, VT 05401, with a member services office in Vestavia Hills, Alabama.',
+        a: 'AEA is a national employer association founded in 2013 in Vermont. We help employers across the United States operate more efficiently, stay compliant, reduce costs, and access practical tools and support. Our headquarters is at 159 Bank Street, Fourth Floor, Burlington, VT 05401, with a member services office in Vestavia Hills, Alabama.',
       },
       {
         q: 'Who is AEA for?',
@@ -22,7 +22,7 @@ const faqs = [
       },
       {
         q: 'Is AEA an insurance company?',
-        a: 'No. AEA is a domestic nonprofit corporation organized as a business association. While we do offer access to insurance and benefits programs as part of our membership, these are optional. Most of our value comes from compliance resources, employer tools, and cost-saving programs that have nothing to do with insurance.',
+        a: 'No. AEA is an employer association. While we do offer access to insurance and benefits programs as part of our membership, these are optional. Most of our value comes from compliance resources, employer tools, and cost-saving programs that have nothing to do with insurance.',
       },
     ],
   },
@@ -31,11 +31,11 @@ const faqs = [
     items: [
       {
         q: 'What does AEA membership include?',
-        a: 'All members receive access to the Resource Center, compliance alerts and updates, HR templates and checklists, employer tools, and group purchasing programs. Higher tiers include additional benefits such as advanced compliance guides, priority support, and benefits program eligibility.',
+        a: 'All members receive access to the Resource Center, compliance alerts and updates, HR templates and checklists, employer tools, and group purchasing programs.',
       },
       {
         q: 'How much does membership cost?',
-        a: 'Membership fees vary by organization size and tier. Contact us for current pricing. Most members find that the savings from cost-reduction programs and the value of compliance resources more than cover the annual membership fee.',
+        a: 'Contact us for current membership details. Most members find that the savings from cost-reduction programs and the value of compliance resources more than cover the annual membership fee.',
       },
       {
         q: 'Is membership annual?',
@@ -73,7 +73,7 @@ const faqs = [
       },
       {
         q: 'What benefits programs does AEA offer?',
-        a: 'AEA provides access to association health plans, level-funded health plan options, captive insurance programs, and supplemental benefits like dental, vision, life, and disability insurance. These programs are optional and available to eligible members.',
+        a: 'AEA members can access competitive employee benefits options through our network of partners and private programs. We also offer supplemental benefits such as dental, vision, life, and disability coverage. These programs are optional and available to eligible members.',
       },
       {
         q: 'Are benefits programs available in all states?',

@@ -38,9 +38,9 @@ export default function Footer() {
               <span className="text-lg font-bold">AEA</span>
             </div>
             <p className="text-navy-300 text-sm leading-relaxed mb-4 max-w-xs">
-              American Employers Alliance is a national nonprofit employer
-              association helping businesses operate efficiently, stay compliant,
-              and reduce costs.
+              American Employers Alliance is a national employer association
+              helping businesses operate efficiently, stay compliant, and reduce
+              costs.
             </p>
             <p className="text-navy-400 text-xs">
               159 Bank Street, Fourth Floor
@@ -76,7 +76,7 @@ export default function Footer() {
         <div className="mt-16 pt-8 border-t border-navy-800 flex flex-col md:flex-row items-center justify-between text-sm text-navy-400">
           <p>&copy; {new Date().getFullYear()} American Employers Alliance. All rights reserved.</p>
           <p className="mt-2 md:mt-0">
-            A domestic nonprofit corporation &middot; Business association
+            A national employer association
           </p>
         </div>
       </div>

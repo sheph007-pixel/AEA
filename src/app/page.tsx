@@ -71,7 +71,7 @@ export default function HomePage() {
         <div className="container-wide relative py-20 md:py-32">
           <div className="max-w-3xl">
             <p className="text-accent-400 text-sm font-semibold tracking-wide uppercase mb-4">
-              National Nonprofit Employer Association &middot; Est. 2013
+              National Employer Association &middot; Est. 2013
             </p>
             <h1 className="text-4xl md:text-5.5xl font-bold text-white leading-tight">
               Practical support for employers who are building something that matters
@@ -84,7 +84,7 @@ export default function HomePage() {
               <Link href="/membership" className="btn-primary px-8 py-4 text-base">
                 Become a Member
               </Link>
-              <Link href="/why-join" className="btn-secondary px-8 py-4 text-base border-navy-600 text-white hover:border-navy-400 hover:bg-navy-800">
+              <Link href="/why-join" className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white border-2 border-navy-400 rounded-lg hover:border-white hover:bg-navy-800 transition-colors duration-200">
                 Why Employers Join
               </Link>
             </div>
@@ -100,7 +100,7 @@ export default function HomePage() {
             <span className="hidden sm:inline text-gray-300">|</span>
             <span>Burlington, VT &middot; Vestavia Hills, AL</span>
             <span className="hidden sm:inline text-gray-300">|</span>
-            <span>Domestic nonprofit corporation</span>
+            <span>National employer association</span>
             <span className="hidden sm:inline text-gray-300">|</span>
             <span>All industries &middot; 2-500 employees</span>
           </div>

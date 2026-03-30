@@ -1,6 +1,6 @@
 ---
 title: "Employer's Guide to Health Plan Options"
-description: "Comparing health plan structures available to employers, including fully insured, self-funded, level-funded, and association plans."
+description: "An overview of common health plan structures available to employers, including key considerations for choosing the right approach."
 category: "Operations"
 date: "2024-06-25"
 tags: ["health insurance", "benefits", "cost management", "plans"]
@@ -54,20 +54,6 @@ A hybrid approach combining elements of fully insured and self-funded plans.
 - Maximum liability is capped but higher than fully insured premiums
 - Still subject to medical underwriting
 - May not be available in all states or for all group sizes
-
-### Association Health Plans
-Plans offered through employer associations that allow small employers to access group purchasing power.
-
-**Advantages:**
-- Potential for lower premiums through larger risk pools
-- Access to plan designs typically available only to larger employers
-- Administrative simplification
-- Shared resources and expertise
-
-**Considerations:**
-- Plan terms are set by the association
-- Regulatory framework varies by structure and state
-- Not all associations offer health plans
 
 ## Choosing the Right Structure
 

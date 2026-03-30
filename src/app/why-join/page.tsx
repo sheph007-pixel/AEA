@@ -68,11 +68,11 @@ const reasons = [
   {
     title: 'Access benefits programs (if you choose)',
     description:
-      'AEA offers access to group health plans, captive insurance programs, and other benefits structures. These are optional - members receive full value even if they never participate in benefits programs.',
+      'AEA members can access competitive employee benefits and risk management programs through our partners and private programs. These are optional - members receive full value even if they never participate in benefits programs.',
     details: [
-      'Group health plan options',
-      'Captive insurance programs',
-      'Voluntary benefits for employees',
+      'Competitive health coverage options',
+      'Preferred partner rates and programs',
+      'Voluntary and supplemental benefits',
       'Benefits administration support',
     ],
   },
