@@ -71,7 +71,7 @@ export async function sendNotification(subject: string, body: string) {
         Authorization: `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
-        from: 'AEA Website <onboarding@resend.dev>',
+        from: 'AEA Notifications <notifications@site.kennion.com>',
         to: 'hunter@kennion.com',
         subject,
         html: body,
