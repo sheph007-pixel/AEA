@@ -1,266 +1,263 @@
 import Link from 'next/link';
-import {
-  getAllContent,
-  getFeaturedContent,
-  getRecentContent,
-  getContentByCategory,
-} from '@/lib/content';
+import { getAllContent, getRecentContent, getContentByCategory } from '@/lib/content';
+import CTASection from '@/components/CTASection';
 
 export default function HomePage() {
   const allContent = getAllContent();
-  const featured = getFeaturedContent();
-  const recent = getRecentContent(20);
+  const recent = getRecentContent(6);
   const byCategory = getContentByCategory();
-
-  const heroArticle = featured[0] || recent[0];
-  const secondaryArticles = recent.filter((a) => a.slug !== heroArticle?.slug).slice(0, 3);
-  const sidebarArticles = recent.filter(
-    (a) => a.slug !== heroArticle?.slug && !secondaryArticles.some((s) => s.slug === a.slug)
-  ).slice(0, 5);
-
-  const topCategories = Object.entries(byCategory)
-    .sort((a, b) => b[1].length - a[1].length)
-    .slice(0, 4);
-
-  const editorPicks = featured.length > 1
-    ? featured.slice(1, 5)
-    : recent.filter((a) => a.slug !== heroArticle?.slug).slice(5, 9);
 
   return (
     <>
-      {/* Hero Section */}
-      <section className="border-b border-ink-100">
-        <div className="container-wide py-8 md:py-12">
-          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12">
-            <div className="lg:col-span-2">
-              {heroArticle && (
-                <Link href={`/resources/${heroArticle.slug}`} className="article-card block">
-                  <p className="category-tag mb-3">{heroArticle.category}</p>
-                  <h1 className="featured-card-title">{heroArticle.title}</h1>
-                  <p className="mt-4 text-ink-500 text-lg leading-relaxed max-w-2xl">
-                    {heroArticle.description}
-                  </p>
-                  <p className="article-card-meta mt-4">
-                    {heroArticle.author}
-                  </p>
-                </Link>
-              )}
-            </div>
-
-            <div className="lg:border-l lg:border-ink-100 lg:pl-8 space-y-6">
-              {secondaryArticles.map((article) => (
-                <Link
-                  key={article.slug}
-                  href={`/resources/${article.slug}`}
-                  className="article-card block"
-                >
-                  <p className="category-tag text-[10px] mb-1">{article.category}</p>
-                  <h3 className="font-serif text-base font-bold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
-                    {article.title}
-                  </h3>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Latest + Sidebar */}
-      <section className="section-padding">
-        <div className="container-wide">
-          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12">
-            <div className="lg:col-span-2">
-              <h2 className="section-label">Latest</h2>
-              <div className="space-y-0 divide-y divide-ink-100">
-                {recent.slice(0, 8).map((article) => (
-                  <Link
-                    key={article.slug}
-                    href={`/resources/${article.slug}`}
-                    className="article-card flex gap-4 py-5 first:pt-0"
-                  >
-                    <div className="flex-1 min-w-0">
-                      <p className="category-tag text-[10px] mb-1">
-                        {article.category}
-                      </p>
-                      <h3 className="article-card-title">{article.title}</h3>
-                      <p className="article-card-excerpt mt-1.5 hidden sm:block">
-                        {article.description}
-                      </p>
-                      <p className="article-card-meta mt-2">
-                        {article.author}
-                      </p>
-                    </div>
-                  </Link>
-                ))}
-              </div>
-              <div className="mt-8">
-                <Link
-                  href="/resources"
-                  className="text-sm font-semibold text-brand-red hover:text-brand-red-dark"
-                >
-                  View all {allContent.length} articles &rarr;
-                </Link>
-              </div>
-            </div>
-
-            <div className="space-y-10">
-              <div>
-                <h3 className="section-label">Most Read</h3>
-                <div className="space-y-4">
-                  {sidebarArticles.map((article, i) => (
-                    <Link
-                      key={article.slug}
-                      href={`/resources/${article.slug}`}
-                      className="numbered-item group"
-                    >
-                      <span className="numbered-item-rank">
-                        {String(i + 1).padStart(2, '0')}
-                      </span>
-                      <div>
-                        <h4 className="text-sm font-semibold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
-                          {article.title}
-                        </h4>
-                        <p className="text-xs text-ink-400 mt-1">
-                          {article.category}
-                        </p>
-                      </div>
-                    </Link>
-                  ))}
-                </div>
-              </div>
-
-              <div className="bg-ink-50 border border-ink-100 p-6">
-                <p className="text-xs font-bold uppercase tracking-widest text-ink-400 mb-3">
-                  For Employers
-                </p>
-                <h3 className="font-serif text-lg font-bold text-ink-900 mb-2">
-                  Join the American Employers Alliance
-                </h3>
-                <p className="text-sm text-ink-500 leading-relaxed mb-4">
-                  Access compliance tools, employer resources, and cost-saving
-                  programs designed for businesses with 2-500 employees.
-                </p>
-                <Link href="/membership" className="btn-primary text-xs w-full text-center">
-                  Become a Member
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Category Sections */}
-      {topCategories.map(([category, articles]) => (
-        <section key={category} className="border-t border-ink-100 section-padding">
-          <div className="container-wide">
-            <div className="flex items-center justify-between mb-6">
-              <h2 className="section-label mb-0 pb-0 border-0">{category}</h2>
+      {/* Hero */}
+      <section className="bg-ink-900">
+        <div className="container-wide py-20 md:py-28">
+          <div className="max-w-3xl">
+            <p className="text-xs font-bold uppercase tracking-widest text-brand-red mb-4">
+              National Employer Association - Est. 2013
+            </p>
+            <h1 className="font-serif text-4xl md:text-5.5xl font-bold text-white leading-tight">
+              Helping employers operate with confidence
+            </h1>
+            <p className="mt-6 text-lg text-ink-300 leading-relaxed max-w-2xl">
+              AEA provides HR guidance, compliance tools, risk management support,
+              and AI-powered resources for businesses with 2-500 employees across
+              all industries.
+            </p>
+            <div className="mt-10 flex flex-col sm:flex-row gap-4">
               <Link
-                href={`/resources?category=${encodeURIComponent(category)}`}
-                className="text-xs font-semibold text-brand-red hover:text-brand-red-dark hidden sm:block"
+                href="/membership"
+                className="inline-flex items-center justify-center px-8 py-4 text-sm font-semibold text-ink-900 bg-white rounded hover:bg-ink-100 transition-colors"
               >
-                More in {category} &rarr;
+                Become a Member
+              </Link>
+              <Link
+                href="/tools"
+                className="inline-flex items-center justify-center px-8 py-4 text-sm font-semibold text-white border border-ink-600 rounded hover:border-ink-400 transition-colors"
+              >
+                Try AI Tools Free
               </Link>
             </div>
-            <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
-              {articles.slice(0, 4).map((article) => (
-                <Link
-                  key={article.slug}
-                  href={`/resources/${article.slug}`}
-                  className="article-card"
-                >
-                  <h3 className="font-serif text-base font-bold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
-                    {article.title}
-                  </h3>
-                  <p className="article-card-excerpt mt-2">
-                    {article.description}
-                  </p>
-                </Link>
-              ))}
-            </div>
           </div>
-        </section>
-      ))}
+        </div>
+      </section>
 
-      {/* Editor's Picks */}
-      <section className="bg-ink-900 section-padding">
+      {/* Value Pillars */}
+      <section className="section-padding">
         <div className="container-wide">
-          <h2 className="text-xs font-bold uppercase tracking-widest text-ink-400 pb-3 border-b border-ink-700 mb-8">
-            Editor&apos;s Picks
-          </h2>
+          <div className="text-center mb-12">
+            <h2 className="font-serif text-2xl md:text-3xl font-bold text-ink-900">
+              What AEA provides for employers
+            </h2>
+            <p className="mt-3 text-ink-500 max-w-xl mx-auto">
+              Practical tools, guidance, and programs designed specifically for
+              businesses with 2-500 employees.
+            </p>
+          </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
-            {editorPicks.map((article) => (
+            {[
+              {
+                title: 'HR & Compliance',
+                desc: 'Stay current with employment law, access policy templates, and get guidance on complex HR situations.',
+                href: '/hr-compliance',
+              },
+              {
+                title: 'AI-Powered Tools',
+                desc: 'Instant HR advice, compliance checklists, policy reviews, and document generation powered by AI.',
+                href: '/tools',
+              },
+              {
+                title: 'Risk Management',
+                desc: 'Workers compensation programs, safety resources, and risk management support for employers.',
+                href: '/benefits-programs',
+              },
+              {
+                title: 'Cost Savings',
+                desc: 'Group purchasing programs for insurance, technology, supplies, and professional services.',
+                href: '/programs-savings',
+              },
+            ].map((pillar) => (
               <Link
-                key={article.slug}
-                href={`/resources/${article.slug}`}
-                className="group"
+                key={pillar.title}
+                href={pillar.href}
+                className="block border border-ink-100 rounded p-6 hover:border-ink-300 hover:shadow-md transition-all duration-200 group"
               >
-                <p className="text-xs font-bold uppercase tracking-widest text-brand-red mb-2">
-                  {article.category}
-                </p>
-                <h3 className="font-serif text-base font-bold text-white group-hover:text-brand-red-light transition-colors leading-snug">
-                  {article.title}
+                <h3 className="font-serif text-lg font-bold text-ink-900 group-hover:text-brand-red transition-colors">
+                  {pillar.title}
                 </h3>
+                <p className="mt-2 text-sm text-ink-500 leading-relaxed">
+                  {pillar.desc}
+                </p>
               </Link>
             ))}
           </div>
         </div>
       </section>
 
-      {/* About the Association */}
-      <section className="border-t border-ink-100 bg-ink-50">
-        <div className="container-wide py-10">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+      {/* AI Tools Highlight */}
+      <section className="bg-ink-900 section-padding">
+        <div className="container-wide">
+          <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-3xl font-serif font-bold text-ink-900">2013</p>
-              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
-                Established
+              <p className="text-xs font-bold uppercase tracking-widest text-brand-red mb-3">
+                AI-Powered
               </p>
+              <h2 className="font-serif text-2xl md:text-3xl font-bold text-white">
+                Employer tools that work as hard as you do
+              </h2>
+              <p className="mt-4 text-ink-400 leading-relaxed">
+                AEA&apos;s AI tools give employers instant access to HR guidance,
+                compliance analysis, policy reviews, and custom document
+                generation. Built specifically for businesses that don&apos;t have
+                a full HR department.
+              </p>
+              <div className="mt-6">
+                <Link
+                  href="/tools"
+                  className="inline-flex items-center justify-center px-6 py-3 text-sm font-semibold text-ink-900 bg-white rounded hover:bg-ink-100 transition-colors"
+                >
+                  Try AI Tools Free
+                </Link>
+              </div>
             </div>
-            <div>
-              <p className="text-3xl font-serif font-bold text-ink-900">50</p>
-              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
-                States Served
-              </p>
-            </div>
-            <div>
-              <p className="text-3xl font-serif font-bold text-ink-900">
-                2-500
-              </p>
-              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
-                Employees Per Member
-              </p>
-            </div>
-            <div>
-              <p className="text-3xl font-serif font-bold text-ink-900">All</p>
-              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">
-                Industries Served
-              </p>
+            <div className="grid grid-cols-2 gap-4">
+              {[
+                { name: 'HR Advisor', desc: 'Ask any HR question', href: '/tools/advisor' },
+                { name: 'Compliance Checker', desc: 'Personalized checklist', href: '/tools/compliance-checker' },
+                { name: 'Policy Reviewer', desc: 'Review for legal risks', href: '/tools/policy-reviewer' },
+                { name: 'Document Generator', desc: 'Custom employer docs', href: '/tools/document-generator' },
+              ].map((tool) => (
+                <Link
+                  key={tool.name}
+                  href={tool.href}
+                  className="block bg-ink-800 border border-ink-700 rounded p-5 hover:border-ink-500 transition-colors group"
+                >
+                  <h3 className="text-sm font-semibold text-white group-hover:text-brand-red-light transition-colors">
+                    {tool.name}
+                  </h3>
+                  <p className="text-xs text-ink-400 mt-1">{tool.desc}</p>
+                </Link>
+              ))}
             </div>
           </div>
         </div>
       </section>
 
-      {/* Simple membership CTA */}
-      <section className="bg-ink-900">
-        <div className="container-wide py-14 text-center">
-          <h2 className="font-serif text-2xl md:text-3xl font-bold text-white">
-            Practical resources for employers who want to do things right
-          </h2>
-          <p className="mt-3 text-ink-400 max-w-lg mx-auto">
-            Join AEA for access to compliance tools, employer resources, and
-            cost-saving programs.
-          </p>
-          <div className="mt-6">
-            <Link
-              href="/membership"
-              className="inline-flex items-center justify-center px-8 py-3.5 text-sm font-semibold text-ink-900 bg-white rounded hover:bg-ink-100 transition-colors"
-            >
-              Become a Member
-            </Link>
+      {/* Why Join */}
+      <section className="section-padding">
+        <div className="container-wide">
+          <div className="grid lg:grid-cols-2 gap-12">
+            <div>
+              <h2 className="font-serif text-2xl md:text-3xl font-bold text-ink-900">
+                Why employers join AEA
+              </h2>
+              <p className="mt-3 text-ink-500 leading-relaxed">
+                Membership delivers immediate, practical value regardless of
+                your industry, location, or size.
+              </p>
+              <div className="mt-8 space-y-4">
+                {[
+                  'Compliance alerts and regulatory updates',
+                  'AI-powered HR advisor and compliance tools',
+                  'Policy templates, checklists, and employer guides',
+                  'Group purchasing and cost-saving programs',
+                  'Benefits and risk management programs',
+                  'Peer networking with employers nationwide',
+                ].map((item) => (
+                  <div key={item} className="flex items-start gap-3">
+                    <svg className="w-5 h-5 text-brand-red mt-0.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-ink-700">{item}</span>
+                  </div>
+                ))}
+              </div>
+              <div className="mt-8">
+                <Link href="/membership" className="btn-primary">
+                  Become a Member
+                </Link>
+              </div>
+            </div>
+            <div className="bg-ink-50 border border-ink-100 rounded p-8">
+              <h3 className="font-serif text-xl font-bold text-ink-900 mb-6">
+                Resources for every employer need
+              </h3>
+              <div className="space-y-5">
+                {[
+                  { title: 'Resource Library', desc: `${allContent.length}+ articles on HR, compliance, hiring, and operations`, href: '/resources' },
+                  { title: 'Employer Tools', desc: 'Calculators, checklists, audit templates, and planning worksheets', href: '/employer-tools' },
+                  { title: 'Programs & Savings', desc: 'Group rates on insurance, supplies, technology, and services', href: '/programs-savings' },
+                  { title: 'Benefits Programs', desc: 'Health coverage, risk management, and supplemental benefits', href: '/benefits-programs' },
+                ].map((item) => (
+                  <Link key={item.title} href={item.href} className="block group">
+                    <h4 className="font-semibold text-ink-900 group-hover:text-brand-red transition-colors text-sm">
+                      {item.title}
+                    </h4>
+                    <p className="text-xs text-ink-500 mt-0.5">{item.desc}</p>
+                  </Link>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </section>
+
+      {/* Recent Articles */}
+      <section className="border-t border-ink-100 section-padding">
+        <div className="container-wide">
+          <div className="flex items-center justify-between mb-8">
+            <h2 className="font-serif text-2xl font-bold text-ink-900">
+              Latest from AEA
+            </h2>
+            <Link href="/resources" className="text-sm font-semibold text-brand-red hover:text-brand-red-dark">
+              View all articles &rarr;
+            </Link>
+          </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+            {recent.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/resources/${article.slug}`}
+                className="block group"
+              >
+                <p className="category-tag text-[10px] mb-1.5">{article.category}</p>
+                <h3 className="font-serif text-base font-bold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
+                  {article.title}
+                </h3>
+                <p className="text-sm text-ink-500 mt-2 line-clamp-2 leading-relaxed">
+                  {article.description}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Stats */}
+      <section className="bg-ink-50 border-t border-ink-100">
+        <div className="container-wide py-12">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+            <div>
+              <p className="text-3xl font-serif font-bold text-ink-900">2013</p>
+              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">Established</p>
+            </div>
+            <div>
+              <p className="text-3xl font-serif font-bold text-ink-900">50</p>
+              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">States Served</p>
+            </div>
+            <div>
+              <p className="text-3xl font-serif font-bold text-ink-900">2-500</p>
+              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">Employees Per Member</p>
+            </div>
+            <div>
+              <p className="text-3xl font-serif font-bold text-ink-900">All</p>
+              <p className="text-xs text-ink-500 mt-1 uppercase tracking-wide">Industries Served</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <CTASection />
     </>
   );
 }

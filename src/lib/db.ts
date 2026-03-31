@@ -23,6 +23,18 @@ export async function initDB() {
       created_at TIMESTAMP DEFAULT NOW()
     )
   `);
+  await pool.query(`
+    CREATE TABLE IF NOT EXISTS ai_tool_usage (
+      id SERIAL PRIMARY KEY,
+      tool VARCHAR(50) NOT NULL,
+      input TEXT,
+      output TEXT,
+      state VARCHAR(50),
+      employee_count VARCHAR(50),
+      industry VARCHAR(255),
+      created_at TIMESTAMP DEFAULT NOW()
+    )
+  `);
 }
 
 export async function saveSubmission(data: {
@@ -54,6 +66,21 @@ export async function saveSubmission(data: {
     ]
   );
   return result.rows[0];
+}
+
+export async function saveAIUsage(data: {
+  tool: string;
+  input?: string;
+  output?: string;
+  state?: string;
+  employeeCount?: string;
+  industry?: string;
+}) {
+  await initDB();
+  await pool.query(
+    `INSERT INTO ai_tool_usage (tool, input, output, state, employee_count, industry) VALUES ($1, $2, $3, $4, $5, $6)`,
+    [data.tool, data.input || null, data.output || null, data.state || null, data.employeeCount || null, data.industry || null]
+  );
 }
 
 export async function sendNotification(subject: string, body: string) {
