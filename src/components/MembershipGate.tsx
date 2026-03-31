@@ -86,12 +86,12 @@ export default function MembershipGate({ children, toolName }: MembershipGatePro
             className="w-full px-3 py-2.5 border border-ink-200 rounded text-sm outline-none focus:ring-1 focus:ring-ink-500 bg-white"
           >
             <option value="">Number of employees</option>
-            <option value="2-10">2-10</option>
-            <option value="11-25">11-25</option>
-            <option value="26-50">26-50</option>
-            <option value="51-100">51-100</option>
-            <option value="101-250">101-250</option>
-            <option value="251-500">251-500</option>
+            <option value="1-14">1-14 employees</option>
+            <option value="15-19">15-19 employees (Title VII, ADA)</option>
+            <option value="20-49">20-49 employees (COBRA, ADEA)</option>
+            <option value="50-99">50-99 employees (FMLA, ACA)</option>
+            <option value="100-249">100-249 employees (WARN Act)</option>
+            <option value="250-500">250-500 employees</option>
           </select>
           <button type="submit" disabled={sending} className="btn-primary w-full disabled:opacity-50">
             {sending ? 'Submitting...' : 'Get Full Access'}

@@ -172,9 +172,9 @@ export default function RiskRadarPage() {
           {demoLimited && (
             <div className="max-w-2xl mx-auto text-center py-12">
               <div className="bg-ink-50 border border-ink-100 rounded p-8">
-                <h2 className="font-serif text-xl font-bold text-ink-900 mb-3">Daily demo limit reached</h2>
+                <h2 className="font-serif text-xl font-bold text-ink-900 mb-3">Free demo used</h2>
                 <p className="text-ink-500 mb-6">
-                  Become an AEA member to unlock full Risk Radar access, saved case files, downloadable HR documents, and additional employer tools.
+                  Your free Risk Radar analysis has been used. Become an AEA member to unlock unlimited access, saved case files, downloadable HR documents, and additional employer tools.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3 justify-center">
                   <Link href="/member-login" className="btn-primary">Enter Member Code</Link>
@@ -206,12 +206,12 @@ export default function RiskRadarPage() {
                     <select required value={form.companySize} onChange={(e) => setForm((f) => ({ ...f, companySize: e.target.value }))}
                       className="w-full px-3 py-2.5 border border-ink-200 rounded text-sm outline-none focus:ring-1 focus:ring-ink-500 bg-white">
                       <option value="">Select range</option>
-                      <option value="2-10">2-10</option>
-                      <option value="11-25">11-25</option>
-                      <option value="26-50">26-50</option>
-                      <option value="51-100">51-100</option>
-                      <option value="101-250">101-250</option>
-                      <option value="251-500">251-500</option>
+                      <option value="1-14">1-14 employees</option>
+                      <option value="15-19">15-19 employees (Title VII, ADA)</option>
+                      <option value="20-49">20-49 employees (COBRA, ADEA)</option>
+                      <option value="50-99">50-99 employees (FMLA, ACA)</option>
+                      <option value="100-249">100-249 employees (WARN Act)</option>
+                      <option value="250-500">250-500 employees</option>
                     </select>
                   </div>
                   <div>
@@ -239,7 +239,7 @@ export default function RiskRadarPage() {
                   </button>
                   {!isMember && (
                     <p className="text-xs text-ink-400 text-center">
-                      Free demo - 2 analyses per day.{' '}
+                      1 free analysis.{' '}
                       <Link href="/member-login" className="text-brand-red hover:underline">Member login</Link>
                       {' '}for unlimited access.
                     </p>

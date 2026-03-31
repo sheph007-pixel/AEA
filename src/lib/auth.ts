@@ -130,20 +130,18 @@ export function checkRateLimit(key: string, maxAttempts: number, windowMs: numbe
   return true;
 }
 
-// -- Demo tracking via cookie --
-export function getDemoCount(): { count: number; date: string } {
+// -- Demo tracking via cookie (lifetime limit, not daily) --
+export function getDemoCount(): { count: number } {
   const cookie = cookies().get('aea_rr_demo');
-  if (!cookie?.value) return { count: 0, date: new Date().toISOString().split('T')[0] };
+  if (!cookie?.value) return { count: 0 };
   const payload = decryptSession(cookie.value);
-  if (!payload) return { count: 0, date: new Date().toISOString().split('T')[0] };
-  const today = new Date().toISOString().split('T')[0];
-  if (payload.date !== today) return { count: 0, date: today };
-  return { count: (payload.count as number) || 0, date: today };
+  if (!payload) return { count: 0 };
+  return { count: (payload.count as number) || 0 };
 }
 
 export function incrementDemoCount() {
   const { count } = getDemoCount();
-  const today = new Date().toISOString().split('T')[0];
-  const token = encryptSession({ count: count + 1, date: today, type: 'demo' });
-  cookies().set('aea_rr_demo', token, { ...COOKIE_OPTS, maxAge: 24 * 60 * 60 });
+  const token = encryptSession({ count: count + 1, type: 'demo' });
+  // 365 days - effectively permanent
+  cookies().set('aea_rr_demo', token, { ...COOKIE_OPTS, maxAge: 365 * 24 * 60 * 60 });
 }

@@ -31,13 +31,13 @@ export async function POST(request: Request) {
       }
     }
 
-    // Demo rate limit for non-members
+    // Demo rate limit for non-members (1 free analysis lifetime)
     if (!isMember) {
       const demo = getDemoCount();
-      if (demo.count >= 2) {
+      if (demo.count >= 1) {
         return NextResponse.json({
           error: 'demo_limit',
-          message: 'You have reached the daily demo limit. Become an AEA member for unlimited access.',
+          message: 'Your free demo has been used. Become an AEA member for full access to Risk Radar.',
         }, { status: 403 });
       }
       incrementDemoCount();
