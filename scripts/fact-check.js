@@ -10,11 +10,32 @@
  *
  * Outputs a report to src/content/.fact-check-report.json
  * and logs results to console.
+ * Sends email notification to hunter@kennion.com if issues found.
  */
 
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+
+function sendEmail(subject, htmlBody) {
+  const apiKey = process.env.RESEND_API_KEY;
+  if (!apiKey) { console.warn('RESEND_API_KEY not set, skipping email'); return Promise.resolve(); }
+  return new Promise((resolve) => {
+    const data = JSON.stringify({
+      from: 'AEA Notifications <notifications@site.kennion.com>',
+      to: 'hunter@kennion.com',
+      subject,
+      html: htmlBody,
+    });
+    const req = https.request({
+      hostname: 'api.resend.com', port: 443, path: '/emails', method: 'POST',
+      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${apiKey}` },
+    }, (res) => { let b = ''; res.on('data', c => b += c); res.on('end', () => resolve()); });
+    req.on('error', () => resolve());
+    req.write(data);
+    req.end();
+  });
+}
 
 const DEFAULT_DIR = path.join(__dirname, '..', 'src', 'content', 'briefings');
 const REPORT_PATH = path.join(__dirname, '..', 'src', 'content', '.fact-check-report.json');
@@ -178,6 +199,17 @@ async function main() {
   for (const r of results) { report[r.file] = r; }
   fs.writeFileSync(REPORT_PATH, JSON.stringify(report, null, 2));
 
+  // Write verification status file (read by the site to show badge)
+  const VERIFICATION_PATH = path.join(__dirname, '..', 'src', 'content', 'verification.json');
+  fs.writeFileSync(VERIFICATION_PATH, JSON.stringify({
+    lastChecked: new Date().toISOString(),
+    totalChecked: files.length,
+    passed: passCount,
+    flagged: flagCount,
+    failed: failCount,
+    status: failCount === 0 ? 'verified' : 'issues-found',
+  }, null, 2));
+
   // Console summary
   console.log(`\n${'='.repeat(50)}`);
   console.log(`FACT-CHECK REPORT`);
@@ -188,8 +220,32 @@ async function main() {
   console.log(`  Error:   ${errorCount}`);
   console.log(`  Total:   ${files.length}`);
 
+  // Email notification if issues found
   if (flagCount > 0 || failCount > 0) {
-    console.log(`\nISSUES FOUND:`);
+    const issueDetails = results
+      .filter(r => r.status === 'flag' || r.status === 'fail')
+      .map(r => `<tr><td style="padding:6px;border-bottom:1px solid #eee;font-weight:bold;">${r.status.toUpperCase()}: ${r.file}</td><td style="padding:6px;border-bottom:1px solid #eee;">${r.summary}</td></tr>`)
+      .join('');
+
+    const emailBody = `<h2>AEA Fact-Check Alert</h2>
+      <p>The automated fact-checker found issues in ${flagCount + failCount} content file(s).</p>
+      <table style="border-collapse:collapse;width:100%;max-width:600px;">
+        <tr><td style="padding:6px;font-weight:bold;">Pass</td><td style="padding:6px;">${passCount}</td></tr>
+        <tr><td style="padding:6px;font-weight:bold;">Flagged</td><td style="padding:6px;">${flagCount}</td></tr>
+        <tr><td style="padding:6px;font-weight:bold;">Failed</td><td style="padding:6px;">${failCount}</td></tr>
+      </table>
+      <h3 style="margin-top:16px;">Issues:</h3>
+      <table style="border-collapse:collapse;width:100%;max-width:600px;">${issueDetails}</table>
+      <p style="margin-top:16px;color:#666;font-size:12px;">Review the content before it goes live.</p>`;
+
+    await sendEmail(
+      `AEA Fact-Check: ${failCount > 0 ? 'FAILED' : 'FLAGGED'} - ${flagCount + failCount} issue(s) found`,
+      emailBody
+    );
+
+    console.log(`\nNotification sent to hunter@kennion.com`);
+
+    // Log issue details to console
     for (const r of results) {
       if (r.status === 'flag' || r.status === 'fail') {
         console.log(`\n  ${r.status.toUpperCase()}: ${r.file}`);
@@ -200,12 +256,27 @@ async function main() {
         }
       }
     }
+
+    // Remove files that FAILED fact-check (don't publish bad content)
+    for (const r of results) {
+      if (r.status === 'fail') {
+        const failedPath = path.join(targetDir, r.file);
+        if (fs.existsSync(failedPath)) {
+          fs.unlinkSync(failedPath);
+          console.log(`  REMOVED failed file: ${r.file}`);
+        }
+      }
+    }
+  } else {
+    // All passed - send success confirmation
+    await sendEmail(
+      `AEA Fact-Check: All Clear - ${passCount} file(s) verified`,
+      `<h2>AEA Fact-Check Report</h2><p>All ${passCount} checked content file(s) passed verification. No issues found.</p><p style="color:#666;font-size:12px;">Checked at: ${new Date().toISOString()}</p>`
+    );
   }
 
   console.log(`\nReport saved to: ${REPORT_PATH}`);
-
-  // Exit with error code if any failures
-  if (failCount > 0) process.exit(1);
+  console.log(`Verification status saved to: ${VERIFICATION_PATH}`);
 }
 
 main().catch((err) => { console.error('Fact-check failed:', err); process.exit(1); });

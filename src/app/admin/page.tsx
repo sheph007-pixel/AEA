@@ -18,7 +18,11 @@ interface Stats {
   issueTypes: { issue_type: string; count: string }[];
 }
 
-type Tab = 'members' | 'contacts' | 'stats';
+interface AuditData {
+  lastChecked: string; totalChecked: number; passed: number; flagged: number; failed: number; status: string;
+}
+
+type Tab = 'members' | 'contacts' | 'stats' | 'audit';
 type FilterTab = 'all' | 'active' | 'termed';
 
 export default function AdminPage() {
@@ -34,16 +38,19 @@ export default function AdminPage() {
   const [creating, setCreating] = useState(false);
   const [memberFilter, setMemberFilter] = useState<FilterTab>('all');
   const [contactFilter, setContactFilter] = useState<FilterTab>('all');
+  const [audit, setAudit] = useState<AuditData | null>(null);
 
   const loadData = useCallback(async () => {
-    const [mRes, cRes, sRes] = await Promise.all([
+    const [mRes, cRes, sRes, aRes] = await Promise.all([
       fetch('/api/admin/members'),
       fetch('/api/admin/contacts'),
       fetch('/api/admin/stats'),
+      fetch('/api/verification'),
     ]);
     if (mRes.ok) setMembers((await mRes.json()).members);
     if (cRes.ok) setContacts((await cRes.json()).contacts);
     if (sRes.ok) setStats(await sRes.json());
+    if (aRes.ok) setAudit(await aRes.json());
   }, []);
 
   useEffect(() => { if (authed) loadData(); }, [authed, loadData]);
@@ -118,10 +125,10 @@ export default function AdminPage() {
 
         {/* Main Tabs */}
         <div className="flex gap-1 mb-8 border-b border-ink-200">
-          {(['members', 'contacts', 'stats'] as Tab[]).map((t) => (
+          {(['members', 'contacts', 'stats', 'audit'] as Tab[]).map((t) => (
             <button key={t} onClick={() => setTab(t)}
               className={`px-4 py-2 text-sm font-medium border-b-2 transition-colors ${tab === t ? 'border-ink-900 text-ink-900' : 'border-transparent text-ink-400 hover:text-ink-700'}`}>
-              {t === 'members' ? `Members (${members.length})` : t === 'contacts' ? `Contacts (${contacts.length})` : 'Stats'}
+              {t === 'members' ? `Members (${members.length})` : t === 'contacts' ? `Contacts (${contacts.length})` : t === 'audit' ? 'Content Audit' : 'Stats'}
             </button>
           ))}
         </div>
@@ -291,6 +298,60 @@ export default function AdminPage() {
                   ))}
                 </div>
               </div>
+            )}
+          </>
+        )}
+
+        {/* AUDIT TAB */}
+        {tab === 'audit' && (
+          <>
+            <h2 className="font-semibold text-ink-900 mb-6">Content Audit Status</h2>
+
+            {audit ? (
+              <div className="space-y-6">
+                <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+                  <div className="bg-ink-50 border border-ink-100 rounded p-4">
+                    <p className={`text-2xl font-bold ${audit.status === 'verified' ? 'text-green-700' : 'text-red-700'}`}>
+                      {audit.status === 'verified' ? 'Verified' : 'Issues Found'}
+                    </p>
+                    <p className="text-xs text-ink-500">Status</p>
+                  </div>
+                  <div className="bg-ink-50 border border-ink-100 rounded p-4">
+                    <p className="text-2xl font-bold text-ink-900">{audit.totalChecked}</p>
+                    <p className="text-xs text-ink-500">Files Checked</p>
+                  </div>
+                  <div className="bg-ink-50 border border-ink-100 rounded p-4">
+                    <p className="text-2xl font-bold text-green-700">{audit.passed}</p>
+                    <p className="text-xs text-ink-500">Passed</p>
+                  </div>
+                  <div className="bg-ink-50 border border-ink-100 rounded p-4">
+                    <p className="text-2xl font-bold text-amber-600">{audit.flagged}</p>
+                    <p className="text-xs text-ink-500">Flagged</p>
+                  </div>
+                  <div className="bg-ink-50 border border-ink-100 rounded p-4">
+                    <p className="text-2xl font-bold text-red-700">{audit.failed}</p>
+                    <p className="text-xs text-ink-500">Failed</p>
+                  </div>
+                </div>
+
+                <div className="bg-ink-50 border border-ink-100 rounded p-4">
+                  <p className="text-sm text-ink-700">
+                    <strong>Last audit:</strong>{' '}
+                    {new Date(audit.lastChecked).toLocaleDateString('en-US', {
+                      weekday: 'long', month: 'long', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit',
+                    })}
+                  </p>
+                </div>
+
+                <div className="text-sm text-ink-500 space-y-2">
+                  <p>Content is automatically fact-checked by AI (OpenAI gpt-4o-mini) on a weekly schedule.</p>
+                  <p>The system checks for: incorrect legal references, fabricated statistics, wrong compliance deadlines, misleading claims, and opinions presented as facts.</p>
+                  <p>If issues are found, a notification is sent to hunter@kennion.com and failed content is removed before publishing.</p>
+                  <p>The green checkmark in the site footer confirms the last successful audit.</p>
+                </div>
+              </div>
+            ) : (
+              <p className="text-ink-400">No audit data available. Run the fact-check script to generate a report.</p>
             )}
           </>
         )}

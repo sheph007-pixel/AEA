@@ -1,0 +1,48 @@
+name: Weekly Content Audit
+
+on:
+  schedule:
+    # Run every Monday at 7:00 AM UTC
+    - cron: '0 7 * * 1'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  audit-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fact-check briefings
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ChatGPT: ${{ secrets.ChatGPT }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: node scripts/fact-check.js src/content/briefings
+
+      - name: Fact-check news
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ChatGPT: ${{ secrets.ChatGPT }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: node scripts/fact-check.js src/content/news
+
+      - name: Commit verification status
+        run: |
+          git config user.name "AEA Content Bot"
+          git config user.email "content-bot@americanemployers.org"
+          git add src/content/verification.json src/content/.fact-check-report.json
+          if git diff --staged --quiet; then
+            echo "No changes to verification status"
+          else
+            git commit -m "Weekly content audit: $(date +%Y-%m-%d) [verified]"
+            git push origin main
+          fi

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import VerifiedBadge from '@/components/VerifiedBadge';
 
 const topics = [
   'Compliance',
@@ -101,8 +102,9 @@ export default function Footer() {
         </div>
 
         {/* Copyright */}
-        <div className="mt-8 pt-8 border-t border-ink-800 flex flex-col md:flex-row items-center justify-between text-xs text-ink-500">
+        <div className="mt-8 pt-8 border-t border-ink-800 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-ink-500">
           <p>&copy; {new Date().getFullYear()} American Employers Alliance. All rights reserved.</p>
+          <VerifiedBadge />
           <p className="mt-2 md:mt-0">
             A national employer association
           </p>
