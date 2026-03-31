@@ -9,6 +9,12 @@ export const metadata: Metadata = {
 
 const tools = [
   {
+    title: 'Risk Radar',
+    description: 'Assess employment risk before you act. Describe an employee situation and get an AI-powered risk assessment, recommended next steps, and HR document generation.',
+    href: '/tools/risk-radar',
+    examples: ['Termination risk assessment', 'Discipline documentation', 'ADA accommodation analysis', 'Harassment complaint response'],
+  },
+  {
     title: 'HR & Compliance Advisor',
     description: 'Ask any HR or compliance question and get instant, practical guidance. Like having an HR advisor on demand.',
     href: '/tools/advisor',

@@ -24,12 +24,20 @@ export default function Header() {
           <p className="text-xs text-ink-400 hidden sm:block">
             National Employer Association - Est. 2013
           </p>
-          <Link
-            href="/membership"
-            className="text-xs font-semibold text-white hover:text-brand-red transition-colors ml-auto"
-          >
-            Become a Member
-          </Link>
+          <div className="flex items-center gap-4 ml-auto">
+            <Link
+              href="/member-login"
+              className="text-xs text-ink-400 hover:text-white transition-colors"
+            >
+              Member Login
+            </Link>
+            <Link
+              href="/membership"
+              className="text-xs font-semibold text-white hover:text-brand-red transition-colors"
+            >
+              Become a Member
+            </Link>
+          </div>
         </div>
       </div>
 
