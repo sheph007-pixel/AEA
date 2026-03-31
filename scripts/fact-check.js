@@ -19,23 +19,23 @@ const https = require('https');
 const DEFAULT_DIR = path.join(__dirname, '..', 'src', 'content', 'briefings');
 const REPORT_PATH = path.join(__dirname, '..', 'src', 'content', '.fact-check-report.json');
 
-function callAnthropic(prompt) {
+function callOpenAI(prompt) {
   return new Promise((resolve, reject) => {
     const data = JSON.stringify({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 1500,
+      model: 'gpt-4o-mini',
       messages: [{ role: 'user', content: prompt }],
+      max_tokens: 1500,
+      temperature: 0.2,
     });
 
     const options = {
-      hostname: 'api.anthropic.com',
+      hostname: 'api.openai.com',
       port: 443,
-      path: '/v1/messages',
+      path: '/v1/chat/completions',
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': process.env.ANTHROPIC_API_KEY,
-        'anthropic-version': '2023-06-01',
+        Authorization: `Bearer ${process.env.OPENAI_API_KEY || process.env.ChatGPT}`,
       },
     };
 
@@ -45,8 +45,8 @@ function callAnthropic(prompt) {
       res.on('end', () => {
         try {
           const parsed = JSON.parse(body);
-          if (parsed.content && parsed.content[0]) {
-            resolve(parsed.content[0].text);
+          if (parsed.choices && parsed.choices[0]) {
+            resolve(parsed.choices[0].message.content);
           } else {
             reject(new Error('Unexpected response: ' + body.substring(0, 300)));
           }
@@ -97,7 +97,7 @@ ${content}
 Respond ONLY with the JSON object, nothing else.`;
 
   try {
-    const result = await callAnthropic(prompt);
+    const result = await callOpenAI(prompt);
     const parsed = JSON.parse(result);
     return {
       file: path.basename(filePath),
@@ -117,8 +117,9 @@ Respond ONLY with the JSON object, nothing else.`;
 }
 
 async function main() {
-  if (!process.env.ANTHROPIC_API_KEY) {
-    console.error('ANTHROPIC_API_KEY is required');
+  const apiKey = process.env.OPENAI_API_KEY || process.env.ChatGPT;
+  if (!apiKey) {
+    console.error('OPENAI_API_KEY or ChatGPT env var is required');
     process.exit(1);
   }
 

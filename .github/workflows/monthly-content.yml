@@ -29,13 +29,9 @@ jobs:
 
       - name: Fact-check briefings
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          if [ -n "$ANTHROPIC_API_KEY" ]; then
-            node scripts/fact-check.js src/content/briefings
-          else
-            echo "ANTHROPIC_API_KEY not set, skipping fact-check"
-          fi
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ChatGPT: ${{ secrets.ChatGPT }}
+        run: node scripts/fact-check.js src/content/briefings
 
       - name: Commit and push
         run: |
