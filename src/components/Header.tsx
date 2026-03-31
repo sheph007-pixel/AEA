@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { useMember } from '@/components/MemberContext';
 
-const navLinks = [
+const publicNavLinks = [
   { name: 'About', href: '/about' },
   { name: 'Membership', href: '/membership' },
   { name: 'Resources', href: '/resources' },
@@ -14,9 +14,20 @@ const navLinks = [
   { name: 'Contact', href: '/contact' },
 ];
 
+const memberNavLinks = [
+  { name: 'Member Portal', href: '/member-portal' },
+  { name: 'AI Tools', href: '/tools' },
+  { name: 'Risk Radar', href: '/tools/risk-radar' },
+  { name: 'Briefings', href: '/briefings' },
+  { name: 'Resources', href: '/resources' },
+  { name: 'Outlook', href: '/outlook' },
+];
+
 export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const { member, isMember, logout } = useMember();
+
+  const navLinks = isMember ? memberNavLinks : publicNavLinks;
 
   return (
     <header className="bg-white sticky top-0 z-50 border-b border-ink-100">
@@ -78,7 +89,7 @@ export default function Header() {
                 key={link.name}
                 href={link.href}
                 className={`px-3 py-2 text-sm font-medium transition-colors ${
-                  link.name === 'AI Tools'
+                  (link.name === 'AI Tools' && !isMember) || link.name === 'Member Portal'
                     ? 'text-brand-red hover:text-brand-red-dark font-semibold'
                     : 'text-ink-600 hover:text-ink-900'
                 }`}

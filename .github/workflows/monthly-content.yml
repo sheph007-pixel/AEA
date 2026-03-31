@@ -27,14 +27,24 @@ jobs:
           ChatGPT: ${{ secrets.ChatGPT }}
         run: node scripts/generate-monthly-briefings.js
 
+      - name: Fact-check briefings
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then
+            node scripts/fact-check.js src/content/briefings
+          else
+            echo "ANTHROPIC_API_KEY not set, skipping fact-check"
+          fi
+
       - name: Commit and push
         run: |
           git config user.name "AEA Content Bot"
           git config user.email "content-bot@americanemployers.org"
-          git add src/content/briefings/
+          git add src/content/
           if git diff --staged --quiet; then
             echo "No new briefings to commit"
           else
-            git commit -m "Monthly employer briefings: $(date +%B\ %Y)"
+            git commit -m "Monthly employer briefings: $(date +%B\ %Y) [fact-checked]"
             git push origin main
           fi
