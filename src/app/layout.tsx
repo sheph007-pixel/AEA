@@ -3,6 +3,7 @@ import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import LiveAgent from '@/components/LiveAgent';
+import ClientProviders from '@/components/ClientProviders';
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -59,10 +60,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="font-sans antialiased">
-        <Header />
-        <main className="min-h-screen">{children}</main>
-        <Footer />
-        <LiveAgent />
+        <ClientProviders>
+          <Header />
+          <main className="min-h-screen">{children}</main>
+          <Footer />
+          <LiveAgent />
+        </ClientProviders>
       </body>
     </html>
   );

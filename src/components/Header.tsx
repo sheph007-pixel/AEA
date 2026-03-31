@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import { useMember } from '@/components/MemberContext';
 
 const navLinks = [
   { name: 'About', href: '/about' },
@@ -15,6 +16,7 @@ const navLinks = [
 
 export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const { member, isMember, logout } = useMember();
 
   return (
     <header className="bg-white sticky top-0 z-50 border-b border-ink-100">
@@ -25,18 +27,34 @@ export default function Header() {
             National Employer Association - Est. 2013
           </p>
           <div className="flex items-center gap-4 ml-auto">
-            <Link
-              href="/member-login"
-              className="text-xs text-ink-400 hover:text-white transition-colors"
-            >
-              Member Login
-            </Link>
-            <Link
-              href="/membership"
-              className="text-xs font-semibold text-white hover:text-brand-red transition-colors"
-            >
-              Become a Member
-            </Link>
+            {isMember ? (
+              <>
+                <span className="text-xs text-green-400 font-medium">
+                  {member?.name} {member?.company ? `(${member.company})` : ''}
+                </span>
+                <button
+                  onClick={logout}
+                  className="text-xs text-ink-400 hover:text-white transition-colors"
+                >
+                  Logout
+                </button>
+              </>
+            ) : (
+              <>
+                <Link
+                  href="/member-login"
+                  className="text-xs text-ink-400 hover:text-white transition-colors"
+                >
+                  Member Login
+                </Link>
+                <Link
+                  href="/membership"
+                  className="text-xs font-semibold text-white hover:text-brand-red transition-colors"
+                >
+                  Become a Member
+                </Link>
+              </>
+            )}
           </div>
         </div>
       </div>
@@ -104,13 +122,19 @@ export default function Header() {
               </Link>
             ))}
             <div className="pt-3">
-              <Link
-                href="/membership"
-                className="btn-primary w-full text-center"
-                onClick={() => setMobileOpen(false)}
-              >
-                Become a Member
-              </Link>
+              {isMember ? (
+                <div className="px-3 py-2 text-sm text-green-700 font-medium">
+                  Logged in as {member?.name}
+                </div>
+              ) : (
+                <Link
+                  href="/member-login"
+                  className="btn-primary w-full text-center"
+                  onClick={() => setMobileOpen(false)}
+                >
+                  Member Login
+                </Link>
+              )}
             </div>
           </div>
         </div>
