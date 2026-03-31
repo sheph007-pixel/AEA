@@ -94,7 +94,7 @@ export default function LiveAgent() {
       {/* Toggle Button */}
       <button
         onClick={() => setOpen(!open)}
-        className="fixed bottom-6 left-6 z-50 flex items-center gap-2 bg-ink-900 text-white pl-4 pr-5 py-3 rounded-full shadow-lg hover:bg-ink-700 transition-colors"
+        className="fixed bottom-4 left-4 z-50 flex items-center gap-2 bg-ink-900 text-white pl-3 pr-4 py-2.5 sm:pl-4 sm:pr-5 sm:py-3 rounded-full shadow-lg hover:bg-ink-700 transition-colors"
         aria-label="Chat with AEA"
       >
         {open ? (
@@ -114,7 +114,7 @@ export default function LiveAgent() {
 
       {/* Chat Window */}
       {open && (
-        <div className="fixed bottom-20 left-6 z-50 w-80 sm:w-96 bg-white border border-ink-200 rounded-lg shadow-2xl flex flex-col max-h-[480px]">
+        <div className="fixed bottom-16 left-4 right-4 sm:right-auto sm:left-4 z-50 w-auto sm:w-96 bg-white border border-ink-200 rounded-lg shadow-2xl flex flex-col max-h-[70vh] sm:max-h-[480px]">
           {/* Header */}
           <div className="bg-ink-900 text-white px-4 py-3 rounded-t-lg flex items-center gap-3">
             <span className="relative flex h-2.5 w-2.5 shrink-0">

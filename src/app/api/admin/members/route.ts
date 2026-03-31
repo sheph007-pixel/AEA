@@ -21,7 +21,7 @@ export async function POST(request: Request) {
     }
     const plainCode = generateCode();
     const codeHash = hashCode(plainCode);
-    const member = await createMemberCode({ codeHash, name, company, email, expiresAt });
+    const member = await createMemberCode({ codeHash, codePlain: plainCode, name, company, email, expiresAt });
     return NextResponse.json({ code: plainCode, member });
   } catch (error) {
     console.error('Create member error:', error);

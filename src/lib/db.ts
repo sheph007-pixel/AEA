@@ -39,6 +39,7 @@ export async function initDB() {
     CREATE TABLE IF NOT EXISTS member_codes (
       id SERIAL PRIMARY KEY,
       code_hash VARCHAR(128) NOT NULL UNIQUE,
+      code_plain VARCHAR(64),
       name VARCHAR(255) NOT NULL,
       company VARCHAR(255),
       email VARCHAR(255),
@@ -48,6 +49,13 @@ export async function initDB() {
       updated_at TIMESTAMP DEFAULT NOW(),
       last_used_at TIMESTAMP
     )
+  `);
+  // Add code_plain column if it doesn't exist (migration for existing DBs)
+  await pool.query(`
+    DO $$ BEGIN
+      ALTER TABLE member_codes ADD COLUMN IF NOT EXISTS code_plain VARCHAR(64);
+    EXCEPTION WHEN undefined_table THEN NULL;
+    END $$
   `);
   await pool.query(`
     CREATE TABLE IF NOT EXISTS risk_radar_cases (
@@ -125,11 +133,11 @@ export async function updateMemberLastUsed(id: number) {
   await pool.query('UPDATE member_codes SET last_used_at = NOW(), updated_at = NOW() WHERE id = $1', [id]);
 }
 
-export async function createMemberCode(data: { codeHash: string; name: string; company?: string; email?: string; expiresAt?: string }) {
+export async function createMemberCode(data: { codeHash: string; codePlain?: string; name: string; company?: string; email?: string; expiresAt?: string }) {
   await initDB();
   const result = await pool.query(
-    `INSERT INTO member_codes (code_hash, name, company, email, expires_at) VALUES ($1, $2, $3, $4, $5) RETURNING *`,
-    [data.codeHash, data.name, data.company || null, data.email || null, data.expiresAt || null]
+    `INSERT INTO member_codes (code_hash, code_plain, name, company, email, expires_at) VALUES ($1, $2, $3, $4, $5, $6) RETURNING *`,
+    [data.codeHash, data.codePlain || null, data.name, data.company || null, data.email || null, data.expiresAt || null]
   );
   return result.rows[0];
 }

@@ -97,7 +97,7 @@ export default function Header() {
               <Link
                 key={link.name}
                 href={link.href}
-                className="block px-3 py-2.5 text-base font-medium text-ink-700 hover:text-ink-900 hover:bg-ink-50 rounded"
+                className="block px-3 py-3 text-base font-medium text-ink-700 hover:text-ink-900 hover:bg-ink-50 rounded"
                 onClick={() => setMobileOpen(false)}
               >
                 {link.name}

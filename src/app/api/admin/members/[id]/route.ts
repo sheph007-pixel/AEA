@@ -8,7 +8,7 @@ export async function PATCH(request: Request, { params }: { params: { id: string
   }
   try {
     const { status } = await request.json();
-    if (!['active', 'inactive', 'revoked'].includes(status)) {
+    if (!['active', 'inactive', 'termed'].includes(status)) {
       return NextResponse.json({ error: 'Invalid status' }, { status: 400 });
     }
     await updateMemberStatus(parseInt(params.id), status);

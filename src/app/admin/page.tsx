@@ -7,8 +7,8 @@ interface Member {
   name: string;
   company: string | null;
   email: string | null;
+  code_plain: string | null;
   status: string;
-  expires_at: string | null;
   last_used_at: string | null;
   created_at: string;
 }
@@ -20,6 +20,8 @@ interface Stats {
   issueTypes: { issue_type: string; count: string }[];
 }
 
+type FilterTab = 'all' | 'active' | 'termed';
+
 export default function AdminPage() {
   const [authed, setAuthed] = useState(false);
   const [secret, setSecret] = useState('');
@@ -27,8 +29,9 @@ export default function AdminPage() {
   const [members, setMembers] = useState<Member[]>([]);
   const [stats, setStats] = useState<Stats | null>(null);
   const [newCode, setNewCode] = useState('');
-  const [form, setForm] = useState({ name: '', company: '', email: '', expiresAt: '' });
+  const [form, setForm] = useState({ name: '', company: '', email: '' });
   const [creating, setCreating] = useState(false);
+  const [filter, setFilter] = useState<FilterTab>('all');
 
   const loadData = useCallback(async () => {
     const [mRes, sRes] = await Promise.all([
@@ -76,7 +79,7 @@ export default function AdminPage() {
     if (res.ok) {
       const data = await res.json();
       setNewCode(data.code);
-      setForm({ name: '', company: '', email: '', expiresAt: '' });
+      setForm({ name: '', company: '', email: '' });
       loadData();
     }
     setCreating(false);
@@ -90,6 +93,13 @@ export default function AdminPage() {
     });
     loadData();
   }
+
+  const filteredMembers = members.filter((m) => {
+    if (filter === 'all') return true;
+    if (filter === 'active') return m.status === 'active';
+    if (filter === 'termed') return m.status === 'termed' || m.status === 'inactive' || m.status === 'revoked';
+    return true;
+  });
 
   if (!authed) {
     return (
@@ -142,11 +152,10 @@ export default function AdminPage() {
         {/* Create Member Code */}
         <div className="bg-ink-50 border border-ink-100 rounded p-6 mb-10">
           <h2 className="font-semibold text-ink-900 mb-4">Create Member Code</h2>
-          <form onSubmit={handleCreate} className="grid sm:grid-cols-5 gap-3">
+          <form onSubmit={handleCreate} className="grid sm:grid-cols-4 gap-3">
             <input type="text" required placeholder="Name" value={form.name} onChange={(e) => setForm((f) => ({ ...f, name: e.target.value }))} className="px-3 py-2 border border-ink-200 rounded text-sm outline-none" />
             <input type="text" placeholder="Company" value={form.company} onChange={(e) => setForm((f) => ({ ...f, company: e.target.value }))} className="px-3 py-2 border border-ink-200 rounded text-sm outline-none" />
             <input type="email" placeholder="Email" value={form.email} onChange={(e) => setForm((f) => ({ ...f, email: e.target.value }))} className="px-3 py-2 border border-ink-200 rounded text-sm outline-none" />
-            <input type="date" placeholder="Expires" value={form.expiresAt} onChange={(e) => setForm((f) => ({ ...f, expiresAt: e.target.value }))} className="px-3 py-2 border border-ink-200 rounded text-sm outline-none" />
             <button type="submit" disabled={creating} className="btn-primary text-sm disabled:opacity-50">Create</button>
           </form>
           {newCode && (
@@ -161,6 +170,24 @@ export default function AdminPage() {
 
         {/* Member Codes Table */}
         <h2 className="font-semibold text-ink-900 mb-4">Member Codes</h2>
+
+        {/* Filter Tabs */}
+        <div className="flex gap-1 mb-4">
+          {(['all', 'active', 'termed'] as FilterTab[]).map((tab) => (
+            <button
+              key={tab}
+              onClick={() => setFilter(tab)}
+              className={`px-4 py-1.5 rounded text-sm font-medium transition-colors ${
+                filter === tab
+                  ? 'bg-ink-900 text-white'
+                  : 'bg-ink-100 text-ink-600 hover:bg-ink-200'
+              }`}
+            >
+              {tab.charAt(0).toUpperCase() + tab.slice(1)}
+            </button>
+          ))}
+        </div>
+
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
             <thead>
@@ -168,24 +195,31 @@ export default function AdminPage() {
                 <th className="pb-2 pr-4 font-semibold text-ink-700">Name</th>
                 <th className="pb-2 pr-4 font-semibold text-ink-700">Company</th>
                 <th className="pb-2 pr-4 font-semibold text-ink-700">Email</th>
+                <th className="pb-2 pr-4 font-semibold text-ink-700">Code</th>
                 <th className="pb-2 pr-4 font-semibold text-ink-700">Status</th>
                 <th className="pb-2 pr-4 font-semibold text-ink-700">Last Used</th>
                 <th className="pb-2 font-semibold text-ink-700">Actions</th>
               </tr>
             </thead>
             <tbody>
-              {members.map((m) => (
+              {filteredMembers.map((m) => (
                 <tr key={m.id} className="border-b border-ink-100">
                   <td className="py-3 pr-4">{m.name}</td>
                   <td className="py-3 pr-4 text-ink-500">{m.company || '-'}</td>
                   <td className="py-3 pr-4 text-ink-500">{m.email || '-'}</td>
                   <td className="py-3 pr-4">
+                    {m.code_plain ? (
+                      <code className="font-mono text-xs bg-ink-100 px-1.5 py-0.5 rounded">{m.code_plain}</code>
+                    ) : (
+                      <span className="text-ink-400 text-xs">-</span>
+                    )}
+                  </td>
+                  <td className="py-3 pr-4">
                     <span className={`inline-block px-2 py-0.5 rounded text-xs font-semibold ${
                       m.status === 'active' ? 'bg-green-100 text-green-800' :
-                      m.status === 'inactive' ? 'bg-yellow-100 text-yellow-800' :
                       'bg-red-100 text-red-800'
                     }`}>
-                      {m.status}
+                      {m.status === 'active' ? 'active' : 'termed'}
                     </span>
                   </td>
                   <td className="py-3 pr-4 text-ink-400 text-xs">
@@ -193,13 +227,10 @@ export default function AdminPage() {
                   </td>
                   <td className="py-3 space-x-2">
                     {m.status === 'active' && (
-                      <button onClick={() => handleStatusChange(m.id, 'inactive')} className="text-xs text-yellow-700 hover:underline">Disable</button>
+                      <button onClick={() => handleStatusChange(m.id, 'termed')} className="text-xs text-red-700 hover:underline">Term</button>
                     )}
-                    {m.status === 'inactive' && (
-                      <button onClick={() => handleStatusChange(m.id, 'active')} className="text-xs text-green-700 hover:underline">Enable</button>
-                    )}
-                    {m.status !== 'revoked' && (
-                      <button onClick={() => handleStatusChange(m.id, 'revoked')} className="text-xs text-red-700 hover:underline">Revoke</button>
+                    {m.status !== 'active' && (
+                      <button onClick={() => handleStatusChange(m.id, 'active')} className="text-xs text-green-700 hover:underline">Activate</button>
                     )}
                   </td>
                 </tr>
