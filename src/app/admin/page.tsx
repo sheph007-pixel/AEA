@@ -19,7 +19,8 @@ interface Stats {
 }
 
 interface AuditData {
-  lastChecked: string; totalChecked: number; passed: number; flagged: number; failed: number; status: string;
+  lastChecked: string; totalFiles: number; totalVerified: number; newChecked: number; cached: number;
+  totalChecked: number; passed: number; flagged: number; failed: number; status: string;
 }
 
 type Tab = 'members' | 'contacts' | 'stats' | 'audit';
@@ -309,20 +310,24 @@ export default function AdminPage() {
 
             {audit ? (
               <div className="space-y-6">
-                <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
                   <div className="bg-ink-50 border border-ink-100 rounded p-4">
                     <p className={`text-2xl font-bold ${audit.status === 'verified' ? 'text-green-700' : 'text-red-700'}`}>
-                      {audit.status === 'verified' ? 'Verified' : 'Issues Found'}
+                      {audit.status === 'verified' ? 'Verified' : 'Issues'}
                     </p>
                     <p className="text-xs text-ink-500">Status</p>
                   </div>
                   <div className="bg-ink-50 border border-ink-100 rounded p-4">
-                    <p className="text-2xl font-bold text-ink-900">{audit.totalChecked}</p>
-                    <p className="text-xs text-ink-500">Files Checked</p>
+                    <p className="text-2xl font-bold text-ink-900">{audit.totalFiles || audit.totalChecked}</p>
+                    <p className="text-xs text-ink-500">Total Files</p>
                   </div>
                   <div className="bg-ink-50 border border-ink-100 rounded p-4">
-                    <p className="text-2xl font-bold text-green-700">{audit.passed}</p>
-                    <p className="text-xs text-ink-500">Passed</p>
+                    <p className="text-2xl font-bold text-green-700">{audit.totalVerified || audit.passed}</p>
+                    <p className="text-xs text-ink-500">Verified</p>
+                  </div>
+                  <div className="bg-ink-50 border border-ink-100 rounded p-4">
+                    <p className="text-2xl font-bold text-ink-500">{audit.cached || 0}</p>
+                    <p className="text-xs text-ink-500">Cached (unchanged)</p>
                   </div>
                   <div className="bg-ink-50 border border-ink-100 rounded p-4">
                     <p className="text-2xl font-bold text-amber-600">{audit.flagged}</p>

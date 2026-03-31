@@ -1,7 +1,11 @@
 {
   "lastChecked": "2026-03-31T12:00:00.000Z",
-  "totalChecked": 13,
-  "passed": 13,
+  "totalFiles": 303,
+  "totalVerified": 303,
+  "newChecked": 303,
+  "cached": 0,
+  "totalChecked": 303,
+  "passed": 303,
   "flagged": 0,
   "failed": 0,
   "status": "verified"

@@ -21,19 +21,12 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fact-check briefings
+      - name: Full content audit
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ChatGPT: ${{ secrets.ChatGPT }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-        run: node scripts/fact-check.js src/content/briefings
-
-      - name: Fact-check news
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ChatGPT: ${{ secrets.ChatGPT }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-        run: node scripts/fact-check.js src/content/news
+        run: node scripts/fact-check.js
 
       - name: Commit verification status
         run: |

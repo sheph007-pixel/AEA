@@ -144,21 +144,30 @@ async function main() {
     process.exit(1);
   }
 
-  const targetDir = process.argv[2] || DEFAULT_DIR;
-  if (!fs.existsSync(targetDir)) {
-    console.error(`Directory not found: ${targetDir}`);
-    process.exit(1);
+  // If a specific directory is passed, scan just that. Otherwise scan all content.
+  const ALL_DIRS = [
+    path.join(__dirname, '..', 'src', 'content', 'briefings'),
+    path.join(__dirname, '..', 'src', 'content', 'news'),
+    path.join(__dirname, '..', 'src', 'content', 'insights'),
+    path.join(__dirname, '..', 'src', 'content', 'resources'),
+  ];
+  const targetDirs = process.argv[2]
+    ? [process.argv[2]]
+    : ALL_DIRS;
+
+  // Collect all .md files across all target directories
+  const allFiles = [];
+  for (const dir of targetDirs) {
+    if (!fs.existsSync(dir)) continue;
+    const dirFiles = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
+    for (const f of dirFiles) {
+      allFiles.push({ dir, file: f, fullPath: path.join(dir, f) });
+    }
   }
 
-  const files = fs.readdirSync(targetDir)
-    .filter(f => f.endsWith('.md'))
-    .sort()
-    .reverse()
-    .slice(0, 20); // Check up to 20 most recent files
+  console.log(`Found ${allFiles.length} total content files across ${targetDirs.length} director${targetDirs.length === 1 ? 'y' : 'ies'}.\n`);
 
-  console.log(`Fact-checking ${files.length} files in ${targetDir}...\n`);
-
-  // Load existing report
+  // Load existing report (cached results keyed by file path)
   let existingReport = {};
   if (fs.existsSync(REPORT_PATH)) {
     try { existingReport = JSON.parse(fs.readFileSync(REPORT_PATH, 'utf8')); } catch {}
@@ -166,22 +175,25 @@ async function main() {
 
   const results = [];
   let passCount = 0, flagCount = 0, failCount = 0, errorCount = 0;
+  let skippedCount = 0, checkedCount = 0;
 
-  for (const file of files) {
-    const filePath = path.join(targetDir, file);
-    const content = fs.readFileSync(filePath, 'utf8');
-
-    // Skip if already checked and file hasn't changed
+  for (const { file, fullPath } of allFiles) {
+    const content = fs.readFileSync(fullPath, 'utf8');
     const fileHash = require('crypto').createHash('md5').update(content).digest('hex');
-    if (existingReport[file]?.hash === fileHash && existingReport[file]?.status === 'pass') {
-      console.log(`  SKIP  ${file} (already verified)`);
-      results.push({ ...existingReport[file], file });
+    const cacheKey = file; // Use filename as cache key
+
+    // Skip if already verified and file content hasn't changed
+    if (existingReport[cacheKey]?.hash === fileHash && existingReport[cacheKey]?.status === 'pass') {
+      results.push({ ...existingReport[cacheKey], file });
       passCount++;
+      skippedCount++;
       continue;
     }
 
+    // New or changed file - needs checking
+    checkedCount++;
     process.stdout.write(`  CHECK ${file}... `);
-    const result = await factCheck(filePath, content.substring(0, 4000));
+    const result = await factCheck(fullPath, content.substring(0, 4000));
     result.hash = fileHash;
     results.push(result);
 
@@ -190,9 +202,11 @@ async function main() {
     else if (result.status === 'fail') { failCount++; console.log(`FAIL (${result.issues.length} issues)`); }
     else { errorCount++; console.log('ERROR'); }
 
-    // Rate limit: brief pause between checks
+    // Rate limit: pause between API calls
     await new Promise(r => setTimeout(r, 500));
   }
+
+  console.log(`\n  ${skippedCount} files already verified (cached), ${checkedCount} files checked this run.`);
 
   // Save report
   const report = {};
@@ -203,7 +217,11 @@ async function main() {
   const VERIFICATION_PATH = path.join(__dirname, '..', 'src', 'content', 'verification.json');
   fs.writeFileSync(VERIFICATION_PATH, JSON.stringify({
     lastChecked: new Date().toISOString(),
-    totalChecked: files.length,
+    totalFiles: allFiles.length,
+    totalVerified: passCount,
+    newChecked: checkedCount,
+    cached: skippedCount,
+    totalChecked: passCount + flagCount + failCount + errorCount,
     passed: passCount,
     flagged: flagCount,
     failed: failCount,
