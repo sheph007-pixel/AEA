@@ -152,6 +152,31 @@ export async function listMemberCodes() {
   return result.rows;
 }
 
+export async function deleteMemberCode(id: number) {
+  await pool.query('DELETE FROM member_codes WHERE id = $1', [id]);
+}
+
+// -- Contacts (form submissions) management --
+export async function listContacts() {
+  await initDB();
+  const result = await pool.query(
+    `SELECT id, form_type, first_name, last_name, email, company, employees, interest, industry, message,
+     COALESCE(status, 'active') as status, created_at
+     FROM form_submissions ORDER BY created_at DESC`
+  );
+  return result.rows;
+}
+
+export async function updateContactStatus(id: number, status: string) {
+  // Add status column if it doesn't exist
+  await pool.query(`ALTER TABLE form_submissions ADD COLUMN IF NOT EXISTS status VARCHAR(20) DEFAULT 'active'`);
+  await pool.query('UPDATE form_submissions SET status = $1 WHERE id = $2', [status, id]);
+}
+
+export async function deleteContact(id: number) {
+  await pool.query('DELETE FROM form_submissions WHERE id = $1', [id]);
+}
+
 // -- Risk Radar cases --
 export async function saveRiskRadarCase(data: {
   memberId?: number; state: string; companySize: string; issueType: string;
