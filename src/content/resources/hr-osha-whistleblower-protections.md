@@ -2,7 +2,7 @@
 title: "OSHA Whistleblower Protections for Employers"
 description: "Understanding the scope of OSHA-administered whistleblower protection statutes and employer compliance obligations."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["OSHA", "whistleblower", "retaliation", "compliance"]
 author: "AEA Editorial Team"
 ---

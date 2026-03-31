@@ -2,7 +2,7 @@
 title: "Employee Privacy and Workplace Monitoring Laws"
 description: "Legal framework for employee monitoring including email surveillance, video monitoring, GPS tracking, and social media policies."
 category: "Technology"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["employee privacy", "monitoring", "technology", "compliance"]
 author: "AEA Editorial Team"
 ---

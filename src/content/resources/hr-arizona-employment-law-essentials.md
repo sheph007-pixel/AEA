@@ -2,7 +2,7 @@
 title: "Arizona Employment Law Essentials for Employers"
 description: "Overview of key Arizona employment laws including the Fair Wages and Healthy Families Act, at-will employment, and workers' compensation."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["arizona", "employment law", "minimum wage", "compliance"]
 author: "AEA Editorial Team"
 ---

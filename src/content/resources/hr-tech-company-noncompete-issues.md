@@ -2,7 +2,7 @@
 title: "Noncompete Agreement Issues for Technology Companies"
 description: "Current legal landscape for noncompete agreements in the tech industry, including state restrictions and practical alternatives."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["technology", "noncompete", "employment agreements", "retention"]
 author: "AEA Editorial Team"
 ---

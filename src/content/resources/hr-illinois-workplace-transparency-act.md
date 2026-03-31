@@ -2,7 +2,7 @@
 title: "Illinois Workplace Transparency Act: Employer Guide"
 description: "Compliance requirements under the Illinois Workplace Transparency Act, including restrictions on arbitration agreements and confidentiality provisions."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["illinois", "workplace transparency", "arbitration", "compliance"]
 author: "AEA Editorial Team"
 ---

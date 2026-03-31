@@ -2,7 +2,7 @@
 title: "Managing FMLA Intermittent Leave"
 description: "Practical guidance for employers on handling intermittent FMLA leave requests and preventing abuse."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["FMLA", "intermittent leave", "compliance", "leave management"]
 author: "AEA Editorial Team"
 ---

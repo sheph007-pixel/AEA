@@ -2,7 +2,7 @@
 title: "I-9 Employment Verification: A Complete Employer Guide"
 description: "How to properly complete, store, and maintain I-9 forms in compliance with federal requirements."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["I-9", "employment verification", "compliance", "hiring"]
 author: "AEA Editorial Team"
 ---

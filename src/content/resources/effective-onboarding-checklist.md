@@ -2,7 +2,7 @@
 title: "The Complete New Hire Onboarding Checklist"
 description: "A comprehensive checklist for employers to ensure every new hire has a smooth and compliant onboarding experience."
 category: "Hiring"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["onboarding", "new hire", "checklist", "HR"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "How to Conduct an Employee Classification Audit"
 description: "A step-by-step guide to auditing your workforce classifications to ensure compliance with wage and hour laws."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["classification audit", "exempt", "non-exempt", "FLSA"]
 author: "AEA Editorial Team"
 ---

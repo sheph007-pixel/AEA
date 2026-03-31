@@ -2,7 +2,7 @@
 title: "Independent Contractor vs Employee: How to Classify Correctly"
 description: "A guide to understanding the legal tests used to distinguish independent contractors from employees."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["independent contractors", "employee classification", "IRS", "compliance"]
 author: "AEA Editorial Team"
 ---

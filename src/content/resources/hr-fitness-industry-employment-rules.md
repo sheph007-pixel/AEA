@@ -2,7 +2,7 @@
 title: "Employment Rules for Fitness and Gym Industry Employers"
 description: "Employment classification and wage compliance issues specific to gyms, fitness centers, and personal training businesses."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["fitness", "gym", "employee classification", "wages"]
 author: "AEA Editorial Team"
 ---

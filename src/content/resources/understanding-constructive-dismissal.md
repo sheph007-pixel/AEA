@@ -2,7 +2,7 @@
 title: "Understanding Constructive Dismissal Claims"
 description: "What employers need to know about constructive dismissal and how to reduce the risk of these claims."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["constructive dismissal", "termination", "employment law", "compliance"]
 author: "AEA Editorial Team"
 ---

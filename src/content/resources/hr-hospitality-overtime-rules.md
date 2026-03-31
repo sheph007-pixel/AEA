@@ -2,7 +2,7 @@
 title: "Hospitality Industry Overtime Rules and Compliance"
 description: "Overtime pay requirements and common compliance challenges for hotels, restaurants, and hospitality employers."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["hospitality", "overtime", "wages", "FLSA"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "Texas Workers' Compensation: What Employers Need to Know"
 description: "An overview of Texas workers' compensation law, including the unique option for employers to opt out of coverage."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["texas", "workers compensation", "insurance", "compliance"]
 author: "AEA Editorial Team"
 ---

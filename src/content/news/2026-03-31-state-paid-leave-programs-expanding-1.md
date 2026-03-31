@@ -2,7 +2,7 @@
 title: "Paid Leave Programs Continue to Expand at the State Level"
 description: "More states are enacting paid family and medical leave programs, creating new compliance obligations for multi-state employers."
 category: "HR Trends"
-date: "2025-03-31"
+date: "2026-03-31"
 author: "AEA Editorial Team"
 ---
 

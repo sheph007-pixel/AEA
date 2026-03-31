@@ -2,7 +2,7 @@
 title: "New York Paid Family Leave: Employer Guide"
 description: "Essential information for employers on New York's Paid Family Leave program, including contribution rates, employee eligibility, and compliance obligations."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["new york", "paid family leave", "benefits", "compliance"]
 author: "AEA Editorial Team"
 ---

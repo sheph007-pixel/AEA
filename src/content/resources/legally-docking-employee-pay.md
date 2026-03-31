@@ -2,7 +2,7 @@
 title: "When Can You Legally Dock an Employee's Pay"
 description: "An overview of federal and state rules governing when employers can and cannot make deductions from employee wages."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["wage deductions", "FLSA", "payroll", "compliance"]
 author: "AEA Editorial Team"
 ---

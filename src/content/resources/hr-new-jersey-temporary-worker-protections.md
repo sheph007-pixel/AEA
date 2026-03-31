@@ -2,7 +2,7 @@
 title: "New Jersey Temporary Worker Protections for Employers"
 description: "Compliance requirements under New Jersey's Temporary Workers' Bill of Rights and related protections for staffing agencies and client employers."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["new jersey", "temporary workers", "staffing", "compliance"]
 author: "AEA Editorial Team"
 ---

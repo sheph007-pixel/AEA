@@ -2,7 +2,7 @@
 title: "Developing a Social Media Policy for Your Workplace"
 description: "How to create a social media policy that protects your business without violating employee rights."
 category: "Technology"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["social media", "policy", "NLRA", "technology"]
 author: "AEA Editorial Team"
 ---

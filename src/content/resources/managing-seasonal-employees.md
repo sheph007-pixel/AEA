@@ -2,7 +2,7 @@
 title: "Managing Seasonal Employees: Hiring, Compliance, and Retention"
 description: "Best practices for employers who hire seasonal workers, from recruitment through separation."
 category: "Operations"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["seasonal employees", "hiring", "operations", "compliance"]
 author: "AEA Editorial Team"
 ---

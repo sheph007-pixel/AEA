@@ -2,7 +2,7 @@
 title: "Remote Employee Tax Nexus Issues for Employers"
 description: "Understanding how remote employees create state tax obligations for employers, including income tax withholding, nexus, and registration requirements."
 category: "Operations"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["remote work", "tax nexus", "multistate", "payroll"]
 author: "AEA Editorial Team"
 ---

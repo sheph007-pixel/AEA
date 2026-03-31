@@ -2,7 +2,7 @@
 title: "What to Do When You Receive an EEOC Charge"
 description: "A step-by-step guide for employers on responding to an EEOC charge of discrimination."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["EEOC", "discrimination charge", "compliance", "employment law"]
 author: "AEA Editorial Team"
 ---

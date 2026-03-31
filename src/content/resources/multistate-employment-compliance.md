@@ -2,7 +2,7 @@
 title: "Managing Compliance with Employees in Multiple States"
 description: "Key considerations for employers with employees working in more than one state."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["multistate", "compliance", "remote work", "employment law"]
 author: "AEA Editorial Team"
 ---

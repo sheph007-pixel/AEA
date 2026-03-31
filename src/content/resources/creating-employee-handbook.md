@@ -2,7 +2,7 @@
 title: "Essential Policies for Your Employee Handbook"
 description: "A guide to the core policies every employer should include in their employee handbook."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["employee handbook", "policies", "compliance", "HR"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "Employer Guide to Military Leave Under USERRA"
 description: "Understanding employer obligations when employees are called to military service."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["USERRA", "military leave", "compliance", "veterans"]
 author: "AEA Editorial Team"
 ---

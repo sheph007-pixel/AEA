@@ -2,7 +2,7 @@
 title: "Wage Theft Prevention: What Employers Need to Know"
 description: "How to ensure compliance with wage payment laws and avoid common wage theft pitfalls."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["wage theft", "FLSA", "payroll", "compliance"]
 author: "AEA Editorial Team"
 ---

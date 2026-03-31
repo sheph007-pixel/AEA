@@ -2,7 +2,7 @@
 title: "Employer Guide to Processing Wage Garnishments"
 description: "How to comply with wage garnishment orders while protecting both the employer and employee."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["wage garnishment", "payroll", "compliance", "CCPA"]
 author: "AEA Editorial Team"
 ---

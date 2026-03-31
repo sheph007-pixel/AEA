@@ -2,7 +2,7 @@
 title: "Understanding Prevailing Wage Requirements"
 description: "A guide for employers working on government contracts to understand and comply with prevailing wage laws."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["prevailing wage", "Davis-Bacon", "government contracts", "compliance"]
 author: "AEA Editorial Team"
 ---

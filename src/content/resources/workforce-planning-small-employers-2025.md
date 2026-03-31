@@ -2,7 +2,7 @@
 title: "Workforce Planning for Small Employers in 2025"
 description: "Strategic workforce planning approaches tailored for small and mid-size employers navigating a shifting labor market."
 category: "Small Business"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["workforce planning", "small business", "talent strategy", "labor market", "2025"]
 author: "AEA Editorial Team"
 featured: true

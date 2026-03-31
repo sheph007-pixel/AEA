@@ -2,7 +2,7 @@
 title: "Employer Guide to COBRA Compliance"
 description: "What employers need to know about COBRA notice requirements, qualifying events, and administration."
 category: "Benefits"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["COBRA", "health insurance", "benefits", "compliance"]
 author: "AEA Editorial Team"
 ---

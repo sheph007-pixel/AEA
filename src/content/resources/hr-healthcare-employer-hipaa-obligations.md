@@ -2,7 +2,7 @@
 title: "HIPAA Obligations for Healthcare Employers"
 description: "Understanding how HIPAA applies to healthcare employers regarding both patient information and employee health data."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["healthcare", "HIPAA", "privacy", "compliance"]
 author: "AEA Editorial Team"
 ---

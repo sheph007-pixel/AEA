@@ -2,7 +2,7 @@
 title: "FLSA Exempt Employee Salary Threshold Requirements"
 description: "Current salary threshold requirements for exempt employee classification under the Fair Labor Standards Act and state law variations."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["FLSA", "exempt employees", "salary threshold", "overtime"]
 author: "AEA Editorial Team"
 ---

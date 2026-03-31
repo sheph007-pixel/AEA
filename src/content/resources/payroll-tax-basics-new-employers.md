@@ -2,7 +2,7 @@
 title: "Payroll Tax Basics for New Employers"
 description: "An introduction to federal and state payroll tax obligations for businesses hiring their first employees."
 category: "Small Business"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["payroll taxes", "small business", "IRS", "new employer"]
 author: "AEA Editorial Team"
 ---

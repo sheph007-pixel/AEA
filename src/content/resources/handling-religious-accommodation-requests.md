@@ -2,7 +2,7 @@
 title: "How to Handle an Employee's Request for Religious Accommodation"
 description: "A practical guide for employers on evaluating and responding to religious accommodation requests under Title VII."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["religious accommodation", "Title VII", "compliance", "employee rights"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "California Privacy Rights Act: Employment Data Obligations"
 description: "How the California Privacy Rights Act affects employer handling of employee personal information and data privacy compliance."
 category: "Technology"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["california", "CPRA", "data privacy", "employment"]
 author: "AEA Editorial Team"
 ---

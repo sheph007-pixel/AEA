@@ -2,7 +2,7 @@
 title: "Creating Effective Job Postings That Attract Qualified Candidates"
 description: "How to write job postings that stand out, attract diverse candidates, and comply with legal requirements."
 category: "Hiring"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["job postings", "recruitment", "hiring", "talent acquisition"]
 author: "AEA Editorial Team"
 ---

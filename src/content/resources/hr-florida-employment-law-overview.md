@@ -2,7 +2,7 @@
 title: "Florida Employment Law Overview for Employers"
 description: "Key employment laws and regulations that Florida employers must understand, from minimum wage to anti-discrimination protections."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["florida", "employment law", "state law", "compliance"]
 author: "AEA Editorial Team"
 ---

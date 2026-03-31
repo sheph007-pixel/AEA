@@ -2,7 +2,7 @@
 title: "Washington State Paid Sick Leave Law for Employers"
 description: "Compliance guide for Washington employers on the statewide paid sick leave law, including accrual, usage, and carryover rules."
 category: "Benefits"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["washington", "paid sick leave", "benefits", "compliance"]
 author: "AEA Editorial Team"
 ---

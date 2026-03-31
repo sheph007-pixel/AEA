@@ -2,7 +2,7 @@
 title: "Setting Up a Workplace Ergonomics Program"
 description: "How to implement an ergonomics program that reduces injuries and improves employee comfort and productivity."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["ergonomics", "workplace safety", "OSHA", "injury prevention"]
 author: "AEA Editorial Team"
 ---

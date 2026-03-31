@@ -2,7 +2,7 @@
 title: "How to Handle Employee Complaints About a Manager"
 description: "A framework for employers to address employee complaints about managerial conduct fairly and effectively."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["employee relations", "complaints", "management", "HR"]
 author: "AEA Editorial Team"
 ---

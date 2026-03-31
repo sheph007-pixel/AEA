@@ -2,7 +2,7 @@
 title: "Understanding Employment At-Will and Its Exceptions"
 description: "What the at-will employment doctrine means in practice and the important exceptions employers must know."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["at-will employment", "wrongful termination", "employment law", "compliance"]
 author: "AEA Editorial Team"
 ---

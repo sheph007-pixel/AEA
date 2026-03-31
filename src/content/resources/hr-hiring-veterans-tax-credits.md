@@ -2,7 +2,7 @@
 title: "Hiring Veterans: Tax Credits and Legal Considerations"
 description: "Federal tax incentives for hiring veterans, USERRA compliance obligations, and best practices for veteran recruitment programs."
 category: "Hiring"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["veterans", "tax credits", "hiring", "WOTC"]
 author: "AEA Editorial Team"
 ---

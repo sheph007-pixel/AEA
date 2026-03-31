@@ -2,7 +2,7 @@
 title: "Health Insurance Costs Remain Top Concern for Small Employers"
 description: "Rising premiums continue to challenge small businesses, but several strategies can help manage costs without cutting coverage."
 category: "Benefits & Compensation"
-date: "2025-03-31"
+date: "2026-03-31"
 author: "AEA Editorial Team"
 ---
 

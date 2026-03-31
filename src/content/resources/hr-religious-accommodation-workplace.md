@@ -2,7 +2,7 @@
 title: "Religious Accommodation in the Workplace"
 description: "Employer obligations for religious accommodations under Title VII, including the expanded undue hardship standard after Groff v. DeJoy."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["religious accommodation", "Title VII", "diversity", "compliance"]
 author: "AEA Editorial Team"
 ---

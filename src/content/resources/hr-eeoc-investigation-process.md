@@ -2,7 +2,7 @@
 title: "Responding to an EEOC Investigation: Employer Guide"
 description: "Step-by-step guidance for employers facing an EEOC charge of discrimination, from initial response through resolution."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["EEOC", "discrimination", "investigation", "compliance"]
 author: "AEA Editorial Team"
 ---

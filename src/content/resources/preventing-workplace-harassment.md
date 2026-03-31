@@ -2,7 +2,7 @@
 title: "Building an Effective Workplace Harassment Prevention Program"
 description: "How to create a comprehensive harassment prevention program that goes beyond basic compliance."
 category: "Workplace Culture"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["harassment prevention", "Title VII", "workplace culture", "training"]
 author: "AEA Editorial Team"
 ---

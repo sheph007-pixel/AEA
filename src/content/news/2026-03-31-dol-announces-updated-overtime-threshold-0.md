@@ -2,7 +2,7 @@
 title: "DOL Expected to Revisit Overtime Salary Threshold Again"
 description: "The Department of Labor continues to evaluate salary threshold requirements for overtime exemptions, keeping employers on alert."
 category: "Employment Law"
-date: "2025-03-31"
+date: "2026-03-31"
 author: "AEA Editorial Team"
 ---
 

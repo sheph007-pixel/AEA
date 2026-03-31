@@ -2,7 +2,7 @@
 title: "Employer Guide to Setting Up a 401(k) Plan"
 description: "Key considerations for employers establishing a 401(k) retirement plan for their workforce."
 category: "Benefits"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["401k", "retirement", "benefits", "ERISA"]
 author: "AEA Editorial Team"
 ---

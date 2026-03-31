@@ -2,7 +2,7 @@
 title: "Understanding Non-Compete Agreement Enforceability"
 description: "What employers need to know about creating enforceable non-compete agreements in a changing legal landscape."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["non-compete", "restrictive covenants", "employment agreements", "compliance"]
 author: "AEA Editorial Team"
 ---

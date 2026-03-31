@@ -2,7 +2,7 @@
 title: "How to Handle Difficult Conversations with Employees"
 description: "Practical techniques for managers to navigate challenging workplace conversations with confidence."
 category: "Leadership"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["difficult conversations", "management", "leadership", "employee relations"]
 author: "AEA Editorial Team"
 ---

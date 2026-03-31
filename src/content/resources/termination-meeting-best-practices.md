@@ -2,7 +2,7 @@
 title: "How to Conduct a Termination Meeting Professionally"
 description: "A guide for employers on handling involuntary termination meetings with dignity, clarity, and legal awareness."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["termination", "employee relations", "HR", "management"]
 author: "AEA Editorial Team"
 ---

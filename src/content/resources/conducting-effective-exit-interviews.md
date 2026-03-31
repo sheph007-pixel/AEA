@@ -2,7 +2,7 @@
 title: "Conducting Effective Exit Interviews"
 description: "How to structure exit interviews that provide actionable insights for improving retention and workplace culture."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["exit interviews", "retention", "employee relations", "HR"]
 author: "AEA Editorial Team"
 ---

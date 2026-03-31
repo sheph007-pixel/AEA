@@ -2,7 +2,7 @@
 title: "Retail Scheduling Laws: Predictive Scheduling Compliance"
 description: "Guide to fair workweek and predictive scheduling laws affecting retail employers in major U.S. jurisdictions."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["retail", "scheduling", "predictive scheduling", "compliance"]
 author: "AEA Editorial Team"
 ---

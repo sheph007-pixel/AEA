@@ -2,7 +2,7 @@
 title: "Building a Workplace Violence Prevention Program"
 description: "How employers can develop and implement effective workplace violence prevention programs, including California SB 553 compliance."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["workplace violence", "safety", "prevention", "California"]
 author: "AEA Editorial Team"
 ---

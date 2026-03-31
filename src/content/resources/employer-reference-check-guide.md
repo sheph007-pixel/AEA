@@ -2,7 +2,7 @@
 title: "Employer Guide to Giving and Getting References"
 description: "How to conduct reference checks and respond to reference requests while managing legal risk."
 category: "Hiring"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["references", "hiring", "defamation", "employment verification"]
 author: "AEA Editorial Team"
 ---

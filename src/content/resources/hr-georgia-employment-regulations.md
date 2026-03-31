@@ -2,7 +2,7 @@
 title: "Georgia Employment Regulations Overview"
 description: "Key employment law considerations for Georgia employers, including limited state-level protections and federal compliance obligations."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["georgia", "employment law", "state law", "compliance"]
 author: "AEA Editorial Team"
 ---

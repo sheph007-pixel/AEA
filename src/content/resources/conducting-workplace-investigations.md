@@ -2,7 +2,7 @@
 title: "How to Conduct a Workplace Investigation"
 description: "A step-by-step guide for employers on conducting fair, thorough, and legally defensible workplace investigations."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["workplace investigation", "HR", "complaints", "compliance"]
 author: "AEA Editorial Team"
 ---

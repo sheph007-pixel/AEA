@@ -2,7 +2,7 @@
 title: "Employment Law for Auto Dealership Employers"
 description: "Industry-specific employment law considerations for automobile dealerships, including the FLSA salesperson exemption and commission pay rules."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["auto dealership", "sales", "commissions", "FLSA"]
 author: "AEA Editorial Team"
 ---

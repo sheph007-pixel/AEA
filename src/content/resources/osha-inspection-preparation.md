@@ -2,7 +2,7 @@
 title: "How to Prepare for an OSHA Inspection"
 description: "What employers need to know about OSHA inspections, their rights, and how to respond effectively."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["OSHA", "inspection", "workplace safety", "compliance"]
 author: "AEA Editorial Team"
 ---

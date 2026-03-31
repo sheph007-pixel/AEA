@@ -2,7 +2,7 @@
 title: "Managing Employee Leaves of Absence Beyond FMLA"
 description: "How to handle leave requests that fall outside FMLA coverage, including ADA leave and state leave laws."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["leave of absence", "FMLA", "ADA", "state leave laws"]
 author: "AEA Editorial Team"
 ---

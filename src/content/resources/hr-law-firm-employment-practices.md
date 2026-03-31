@@ -2,7 +2,7 @@
 title: "Employment Law Compliance for Law Firm Employers"
 description: "Unique employment compliance challenges facing law firms, including attorney classification, billing requirements, and partnership structures."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["law firms", "professional services", "classification", "HR management"]
 author: "AEA Editorial Team"
 ---

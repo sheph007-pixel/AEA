@@ -2,7 +2,7 @@
 title: "Colorado Equal Pay for Equal Work Act Compliance"
 description: "Employer obligations under Colorado's Equal Pay for Equal Work Act, including pay transparency and job posting requirements."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["colorado", "pay equity", "pay transparency", "compliance"]
 author: "AEA Editorial Team"
 ---

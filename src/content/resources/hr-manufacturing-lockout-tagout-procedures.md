@@ -2,7 +2,7 @@
 title: "Manufacturing Lockout/Tagout Procedures for Employers"
 description: "OSHA lockout/tagout requirements for manufacturing employers to prevent injuries from hazardous energy sources."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["manufacturing", "lockout tagout", "OSHA", "safety"]
 author: "AEA Editorial Team"
 ---

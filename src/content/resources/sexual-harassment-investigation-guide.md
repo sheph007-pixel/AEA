@@ -2,7 +2,7 @@
 title: "How to Investigate a Sexual Harassment Complaint"
 description: "A detailed guide for employers on properly investigating sexual harassment allegations in the workplace."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["sexual harassment", "investigation", "Title VII", "compliance"]
 author: "AEA Editorial Team"
 ---

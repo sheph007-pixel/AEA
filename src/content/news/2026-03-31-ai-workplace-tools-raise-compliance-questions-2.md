@@ -2,7 +2,7 @@
 title: "AI Workplace Tools Raise New Compliance Questions for Employers"
 description: "As employers adopt AI for hiring, performance management, and HR operations, regulators are paying closer attention."
 category: "Workplace Policy"
-date: "2025-03-31"
+date: "2026-03-31"
 author: "AEA Editorial Team"
 ---
 

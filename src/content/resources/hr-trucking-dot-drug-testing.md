@@ -2,7 +2,7 @@
 title: "DOT Drug Testing Requirements for Trucking Employers"
 description: "Mandatory drug and alcohol testing requirements for trucking companies under DOT and FMCSA regulations."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["trucking", "DOT", "drug testing", "FMCSA"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "FLSA Recordkeeping Requirements Every Employer Must Follow"
 description: "An overview of the records employers must maintain under the Fair Labor Standards Act."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["FLSA", "recordkeeping", "wage and hour", "compliance"]
 author: "AEA Editorial Team"
 ---

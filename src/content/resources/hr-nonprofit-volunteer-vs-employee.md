@@ -2,7 +2,7 @@
 title: "Nonprofit Volunteer vs. Employee Classification"
 description: "How nonprofit organizations can properly distinguish between volunteers and employees to avoid wage and hour violations."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["nonprofit", "volunteers", "employee classification", "FLSA"]
 author: "AEA Editorial Team"
 ---

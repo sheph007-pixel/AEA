@@ -2,7 +2,7 @@
 title: "Developing a Workplace Ergonomics Program"
 description: "How employers can create effective ergonomics programs to reduce musculoskeletal injuries, increase productivity, and manage workers' compensation costs."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["ergonomics", "safety", "workers compensation", "workplace health"]
 author: "AEA Editorial Team"
 ---

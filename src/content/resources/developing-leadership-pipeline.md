@@ -2,7 +2,7 @@
 title: "Building a Leadership Development Pipeline"
 description: "How to identify, develop, and prepare future leaders within your organization."
 category: "Leadership"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["leadership development", "succession planning", "talent management", "leadership"]
 author: "AEA Editorial Team"
 ---

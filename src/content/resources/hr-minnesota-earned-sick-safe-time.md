@@ -2,7 +2,7 @@
 title: "Minnesota Earned Sick and Safe Time Law"
 description: "Compliance requirements for Minnesota employers under the statewide earned sick and safe time law effective January 2024."
 category: "Benefits"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["minnesota", "sick leave", "safe time", "benefits"]
 author: "AEA Editorial Team"
 ---

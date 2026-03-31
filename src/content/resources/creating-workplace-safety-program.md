@@ -2,7 +2,7 @@
 title: "Building a Workplace Safety Program from Scratch"
 description: "A practical guide for employers on establishing an effective workplace safety and health program."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["OSHA", "workplace safety", "safety program", "compliance"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "Implementing a Progressive Discipline Policy"
 description: "How to create and apply a progressive discipline system that is fair, consistent, and legally defensible."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["progressive discipline", "employee relations", "HR", "termination"]
 author: "AEA Editorial Team"
 ---

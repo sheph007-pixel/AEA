@@ -2,7 +2,7 @@
 title: "Michigan Paid Medical Leave Act: Employer Compliance"
 description: "Guide to Michigan's Paid Medical Leave Act requirements for employers with 50 or more employees."
 category: "Benefits"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["michigan", "paid medical leave", "sick leave", "compliance"]
 author: "AEA Editorial Team"
 ---

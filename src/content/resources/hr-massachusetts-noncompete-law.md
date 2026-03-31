@@ -2,7 +2,7 @@
 title: "Massachusetts Noncompete Agreement Restrictions"
 description: "Guide to Massachusetts law restricting noncompete agreements, including garden leave requirements and exempted workers."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["massachusetts", "noncompete", "employment agreements", "compliance"]
 author: "AEA Editorial Team"
 ---

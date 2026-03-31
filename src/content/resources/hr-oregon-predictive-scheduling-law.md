@@ -2,7 +2,7 @@
 title: "Oregon Predictive Scheduling Law Compliance"
 description: "How Oregon employers in retail, hospitality, and food service must comply with the state's fair workweek scheduling law."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["oregon", "predictive scheduling", "fair workweek", "compliance"]
 author: "AEA Editorial Team"
 ---

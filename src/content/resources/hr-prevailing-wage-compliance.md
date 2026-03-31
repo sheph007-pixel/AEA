@@ -2,7 +2,7 @@
 title: "Prevailing Wage Compliance for Government Contractors"
 description: "Understanding Davis-Bacon Act and state prevailing wage requirements for employers performing government contract work."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["prevailing wage", "Davis-Bacon", "government contracts", "compliance"]
 author: "AEA Editorial Team"
 ---

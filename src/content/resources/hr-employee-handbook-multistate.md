@@ -2,7 +2,7 @@
 title: "Creating a Multistate Employee Handbook"
 description: "Strategies for developing employee handbooks that comply with varying state and local employment laws across multiple jurisdictions."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["employee handbook", "multistate", "compliance", "HR management"]
 author: "AEA Editorial Team"
 ---

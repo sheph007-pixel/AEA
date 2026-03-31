@@ -2,7 +2,7 @@
 title: "Construction Industry Safety Requirements for Employers"
 description: "Essential OSHA safety standards and compliance obligations for construction industry employers."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["construction", "OSHA", "safety", "industry-specific"]
 author: "AEA Editorial Team"
 ---

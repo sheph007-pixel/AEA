@@ -2,7 +2,7 @@
 title: "Employer Guide to Hiring Minors and Youth Employment Laws"
 description: "Federal and state rules employers must follow when hiring workers under 18 years of age."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["youth employment", "child labor", "FLSA", "compliance"]
 author: "AEA Editorial Team"
 ---

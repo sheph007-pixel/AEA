@@ -2,7 +2,7 @@
 title: "Pennsylvania Employment Law Guide for Employers"
 description: "Key Pennsylvania employment law requirements including wage payment, overtime, and Philadelphia-specific obligations."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["pennsylvania", "employment law", "wages", "compliance"]
 author: "AEA Editorial Team"
 ---

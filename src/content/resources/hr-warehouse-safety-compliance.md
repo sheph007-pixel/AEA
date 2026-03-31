@@ -2,7 +2,7 @@
 title: "Warehouse Safety Compliance for Employers"
 description: "OSHA requirements and best practices for maintaining safe warehouse operations, including forklift safety and ergonomic standards."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["warehouse", "safety", "OSHA", "operations"]
 author: "AEA Editorial Team"
 ---

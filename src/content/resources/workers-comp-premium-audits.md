@@ -2,7 +2,7 @@
 title: "Understanding Workers Comp Premium Audits"
 description: "What employers need to know about workers compensation premium audits and how to prepare for them."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["workers compensation", "insurance", "audits", "compliance"]
 author: "AEA Editorial Team"
 ---

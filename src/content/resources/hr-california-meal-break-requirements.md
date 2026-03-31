@@ -2,7 +2,7 @@
 title: "California Meal Break Requirements for Employers"
 description: "A comprehensive guide to California's strict meal and rest break laws under Labor Code Sections 226.7 and 512."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["california", "meal breaks", "labor law", "compliance"]
 author: "AEA Editorial Team"
 ---

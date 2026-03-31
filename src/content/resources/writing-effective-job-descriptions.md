@@ -2,7 +2,7 @@
 title: "Writing Effective Job Descriptions"
 description: "How to craft job descriptions that attract qualified candidates and provide legal protection."
 category: "Hiring"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["job descriptions", "hiring", "recruitment", "ADA"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "Agricultural Employer Labor Law Guide"
 description: "Key federal and state labor law requirements specific to agricultural employers, including FLSA exemptions and H-2A visa obligations."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["agriculture", "labor law", "H-2A", "FLSA"]
 author: "AEA Editorial Team"
 ---

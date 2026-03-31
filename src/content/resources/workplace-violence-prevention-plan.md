@@ -2,7 +2,7 @@
 title: "Developing a Workplace Violence Prevention Plan"
 description: "How employers can create and implement an effective workplace violence prevention program."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["workplace violence", "safety", "prevention", "OSHA"]
 author: "AEA Editorial Team"
 ---

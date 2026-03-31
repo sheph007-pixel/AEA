@@ -2,7 +2,7 @@
 title: "Joint Employer Liability: What Every Employer Should Know"
 description: "How joint employer status arises under the FLSA, NLRA, and other laws, and strategies to manage shared liability risks."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["joint employer", "staffing", "liability", "FLSA"]
 author: "AEA Editorial Team"
 ---

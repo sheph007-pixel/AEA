@@ -2,7 +2,7 @@
 title: "Restaurant Tip Pooling Rules: Federal and State Requirements"
 description: "A guide for restaurant employers on lawful tip pooling arrangements under the FLSA and state law variations."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["restaurants", "tip pooling", "FLSA", "wages"]
 author: "AEA Editorial Team"
 ---

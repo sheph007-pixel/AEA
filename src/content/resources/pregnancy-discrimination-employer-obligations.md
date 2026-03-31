@@ -2,7 +2,7 @@
 title: "Employer Obligations Under Pregnancy Discrimination Laws"
 description: "What employers must know about the Pregnancy Discrimination Act and the Pregnant Workers Fairness Act."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["pregnancy discrimination", "PWFA", "PDA", "compliance"]
 author: "AEA Editorial Team"
 ---

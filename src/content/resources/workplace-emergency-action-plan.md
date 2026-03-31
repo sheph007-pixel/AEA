@@ -2,7 +2,7 @@
 title: "How to Create a Workplace Emergency Action Plan"
 description: "Step-by-step guidance for employers on developing an OSHA-compliant emergency action plan."
 category: "Safety"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["OSHA", "emergency planning", "workplace safety", "compliance"]
 author: "AEA Editorial Team"
 ---

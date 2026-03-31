@@ -2,7 +2,7 @@
 title: "Creating an Employee Recognition Program That Works"
 description: "How to design and implement a recognition program that genuinely improves engagement and retention."
 category: "Workplace Culture"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["employee recognition", "engagement", "workplace culture", "retention"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "How to Address Workplace Bullying"
 description: "A guide for employers on identifying, preventing, and responding to workplace bullying behavior."
 category: "Workplace Culture"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["workplace bullying", "employee relations", "workplace culture", "management"]
 author: "AEA Editorial Team"
 ---

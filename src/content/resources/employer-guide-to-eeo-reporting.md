@@ -2,7 +2,7 @@
 title: "Employer Guide to EEO-1 Reporting"
 description: "What employers need to know about filing the annual EEO-1 report with the EEOC."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["EEO-1", "EEOC", "reporting", "compliance"]
 author: "AEA Editorial Team"
 ---

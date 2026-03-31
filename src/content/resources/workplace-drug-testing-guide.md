@@ -2,7 +2,7 @@
 title: "Employer Guide to Workplace Drug Testing"
 description: "How to implement a drug testing program that is legal, fair, and effective."
 category: "Operations"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["drug testing", "workplace policy", "DOT", "compliance"]
 author: "AEA Editorial Team"
 ---

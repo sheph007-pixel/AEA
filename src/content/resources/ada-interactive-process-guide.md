@@ -2,7 +2,7 @@
 title: "Navigating the ADA Interactive Process"
 description: "A practical guide for employers on engaging in the interactive process for disability accommodation requests."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["ADA", "disability accommodation", "interactive process", "compliance"]
 author: "AEA Editorial Team"
 ---

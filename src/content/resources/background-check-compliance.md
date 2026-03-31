@@ -2,7 +2,7 @@
 title: "Employer Guide to Background Check Compliance"
 description: "How to conduct employment background checks in compliance with the FCRA and state laws."
 category: "Hiring"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["background checks", "FCRA", "hiring", "compliance"]
 author: "AEA Editorial Team"
 ---

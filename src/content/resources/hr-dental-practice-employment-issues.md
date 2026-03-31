@@ -2,7 +2,7 @@
 title: "Employment Law Issues for Dental Practice Owners"
 description: "Key employment compliance considerations for dental practice employers, including associate agreements, hygienist classification, and OSHA obligations."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["dental", "healthcare", "employment law", "small business"]
 author: "AEA Editorial Team"
 ---

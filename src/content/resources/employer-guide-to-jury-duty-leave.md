@@ -2,7 +2,7 @@
 title: "Employer Obligations for Jury Duty Leave"
 description: "What employers need to know about employee rights and employer obligations when employees are called for jury duty."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["jury duty", "leave", "compliance", "employee rights"]
 author: "AEA Editorial Team"
 ---

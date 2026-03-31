@@ -2,7 +2,7 @@
 title: "Understanding the Difference Between Exempt and Non-Exempt Employees"
 description: "Learn how to correctly classify employees as exempt or non-exempt under the Fair Labor Standards Act."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["FLSA", "exempt", "non-exempt", "overtime", "wage and hour"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "How to Calculate Overtime Pay Correctly"
 description: "A guide to calculating overtime under the FLSA, including the regular rate of pay and common complicating factors."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["overtime", "FLSA", "payroll", "wage and hour"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "Succession Planning for Key Employee Positions"
 description: "How to develop and implement succession plans for critical roles to ensure business continuity and leadership pipeline development."
 category: "Leadership"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["succession planning", "leadership", "talent management", "retention"]
 author: "AEA Editorial Team"
 ---

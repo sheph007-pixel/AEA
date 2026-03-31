@@ -2,7 +2,7 @@
 title: "Setting Up Direct Deposit for Your Small Business"
 description: "A step-by-step guide to implementing direct deposit payroll for small business employers."
 category: "Small Business"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["payroll", "direct deposit", "small business", "operations"]
 author: "AEA Editorial Team"
 ---

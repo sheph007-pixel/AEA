@@ -2,7 +2,7 @@
 title: "Proven Employee Retention Strategies for Small Businesses"
 description: "Practical approaches small businesses can use to reduce turnover and retain top talent."
 category: "Small Business"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["retention", "employee engagement", "small business", "turnover"]
 author: "AEA Editorial Team"
 ---

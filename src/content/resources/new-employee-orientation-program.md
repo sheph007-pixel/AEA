@@ -2,7 +2,7 @@
 title: "Setting Up a New Employee Orientation Program"
 description: "How to design and implement an effective orientation program that sets new hires up for success."
 category: "Hiring"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["onboarding", "orientation", "new hires", "employee engagement"]
 author: "AEA Editorial Team"
 ---

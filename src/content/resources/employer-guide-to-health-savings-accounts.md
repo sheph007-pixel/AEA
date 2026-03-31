@@ -2,7 +2,7 @@
 title: "Employer Guide to Health Savings Accounts"
 description: "How HSAs work, employer contribution options, and compliance requirements for offering HSAs."
 category: "Benefits"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["HSA", "health savings account", "benefits", "HDHP"]
 author: "AEA Editorial Team"
 ---

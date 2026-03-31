@@ -2,7 +2,7 @@
 title: "Creating a Remote Work Policy for Your Business"
 description: "How to develop a comprehensive remote work policy that addresses legal, operational, and management considerations."
 category: "Operations"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["remote work", "telecommuting", "policy", "operations"]
 author: "AEA Editorial Team"
 ---

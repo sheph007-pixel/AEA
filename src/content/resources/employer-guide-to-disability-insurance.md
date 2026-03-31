@@ -2,7 +2,7 @@
 title: "Employer Guide to Short-Term and Long-Term Disability Insurance"
 description: "Understanding disability insurance options and obligations for employers."
 category: "Benefits"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["disability insurance", "benefits", "STD", "LTD"]
 author: "AEA Editorial Team"
 ---

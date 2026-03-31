@@ -2,7 +2,7 @@
 title: "How Employers Should Respond to a Data Breach"
 description: "Steps employers must take when employee personal data is compromised in a security breach."
 category: "Technology"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["data breach", "cybersecurity", "privacy", "compliance"]
 author: "AEA Editorial Team"
 ---

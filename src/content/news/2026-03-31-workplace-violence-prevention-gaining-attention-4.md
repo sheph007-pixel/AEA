@@ -2,7 +2,7 @@
 title: "Workplace Violence Prevention Standards Gaining Traction Nationwide"
 description: "New state requirements and federal guidance are pushing employers to formalize workplace violence prevention programs."
 category: "Business Operations"
-date: "2025-03-31"
+date: "2026-03-31"
 author: "AEA Editorial Team"
 ---
 

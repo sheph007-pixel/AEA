@@ -2,7 +2,7 @@
 title: "Managing Payroll for Tipped Employees"
 description: "How to correctly calculate wages, tip credits, and overtime for tipped employees under the FLSA."
 category: "Compliance"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["tipped employees", "FLSA", "payroll", "tip credit"]
 author: "AEA Editorial Team"
 ---

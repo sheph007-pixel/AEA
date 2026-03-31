@@ -2,7 +2,7 @@
 title: "Best Practices for Employee File Management"
 description: "How to organize, maintain, and secure employee personnel files in compliance with federal and state requirements."
 category: "HR Management"
-date: "2025-01-15"
+date: "2026-01-15"
 tags: ["personnel files", "recordkeeping", "compliance", "HR"]
 author: "AEA Editorial Team"
 ---
