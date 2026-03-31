@@ -1,11 +1,12 @@
 import Link from 'next/link';
-import { getAllContent, getRecentContent, getContentByCategory } from '@/lib/content';
+import { getRecentContent, getContentByCategory } from '@/lib/content';
+import { getLatestNews } from '@/lib/news';
 import CTASection from '@/components/CTASection';
 
 export default function HomePage() {
-  const allContent = getAllContent();
   const recent = getRecentContent(6);
   const byCategory = getContentByCategory();
+  const latestNews = getLatestNews(5);
 
   return (
     <>
@@ -184,7 +185,7 @@ export default function HomePage() {
               </h3>
               <div className="space-y-5">
                 {[
-                  { title: 'Resource Library', desc: `${allContent.length}+ articles on HR, compliance, hiring, and operations`, href: '/resources' },
+                  { title: 'Resource Library', desc: 'Articles on HR, compliance, hiring, and operations', href: '/resources' },
                   { title: 'Employer Tools', desc: 'Calculators, checklists, audit templates, and planning worksheets', href: '/employer-tools' },
                   { title: 'Programs & Savings', desc: 'Group rates on insurance, supplies, technology, and services', href: '/programs-savings' },
                   { title: 'Benefits Programs', desc: 'Health coverage, risk management, and supplemental benefits', href: '/benefits-programs' },
@@ -201,6 +202,36 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Employer News */}
+      {latestNews.length > 0 && (
+        <section className="border-t border-ink-100 section-padding">
+          <div className="container-wide">
+            <div className="flex items-center justify-between mb-8">
+              <h2 className="font-serif text-2xl font-bold text-ink-900">
+                Employer News
+              </h2>
+              <Link href="/news" className="text-sm font-semibold text-brand-red hover:text-brand-red-dark">
+                All news &rarr;
+              </Link>
+            </div>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-6">
+              {latestNews.map((item) => (
+                <Link
+                  key={item.slug}
+                  href={`/news/${item.slug}`}
+                  className="block group"
+                >
+                  <p className="category-tag text-[10px] mb-1.5">{item.category}</p>
+                  <h3 className="text-sm font-semibold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
+                    {item.title}
+                  </h3>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Recent Articles */}
       <section className="border-t border-ink-100 section-padding">

@@ -23,6 +23,7 @@ const footerLinks = {
   ],
   'For Employers': [
     { name: 'All Articles', href: '/resources' },
+    { name: 'Employer News', href: '/news' },
     { name: 'HR & Compliance', href: '/hr-compliance' },
     { name: 'Employer Tools', href: '/employer-tools' },
     { name: 'Programs & Savings', href: '/programs-savings' },

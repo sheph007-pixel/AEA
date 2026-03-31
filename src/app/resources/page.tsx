@@ -22,7 +22,7 @@ export default function ResourcesPage() {
             Articles & Resources
           </h1>
           <p className="mt-2 text-ink-500">
-            {resources.length} articles across {categories.length} topics for employers
+            Practical guides and resources for employers across every topic.
           </p>
         </div>
       </section>
@@ -78,9 +78,6 @@ export default function ResourcesPage() {
                 <div className="flex items-center justify-between mb-6">
                   <h2 className="section-label mb-0 pb-2 inline-block">
                     {cat}
-                    <span className="text-ink-300 font-normal ml-2">
-                      {catResources.length}
-                    </span>
                   </h2>
                 </div>
                 <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-6">

@@ -7,6 +7,7 @@ const navLinks = [
   { name: 'About', href: '/about' },
   { name: 'Membership', href: '/membership' },
   { name: 'Resources', href: '/resources' },
+  { name: 'News', href: '/news' },
   { name: 'AI Tools', href: '/tools' },
   { name: 'Programs', href: '/programs-savings' },
   { name: 'Contact', href: '/contact' },
