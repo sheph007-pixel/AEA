@@ -1,12 +1,15 @@
 import Link from 'next/link';
 import { getRecentContent, getContentByCategory } from '@/lib/content';
 import { getLatestNews } from '@/lib/news';
+import { getLatestBriefings, getLatestMonthlyBriefing, getTypeLabel } from '@/lib/briefings';
 import CTASection from '@/components/CTASection';
 
 export default function HomePage() {
   const recent = getRecentContent(6);
   const byCategory = getContentByCategory();
   const latestNews = getLatestNews(5);
+  const latestBriefing = getLatestMonthlyBriefing();
+  const recentBriefings = getLatestBriefings(5);
 
   return (
     <>
@@ -202,6 +205,84 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Employer Briefings & Outlook */}
+      {recentBriefings.length > 0 && (
+        <section className="bg-ink-50 border-t border-ink-100 section-padding">
+          <div className="container-wide">
+            <div className="flex items-center justify-between mb-8">
+              <div>
+                <p className="text-xs font-bold uppercase tracking-widest text-brand-red mb-1">
+                  Institutional Research
+                </p>
+                <h2 className="font-serif text-2xl font-bold text-ink-900">
+                  Employer Briefings & Outlook
+                </h2>
+              </div>
+              <div className="hidden sm:flex items-center gap-4">
+                <Link href="/briefings" className="text-sm font-semibold text-brand-red hover:text-brand-red-dark">
+                  All briefings &rarr;
+                </Link>
+                <Link href="/outlook" className="text-sm font-semibold text-ink-600 hover:text-ink-900">
+                  Outlook Dashboard
+                </Link>
+              </div>
+            </div>
+
+            <div className="grid lg:grid-cols-5 gap-8">
+              {/* Featured briefing */}
+              {latestBriefing && (
+                <div className="lg:col-span-3">
+                  <Link href={`/briefings/${latestBriefing.slug}`} className="block group">
+                    <p className="category-tag text-[10px] mb-2">
+                      {getTypeLabel(latestBriefing.type)}
+                    </p>
+                    <h3 className="font-serif text-xl md:text-2xl font-bold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
+                      {latestBriefing.title}
+                    </h3>
+                    <p className="text-ink-500 mt-2 leading-relaxed">
+                      {latestBriefing.description}
+                    </p>
+                    <span className="text-sm font-semibold text-brand-red mt-3 inline-block">
+                      Read briefing &rarr;
+                    </span>
+                  </Link>
+                </div>
+              )}
+
+              {/* Supporting briefings */}
+              <div className="lg:col-span-2 lg:border-l lg:border-ink-200 lg:pl-8 space-y-4">
+                {recentBriefings
+                  .filter((b) => b.slug !== latestBriefing?.slug)
+                  .slice(0, 4)
+                  .map((b) => (
+                    <Link
+                      key={b.slug}
+                      href={`/briefings/${b.slug}`}
+                      className="block group"
+                    >
+                      <p className="text-[10px] font-bold uppercase tracking-widest text-ink-400">
+                        {getTypeLabel(b.type)}
+                      </p>
+                      <h4 className="text-sm font-semibold text-ink-900 group-hover:text-brand-red transition-colors leading-snug">
+                        {b.title}
+                      </h4>
+                    </Link>
+                  ))}
+              </div>
+            </div>
+
+            <div className="sm:hidden flex gap-4 mt-6">
+              <Link href="/briefings" className="text-sm font-semibold text-brand-red">
+                All briefings &rarr;
+              </Link>
+              <Link href="/outlook" className="text-sm font-semibold text-ink-600">
+                Outlook
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Employer News */}
       {latestNews.length > 0 && (

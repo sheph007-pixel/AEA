@@ -8,9 +8,9 @@ const navLinks = [
   { name: 'About', href: '/about' },
   { name: 'Membership', href: '/membership' },
   { name: 'Resources', href: '/resources' },
-  { name: 'News', href: '/news' },
+  { name: 'Briefings', href: '/briefings' },
   { name: 'AI Tools', href: '/tools' },
-  { name: 'Programs', href: '/programs-savings' },
+  { name: 'Outlook', href: '/outlook' },
   { name: 'Contact', href: '/contact' },
 ];
 
