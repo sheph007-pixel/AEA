@@ -18,7 +18,8 @@ export default function LiveAgent() {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [contactCollected, setContactCollected] = useState(false);
-  const [contactForm, setContactForm] = useState({ name: '', email: '', company: '' });
+  const [contactForm, setContactForm] = useState({ name: '', email: '', phone: '', company: '' });
+  const [formError, setFormError] = useState('');
   const [submitted, setSubmitted] = useState(false);
   const endRef = useRef<HTMLDivElement>(null);
 
@@ -57,7 +58,18 @@ export default function LiveAgent() {
   }
 
   async function handleContactSubmit() {
-    if (!contactForm.name || !contactForm.email) return;
+    setFormError('');
+    if (!contactForm.name || !contactForm.email || !contactForm.phone || !contactForm.company) {
+      setFormError('All fields are required.');
+      return;
+    }
+    // Block free email providers
+    const freeEmails = ['gmail.com','yahoo.com','hotmail.com','outlook.com','aol.com','icloud.com','mail.com','protonmail.com','ymail.com','live.com','msn.com','me.com'];
+    const domain = contactForm.email.split('@')[1]?.toLowerCase();
+    if (!domain || freeEmails.includes(domain)) {
+      setFormError('Please use your business email address.');
+      return;
+    }
     try {
       await fetch('/api/contact', {
         method: 'POST',
@@ -69,7 +81,7 @@ export default function LiveAgent() {
           company: contactForm.company,
           employees: '',
           interest: 'Live agent chat',
-          message: messages.map((m) => `${m.role}: ${m.text}`).join('\n'),
+          message: `Phone: ${contactForm.phone}\n\nChat transcript:\n${messages.map((m) => `${m.role}: ${m.text}`).join('\n')}`,
         }),
       });
       setSubmitted(true);
@@ -161,25 +173,33 @@ export default function LiveAgent() {
               <p className="text-xs text-ink-500 font-medium">Share your info so we can follow up:</p>
               <input
                 type="text"
-                placeholder="Your name"
+                placeholder="Your name *"
                 value={contactForm.name}
-                onChange={(e) => setContactForm((f) => ({ ...f, name: e.target.value }))}
-                className="w-full px-3 py-2 border border-ink-200 rounded text-sm outline-none focus:ring-1 focus:ring-ink-500"
-              />
-              <input
-                type="email"
-                placeholder="Email address"
-                value={contactForm.email}
-                onChange={(e) => setContactForm((f) => ({ ...f, email: e.target.value }))}
+                onChange={(e) => { setContactForm((f) => ({ ...f, name: e.target.value })); setFormError(''); }}
                 className="w-full px-3 py-2 border border-ink-200 rounded text-sm outline-none focus:ring-1 focus:ring-ink-500"
               />
               <input
                 type="text"
-                placeholder="Company (optional)"
+                placeholder="Company name *"
                 value={contactForm.company}
-                onChange={(e) => setContactForm((f) => ({ ...f, company: e.target.value }))}
+                onChange={(e) => { setContactForm((f) => ({ ...f, company: e.target.value })); setFormError(''); }}
                 className="w-full px-3 py-2 border border-ink-200 rounded text-sm outline-none focus:ring-1 focus:ring-ink-500"
               />
+              <input
+                type="email"
+                placeholder="Business email *"
+                value={contactForm.email}
+                onChange={(e) => { setContactForm((f) => ({ ...f, email: e.target.value })); setFormError(''); }}
+                className="w-full px-3 py-2 border border-ink-200 rounded text-sm outline-none focus:ring-1 focus:ring-ink-500"
+              />
+              <input
+                type="tel"
+                placeholder="Phone number *"
+                value={contactForm.phone}
+                onChange={(e) => { setContactForm((f) => ({ ...f, phone: e.target.value })); setFormError(''); }}
+                className="w-full px-3 py-2 border border-ink-200 rounded text-sm outline-none focus:ring-1 focus:ring-ink-500"
+              />
+              {formError && <p className="text-xs text-red-600">{formError}</p>}
               <button onClick={handleContactSubmit} className="btn-primary w-full text-xs py-2">
                 Connect Me with AEA
               </button>
