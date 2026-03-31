@@ -1,77 +1,70 @@
 ---
-title: "Building a Workplace Violence Prevention Plan"
-description: "How employers can develop and implement an effective workplace violence prevention program that meets emerging state requirements."
+title: "Developing a Workplace Violence Prevention Plan"
+description: "How employers can create and implement an effective workplace violence prevention program."
 category: "Safety"
-date: "2023-10-12"
-tags: ["workplace violence", "safety", "prevention", "California SB 553", "OSHA"]
+date: "2025-01-15"
+tags: ["workplace violence", "safety", "prevention", "OSHA"]
 author: "AEA Editorial Team"
 ---
 
-## Why Prevention Plans Are Becoming Mandatory
+Workplace violence is a serious occupational hazard. OSHA's General Duty Clause requires employers to provide a workplace free from recognized hazards likely to cause death or serious physical harm, and workplace violence can fall under this obligation. A written prevention plan is essential for identifying risks, training employees, and responding effectively to threats.
 
-Workplace violence is a serious safety concern across all industries. While OSHA has long recommended that employers develop workplace violence prevention programs, the regulatory landscape is shifting toward mandatory requirements. California's SB 553, effective July 2024, requires nearly all employers in the state to establish, implement, and maintain a written workplace violence prevention plan. Other states are likely to follow.
+## Types of Workplace Violence
 
-Whether or not your state currently mandates a plan, every employer should have one. These programs protect employees, reduce liability, and demonstrate good faith compliance with general duty obligations.
+OSHA identifies four categories of workplace violence:
 
-## Elements of an Effective Plan
+- **Type 1 (Criminal intent)**: The perpetrator has no relationship with the workplace and commits violence during a crime such as robbery
+- **Type 2 (Customer/client)**: Violence by a customer, client, patient, or other person the business serves
+- **Type 3 (Worker-on-worker)**: Violence between current or former employees
+- **Type 4 (Personal relationship)**: Violence by someone with a personal relationship with an employee, such as domestic violence that enters the workplace
 
-### Written Policy Statement
+Each type requires different prevention strategies, and your plan should address all types relevant to your workplace.
 
-Begin with a clear statement that workplace violence is unacceptable and that your organization is committed to providing a safe work environment. Define workplace violence broadly to include threats, intimidation, harassment, physical assault, and any behavior that creates a reasonable fear of harm.
+## Risk Assessment
 
-### Risk Assessment
+Begin with an honest assessment of your workplace risks:
 
-Conduct a thorough assessment of your workplace to identify risk factors. Consider:
+- Review past incidents, threats, and near-misses
+- Identify jobs or situations that put employees at higher risk (handling money, working alone, working late hours, public contact)
+- Evaluate physical security measures including lighting, locks, cameras, and access controls
+- Assess the effectiveness of current reporting and response procedures
+- Survey employees about safety concerns they have observed
 
-- Physical layout and security measures (lighting, access control, surveillance)
-- Industry-specific risks (handling cash, working alone, public-facing roles)
-- History of incidents or near-misses
-- Employee concerns and observations
-- Staffing levels during high-risk periods
+## Policy Development
 
-Document your findings and prioritize areas for improvement.
+Your workplace violence prevention policy should include:
 
-### Engineering and Administrative Controls
+- A clear statement that violence, threats, and intimidation will not be tolerated
+- Definitions of prohibited conduct including physical violence, verbal threats, intimidation, harassment, and property destruction
+- A requirement that employees report all threats and concerning behavior
+- Multiple reporting channels including options for anonymous reporting
+- An assurance that reports will be taken seriously and investigated promptly
+- A statement that no retaliation will occur against anyone who reports in good faith
+- Consequences for violating the policy
 
-Based on your risk assessment, implement appropriate controls:
+## Warning Signs and Threat Assessment
 
-- **Physical security**: Badge access, visitor sign-in procedures, panic buttons, improved lighting
-- **Staffing**: Avoid having employees work alone in high-risk situations
-- **Cash handling**: Minimize cash on hand and use drop safes
-- **Work design**: Reduce situations that create frustration, long waits, or interpersonal conflict
+Train managers and employees to recognize warning signs of potential violence:
 
-### Reporting Procedures
+- Increasing expressions of anger, frustration, or hopelessness
+- Threats, even if stated as jokes
+- Fascination with violence or weapons
+- Significant changes in behavior or work performance
+- Social isolation or withdrawal from coworkers
+- Excessive blaming of others or grievance collection
+- History of conflict with coworkers or supervisors
 
-Employees must know how to report threats, concerning behavior, and incidents. Provide multiple reporting channels including direct supervisor, HR, an anonymous hotline, or a designated safety officer. Clearly communicate that reports will be taken seriously and that retaliation is prohibited.
+Establish a threat assessment team or process for evaluating and responding to reported concerns. Not all warning signs indicate violence, but all should be evaluated by trained individuals.
 
-### Threat Assessment Process
+## Response Procedures
 
-Establish a process for evaluating reported threats. Many organizations form a threat assessment team that includes HR, security, management, and, when appropriate, legal counsel. The team's role is to evaluate the credibility and severity of a threat and determine appropriate action, which may range from a conversation to involving law enforcement.
+Your plan should include procedures for responding to active violence situations:
 
-### Training Requirements
+- Establish and communicate "Run, Hide, Fight" or similar response protocols
+- Develop relationships with local law enforcement for coordinated response
+- Create an emergency communication system to alert employees
+- Designate safe areas and evacuation routes
+- Identify who will call 911 and who will account for employees
+- Plan for post-incident response including employee support and investigation
 
-California's SB 553 requires annual training for all employees. Even without a legal mandate, training should cover:
-
-- How to recognize warning signs and escalating behavior
-- De-escalation techniques
-- Reporting procedures
-- Emergency response protocols
-- Active shooter preparedness
-
-### Incident Response Procedures
-
-Define what happens when an incident occurs. Include procedures for immediate response, securing the area, notifying law enforcement, providing medical assistance, and accounting for all personnel. After the incident, conduct a debrief and provide support services to affected employees.
-
-### Post-Incident Response
-
-Address the aftermath with the same care as the incident itself. Offer counseling through your EAP, conduct a thorough investigation, review what worked and what did not, and update your plan accordingly. Communicate with employees about what happened and what steps you are taking.
-
-## Recordkeeping
-
-Maintain records of all incidents, investigations, risk assessments, and training. California's SB 553 requires specific recordkeeping including a violent incident log. Even in other states, thorough documentation supports continuous improvement and provides evidence of compliance.
-
-## Implementation
-
-Assign ownership of the plan to a specific individual or committee. Review and update it at least annually, after any incident, and whenever workplace conditions change significantly. The most effective plans are living documents supported by visible leadership commitment and genuine employee engagement.
-
-A workplace violence prevention plan is not just a compliance exercise. It is a commitment to the safety of everyone in your workplace. Start with an honest assessment of your risks and build from there.
+Conduct drills periodically to ensure employees know what to do. Review and update the plan after any incident or drill.

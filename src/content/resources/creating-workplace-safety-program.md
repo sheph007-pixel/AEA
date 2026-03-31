@@ -1,67 +1,73 @@
 ---
-title: "Creating a Workplace Safety Program"
-description: "Step-by-step guide to building a safety program that reduces injuries, lowers costs, and meets regulatory requirements."
-category: "Operations"
-date: "2024-06-18"
-tags: ["safety", "OSHA", "workplace", "risk management"]
+title: "Building a Workplace Safety Program from Scratch"
+description: "A practical guide for employers on establishing an effective workplace safety and health program."
+category: "Safety"
+date: "2025-01-15"
+tags: ["OSHA", "workplace safety", "safety program", "compliance"]
+author: "AEA Editorial Team"
 ---
 
-## Elements of an Effective Safety Program
+A strong workplace safety program protects employees, reduces costs associated with injuries and illnesses, and helps employers comply with OSHA requirements. OSHA recommends that all employers establish a safety and health program based on a framework of core elements. Many states require written safety programs for certain industries.
 
-### Management Commitment
-Safety must start at the top. Demonstrate commitment through:
-- A written safety policy signed by leadership
-- Allocation of adequate resources
-- Regular participation in safety activities
-- Holding managers accountable for safety outcomes
-- Including safety in business planning
+## Core Elements of a Safety Program
 
-### Employee Involvement
-Workers who are engaged in safety efforts are more likely to follow safety practices:
-- Establish a safety committee with employee representation
-- Encourage reporting of hazards and near-misses without fear of retaliation
-- Involve employees in developing safety procedures
-- Recognize safe behavior and contributions to safety
+OSHA identifies several core elements that every effective safety program should include:
 
-### Hazard Identification and Assessment
-Systematically identify and evaluate workplace hazards:
-- Conduct regular workplace inspections
-- Review injury and illness records for patterns
-- Analyze near-miss reports
-- Evaluate new equipment, processes, and materials before introduction
-- Perform job hazard analyses for high-risk tasks
+- **Management leadership**: Visible commitment from top management including clear safety goals, adequate resources, and leading by example
+- **Worker participation**: Active involvement of employees in identifying hazards, developing solutions, and improving safety practices
+- **Hazard identification and assessment**: Systematic processes to identify and evaluate workplace hazards
+- **Hazard prevention and control**: Methods to eliminate or control identified hazards
+- **Education and training**: Training for all employees on hazards they may encounter and how to protect themselves
+- **Program evaluation and improvement**: Regular review of the program to identify what is working and what needs improvement
 
-### Hazard Prevention and Control
-Address identified hazards using the hierarchy of controls:
-1. **Elimination**: Remove the hazard entirely
-2. **Substitution**: Replace with a less hazardous alternative
-3. **Engineering controls**: Isolate workers from the hazard
-4. **Administrative controls**: Change work practices and procedures
-5. **Personal Protective Equipment**: Last line of defense
+## Conducting a Hazard Assessment
 
-### Training and Education
-Ensure all employees receive appropriate safety training:
-- New employee orientation safety training
-- Job-specific hazard training
-- Emergency procedures
-- Refresher training at regular intervals
-- Documentation of all training sessions
+Start by identifying the hazards present in your workplace:
 
-### Program Evaluation
-Regularly assess your safety program's effectiveness:
-- Track injury and illness rates
-- Monitor workers' compensation costs
-- Conduct program audits
-- Review incident investigations for root causes
-- Benchmark against industry standards
+- Walk through the entire workplace and observe operations, equipment, and conditions
+- Review injury and illness records (OSHA 300 logs), workers compensation claims, and near-miss reports
+- Talk to employees about hazards they have observed or concerns they have
+- Review Safety Data Sheets for chemicals used in the workplace
+- Identify tasks that involve repetitive motion, heavy lifting, or awkward postures
+- Evaluate equipment maintenance records and safety inspection reports
 
-## Measuring Results
+Prioritize hazards based on severity and likelihood, and address the most serious hazards first.
 
-Key metrics to track:
-- Total Recordable Incident Rate (TRIR)
-- Days Away, Restricted, or Transfer (DART) rate
-- Near-miss reporting frequency
-- Workers' compensation costs
-- Experience modification rate
-- Training completion rates
-- Safety inspection findings and resolution times
+## Developing Safety Policies and Procedures
+
+Create written procedures for the hazards identified in your assessment:
+
+- Standard operating procedures for high-risk tasks
+- Lockout/tagout procedures for equipment maintenance
+- Personal protective equipment requirements by task
+- Chemical handling and storage procedures
+- Emergency response procedures
+- Incident reporting and investigation procedures
+
+Make sure procedures are written in clear, accessible language and available where employees can easily reference them.
+
+## Training Requirements
+
+OSHA requires training for many specific hazards and standards. Common training requirements include:
+
+- Hazard communication (GHS/SDS training) under 29 CFR 1910.1200
+- Fire extinguisher use if employees are expected to fight fires
+- Personal protective equipment
+- Lockout/tagout for authorized and affected employees
+- Bloodborne pathogens for employees with occupational exposure
+- Powered industrial trucks (forklift) for operators
+
+Training must be conducted in a language and vocabulary workers can understand. Document all training including dates, topics, trainer, and attendees.
+
+## Incident Investigation and Reporting
+
+When a workplace injury or near-miss occurs:
+
+- Provide immediate medical attention
+- Secure the scene to preserve evidence
+- Investigate promptly while details are fresh
+- Identify root causes, not just immediate causes
+- Develop corrective actions to prevent recurrence
+- Report fatalities to OSHA within 8 hours and hospitalizations, amputations, or losses of an eye within 24 hours
+
+A non-punitive reporting culture encourages employees to report hazards and near-misses before injuries occur.

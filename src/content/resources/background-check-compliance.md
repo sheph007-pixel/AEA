@@ -1,69 +1,72 @@
 ---
-title: "Background Check Compliance: What Employers Get Wrong"
-description: "How to conduct employment background checks in compliance with the FCRA, EEOC guidance, and state ban-the-box laws."
+title: "Employer Guide to Background Check Compliance"
+description: "How to conduct employment background checks in compliance with the FCRA and state laws."
 category: "Hiring"
-date: "2017-09-22"
-tags: ["background checks", "FCRA", "ban the box", "hiring compliance"]
+date: "2025-01-15"
+tags: ["background checks", "FCRA", "hiring", "compliance"]
 author: "AEA Editorial Team"
 ---
 
-## The Legal Framework
-
-Employment background checks are governed primarily by the Fair Credit Reporting Act (FCRA) at the federal level, along with EEOC enforcement guidance on the use of criminal history and a growing patchwork of state and local laws. Employers who fail to follow the proper procedures face class action lawsuits, regulatory penalties, and individual claims — even when the underlying information in the background check is accurate.
+Employment background checks are a valuable tool for making informed hiring decisions, but they are heavily regulated. The Fair Credit Reporting Act (FCRA) and numerous state and local laws impose specific requirements that employers must follow. Non-compliance can result in class action lawsuits and significant statutory damages.
 
 ## FCRA Requirements
 
-When you use a third-party company (a consumer reporting agency, or CRA) to conduct background checks, the FCRA imposes specific requirements at each stage of the process.
+When using a consumer reporting agency (CRA) to conduct background checks, the FCRA requires:
 
-### Before the Check
+**Before the background check:**
+- Provide the applicant or employee with a clear, standalone written disclosure that a background check may be obtained (not buried in the application)
+- Obtain written authorization from the individual before requesting the report
+- Certify to the CRA that you have complied with disclosure and authorization requirements
 
-**Disclosure and authorization.** You must provide the applicant or employee with a clear, conspicuous, standalone written disclosure that a background check may be conducted. This disclosure must be in a separate document — not buried in the employment application. The individual must provide written authorization before you run the check.
+**Before taking adverse action based on the report:**
+- Provide the individual with a pre-adverse action notice that includes a copy of the report and a summary of rights under the FCRA
+- Allow a reasonable period (typically five business days) for the individual to dispute the report before making a final decision
 
-Common mistake: combining the disclosure with a liability waiver, a broad authorization for other purposes, or other extraneous information. The FCRA requires the disclosure to be standalone.
+**After taking adverse action:**
+- Provide an adverse action notice identifying the CRA that provided the report
+- Inform the individual of their right to dispute the accuracy of the report
+- State that the CRA did not make the adverse decision and cannot explain why it was made
 
-### Before Taking Adverse Action
+## State and Local Ban-the-Box Laws
 
-If you are considering not hiring someone (or taking other adverse action) based in whole or in part on information in the background check, you must follow a two-step process:
+Many states and municipalities have enacted ban-the-box laws that restrict when and how employers can inquire about criminal history:
 
-**Pre-adverse action notice.** Before making a final decision, provide the individual with a copy of the background check report, a copy of "A Summary of Your Rights Under the Fair Credit Reporting Act" (provided by the CRA), and a reasonable opportunity to review and dispute any inaccuracies. The standard practice is to allow at least five business days, though the FCRA does not specify an exact timeframe.
+- Some laws prohibit asking about criminal history on the initial job application
+- Others delay criminal history inquiries until after a conditional offer of employment
+- Many require individualized assessment of criminal records rather than blanket exclusions
+- Some laws apply only to public employers while others cover private employers as well
 
-**Final adverse action notice.** After the waiting period, if you proceed with the adverse action, you must notify the individual in writing of the action taken, the name and contact information of the CRA that provided the report, and the individual's right to obtain a free copy of the report and dispute its accuracy.
+Always check the specific requirements in every jurisdiction where you hire.
 
-Many employers skip the pre-adverse action step, moving directly to a rejection. This is one of the most common FCRA violations and a frequent basis for class action lawsuits.
+## Criminal History Considerations
 
-## Using Criminal History
+The EEOC has issued guidance on the use of criminal records in employment decisions under Title VII:
 
-The EEOC's enforcement guidance advises employers to avoid blanket policies that automatically exclude applicants with criminal records, as such policies may have a disparate impact on protected groups. Instead, employers should conduct an individualized assessment considering:
+- Blanket policies excluding all applicants with any criminal record may have a disparate impact on protected groups
+- Employers should conduct an individualized assessment considering the nature and gravity of the offense, the time elapsed, and the nature of the job
+- Arrests alone, without convictions, generally should not be used as a basis for employment decisions
+- Consider whether the criminal conduct is related to the job in question
 
-- The nature and gravity of the offense
-- The time that has passed since the offense or completion of the sentence
-- The nature of the job sought and its relationship to the offense
+## Types of Background Checks
 
-A conviction for embezzlement is relevant to a bookkeeping position. A decades-old minor offense unrelated to the job generally is not a defensible basis for rejection.
+Employers may conduct various types of checks depending on the position:
 
-## Ban-the-Box Laws
-
-Many states and localities have enacted ban-the-box laws that restrict when in the hiring process an employer may inquire about criminal history. These laws generally prohibit criminal history questions on the initial application and delay the inquiry until after a conditional offer of employment or at least until the first interview.
-
-Requirements vary significantly by jurisdiction. Some laws apply only to public employers, while others cover private employers above a certain size. Research the specific requirements in every jurisdiction where you hire.
-
-## State-Specific Restrictions
-
-Beyond ban-the-box, states impose various additional restrictions:
-
-- Some states limit the use of credit history in employment decisions to certain positions
-- Several states prohibit inquiring about sealed, expunged, or juvenile records
-- Some states require specific notice language beyond the federal FCRA requirements
-- A few states restrict the use of salary history, which may be obtained through background checks
+- **Criminal history**: County, state, and federal records
+- **Employment verification**: Confirming prior job titles, dates, and sometimes reasons for leaving
+- **Education verification**: Confirming degrees and certifications
+- **Credit reports**: Relevant for positions with financial responsibilities, but restricted in many states
+- **Motor vehicle records**: Essential for positions involving driving
+- **Professional license verification**: Confirming active licenses in good standing
+- **Drug testing**: Subject to state-specific rules
 
 ## Best Practices
 
-1. **Use a reputable CRA** that understands FCRA requirements and provides compliant disclosure and authorization forms.
-2. **Apply background check policies consistently.** Run the same types of checks for all candidates for the same position.
-3. **Follow the two-step adverse action process every time** — no exceptions.
-4. **Conduct individualized assessments** of criminal history rather than applying automatic disqualifications.
-5. **Know your state and local laws.** Map the requirements in every jurisdiction where you hire.
-6. **Train everyone involved in hiring** on the proper procedures. A single manager who skips a step can create organizational liability.
-7. **Retain records** of all disclosures, authorizations, reports, and adverse action notices for at least five years.
+To maintain a compliant and effective background check program:
 
-Background checks are a legitimate and valuable tool for making informed hiring decisions. The key is using them within the legal framework that governs the process.
+- Use FCRA-compliant disclosure and authorization forms reviewed by legal counsel
+- Apply background check criteria consistently for all applicants for the same position
+- Never use a background check as a pretext for discrimination
+- Train hiring managers on proper use of background check information
+- Develop written criteria for evaluating criminal records that are job-related and consistent with business necessity
+- Document individualized assessments when criminal records are a factor
+- Keep background check reports confidential and store them separately from personnel files
