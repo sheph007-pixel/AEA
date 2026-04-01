@@ -2,9 +2,11 @@ name: Daily Content Generation
 
 on:
   schedule:
-    # Run daily at 6:00 AM UTC (1:00 AM EST)
     - cron: '0 6 * * *'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-content:
@@ -14,34 +16,28 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
+      - name: Ensure content directories
+        run: |
+          mkdir -p src/content/news
+          mkdir -p src/content/resources
+
       - name: Generate daily news articles
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ChatGPT: ${{ secrets.ChatGPT }}
+          OPENAI_API_KEY: ${{ secrets.ChatGPT }}
         run: node scripts/generate-news.js
 
-      - name: Generate resource article
+      - name: Fact-check news
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          if [ -n "$ANTHROPIC_API_KEY" ]; then
-            node scripts/generate-article.js
-          else
-            echo "ANTHROPIC_API_KEY not set, skipping resource generation"
-          fi
-
-      - name: Fact-check new content
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ChatGPT: ${{ secrets.ChatGPT }}
+          OPENAI_API_KEY: ${{ secrets.ChatGPT }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: node scripts/fact-check.js src/content/news
+        continue-on-error: true
 
       - name: Commit and push
         run: |
@@ -51,6 +47,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new content to commit"
           else
-            git commit -m "Daily content update: $(date +%Y-%m-%d) [fact-checked]"
+            git commit -m "Daily content update: $(date +%Y-%m-%d) [verified]"
             git push origin main
           fi

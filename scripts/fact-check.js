@@ -177,14 +177,14 @@ async function main() {
   let passCount = 0, flagCount = 0, failCount = 0, errorCount = 0;
   let skippedCount = 0, checkedCount = 0;
 
-  for (const { file, fullPath } of allFiles) {
+  for (const { dir, file, fullPath } of allFiles) {
     const content = fs.readFileSync(fullPath, 'utf8');
     const fileHash = require('crypto').createHash('md5').update(content).digest('hex');
     const cacheKey = file; // Use filename as cache key
 
     // Skip if already verified and file content hasn't changed
     if (existingReport[cacheKey]?.hash === fileHash && existingReport[cacheKey]?.status === 'pass') {
-      results.push({ ...existingReport[cacheKey], file });
+      results.push({ ...existingReport[cacheKey], file, dir });
       passCount++;
       skippedCount++;
       continue;
@@ -195,6 +195,7 @@ async function main() {
     process.stdout.write(`  CHECK ${file}... `);
     const result = await factCheck(fullPath, content.substring(0, 4000));
     result.hash = fileHash;
+    result.dir = dir;
     results.push(result);
 
     if (result.status === 'pass') { passCount++; console.log('PASS'); }
@@ -236,7 +237,7 @@ async function main() {
   console.log(`  Flag:    ${flagCount}`);
   console.log(`  Fail:    ${failCount}`);
   console.log(`  Error:   ${errorCount}`);
-  console.log(`  Total:   ${files.length}`);
+  console.log(`  Total:   ${allFiles.length}`);
 
   // Email notification if issues found
   if (flagCount > 0 || failCount > 0) {
@@ -278,8 +279,8 @@ async function main() {
     // Remove files that FAILED fact-check (don't publish bad content)
     for (const r of results) {
       if (r.status === 'fail') {
-        const failedPath = path.join(targetDir, r.file);
-        if (fs.existsSync(failedPath)) {
+        const failedPath = r.dir ? path.join(r.dir, r.file) : null;
+        if (failedPath && fs.existsSync(failedPath)) {
           fs.unlinkSync(failedPath);
           console.log(`  REMOVED failed file: ${r.file}`);
         }

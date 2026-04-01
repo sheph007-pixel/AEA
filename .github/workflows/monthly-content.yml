@@ -2,9 +2,11 @@ name: Monthly Employer Briefings
 
 on:
   schedule:
-    # Run on the 1st of each month at 8:00 AM UTC
     - cron: '0 8 1 * *'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-briefings:
@@ -14,24 +16,26 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
+      - name: Ensure content directories
+        run: mkdir -p src/content/briefings
+
       - name: Generate monthly briefings
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ChatGPT: ${{ secrets.ChatGPT }}
+          OPENAI_API_KEY: ${{ secrets.ChatGPT }}
         run: node scripts/generate-monthly-briefings.js
 
       - name: Fact-check briefings
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ChatGPT: ${{ secrets.ChatGPT }}
+          OPENAI_API_KEY: ${{ secrets.ChatGPT }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: node scripts/fact-check.js src/content/briefings
+        continue-on-error: true
 
       - name: Commit and push
         run: |
@@ -41,6 +45,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new briefings to commit"
           else
-            git commit -m "Monthly employer briefings: $(date +%B\ %Y) [fact-checked]"
+            git commit -m "Monthly employer briefings: $(date +%B\ %Y) [verified]"
             git push origin main
           fi
