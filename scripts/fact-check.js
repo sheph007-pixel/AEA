@@ -137,6 +137,44 @@ Respond ONLY with the JSON object, nothing else.`;
   }
 }
 
+async function autoFixContent(filePath, content, issues) {
+  const issueList = issues.map((i, idx) => `${idx + 1}. [${i.severity}] "${i.text}" - Issue: ${i.issue} - Fix: ${i.suggestion}`).join('\n');
+
+  const prompt = `You are a senior editorial fact-checker for the American Employers Alliance, a national employer association. An article has been flagged for accuracy issues. Rewrite the ENTIRE article with corrections applied.
+
+ISSUES FOUND:
+${issueList}
+
+RULES FOR THE REWRITE:
+- Fix every flagged issue
+- Remove or soften any claims that cannot be verified
+- Use hedging language: "may," "generally," "employers should consult counsel," "requirements vary by state"
+- Do NOT invent new statistics, data, or specific numbers
+- Do NOT change the YAML frontmatter at the top (between the --- markers)
+- Keep the same structure, headings, and overall content
+- Keep the same length (do not shorten significantly)
+- Preserve the editorial disclaimer at the bottom if one exists
+- Make corrections conservative - when in doubt, remove the claim rather than guess
+
+ORIGINAL ARTICLE:
+---
+${content}
+---
+
+Return the COMPLETE corrected article including the YAML frontmatter. Return ONLY the article, nothing else.`;
+
+  try {
+    const fixed = await callOpenAI(prompt);
+    // Verify it still has frontmatter
+    if (fixed.includes('---') && fixed.length > 200) {
+      return fixed.trim();
+    }
+    return null; // Rewrite failed validation
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
   const apiKey = process.env.OPENAI_API_KEY || process.env.ChatGPT;
   if (!apiKey) {
@@ -193,15 +231,47 @@ async function main() {
     // New or changed file - needs checking
     checkedCount++;
     process.stdout.write(`  CHECK ${file}... `);
-    const result = await factCheck(fullPath, content.substring(0, 4000));
+    let result = await factCheck(fullPath, content.substring(0, 4000));
     result.hash = fileHash;
     result.dir = dir;
-    results.push(result);
 
-    if (result.status === 'pass') { passCount++; console.log('PASS'); }
-    else if (result.status === 'flag') { flagCount++; console.log(`FLAG (${result.issues.length} issues)`); }
-    else if (result.status === 'fail') { failCount++; console.log(`FAIL (${result.issues.length} issues)`); }
-    else { errorCount++; console.log('ERROR'); }
+    // Auto-fix flagged or failed content
+    if (result.status === 'flag' || result.status === 'fail') {
+      console.log(`${result.status.toUpperCase()} - attempting auto-fix...`);
+      const fixedContent = await autoFixContent(fullPath, content, result.issues || []);
+      if (fixedContent) {
+        // Write the corrected file
+        fs.writeFileSync(fullPath, fixedContent + '\n');
+        console.log(`    FIXED ${file} - re-checking...`);
+
+        // Re-check the fixed content
+        const recheck = await factCheck(fullPath, fixedContent.substring(0, 4000));
+        recheck.hash = require('crypto').createHash('md5').update(fixedContent + '\n').digest('hex');
+        recheck.dir = dir;
+        recheck.autoFixed = true;
+
+        if (recheck.status === 'pass') {
+          console.log(`    RE-CHECK: PASS (auto-fixed successfully)`);
+          result = recheck;
+        } else {
+          console.log(`    RE-CHECK: still ${recheck.status.toUpperCase()} after fix`);
+          result = recheck;
+        }
+        await new Promise(r => setTimeout(r, 500));
+      } else {
+        console.log(`    Auto-fix failed for ${file}`);
+      }
+    } else if (result.status === 'pass') {
+      console.log('PASS');
+    } else {
+      console.log('ERROR');
+    }
+
+    results.push(result);
+    if (result.status === 'pass') passCount++;
+    else if (result.status === 'flag') flagCount++;
+    else if (result.status === 'fail') failCount++;
+    else errorCount++;
 
     // Rate limit: pause between API calls
     await new Promise(r => setTimeout(r, 500));
