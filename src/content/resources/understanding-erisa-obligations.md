@@ -64,8 +64,8 @@ ERISA requires:
 
 ## Penalties for Non-Compliance
 
-- Failure to file Form 5500: Up to $250 per day
-- Failure to provide SPD: Up to $110 per day per participant
+- Failure to file Form 5500: Daily penalties that can be substantial (check current DOL and IRS penalty schedules, as amounts are adjusted periodically)
+- Failure to provide SPD: Daily penalties per participant (verify current amounts with DOL)
 - Fiduciary breaches: Personal liability for losses to the plan
 - DOL investigations and enforcement actions
 

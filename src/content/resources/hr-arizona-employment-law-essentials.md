@@ -17,7 +17,7 @@ Arizona also recognizes implied contract exceptions to at-will employment. Emplo
 
 The Arizona Fair Wages and Healthy Families Act, enacted through Proposition 206 in 2016, established an annually adjusted minimum wage and mandatory paid sick leave. The minimum wage is adjusted each year based on the Consumer Price Index. Employers must track the current rate and ensure compliance.
 
-The same law requires all Arizona employers to provide paid sick time. Employers with 15 or more employees must allow accrual of up to 40 hours per year, while employers with fewer than 15 employees must allow up to 24 hours. Employees accrue one hour of paid sick time for every 30 hours worked. Leave may be used for the employee's or a family member's illness, injury, health condition, or public health emergency.
+The same law requires all Arizona employers to provide paid sick time. Annual accrual caps differ based on employer size, with larger employers required to allow more hours than smaller employers. Employees accrue one hour of paid sick time for every 30 hours worked. Leave may be used for the employee's or a family member's illness, injury, health condition, or public health emergency. Verify the current accrual caps for your employer size with the Industrial Commission of Arizona.
 
 ## Workers' Compensation and Drug Testing
 

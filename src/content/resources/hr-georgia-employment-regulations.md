@@ -27,12 +27,12 @@ Georgia's State Board of Workers' Compensation administers the system and has sp
 
 ## Wage and Hour Considerations
 
-Georgia's state minimum wage of $5.15 per hour is below the federal minimum wage, so the federal rate applies to employees covered by the FLSA. Employees not covered by the FLSA may be subject to the lower state rate, though this affects very few workers. Georgia does not have state overtime requirements beyond the federal FLSA.
+Georgia's state minimum wage is below the federal minimum wage, so the federal rate applies to employees covered by the FLSA. Employees not covered by the FLSA may be subject to the lower state rate, though this affects very few workers. Verify the current federal and Georgia state minimum wage rates. Georgia does not have state overtime requirements beyond the federal FLSA.
 
 Georgia does not require employers to provide meal or rest breaks to adult employees. However, employers must comply with federal child labor laws and FLSA requirements regarding breaks for minors. Georgia also has no state law requiring final paychecks within a specific timeframe, though federal law and common practices dictate prompt payment.
 
 ## Drug Testing and Background Checks
 
-Georgia employers have broad discretion to implement drug testing programs. The Georgia Drug-Free Workplace Act allows employers to establish drug-free workplace policies and conduct testing of applicants and employees. Employers who maintain certified drug-free workplace programs may receive a 7.5 percent discount on workers' compensation premiums.
+Georgia employers have broad discretion to implement drug testing programs. The Georgia Drug-Free Workplace Act allows employers to establish drug-free workplace policies and conduct testing of applicants and employees. Employers who maintain certified drug-free workplace programs may receive a discount on workers' compensation premiums. Verify the current discount percentage with the Georgia State Board of Workers' Compensation.
 
 Georgia's Second Chance Act, effective July 1, 2021, limits certain public employers from inquiring about criminal history on initial job applications. Private employers in Georgia face few state-level restrictions on background checks beyond federal FCRA requirements.

@@ -15,9 +15,9 @@ The Department of Labor's 2021 final rule clarified that employers who do not ta
 
 ## Tip Credit Considerations
 
-Under federal law, employers may take a tip credit of up to $5.12 per hour toward the minimum wage obligation for tipped employees, provided several conditions are met. The employer must inform employees of the tip credit provisions, and the employee must retain all tips except those contributed to a valid tip pool.
+Under federal law, employers may take a tip credit toward the minimum wage obligation for tipped employees, provided several conditions are met. The maximum tip credit amount is set by the DOL; verify the current figure before applying it. The employer must inform employees of the tip credit provisions, and the employee must retain all tips except those contributed to a valid tip pool.
 
-Employers who take the tip credit must ensure that the employee's tips plus the cash wage paid equal at least the federal minimum wage of $7.25 per hour. If tips are insufficient, the employer must make up the difference.
+Employers who take the tip credit must ensure that the employee's tips plus the cash wage paid equal at least the full federal minimum wage per hour. If tips are insufficient, the employer must make up the difference. Check current federal minimum wage rates with the DOL.
 
 ## State Law Variations
 

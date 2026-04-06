@@ -15,7 +15,7 @@ Unlike voluntary workplace drug testing programs, DOT testing follows strict pro
 
 ## Required Testing Categories
 
-FMCSA requires six categories of drug and alcohol testing. Pre-employment testing must occur before a driver first performs safety-sensitive functions. Post-accident testing is required when the driver receives a citation for a moving violation arising from the accident and certain other conditions are met. Random testing must be conducted at rates established annually by FMCSA, currently 50 percent for drugs and 10 percent for alcohol.
+FMCSA requires six categories of drug and alcohol testing. Pre-employment testing must occur before a driver first performs safety-sensitive functions. Post-accident testing is required when the driver receives a citation for a moving violation arising from the accident and certain other conditions are met. Random testing must be conducted at minimum annual rates established by FMCSA, which are updated periodically. Verify the current minimum random testing rates for drugs and alcohol on the FMCSA website.
 
 Reasonable suspicion testing is required when a trained supervisor observes behavior or appearance suggesting drug or alcohol use. Return-to-duty testing must be completed before a driver who has violated drug and alcohol rules returns to safety-sensitive duties. Follow-up testing occurs after a driver has returned to duty, as directed by a Substance Abuse Professional.
 
@@ -33,6 +33,6 @@ Employers must also report drug and alcohol violations, refusals to test, and re
 
 ## Consequences of Non-Compliance
 
-Failure to comply with DOT drug and alcohol testing requirements can result in civil penalties of up to $16,000 or more per violation. Employers may also face criminal penalties for knowingly allowing a driver with a positive test result to operate a CMV. In the event of an accident, failure to maintain a compliant testing program can dramatically increase the employer's liability exposure.
+Failure to comply with DOT drug and alcohol testing requirements can result in substantial civil penalties per violation. Penalty amounts are adjusted periodically; check the current FMCSA penalty schedule for specific figures. Employers may also face criminal penalties for knowingly allowing a driver with a positive test result to operate a CMV. In the event of an accident, failure to maintain a compliant testing program can dramatically increase the employer's liability exposure.
 
 Trucking employers should designate a Designated Employer Representative (DER) to manage the testing program, maintain contracts with qualified collection sites and MROs, and conduct regular audits of their program against current FMCSA requirements.

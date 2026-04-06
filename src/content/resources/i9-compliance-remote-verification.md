@@ -60,7 +60,7 @@ You are responsible for the actions of your authorized representative. If they m
 
 **1. Establish a consistent process.** Whether you use the alternative procedure, authorized representatives, or a combination, document your process and apply it consistently to all new hires.
 
-**2. Do not delay.** The three-business-day deadline is firm. Late I-9 completion is a common audit finding and can result in fines, currently $252 to $2,507 per violation for first offenses.
+**2. Do not delay.** The three-business-day deadline is firm. Late I-9 completion is a common audit finding and can result in significant per-violation fines. Penalty amounts are adjusted periodically; check the current ICE penalty schedule for specific figures.
 
 **3. Train your team.** Everyone involved in the I-9 process must understand acceptable documents, how to identify potentially fraudulent documents, and anti-discrimination requirements. You cannot request specific documents or reject valid documents because they look unfamiliar.
 

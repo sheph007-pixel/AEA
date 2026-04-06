@@ -81,7 +81,7 @@ The EEOC confirmed that employers can generally require COVID-19 vaccination, su
 If using incentives instead of mandates:
 
 - The EEOC has indicated that incentives for voluntary vaccination by the employer are permissible as long as they are not so substantial as to be coercive
-- Common incentives include $50-$200 cash or gift cards, additional PTO days, or entry into prize drawings
+- Common incentives include cash or gift cards, additional PTO days, or entry into prize drawings
 - Ensure incentives are available equally to all employees and do not inadvertently penalize those with legitimate medical or religious reasons for not vaccinating
 
 A vaccination policy is ultimately a business decision that must account for your specific workforce, industry, risk profile, and community context. Whatever approach you choose, implement it with transparency, consistency, and respect for employee rights.

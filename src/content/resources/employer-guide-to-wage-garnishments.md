@@ -22,12 +22,12 @@ The most common types of wage garnishments employers encounter include:
 
 ## Federal Limits on Garnishment
 
-The Consumer Credit Protection Act (CCPA) limits the amount that can be garnished from an employee's disposable earnings:
+The Consumer Credit Protection Act (CCPA) limits the amount that can be garnished from an employee's disposable earnings. The specific limits vary by garnishment type:
 
-- **Ordinary creditor garnishments**: The lesser of 25 percent of disposable earnings or the amount by which disposable earnings exceed 30 times the federal minimum wage per week
-- **Child support and alimony**: Up to 50 percent of disposable earnings if the employee supports another spouse or child, or up to 60 percent if not. An additional 5 percent is allowed if payments are more than 12 weeks in arrears.
-- **Federal tax levies**: Follow IRS Publication 1494 tables, which consider filing status and exemptions
-- **Federal student loans**: Up to 15 percent of disposable earnings
+- **Ordinary creditor garnishments**: Limited to the lesser of a percentage of disposable earnings or the amount by which disposable earnings exceed a multiple of the federal minimum wage per week. Check the current CCPA limits and federal minimum wage to calculate the applicable thresholds.
+- **Child support and alimony**: Higher percentages are allowed than for ordinary creditors, with the exact limit depending on whether the employee supports another spouse or child and whether payments are in arrears. Consult the current CCPA provisions for specific percentages.
+- **Federal tax levies**: Follow the IRS exempt amount tables (currently published in IRS Publication 1494), which consider filing status and exemptions
+- **Federal student loans**: Subject to a separate percentage cap on disposable earnings. Verify the current limit with the Department of Education.
 
 Disposable earnings are what remains after legally required deductions such as taxes and Social Security.
 

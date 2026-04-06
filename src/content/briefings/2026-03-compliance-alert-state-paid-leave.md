@@ -27,10 +27,10 @@ Programs vary significantly from state to state in their structure, including:
 
 Several developments are shaping the paid leave landscape this year:
 
-- **New programs launching.** States that enacted PFML legislation in 2023 or 2024 are now transitioning from contribution collection phases to active benefit payment. Employers in those states are handling their first employee leave claims under the new programs and must understand the claim process, employer notice obligations, and job protection requirements.
-- **Expanded coverage.** Some existing programs have broadened their definitions of eligible family members, qualifying reasons for leave, or covered employers. Employers should review any amendments to existing state PFML laws that took effect in 2025 or 2026.
-- **Increased benefit levels.** Several states have adjusted their maximum weekly benefit amounts, contribution rates, or wage replacement percentages for 2026. Employers should update payroll systems to reflect the current contribution rates and ensure employees are receiving accurate information about their benefits.
-- **New states considering legislation.** Multiple state legislatures are actively considering PFML bills during their 2026 sessions. Employers in those states should track legislative progress and plan for possible implementation timelines.
+- **New programs launching.** States that enacted PFML legislation in recent years may now be transitioning from contribution collection phases to active benefit payment. Employers in those states may be handling their first employee leave claims under the new programs and should understand the claim process, employer notice obligations, and job protection requirements.
+- **Expanded coverage.** Some existing programs may have broadened their definitions of eligible family members, qualifying reasons for leave, or covered employers. Employers should review any amendments to existing state PFML laws that may have taken effect recently.
+- **Increased benefit levels.** A growing number of states periodically adjust their maximum weekly benefit amounts, contribution rates, or wage replacement percentages. Employers should verify that payroll systems reflect the current contribution rates and ensure employees are receiving accurate information about their benefits.
+- **New states considering legislation.** A growing number of state legislatures are considering PFML bills. Employers should track legislative progress in states where they have employees and plan for possible implementation timelines.
 
 ## Employer Obligations
 
@@ -42,7 +42,7 @@ Employers in states with PFML programs have several core obligations:
 
 **Coordination with other leave.** Employers must understand how state PFML benefits interact with the federal FMLA, employer-provided paid leave, short-term disability insurance, and workers' compensation. In many states, PFML leave runs concurrently with FMLA leave when both apply. Employers should establish clear policies on how these programs coordinate to avoid providing duplicate benefits or inadvertently shortchanging employees.
 
-**Job protection.** Most state PFML laws include job protection provisions that require employers to restore employees to their same or equivalent position upon return from leave. These protections may be broader than FMLA in some respects, such as covering smaller employers or extending to a wider range of family relationships.
+**Job protection.** Many state PFML laws include job protection provisions that generally require employers to restore employees to their same or equivalent position upon return from leave. These protections may be broader than FMLA in some respects, such as covering smaller employers or extending to a wider range of family relationships. Employers should verify the specific job protection rules in each applicable state.
 
 **Private plan options.** Many states allow employers to apply for exemptions from the state program if they offer a private plan that provides benefits at least as generous as the state program. Employers with robust leave and disability benefits should evaluate whether a private plan exemption is advantageous, considering both cost and administrative factors.
 

@@ -29,12 +29,7 @@ State jury duty laws vary significantly:
 - **Length of leave**: Some states limit the duration of required leave or provide for postponement procedures
 - **Proof requirements**: Employers may generally require employees to provide proof of jury service
 
-Examples of state variations:
-
-- Alabama requires employers to pay full-time employees their regular wages during jury service
-- Colorado requires employers to pay regular wages for the first three days of service
-- New York requires employers to pay the first $40 per day for the first three days
-- Most states have no pay requirement at all
+State requirements vary significantly. Some states require employers to pay employees during jury service, others require pay for a limited number of days, and most have no pay requirement at all. Check the specific jury duty leave law in each state where you have employees, as requirements change and the details (such as how many days are covered and at what rate) differ by jurisdiction.
 
 ## Practical Considerations
 

@@ -14,19 +14,19 @@ Healthcare employers operate in one of the most heavily regulated and workforce-
 
 ## Staffing Challenges Persist
 
-The healthcare workforce shortage that intensified during and after the pandemic years has not resolved. While some segments of the industry have seen modest improvements in recruitment, many healthcare employers — particularly in rural areas, long-term care, and behavioral health — continue to struggle with vacancies in critical clinical and support roles.
+Healthcare employers continue to face staffing challenges across many segments of the industry. While some areas have seen modest improvements in recruitment, many healthcare employers — particularly in rural areas, long-term care, and behavioral health — may continue to struggle with vacancies in critical clinical and support roles. Employers should verify current conditions in their specific markets.
 
 Factors contributing to ongoing staffing difficulties include:
 
 - **Competition for licensed professionals.** Registered nurses, licensed practical nurses, medical assistants, and allied health professionals remain in high demand. Employers are competing not only with other healthcare facilities but also with travel staffing agencies, telehealth companies, and non-clinical employers seeking workers with healthcare backgrounds.
-- **Pipeline constraints.** Nursing schools and clinical training programs face their own capacity limitations, including faculty shortages and limited clinical placement sites. The pipeline of newly licensed professionals has not kept pace with attrition and demand growth.
+- **Pipeline constraints.** Nursing schools and clinical training programs may face their own capacity limitations, including faculty shortages and limited clinical placement sites. The pipeline of newly licensed professionals has generally not kept pace with attrition and demand growth, though conditions vary by region and specialty.
 - **Geographic disparities.** Urban facilities generally have more success attracting talent than rural or underserved area employers, widening the gap in care access and placing additional pressure on remaining staff in those regions.
 
 Healthcare employers are responding with a range of strategies, including sign-on incentives, tuition assistance, accelerated career ladder programs, and expanded use of telehealth to extend the reach of existing staff. However, there is no single solution, and employers should plan for continued competition for clinical talent throughout 2026.
 
 ## Burnout and Workforce Well-Being
 
-Burnout among healthcare workers remains a serious concern for employers. The cumulative toll of high patient volumes, staffing shortages, administrative burdens, and emotionally demanding work has led to elevated turnover rates and increased difficulty retaining experienced clinicians.
+Burnout among healthcare workers remains a serious concern for employers. The cumulative toll of high patient volumes, staffing shortages, administrative burdens, and emotionally demanding work may contribute to elevated turnover rates and increased difficulty retaining experienced clinicians.
 
 Employers addressing burnout in 2026 are focusing on:
 
@@ -41,9 +41,9 @@ Employers that treat burnout as a systemic issue rather than an individual faili
 
 Healthcare employers must navigate a growing body of scheduling-related regulations at the state and local level. Several jurisdictions have enacted or are considering laws that impose requirements such as:
 
-- **Mandatory rest periods between shifts.** Some states require a minimum number of hours between consecutive shifts for healthcare workers, particularly nurses.
-- **Restrictions on mandatory overtime.** A number of states have enacted laws limiting or prohibiting mandatory overtime for nurses and certain other healthcare employees, with narrow exceptions for emergencies.
-- **Predictive scheduling requirements.** While more common in retail and food service, predictive scheduling laws in some jurisdictions may also apply to healthcare settings, requiring advance notice of schedules and premium pay for last-minute changes.
+- **Mandatory rest periods between shifts.** Some states may require a minimum number of hours between consecutive shifts for healthcare workers, particularly nurses. Requirements vary by state, and employers should verify the rules in each jurisdiction where they operate.
+- **Restrictions on mandatory overtime.** A number of states have enacted or are considering laws limiting or prohibiting mandatory overtime for nurses and certain other healthcare employees. Employers should consult qualified counsel to confirm current requirements in their states.
+- **Predictive scheduling requirements.** While generally more common in retail and food service, predictive scheduling laws in some jurisdictions may also apply to healthcare settings, potentially requiring advance notice of schedules and premium pay for last-minute changes.
 
 Employers should review the scheduling laws applicable in each state where they operate and ensure that staffing models and scheduling systems comply. Violations can result in penalties and, in some cases, private lawsuits by affected employees.
 
@@ -52,7 +52,7 @@ Employers should review the scheduling laws applicable in each state where they 
 Healthcare workplaces present a wide range of occupational safety and health hazards, and OSHA maintains an active enforcement focus on the industry. Key areas of OSHA compliance for healthcare employers in 2026 include:
 
 - **Bloodborne pathogens.** Employers must maintain a current Exposure Control Plan, provide appropriate personal protective equipment, and ensure employees receive hepatitis B vaccination and post-exposure follow-up.
-- **Workplace violence prevention.** OSHA has continued to emphasize workplace violence as a significant hazard in healthcare settings. While a federal workplace violence prevention standard specific to healthcare has been the subject of extended rulemaking, employers should maintain comprehensive violence prevention programs regardless of whether a specific standard is in effect.
+- **Workplace violence prevention.** OSHA has generally emphasized workplace violence as a significant hazard in healthcare settings. Employers should maintain comprehensive violence prevention programs and monitor any federal or state rulemaking in this area, regardless of whether a specific standard is currently in effect.
 - **Respiratory protection.** Employers with employees exposed to airborne hazards must comply with OSHA's respiratory protection standard, including fit testing, medical evaluations, and training.
 - **Recordkeeping and reporting.** Healthcare employers must maintain OSHA injury and illness logs and post the 300A summary during the required period. Certain high-hazard healthcare establishments are also required to electronically submit injury and illness data to OSHA.
 - **Ergonomics.** Patient handling and repetitive motion injuries are common in healthcare. Employers should implement safe patient handling programs, provide lifting equipment, and train staff on ergonomic practices.

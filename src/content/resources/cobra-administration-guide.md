@@ -65,7 +65,7 @@ If COBRA coverage will end before the maximum period, provide notice as soon as 
 ## Penalties
 
 Failure to comply with COBRA can result in:
-- Excise tax of $100 per day per affected individual
+- Excise tax penalties per day per affected individual (check current IRS penalty amounts)
 - Lawsuits from qualified beneficiaries
 - IRS penalties
 - Department of Labor enforcement actions

@@ -8,11 +8,11 @@ author: "AEA Editorial Team"
 
 ## Increasing Requirements
 
-Workplace violence prevention is receiving increased attention from regulators at both the state and federal level. Several states have enacted or proposed requirements for employers to develop and implement formal workplace violence prevention plans, and OSHA continues to provide guidance on the topic.
+Workplace violence prevention is receiving increased attention from regulators at both the state and federal level. Multiple states have enacted or proposed requirements for employers to develop and implement formal workplace violence prevention plans, and OSHA continues to provide guidance on the topic. Employers should monitor regulatory developments in their jurisdictions.
 
-## What Employers Need
+## What Employers Should Consider
 
-A comprehensive workplace violence prevention program should include:
+A comprehensive workplace violence prevention program may include:
 
 - **Written policy**: A clear statement prohibiting workplace violence with definitions of prohibited conduct
 - **Risk assessment**: Identification of workplace-specific risk factors and vulnerabilities
@@ -23,15 +23,15 @@ A comprehensive workplace violence prevention program should include:
 
 ## Industry-Specific Considerations
 
-Certain industries face elevated risks and may be subject to additional requirements:
+Certain industries may face elevated risks and could be subject to additional requirements:
 
-- **Healthcare**: Already subject to specific OSHA guidelines and state mandates in several jurisdictions
-- **Retail**: Late-night operations and cash handling create unique risk factors
+- **Healthcare**: May be subject to specific regulatory guidelines and state mandates in multiple jurisdictions
+- **Retail**: Late-night operations and cash handling may create unique risk factors
 - **Social services**: Client-facing roles may involve volatile situations
-- **Education**: Schools and training facilities have specific security considerations
+- **Education**: Schools and training facilities may have specific security considerations
 
 ## Getting Started
 
-Employers who do not have a formal workplace violence prevention program should begin by conducting a risk assessment of their workplace. Identify potential hazards, review any past incidents, and engage employees in the process. Even businesses not currently subject to specific mandates benefit from having a proactive program in place, as it demonstrates reasonable care and can reduce liability exposure.
+Employers who do not have a formal workplace violence prevention program should consider beginning with a risk assessment of their workplace. Identifying potential hazards, reviewing any past incidents, and engaging employees in the process are generally recommended steps. Even businesses not currently subject to specific mandates may benefit from having a proactive program in place, as it can demonstrate reasonable care and may help reduce liability exposure.
 
-Work with your insurance carrier, local law enforcement, and HR counsel to develop a program tailored to your specific workplace and industry.
+Working with your insurance carrier, local law enforcement, and HR counsel to develop a program tailored to your specific workplace and industry is generally advisable.

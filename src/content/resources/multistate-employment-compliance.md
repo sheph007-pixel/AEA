@@ -13,7 +13,7 @@ Having employees in multiple states, whether through remote work, satellite offi
 
 State employment laws vary significantly in virtually every area:
 
-- **Minimum wage**: Ranges from the federal minimum of $7.25 per hour (in states that follow the federal rate) to over $16.00 per hour in some states and cities
+- **Minimum wage**: Varies significantly across states and localities, from the federal minimum (check the current federal rate) to substantially higher rates in many states and cities
 - **Overtime**: Some states require daily overtime (California, Alaska, Nevada) in addition to the federal weekly overtime requirement
 - **Meal and rest breaks**: Requirements vary widely, with some states mandating specific break durations and timing
 - **Leave laws**: Paid sick leave, family leave, voting leave, and jury duty leave requirements differ by state

@@ -20,11 +20,11 @@ Self-insured employers that are not ALEs have separate reporting obligations und
 
 ## Key Deadlines
 
-**Furnishing to employees:** Form 1095-C must be provided to each full-time employee. The statutory deadline is January 31, but the IRS has granted extensions in prior years, pushing the deadline into March. Employers should check the IRS website or consult their tax advisor for the most current deadline applicable to the 2025 tax year. Regardless of any extension, early preparation and distribution is advisable.
+**Furnishing to employees:** Form 1095-C must be provided to each full-time employee. The IRS has in some years adjusted the furnishing deadline, so employers should verify current year deadlines with the IRS by checking the IRS website or consulting their tax advisor for the most current deadline applicable to the 2025 tax year. Regardless of the specific deadline, early preparation and distribution is advisable.
 
-**Filing with the IRS (electronic):** The deadline for electronic filing of Forms 1094-C and 1095-C with the IRS is March 31, 2026. Electronic filing is required for employers filing 10 or more information returns of any type during the calendar year, which encompasses virtually all ALEs.
+**Filing with the IRS (electronic):** Employers should verify current year deadlines with the IRS for electronic filing of Forms 1094-C and 1095-C. Electronic filing is generally required for employers filing above the applicable threshold of information returns during the calendar year, which may encompass most ALEs. Employers should check current IRS guidance on the electronic filing threshold.
 
-**Filing with the IRS (paper):** Employers eligible to file on paper face an earlier deadline, typically at the end of February. Given the low threshold for mandatory electronic filing, most ALEs will be filing electronically.
+**Filing with the IRS (paper):** Employers eligible to file on paper generally face an earlier deadline than electronic filers. Given the threshold for mandatory electronic filing, most ALEs will likely be filing electronically. Employers should verify current year deadlines with the IRS.
 
 ## What to Report
 
@@ -47,20 +47,20 @@ ACA reporting errors can lead to IRS penalty notices under Sections 6721 and 672
 
 ## Penalty Exposure
 
-Employers that fail to file accurate and timely returns face potential penalties under Section 6721 (failure to file with the IRS) and Section 6722 (failure to furnish to individuals). Penalty amounts are adjusted annually for inflation. Penalties are assessed per return, meaning that an employer with hundreds of employees can face substantial aggregate penalties for systemic errors.
+Employers that fail to file accurate and timely returns face potential penalties under Section 6721 (failure to file with the IRS) and Section 6722 (failure to furnish to individuals). Penalty amounts are adjusted periodically for inflation, so employers should check the current applicable penalty rates. Penalties are assessed per return, meaning that an employer with hundreds of employees can face substantial aggregate penalties for systemic errors.
 
-The IRS has historically provided some transition relief and good-faith penalty relief in the early years of ACA reporting. Employers should not assume that such relief will continue indefinitely. Accurate, timely filing is the best protection against penalties.
+The IRS has historically provided some transition relief and good-faith penalty relief in the earlier years of ACA reporting. Employers should not assume that such relief will continue indefinitely. Accurate, timely filing is the best protection against penalties.
 
 ## Practical Steps
 
-1. Confirm ALE status for 2025 if there is any question about whether the employer meets the 50 full-time equivalent threshold.
+1. Confirm ALE status for 2025 if there is any question about whether the employer meets the full-time equivalent threshold.
 2. Compile monthly coverage offer and enrollment data for every full-time employee.
 3. Verify employee demographic information, including Social Security numbers.
 4. Review coding on Lines 14, 15, and 16 for accuracy and consistency.
 5. Engage a qualified ACA reporting vendor or tax advisor if internal resources are insufficient.
-6. File electronically by March 31, 2026, and retain copies of all filed forms for at least three years.
+6. Verify current year deadlines with the IRS and file accordingly. Retain copies of all filed forms for at least three years.
 
-ACA reporting is a recurring annual obligation with meaningful penalty exposure. Employers who invest in careful data preparation and quality review will minimize their risk and avoid costly correction cycles.
+ACA reporting is a recurring annual obligation with meaningful penalty exposure. Employers who invest in careful data preparation and quality review will generally minimize their risk and avoid costly correction cycles. Employers should consult the IRS website or qualified counsel for the most current deadlines and requirements.
 
 ---
 

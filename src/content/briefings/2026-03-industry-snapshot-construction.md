@@ -18,15 +18,15 @@ Construction consistently ranks as OSHA's highest enforcement priority. The agen
 
 Key OSHA focus areas for construction employers in 2026 include:
 
-**Fall protection.** Falls remain the leading cause of death in construction. OSHA's fall protection standard (29 CFR 1926 Subpart M) requires employers to provide fall protection systems — guardrails, safety nets, or personal fall arrest systems — for workers at heights of six feet or more in construction. Employers must ensure that fall protection plans are in place, equipment is inspected and maintained, and workers are trained on proper use.
+**Fall protection.** Falls remain among the leading causes of serious injury and death in construction. OSHA's fall protection standards generally require employers to provide fall protection systems — such as guardrails, safety nets, or personal fall arrest systems — for workers at applicable heights in construction. Employers should verify the specific height thresholds and requirements that apply to their operations, ensure that fall protection plans are in place, equipment is inspected and maintained, and workers are trained on proper use.
 
-**Trenching and excavation.** OSHA has maintained an aggressive enforcement posture on trenching violations, including a national emphasis program targeting unsafe excavation practices. Employers performing trenching and excavation work must ensure that protective systems — sloping, shoring, or shielding — are in place before workers enter any trench five feet or deeper, and that competent persons inspect the site daily and after any condition change.
+**Trenching and excavation.** OSHA has generally maintained a strong enforcement focus on trenching violations. Employers performing trenching and excavation work should ensure that protective systems — such as sloping, shoring, or shielding — are in place as required by applicable OSHA standards before workers enter trenches, and that competent persons inspect the site daily and after any condition change. Employers should verify the specific depth thresholds and protective system requirements that apply.
 
-**Silica exposure.** The respirable crystalline silica standard for construction (29 CFR 1926.1153) requires employers to implement specified dust control measures outlined in Table 1 of the standard or, where Table 1 does not cover the task, to measure employee exposure and implement a written exposure control plan. Medical surveillance is required for workers exposed above the action level for 30 or more days per year.
+**Silica exposure.** OSHA's respirable crystalline silica standard for construction generally requires employers to implement specified dust control measures or, where those measures do not cover the task, to measure employee exposure and implement a written exposure control plan. Medical surveillance may be required for workers exposed above certain thresholds. Employers should consult the current OSHA standard and qualified counsel to confirm the specific requirements applicable to their operations.
 
-**Heat illness prevention.** OSHA has continued to advance rulemaking on a federal heat injury and illness prevention standard. Regardless of where the rulemaking stands, construction employers should implement heat prevention programs that include water, rest, shade, acclimatization procedures for new and returning workers, and training for supervisors and employees on recognizing heat-related illness.
+**Heat illness prevention.** OSHA has signaled interest in heat injury and illness prevention, and employers should monitor any rulemaking developments in this area. Regardless of where any rulemaking stands, construction employers should consider implementing heat prevention programs that include water, rest, shade, acclimatization procedures for new and returning workers, and training for supervisors and employees on recognizing heat-related illness.
 
-**Recordkeeping and reporting.** Construction employers must maintain OSHA 300 Logs, report fatalities within 8 hours, and report amputations, loss of an eye, or in-patient hospitalizations within 24 hours. Failure to report is a separate violation that can result in penalties.
+**Recordkeeping and reporting.** Construction employers are generally required to maintain OSHA injury and illness logs and report severe incidents — such as fatalities, amputations, loss of an eye, or in-patient hospitalizations — within the timeframes specified by OSHA. Employers should verify current reporting requirements, as failure to report is a separate violation that can result in penalties.
 
 ## Prevailing Wage Requirements
 
@@ -51,7 +51,7 @@ Employers should focus on:
 - **Document examination.** Employers must examine original documents presented by the employee, not copies, and must not specify which acceptable documents the employee should provide. Over-documentation — requesting more or different documents than required — is a violation of anti-discrimination provisions.
 - **Reverification.** Employers must reverify employment authorization for employees whose work authorization has an expiration date. Failure to reverify on time is a common audit finding.
 - **Subcontractor liability.** While employers are generally responsible only for their own employees' I-9 compliance, knowing use of unauthorized workers supplied by a subcontractor can create liability. Construction employers should include I-9 compliance provisions in subcontractor agreements and exercise appropriate oversight.
-- **Audit readiness.** Employers should conduct periodic internal I-9 audits to identify and correct errors before a government audit occurs. ICE provides 72 hours' notice before an audit, and employers should have a plan in place for responding to a Notice of Inspection.
+- **Audit readiness.** Employers should conduct periodic internal I-9 audits to identify and correct errors before a government audit occurs. Employers should have a plan in place for responding to a Notice of Inspection and consult qualified counsel regarding current audit procedures and timelines.
 
 ## Safety Training Obligations
 
@@ -66,7 +66,7 @@ Construction employers face extensive safety training requirements under both fe
 
 1. Conduct a comprehensive OSHA compliance audit of all active jobsites.
 2. Verify that prevailing wage determinations and certified payrolls are current and accurate for all covered projects.
-3. Perform an internal I-9 audit and correct any errors using the IRS-prescribed correction procedures.
+3. Perform an internal I-9 audit and correct any errors using applicable correction procedures.
 4. Review all safety training records and schedule any overdue or upcoming required training.
 5. Ensure that competent persons have been designated and are actively performing their oversight roles on every applicable jobsite.
 

@@ -15,7 +15,7 @@ Florida does not have a state-level comprehensive employment discrimination stat
 
 ## Minimum Wage and Wage Payment
 
-Florida's minimum wage is adjusted annually based on the Consumer Price Index, following the passage of a 2020 constitutional amendment that established a phased increase to $15.00 per hour. Employers must pay tipped employees a cash wage that, combined with tips, meets or exceeds the state minimum wage. The tip credit in Florida is $3.02 per hour below the standard minimum wage.
+Florida's minimum wage is adjusted annually based on the Consumer Price Index, following the passage of a 2020 constitutional amendment that established a phased increase schedule. Employers should verify the current Florida minimum wage rate, as it changes each year. Employers must pay tipped employees a cash wage that, combined with tips, meets or exceeds the state minimum wage. The tip credit in Florida is a set amount below the standard minimum wage; check the current rate with the Florida Department of Economic Opportunity.
 
 Florida's wage payment statute requires employers to pay employees at least semimonthly on regular paydays designated in advance. There is no state law requiring payment of accrued but unused vacation upon termination, though employers must follow their own established policies on this matter.
 
@@ -29,7 +29,7 @@ Employers conducting background checks must still comply with the federal Fair C
 
 Florida requires most employers with four or more employees to carry workers' compensation insurance. Construction industry employers must carry coverage if they have one or more employees, and agricultural employers must carry coverage with six or more regular employees or 12 or more seasonal employees working more than 30 days.
 
-The Florida Division of Workers' Compensation aggressively enforces coverage requirements and imposes stop-work orders on non-compliant employers, along with penalties of twice the amount the employer would have paid in premium during the period of non-compliance.
+The Florida Division of Workers' Compensation aggressively enforces coverage requirements and imposes stop-work orders on non-compliant employers, along with significant financial penalties. Verify current penalty amounts with the Florida Division of Workers' Compensation.
 
 ## Unique Florida Provisions
 

@@ -12,7 +12,7 @@ The Fair Labor Standards Act (FLSA) establishes minimum wage, overtime pay, reco
 
 ## Minimum Wage
 
-The federal minimum wage is $7.25 per hour, but many states and localities have set higher rates. You must pay whichever is higher - federal, state, or local. Track changes in all jurisdictions where you have employees.
+The federal minimum wage has been $7.25 per hour since 2009, but many states and localities have set higher rates. Verify the current federal minimum wage, as it may change through legislation. You must pay whichever is higher - federal, state, or local. Track changes in all jurisdictions where you have employees.
 
 ## Overtime
 

@@ -29,7 +29,7 @@ The Philadelphia Wage Theft Ordinance strengthens enforcement of wage payment ob
 
 Pennsylvania requires nearly all employers to carry workers' compensation insurance. The Pennsylvania Workers' Compensation Act covers injuries arising in the course of employment and provides medical benefits, wage loss benefits, and specific loss benefits. Employers may obtain coverage through private carriers, through the State Workers' Insurance Fund, or through approved self-insurance programs.
 
-Pennsylvania imposes penalties on employers who fail to maintain coverage, including criminal penalties of up to $2,500 per day of non-compliance and potential personal liability for corporate officers.
+Pennsylvania imposes penalties on employers who fail to maintain coverage, including criminal penalties and potential personal liability for corporate officers. Verify current penalty amounts with the Pennsylvania Bureau of Workers' Compensation.
 
 ## Additional Compliance Considerations
 

@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 Healthcare employers face a unique compliance challenge: HIPAA governs both the patient information their employees handle and certain aspects of employee health data. The Health Insurance Portability and Accountability Act establishes national standards for protecting individually identifiable health information, known as Protected Health Information (PHI).
 
-As covered entities, healthcare providers must comply with the Privacy Rule (45 CFR Part 164, Subpart E), the Security Rule (45 CFR Part 164, Subpart C), and the Breach Notification Rule (45 CFR Part 164, Subpart D). Violations can result in civil monetary penalties ranging from $100 to $50,000 per violation, with annual maximums of $1.5 million per violation category.
+As covered entities, healthcare providers must comply with the Privacy Rule (45 CFR Part 164, Subpart E), the Security Rule (45 CFR Part 164, Subpart C), and the Breach Notification Rule (45 CFR Part 164, Subpart D). Violations can result in significant civil monetary penalties that vary based on the level of culpability, with tiered per-violation amounts and annual maximums per violation category. Penalty amounts are adjusted periodically for inflation; check the current HHS penalty schedule for specific figures.
 
 ## Employee Training Requirements
 

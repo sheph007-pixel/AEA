@@ -29,7 +29,7 @@ The notice must be provided in English and, if requested, in the temporary worke
 
 Employers may not retaliate against temporary workers who exercise their rights under the law, file complaints, or participate in investigations. Retaliation includes discharge, demotion, suspension, reduction in hours, and any other adverse employment action.
 
-The New Jersey Department of Labor and Workforce Development enforces the law and may investigate complaints, issue citations, and impose penalties. Violations can result in penalties ranging from $500 per violation for first offenses to $1,000 per violation for subsequent offenses, plus potential liability for back pay, liquidated damages, and attorneys' fees.
+The New Jersey Department of Labor and Workforce Development enforces the law and may investigate complaints, issue citations, and impose penalties. Violations can result in per-violation penalties that escalate for repeat offenses, plus potential liability for back pay, liquidated damages, and attorneys' fees. Verify current penalty amounts with the New Jersey Department of Labor.
 
 ## Practical Steps for Compliance
 

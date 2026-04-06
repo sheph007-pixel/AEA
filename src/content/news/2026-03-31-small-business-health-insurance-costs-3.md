@@ -8,16 +8,16 @@ author: "AEA Editorial Team"
 
 ## The Challenge
 
-Health insurance remains one of the largest expenses for employers, and small businesses are particularly affected. Without the negotiating leverage of larger organizations, businesses with fewer than 100 employees often face higher per-employee costs and fewer plan options.
+Health insurance remains one of the largest expenses for many employers, and small businesses may be particularly affected. Without the negotiating leverage of larger organizations, smaller employers often face higher per-employee costs and fewer plan options.
 
 ## Strategies for Managing Costs
 
 Employers have several options for controlling health insurance expenses:
 
 ### Explore Alternative Funding Arrangements
-- **Level-funded plans** offer predictable monthly costs with potential savings if claims are lower than projected
-- **Health Reimbursement Arrangements (HRAs)** allow employers to reimburse employees for individual coverage
-- **Association health plans** may provide access to larger group rates through employer associations
+- **Level-funded plans** may offer predictable monthly costs with potential savings if claims are lower than projected
+- **Health Reimbursement Arrangements (HRAs)** allow employers to reimburse employees for individual coverage, subject to applicable rules
+- **Association health plans** may provide access to larger group rates through employer associations, where available
 
 ### Optimize Plan Design
 - Review deductible and copay structures annually
@@ -31,7 +31,7 @@ Employers have several options for controlling health insurance expenses:
 
 ## The Role of Employer Associations
 
-Employer associations like AEA can help small businesses access benefits programs and group purchasing arrangements that would otherwise be available only to larger organizations. By pooling purchasing power across many small employers, associations can often negotiate more competitive rates and plan options.
+Employer associations like AEA can help small businesses access benefits programs and group purchasing arrangements that may otherwise be available only to larger organizations. By pooling purchasing power across many small employers, associations may be able to negotiate more competitive rates and plan options.
 
 ## What to Do Now
 

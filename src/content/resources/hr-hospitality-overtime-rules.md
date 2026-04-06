@@ -15,9 +15,9 @@ Calculating the regular rate in hospitality requires careful attention because i
 
 ## Tipped Employee Overtime Calculations
 
-When a tipped employee works overtime, the overtime premium must be calculated based on the full minimum wage, not the reduced cash wage. For example, if the federal minimum wage is $7.25 and the employer takes the maximum tip credit of $5.12, the cash wage is $2.13. The overtime rate is calculated as $7.25 multiplied by 1.5, equaling $10.88 per hour, minus the $5.12 tip credit, resulting in a cash overtime wage of $5.76 per hour.
+When a tipped employee works overtime, the overtime premium must be calculated based on the full minimum wage, not the reduced cash wage. The correct formula is: (full minimum wage x 1.5) minus the tip credit. The resulting cash overtime wage is what the employer must pay per overtime hour. Verify the current federal minimum wage and maximum tip credit amount with the DOL, as these figures determine the exact calculation.
 
-Employers frequently miscalculate tipped employee overtime by simply multiplying the cash wage of $2.13 by 1.5. This common error results in systematic underpayment and is a frequent target of DOL investigations in the hospitality sector.
+Employers frequently miscalculate tipped employee overtime by simply multiplying the cash wage by 1.5. This common error results in systematic underpayment and is a frequent target of DOL investigations in the hospitality sector.
 
 ## Dual Jobs and Multiple Rates
 

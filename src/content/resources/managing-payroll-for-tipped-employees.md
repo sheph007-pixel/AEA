@@ -11,9 +11,9 @@ Paying tipped employees correctly is one of the most error-prone areas of wage a
 
 ## Understanding the Tip Credit
 
-Under the FLSA, a tipped employee is one who customarily and regularly receives more than $30 per month in tips. For tipped employees, the employer may:
+Under the FLSA, a tipped employee is one who customarily and regularly receives more than a minimum monthly amount in tips (check the current DOL threshold). For tipped employees, the employer may:
 
-- Pay a direct cash wage as low as $2.13 per hour (the federal tipped minimum wage)
+- Pay a direct cash wage at or above the federal tipped minimum wage (verify the current rate with the DOL)
 - Take a tip credit for the difference between the direct cash wage and the full federal minimum wage
 - The direct cash wage plus tips must equal at least the full minimum wage for every hour worked
 
@@ -62,7 +62,7 @@ When a tipped employee performs both tipped and non-tipped duties:
 Several states do not allow a tip credit or set a higher tipped minimum wage:
 
 - California, Washington, Oregon, Nevada, Montana, Minnesota, and Alaska require employers to pay the full state minimum wage before tips
-- Many other states set tipped minimum wages higher than the federal $2.13
+- Many other states set tipped minimum wages higher than the federal tipped minimum; verify current rates in your state
 - Some states have additional tip pooling or tip notice requirements
 
 Always check the applicable state law and apply the standard most favorable to the employee.
