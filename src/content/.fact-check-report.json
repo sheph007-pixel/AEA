@@ -1,0 +1,179 @@
+{
+  "2026-03-31-ai-workplace-tools-raise-compliance-questions-2.md": {
+    "file": "2026-03-31-ai-workplace-tools-raise-compliance-questions-2.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article presents accurate information regarding the compliance landscape for AI tools in the workplace.",
+    "checkedAt": "2026-04-06T19:47:00.290Z",
+    "hash": "7061b220c5425cc1f6dfcadeadb1d939",
+    "dir": "src/content/news"
+  },
+  "2026-03-31-dol-announces-updated-overtime-threshold-0.md": {
+    "file": "2026-03-31-dol-announces-updated-overtime-threshold-0.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article contains no factual inaccuracies and provides accurate information regarding the Department of Labor's considerations on overtime salary thresholds.",
+    "checkedAt": "2026-04-06T19:47:02.798Z",
+    "hash": "66bc6a45ba74065453ab273e3867a385",
+    "dir": "src/content/news"
+  },
+  "2026-03-31-small-business-health-insurance-costs-3.md": {
+    "file": "2026-03-31-small-business-health-insurance-costs-3.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article presents accurate information regarding health insurance costs and strategies for small employers without any factual errors.",
+    "checkedAt": "2026-04-06T19:47:04.865Z",
+    "hash": "6be2b8fadc237e36a73c2ebd10b17ecb",
+    "dir": "src/content/news"
+  },
+  "2026-03-31-state-paid-leave-programs-expanding-1.md": {
+    "file": "2026-03-31-state-paid-leave-programs-expanding-1.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article accurately reflects the current trends and considerations regarding state-level paid leave programs.",
+    "checkedAt": "2026-04-06T19:47:07.777Z",
+    "hash": "e5ea4de07518e7c95324b38c7939f1fd",
+    "dir": "src/content/news"
+  },
+  "2026-03-31-workplace-violence-prevention-gaining-attention-4.md": {
+    "file": "2026-03-31-workplace-violence-prevention-gaining-attention-4.md",
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "OSHA continues to provide guidance on the topic.",
+        "issue": "The article does not specify any recent OSHA regulations or standards that have been enacted regarding workplace violence prevention, which could mislead readers into thinking there are formal regulations when there may only be guidance.",
+        "suggestion": "Clarify that OSHA provides guidance but does not currently have specific regulations mandating workplace violence prevention programs."
+      },
+      {
+        "severity": "medium",
+        "text": "Employers who do not have a formal workplace violence prevention program should begin by conducting a risk assessment of their workplace.",
+        "issue": "While conducting a risk assessment is a good practice, the article does not clarify that this is not a legal requirement unless specified by state law, which could mislead employers into thinking they are legally obligated to do so.",
+        "suggestion": "Add a disclaimer that conducting a risk assessment is recommended but may not be legally required unless specified by state or local laws."
+      }
+    ],
+    "summary": "The article contains some misleading claims about OSHA's role and employer obligations regarding workplace violence prevention programs.",
+    "checkedAt": "2026-04-06T19:47:13.172Z",
+    "hash": "6d53a42ed0e2f1f28481fc0729daf824",
+    "dir": "src/content/news"
+  },
+  "2026-04-06-navigating-the-rise-of-remote-work-regulations-1.md": {
+    "file": "2026-04-06-navigating-the-rise-of-remote-work-regulations-1.md",
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the DOL has emphasized that remote workers are entitled to the same protections under the Fair Labor Standards Act (FLSA)",
+        "issue": "While remote workers are generally entitled to protections under the FLSA, the article does not clarify that this is contingent on their classification as employees rather than independent contractors.",
+        "suggestion": "Clarify that the protections under the FLSA apply only to those classified as employees."
+      },
+      {
+        "severity": "medium",
+        "text": "laws are being considered that would require employers to reimburse employees for expenses incurred while working remotely",
+        "issue": "The article does not specify which states are considering such laws, which could mislead readers into thinking this is a widespread requirement.",
+        "suggestion": "Provide specific examples of states considering these laws or clarify that this is not yet a universal requirement."
+      }
+    ],
+    "summary": "The article contains some misleading claims and lacks specificity regarding legal obligations for remote work.",
+    "checkedAt": "2026-04-06T19:47:18.090Z",
+    "hash": "967a1915df01fc81b26307bc45604d10",
+    "dir": "src/content/news"
+  },
+  "2026-04-06-new-federal-guidance-on-remote-work-policies-what-employers--2.md": {
+    "file": "2026-04-06-new-federal-guidance-on-remote-work-policies-what-employers--2.md",
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the guidance issued in March 2026",
+        "issue": "The date of the guidance is in the future and cannot be accurate.",
+        "suggestion": "Verify the actual issuance date of the guidance and correct it to a past date."
+      },
+      {
+        "severity": "medium",
+        "text": "Employers must track hours worked effectively, as remote employees are still entitled to minimum wage and overtime protections under the Fair Labor Standards Act (FLSA).",
+        "issue": "While the FLSA does provide minimum wage and overtime protections, the statement may imply that all remote work is automatically covered, which may not be the case for certain exempt employees.",
+        "suggestion": "Clarify that while most employees are entitled to these protections, there are specific exemptions that may apply."
+      }
+    ],
+    "summary": "The article contains a future date for the DOL guidance and may misrepresent the applicability of FLSA protections for remote employees.",
+    "checkedAt": "2026-04-06T19:47:23.198Z",
+    "hash": "4f11c3e8bf609290777a4d7cc30065ec",
+    "dir": "src/content/news"
+  },
+  "2026-04-06-new-federal-pay-transparency-rule-set-to-impact-employers-0.md": {
+    "file": "2026-04-06-new-federal-pay-transparency-rule-set-to-impact-employers-0.md",
+    "status": "fail",
+    "confidence": 0.9,
+    "issues": [
+      {
+        "severity": "high",
+        "text": "the U.S. Department of Labor (DOL) has announced a new federal rule requiring employers to disclose salary ranges in job postings starting in 2026.",
+        "issue": "The article incorrectly states that the rule will take effect in 2026 without specifying that the rule is not yet finalized and may not be implemented as described.",
+        "suggestion": "Clarify that the rule is proposed and subject to change, and provide the current status of the rulemaking process."
+      },
+      {
+        "severity": "high",
+        "text": "the new regulation mandates that all employers with 15 or more employees must include pay ranges for positions listed in job postings.",
+        "issue": "The threshold of 15 employees is not accurate for all employers; the specific requirements may vary based on state laws and the final rule's provisions.",
+        "suggestion": "Specify that the threshold may vary and that employers should check both federal and state regulations for compliance."
+      },
+      {
+        "severity": "medium",
+        "text": "Failure to adhere to the new rule could result in penalties and legal challenges.",
+        "issue": "The article does not specify what penalties or legal challenges may arise, which could mislead employers about the severity of non-compliance.",
+        "suggestion": "Provide details on potential penalties or refer to the relevant legal framework for clarity."
+      }
+    ],
+    "summary": "The article contains significant inaccuracies regarding the implementation timeline and requirements of the new federal pay transparency rule.",
+    "checkedAt": "2026-04-06T19:47:32.106Z",
+    "hash": "baaf3d9371579e51ac9b4a398bd7d2cf",
+    "dir": "src/content/news"
+  },
+  "2026-04-06-new-federal-regulations-on-workplace-safety-what-employers-n-3.md": {
+    "file": "2026-04-06-new-federal-regulations-on-workplace-safety-what-employers-n-3.md",
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the regulations will require businesses to create detailed reports on workplace accidents, including near misses",
+        "issue": "The requirement to report near misses is not universally mandated by OSHA and may vary by state or specific regulations.",
+        "suggestion": "Clarify that reporting requirements may differ and specify which regulations or state laws apply."
+      },
+      {
+        "severity": "medium",
+        "text": "the expansion of the definition of 'workplace' to encompass remote and hybrid work environments",
+        "issue": "OSHA has not officially expanded the definition of 'workplace' to include remote work environments as of the date mentioned.",
+        "suggestion": "Remove or revise this statement to reflect the current legal framework regarding remote work and OSHA's jurisdiction."
+      },
+      {
+        "severity": "high",
+        "text": "These changes, which are expected to take effect in late 2026",
+        "issue": "The article states that the regulations will take effect in late 2026, but as of now, there are no confirmed regulations or effective dates announced by OSHA.",
+        "suggestion": "Remove or revise the statement regarding the effective date to avoid misinformation."
+      }
+    ],
+    "summary": "The article contains several potentially misleading claims and lacks clarity on OSHA's current regulations regarding workplace safety.",
+    "checkedAt": "2026-04-06T19:47:39.964Z",
+    "hash": "92cf12ac512dfaac52373e414a20118d",
+    "dir": "src/content/news"
+  },
+  "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md": {
+    "file": "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article accurately reflects the provisions of the SECURE 2.0 Act and employer obligations.",
+    "checkedAt": "2026-04-06T19:47:41.640Z",
+    "hash": "cd6dc55b12088a2f11a89a1d63fd7d67",
+    "dir": "src/content/news"
+  }
+}
