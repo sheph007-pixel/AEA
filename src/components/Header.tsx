@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { useMember } from '@/components/MemberContext';
+import SearchDialog from '@/components/SearchDialog';
 
 const publicNavLinks = [
   { name: 'About', href: '/about' },
@@ -25,11 +26,13 @@ const memberNavLinks = [
 
 export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
   const { member, isMember, logout } = useMember();
 
   const navLinks = isMember ? memberNavLinks : publicNavLinks;
 
   return (
+    <>
     <header className="bg-white sticky top-0 z-50 border-b border-ink-100">
       {/* Top bar */}
       <div className="bg-ink-900">
@@ -97,6 +100,15 @@ export default function Header() {
                 {link.name}
               </Link>
             ))}
+            <button
+              onClick={() => setSearchOpen(true)}
+              className="p-2 text-ink-400 hover:text-ink-900 transition-colors ml-1"
+              aria-label="Search"
+            >
+              <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </button>
           </nav>
 
           {/* Mobile toggle */}
@@ -151,5 +163,8 @@ export default function Header() {
         </div>
       )}
     </header>
+
+    {searchOpen && <SearchDialog onClose={() => setSearchOpen(false)} />}
+    </>
   );
 }
