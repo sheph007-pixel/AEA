@@ -4,9 +4,9 @@
     "status": "pass",
     "confidence": 1,
     "issues": [],
-    "summary": "The article presents accurate information regarding the compliance landscape for AI tools in the workplace.",
-    "checkedAt": "2026-04-06T19:47:00.290Z",
-    "hash": "7061b220c5425cc1f6dfcadeadb1d939",
+    "summary": "The article presents accurate information regarding the regulatory landscape and employer obligations related to AI workplace tools.",
+    "checkedAt": "2026-04-07T07:02:26.077Z",
+    "hash": "f207f9a8508625c5500fe21bea19ffec",
     "dir": "src/content/news"
   },
   "2026-03-31-dol-announces-updated-overtime-threshold-0.md": {
@@ -14,9 +14,9 @@
     "status": "pass",
     "confidence": 1,
     "issues": [],
-    "summary": "The article contains no factual inaccuracies and provides accurate information regarding the Department of Labor's considerations on overtime salary thresholds.",
-    "checkedAt": "2026-04-06T19:47:02.798Z",
-    "hash": "66bc6a45ba74065453ab273e3867a385",
+    "summary": "The article accurately reflects the current state of overtime salary threshold requirements under the Fair Labor Standards Act.",
+    "checkedAt": "2026-04-07T07:02:29.045Z",
+    "hash": "c83d3b41d5c945b9deb84c967acb032c",
     "dir": "src/content/news"
   },
   "2026-03-31-small-business-health-insurance-costs-3.md": {
@@ -25,8 +25,8 @@
     "confidence": 1,
     "issues": [],
     "summary": "The article presents accurate information regarding health insurance costs and strategies for small employers without any factual errors.",
-    "checkedAt": "2026-04-06T19:47:04.865Z",
-    "hash": "6be2b8fadc237e36a73c2ebd10b17ecb",
+    "checkedAt": "2026-04-07T07:02:31.066Z",
+    "hash": "b94b01936f1d82b44a14b79e77c15998",
     "dir": "src/content/news"
   },
   "2026-03-31-state-paid-leave-programs-expanding-1.md": {
@@ -34,146 +34,212 @@
     "status": "pass",
     "confidence": 1,
     "issues": [],
-    "summary": "The article accurately reflects the current trends and considerations regarding state-level paid leave programs.",
-    "checkedAt": "2026-04-06T19:47:07.777Z",
-    "hash": "e5ea4de07518e7c95324b38c7939f1fd",
+    "summary": "The article presents accurate information regarding state-level paid leave programs and employer obligations.",
+    "checkedAt": "2026-04-07T07:02:33.790Z",
+    "hash": "30f0f4d72624082cd8c8877b1c533f48",
     "dir": "src/content/news"
   },
   "2026-03-31-workplace-violence-prevention-gaining-attention-4.md": {
     "file": "2026-03-31-workplace-violence-prevention-gaining-attention-4.md",
-    "status": "flag",
-    "confidence": 0.7,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "OSHA continues to provide guidance on the topic.",
-        "issue": "The article does not specify any recent OSHA regulations or standards that have been enacted regarding workplace violence prevention, which could mislead readers into thinking there are formal regulations when there may only be guidance.",
-        "suggestion": "Clarify that OSHA provides guidance but does not currently have specific regulations mandating workplace violence prevention programs."
-      },
-      {
-        "severity": "medium",
-        "text": "Employers who do not have a formal workplace violence prevention program should begin by conducting a risk assessment of their workplace.",
-        "issue": "While conducting a risk assessment is a good practice, the article does not clarify that this is not a legal requirement unless specified by state law, which could mislead employers into thinking they are legally obligated to do so.",
-        "suggestion": "Add a disclaimer that conducting a risk assessment is recommended but may not be legally required unless specified by state or local laws."
-      }
-    ],
-    "summary": "The article contains some misleading claims about OSHA's role and employer obligations regarding workplace violence prevention programs.",
-    "checkedAt": "2026-04-06T19:47:13.172Z",
-    "hash": "6d53a42ed0e2f1f28481fc0729daf824",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article presents accurate information regarding workplace violence prevention standards and employer obligations.",
+    "checkedAt": "2026-04-07T07:02:35.491Z",
+    "hash": "57a7a13fb89f31bc69de7a94984b2147",
     "dir": "src/content/news"
   },
   "2026-04-06-navigating-the-rise-of-remote-work-regulations-1.md": {
     "file": "2026-04-06-navigating-the-rise-of-remote-work-regulations-1.md",
-    "status": "flag",
-    "confidence": 0.7,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "the DOL has emphasized that remote workers are entitled to the same protections under the Fair Labor Standards Act (FLSA)",
-        "issue": "While remote workers are generally entitled to protections under the FLSA, the article does not clarify that this is contingent on their classification as employees rather than independent contractors.",
-        "suggestion": "Clarify that the protections under the FLSA apply only to those classified as employees."
-      },
-      {
-        "severity": "medium",
-        "text": "laws are being considered that would require employers to reimburse employees for expenses incurred while working remotely",
-        "issue": "The article does not specify which states are considering such laws, which could mislead readers into thinking this is a widespread requirement.",
-        "suggestion": "Provide specific examples of states considering these laws or clarify that this is not yet a universal requirement."
-      }
-    ],
-    "summary": "The article contains some misleading claims and lacks specificity regarding legal obligations for remote work.",
-    "checkedAt": "2026-04-06T19:47:18.090Z",
-    "hash": "967a1915df01fc81b26307bc45604d10",
-    "dir": "src/content/news"
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article accurately discusses the evolving regulations surrounding remote work without any factual inaccuracies.",
+    "checkedAt": "2026-04-07T07:02:58.861Z",
+    "hash": "cddf8a00846e56dd6e91ee564aa4bfba",
+    "dir": "src/content/news",
+    "autoFixed": true
   },
   "2026-04-06-new-federal-guidance-on-remote-work-policies-what-employers--2.md": {
     "file": "2026-04-06-new-federal-guidance-on-remote-work-policies-what-employers--2.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article provides accurate information regarding DOL guidance on remote work policies without any factual issues.",
+    "checkedAt": "2026-04-07T07:03:01.299Z",
+    "hash": "d212b8ae333d99a5c25bfa64dbca6ee9",
+    "dir": "src/content/news"
+  },
+  "2026-04-06-new-federal-regulations-on-workplace-safety-what-employers-n-3.md": {
+    "file": "2026-04-06-new-federal-regulations-on-workplace-safety-what-employers-n-3.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article accurately discusses workplace safety regulations and employer obligations without any factual errors.",
+    "checkedAt": "2026-04-07T07:03:03.488Z",
+    "hash": "68b7248d695e1582337676a44dfac2f8",
+    "dir": "src/content/news"
+  },
+  "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md": {
+    "file": "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md",
     "status": "flag",
-    "confidence": 0.7,
+    "confidence": 0.8,
     "issues": [
       {
         "severity": "medium",
-        "text": "the guidance issued in March 2026",
-        "issue": "The date of the guidance is in the future and cannot be accurate.",
-        "suggestion": "Verify the actual issuance date of the guidance and correct it to a past date."
+        "text": "the law adjusted the RMD age to 73",
+        "issue": "The SECURE 2.0 Act actually adjusts the RMD age to 73 starting in 2023, but it is important to specify that this change is phased in, with the age increasing to 75 in 2033.",
+        "suggestion": "Clarify that the RMD age is 73 starting in 2023 and will increase to 75 in 2033."
       },
       {
         "severity": "medium",
-        "text": "Employers must track hours worked effectively, as remote employees are still entitled to minimum wage and overtime protections under the Fair Labor Standards Act (FLSA).",
-        "issue": "While the FLSA does provide minimum wage and overtime protections, the statement may imply that all remote work is automatically covered, which may not be the case for certain exempt employees.",
-        "suggestion": "Clarify that while most employees are entitled to these protections, there are specific exemptions that may apply."
+        "text": "Employers should verify the specific hours and service requirements with their plan administrators.",
+        "issue": "The article does not specify the actual hours and service requirements for part-time workers under SECURE 2.0, which could mislead employers.",
+        "suggestion": "Include specific details about the hours and service requirements for part-time workers as outlined in SECURE 2.0."
+      },
+      {
+        "severity": "medium",
+        "text": "Employers may need to provide clearer disclosures regarding the fees associated with their retirement plans",
+        "issue": "The article does not specify the exact reporting and disclosure requirements that have changed under SECURE 2.0, which could lead to confusion.",
+        "suggestion": "Provide specific details about the updated reporting and disclosure requirements under SECURE 2.0."
       }
     ],
-    "summary": "The article contains a future date for the DOL guidance and may misrepresent the applicability of FLSA protections for remote employees.",
-    "checkedAt": "2026-04-06T19:47:23.198Z",
-    "hash": "4f11c3e8bf609290777a4d7cc30065ec",
-    "dir": "src/content/news"
+    "summary": "The article contains some inaccuracies and lacks specific details that could mislead employers regarding compliance with the SECURE 2.0 Act.",
+    "checkedAt": "2026-04-07T07:03:39.528Z",
+    "hash": "15029deb9ec49d3e54c89f36647d76bf",
+    "dir": "src/content/news",
+    "autoFixed": true
   },
-  "2026-04-06-new-federal-pay-transparency-rule-set-to-impact-employers-0.md": {
-    "file": "2026-04-06-new-federal-pay-transparency-rule-set-to-impact-employers-0.md",
+  "2026-04-07-navigating-the-new-federal-overtime-rule-what-employers-need-3.md": {
+    "file": "2026-04-07-navigating-the-new-federal-overtime-rule-what-employers-need-3.md",
+    "status": "flag",
+    "confidence": 0.8,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the threshold will rise from $684 per week to $1,059 per week, making it approximately $55,000 annually.",
+        "issue": "The new salary threshold for exempt employees is actually $1,059 per week, which translates to approximately $55,000 annually, but the article does not clarify that this is based on a 52-week year calculation, which could be misleading.",
+        "suggestion": "Clarify that the annual figure is based on a standard 52-week year calculation."
+      },
+      {
+        "severity": "medium",
+        "text": "the DOL has indicated that the salary threshold may be reviewed and adjusted periodically.",
+        "issue": "While the DOL does review regulations, the article should specify that any adjustments are not guaranteed and depend on future regulatory actions.",
+        "suggestion": "Add a disclaimer that adjustments are subject to the DOL's discretion and not guaranteed."
+      }
+    ],
+    "summary": "The article contains some potentially misleading statements regarding the new overtime regulations that should be clarified for accuracy.",
+    "checkedAt": "2026-04-07T07:04:09.177Z",
+    "hash": "d461e380d1b9a19725d904746b1e17f7",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-07-navigating-the-new-fmla-regulations-what-employers-need-to-k-1.md": {
+    "file": "2026-04-07-navigating-the-new-fmla-regulations-what-employers-need-to-k-1.md",
+    "status": "flag",
+    "confidence": 0.8,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the DOL often looks to align state and federal regulations, which could influence local compliance.",
+        "issue": "This statement implies a direct influence of federal regulations on state laws without clarifying that state laws can vary significantly and may not always align with federal regulations.",
+        "suggestion": "Clarify that while the DOL may encourage alignment, state laws can differ and employers should consult state-specific regulations."
+      },
+      {
+        "severity": "medium",
+        "text": "expanded definition of 'serious health condition,' which now encompasses a broader range of health issues, including mental health conditions.",
+        "issue": "The article does not specify the exact changes to the definition of 'serious health condition' as per the latest regulations, which could mislead readers about the nature of the updates.",
+        "suggestion": "Provide specific details or examples of the changes to the definition to avoid ambiguity."
+      }
+    ],
+    "summary": "The article contains some ambiguous statements regarding the alignment of state and federal regulations and lacks specific details about the updated definition of 'serious health condition.'",
+    "checkedAt": "2026-04-07T07:04:38.201Z",
+    "hash": "5553cae2f3a46381fe8dfd72f64b71d1",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-07-new-california-law-mandates-pay-transparency-for-employers-2.md": {
+    "file": "2026-04-07-new-california-law-mandates-pay-transparency-for-employers-2.md",
     "status": "fail",
     "confidence": 0.9,
     "issues": [
       {
         "severity": "high",
-        "text": "the U.S. Department of Labor (DOL) has announced a new federal rule requiring employers to disclose salary ranges in job postings starting in 2026.",
-        "issue": "The article incorrectly states that the rule will take effect in 2026 without specifying that the rule is not yet finalized and may not be implemented as described.",
-        "suggestion": "Clarify that the rule is proposed and subject to change, and provide the current status of the rulemaking process."
+        "text": "This legislation, known as Assembly Bill 5 (AB 5)",
+        "issue": "AB 5 is not related to pay transparency; it pertains to independent contractor classification. The correct law for pay transparency in California is Assembly Bill 168.",
+        "suggestion": "Correct the reference to the appropriate law, Assembly Bill 168, which addresses pay transparency."
       },
       {
         "severity": "high",
-        "text": "the new regulation mandates that all employers with 15 or more employees must include pay ranges for positions listed in job postings.",
-        "issue": "The threshold of 15 employees is not accurate for all employers; the specific requirements may vary based on state laws and the final rule's provisions.",
-        "suggestion": "Specify that the threshold may vary and that employers should check both federal and state regulations for compliance."
+        "text": "starting January 1, 2023",
+        "issue": "The article states that the law requires compliance starting January 1, 2023, which is incorrect. The law was enacted in 2022 and took effect on January 1, 2023, but the article does not clarify this distinction.",
+        "suggestion": "Clarify that the law was enacted in 2022 and took effect on January 1, 2023."
       },
       {
         "severity": "medium",
-        "text": "Failure to adhere to the new rule could result in penalties and legal challenges.",
-        "issue": "The article does not specify what penalties or legal challenges may arise, which could mislead employers about the severity of non-compliance.",
-        "suggestion": "Provide details on potential penalties or refer to the relevant legal framework for clarity."
+        "text": "employers with 100 or more employees must include the salary range",
+        "issue": "The threshold for employers required to disclose salary ranges is actually for employers with 15 or more employees, not 100.",
+        "suggestion": "Revise the threshold to state that it applies to employers with 15 or more employees."
       }
     ],
-    "summary": "The article contains significant inaccuracies regarding the implementation timeline and requirements of the new federal pay transparency rule.",
-    "checkedAt": "2026-04-06T19:47:32.106Z",
-    "hash": "baaf3d9371579e51ac9b4a398bd7d2cf",
-    "dir": "src/content/news"
+    "summary": "The article contains significant factual inaccuracies regarding the legal references and compliance requirements of California's pay transparency law.",
+    "checkedAt": "2026-04-07T07:05:05.131Z",
+    "hash": "cc89a99642c2ccceeb3844f4fa803b77",
+    "dir": "src/content/news",
+    "autoFixed": true
   },
-  "2026-04-06-new-federal-regulations-on-workplace-safety-what-employers-n-3.md": {
-    "file": "2026-04-06-new-federal-regulations-on-workplace-safety-what-employers-n-3.md",
+  "2026-04-07-new-federal-guidance-on-employee-benefits-administration-4.md": {
+    "file": "2026-04-07-new-federal-guidance-on-employee-benefits-administration-4.md",
     "status": "flag",
-    "confidence": 0.7,
+    "confidence": 0.8,
     "issues": [
       {
         "severity": "medium",
-        "text": "the regulations will require businesses to create detailed reports on workplace accidents, including near misses",
-        "issue": "The requirement to report near misses is not universally mandated by OSHA and may vary by state or specific regulations.",
-        "suggestion": "Clarify that reporting requirements may differ and specify which regulations or state laws apply."
+        "text": "Employers should also be aware that failure to comply with this advisory guidance may lead to increased scrutiny from regulators, although penalties are typically associated with violations of established laws rather than non-compliance with guidance.",
+        "issue": "The statement downplays the potential consequences of non-compliance with DOL guidance, which can lead to enforcement actions even if not directly tied to penalties.",
+        "suggestion": "Clarify that while advisory guidance may not carry penalties like laws do, non-compliance can still result in increased scrutiny and potential legal challenges."
       },
       {
         "severity": "medium",
-        "text": "the expansion of the definition of 'workplace' to encompass remote and hybrid work environments",
-        "issue": "OSHA has not officially expanded the definition of 'workplace' to include remote work environments as of the date mentioned.",
-        "suggestion": "Remove or revise this statement to reflect the current legal framework regarding remote work and OSHA's jurisdiction."
-      },
-      {
-        "severity": "high",
-        "text": "These changes, which are expected to take effect in late 2026",
-        "issue": "The article states that the regulations will take effect in late 2026, but as of now, there are no confirmed regulations or effective dates announced by OSHA.",
-        "suggestion": "Remove or revise the statement regarding the effective date to avoid misinformation."
+        "text": "While the DOL suggests that employers may conduct periodic audits of their benefit plans as a best practice to ensure compliance with federal regulations and to identify any areas for improvement, it is important to note that such audits are not a legal requirement for all employers under ERISA.",
+        "issue": "The phrasing may mislead readers into thinking that audits are optional for all employers, while certain employers may have specific audit requirements under ERISA or other regulations.",
+        "suggestion": "Specify that while audits are not universally required, certain employers may have obligations under specific circumstances, and it is advisable for all to consider them as best practice."
       }
     ],
-    "summary": "The article contains several potentially misleading claims and lacks clarity on OSHA's current regulations regarding workplace safety.",
-    "checkedAt": "2026-04-06T19:47:39.964Z",
-    "hash": "92cf12ac512dfaac52373e414a20118d",
-    "dir": "src/content/news"
+    "summary": "The article contains some misleading claims regarding the implications of DOL guidance and the necessity of audits under ERISA.",
+    "checkedAt": "2026-04-07T07:05:34.501Z",
+    "hash": "159ce52092e22b1a5f831fec91b574fb",
+    "dir": "src/content/news",
+    "autoFixed": true
   },
-  "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md": {
-    "file": "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article accurately reflects the provisions of the SECURE 2.0 Act and employer obligations.",
-    "checkedAt": "2026-04-06T19:47:41.640Z",
-    "hash": "cd6dc55b12088a2f11a89a1d63fd7d67",
-    "dir": "src/content/news"
+  "2026-04-07-new-wage-transparency-laws-on-the-rise-what-employers-need-t-0.md": {
+    "file": "2026-04-07-new-wage-transparency-laws-on-the-rise-what-employers-need-t-0.md",
+    "status": "flag",
+    "confidence": 0.8,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "California Equal Pay Act",
+        "issue": "The California Equal Pay Act does not specifically mandate salary range disclosure in job postings; this requirement is part of the California Pay Transparency Law, which is separate.",
+        "suggestion": "Clarify that the requirement to disclose salary ranges in job postings is part of the California Pay Transparency Law, not the Equal Pay Act."
+      },
+      {
+        "severity": "medium",
+        "text": "New York City Salary Transparency Law",
+        "issue": "The article does not specify that the New York City Salary Transparency Law applies only to employers with four or more employees, which is a critical threshold.",
+        "suggestion": "Include the threshold of four employees to clarify the applicability of the New York City Salary Transparency Law."
+      },
+      {
+        "severity": "low",
+        "text": "Certain states, such as California and Colorado, require employers to report salary data to state agencies.",
+        "issue": "While California and Colorado have reporting requirements, the article should specify that these requirements may vary and not all employers are subject to the same reporting obligations.",
+        "suggestion": "Add a note that reporting obligations can vary by employer size and specific local laws."
+      }
+    ],
+    "summary": "The article contains some inaccuracies regarding the specific laws governing wage transparency in California and New York, which should be clarified for accuracy.",
+    "checkedAt": "2026-04-07T07:06:04.081Z",
+    "hash": "91a8e0660e2343386387e6ca6fee031b",
+    "dir": "src/content/news",
+    "autoFixed": true
   }
 }

@@ -10,7 +10,7 @@ author: "AEA Editorial Team"
 
 The SECURE 2.0 Act continues to shape the landscape of employee benefits and retirement plans, with federal agencies providing ongoing guidance clarifying key provisions that employers may need to address. As HR professionals and business owners navigate these changes, it is important to understand the potential implications for compliance and employee engagement.
 
-One of the areas addressed by SECURE 2.0 involves the age for required minimum distributions (RMDs) from retirement accounts. The law adjusted the RMD age, and employers should verify the current applicable age with their plan administrators or legal counsel to ensure their retirement plans reflect the correct requirements.
+One of the areas addressed by SECURE 2.0 involves the age for required minimum distributions (RMDs) from retirement accounts. The law adjusted the RMD age to 73, and employers should verify this age with their plan administrators or legal counsel to ensure their retirement plans reflect the correct requirements.
 
 SECURE 2.0 also includes provisions related to access to retirement plans for part-time workers. Employers should review their eligibility criteria in light of these provisions, as the law may require certain long-term part-time employees to be eligible to participate in employer-sponsored retirement plans. Employers should verify the specific hours and service requirements with their plan administrators.
 
@@ -18,7 +18,7 @@ Another area of the law involves enhanced catch-up contribution provisions for c
 
 In addition, the Act includes provisions that may allow employers to offer emergency savings accounts linked to retirement plans, potentially allowing employees to access a limited amount of funds without penalty for emergency expenses. Employers may consider whether implementing this feature would enhance their benefits offerings and support employee financial wellness.
 
-Employers should also be aware that SECURE 2.0 may impose updated reporting and disclosure requirements related to plan fees and investment performance. Compliance with applicable requirements is important to help avoid potential penalties and ensure transparency with employees regarding their retirement options.
+Employers should also be aware that SECURE 2.0 may impose updated reporting and disclosure requirements related to plan fees and investment performance. For example, employers may need to provide clearer disclosures regarding the fees associated with their retirement plans and the performance of investment options. Compliance with applicable requirements is important to help avoid potential penalties and ensure transparency with employees regarding their retirement options.
 
 ### Action Items for Employers
 
