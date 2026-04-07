@@ -1,27 +1,27 @@
 ---
-title: "Key Federal and State Labor Law Updates for 2021"
+title: "Key Federal and State Labor Law Updates for "
 description: "A summary of significant employment law changes employers need to know including minimum wage increases, leave expansions, and new compliance obligations."
 category: "Compliance"
-date: "2021-03-10"
+date: "-03-10"
 tags: ["labor law", "compliance", "minimum wage", "employment law", "regulations"]
 author: "AEA Editorial Team"
 ---
 
-Employment law evolves constantly at the federal, state, and local levels. Staying current is essential for compliance. Here are the most significant labor law changes that took effect or were enacted during 2021 and their practical implications for employers.
+Employment law evolves constantly at the federal, state, and local levels. Staying current is essential for compliance. Here are the most significant labor law changes that took effect or were enacted during  and their practical implications for employers.
 
 ## Federal Developments
 
 ### American Rescue Plan Act (ARPA)
 
-Signed into law on March 11, 2021, ARPA included several employer-relevant provisions:
+Signed into law on March 11, , ARPA included several employer-relevant provisions:
 
-- **COBRA subsidy:** From April 1 through September 30, 2021, eligible individuals who lost group health coverage due to an involuntary termination or reduction in hours received a 100% COBRA premium subsidy. Employers were reimbursed through a tax credit against Medicare taxes.
-- **FFCRA leave credits extended:** While FFCRA mandatory paid leave expired December 31, 2020, ARPA extended the voluntary tax credits through September 30, 2021. The qualifying reasons for leave were expanded to include vaccination and recovery from vaccination side effects.
-- **Employee Retention Credit expansion:** The ERC was extended through December 31, 2021 (later terminated retroactively as of September 30 for most employers by the Infrastructure Investment and Jobs Act). The credit rate increased to 70% of qualified wages up to $10,000 per employee per quarter.
+- **COBRA subsidy:** From April 1 through September 30, , eligible individuals who lost group health coverage due to an involuntary termination or reduction in hours received a 100% COBRA premium subsidy. Employers were reimbursed through a tax credit against Medicare taxes.
+- **FFCRA leave credits extended:** While FFCRA mandatory paid leave expired December 31, 2020, ARPA extended the voluntary tax credits through September 30, . The qualifying reasons for leave were expanded to include vaccination and recovery from vaccination side effects.
+- **Employee Retention Credit expansion:** The ERC was extended through December 31,  (later terminated retroactively as of September 30 for most employers by the Infrastructure Investment and Jobs Act). The credit rate increased to 70% of qualified wages up to $10,000 per employee per quarter.
 
 ### OSHA COVID-19 Enforcement
 
-OSHA issued its first industry-specific COVID-19 standard, the Healthcare Emergency Temporary Standard (ETS), in June 2021, establishing detailed requirements for healthcare employers. OSHA also proposed a broader Vaccination and Testing ETS for employers with 100 or more employees, which was ultimately stayed by the Supreme Court in January 2022.
+OSHA issued its first industry-specific COVID-19 standard, the Healthcare Emergency Temporary Standard (ETS), in June , establishing detailed requirements for healthcare employers. OSHA also proposed a broader Vaccination and Testing ETS for employers with 100 or more employees, which was ultimately stayed by the Supreme Court in January 2022.
 
 ### Independent Contractor Classification
 
@@ -41,7 +41,7 @@ Numerous states increased their minimum wages, many as part of previously enacte
 
 Several states expanded or enacted new paid leave requirements:
 
-- **Colorado:** The Healthy Families and Workplaces Act took effect January 1, 2021, requiring employers with 16 or more employees to provide up to 48 hours of paid sick leave per year (all employers covered starting January 1, 2022)
+- **Colorado:** The Healthy Families and Workplaces Act took effect January 1, , requiring employers with 16 or more employees to provide up to 48 hours of paid sick leave per year (all employers covered starting January 1, 2022)
 - **New Mexico:** The Healthy Workplaces Act, effective July 1, 2022, requires all employers to provide one hour of paid sick leave for every 30 hours worked
 - **New York:** Expanded paid family leave benefits to 12 weeks at 67% of the statewide average weekly wage
 - **Multiple states** continued to implement or expand paid family and medical leave insurance programs, with employer contribution requirements

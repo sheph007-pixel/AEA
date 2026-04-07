@@ -1,16 +1,16 @@
 ---
-title: "AI Policy and Compliance: The 2025 Employer Landscape"
+title: "AI Policy and Compliance: The Current Year Employer Landscape"
 description: "An updated overview of AI-related compliance obligations for employers as state and federal regulations continue to expand."
 category: "Technology"
-date: "2025-02-10"
-tags: ["AI", "compliance", "regulation", "2025", "technology policy"]
+date: "Current Year-02-10"
+tags: ["AI", "compliance", "regulation", "Current Year", "technology policy"]
 author: "AEA Editorial Team"
-featured: true
+featured: false
 ---
 
 ## The Regulatory Environment Has Matured
 
-Two years ago, AI workplace regulation was mostly theoretical. By 2025, it is operational. Multiple states have enacted laws governing AI in employment, the EEOC has issued enforcement guidance, and employers face real compliance obligations for their use of automated decision-making tools. This article provides an updated view of the regulatory landscape and what employers should be doing now.
+Two years ago, AI workplace regulation was mostly theoretical. By Current Year, it is operational. Multiple states have enacted laws governing AI in employment, the EEOC has issued enforcement guidance, and employers face real compliance obligations for their use of automated decision-making tools. This article provides an updated view of the regulatory landscape and what employers should be doing now.
 
 ## Federal Developments
 
@@ -40,7 +40,7 @@ Local Law 144 continues to require annual independent bias audits and candidate 
 
 ### Other States
 
-Maryland prohibits the use of facial recognition technology in job interviews without consent. Several other states have introduced comprehensive AI employment bills, and the legislative pipeline suggests additional state laws will take effect in 2025 and 2026.
+Maryland prohibits the use of facial recognition technology in job interviews without consent. Several other states have introduced comprehensive AI employment bills, and the legislative pipeline suggests additional state laws will take effect in Current Year and 2026.
 
 ## What Employers Should Do Now
 

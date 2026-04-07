@@ -1,20 +1,20 @@
 ---
-title: "Workforce Planning for Small Employers in 2025"
+title: "Workforce Planning for Small Employers in Current Year"
 description: "Strategic workforce planning approaches tailored for small and mid-size employers navigating a shifting labor market."
 category: "Small Business"
 date: "2026-01-15"
-tags: ["workforce planning", "small business", "talent strategy", "labor market", "2025"]
+tags: ["workforce planning", "small business", "talent strategy", "labor market", "Current Year"]
 author: "AEA Editorial Team"
-featured: true
+featured: false
 ---
 
 ## Why Workforce Planning Matters for Small Employers
 
 Workforce planning, the process of aligning your talent needs with your business strategy, is often viewed as a function of large enterprises with dedicated HR analytics teams. But small employers arguably need it more. With thinner teams and less margin for error, a single bad hire or unexpected departure can derail operations. Proactive planning is more valuable, not less, when you have fewer people.
 
-## The 2025 Labor Market Context
+## The Current Year Labor Market Context
 
-Several trends are shaping workforce decisions for small employers in 2025:
+Several trends are shaping workforce decisions for small employers in Current Year:
 
 **Demographic shifts.** Baby Boomers continue to retire, and the working-age population is growing more slowly than in previous decades. In many industries and regions, there are simply fewer workers available than positions to fill. This is not a temporary shortage; it is a structural change.
 

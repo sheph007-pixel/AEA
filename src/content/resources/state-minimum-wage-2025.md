@@ -1,22 +1,22 @@
 ---
-title: "State Minimum Wage Updates for 2025: What Employers Need to Know"
-description: "A comprehensive roundup of state and local minimum wage changes effective in 2025 and compliance steps for employers."
+title: "State Minimum Wage Updates for Current Year: What Employers Need to Know"
+description: "A comprehensive roundup of state and local minimum wage changes effective in Current Year and compliance steps for employers."
 category: "Compliance"
-date: "2025-01-08"
-tags: ["minimum wage", "state law", "compliance", "2025", "payroll"]
+date: "Current Year-01-08"
+tags: ["minimum wage", "state law", "compliance", "Current Year", "payroll"]
 author: "AEA Editorial Team"
-featured: true
+featured: false
 ---
 
-## The 2025 Minimum Wage Landscape
+## The Current Year Minimum Wage Landscape
 
-The federal minimum wage remains at $7.25 per hour, unchanged since 2009. However, the practical relevance of the federal rate continues to diminish as states, counties, and cities set higher minimum wages. As of January 1, 2025, the majority of states have minimum wage rates above the federal level, and many jurisdictions saw significant increases for the new year.
+The federal minimum wage remains at $7.25 per hour, unchanged since 2009. However, the practical relevance of the federal rate continues to diminish as states, counties, and cities set higher minimum wages. As of January 1, Current Year, the majority of states have minimum wage rates above the federal level, and many jurisdictions saw significant increases for the new year.
 
-Employers must pay the highest applicable minimum wage, whether federal, state, or local. Here is what you need to know for 2025.
+Employers must pay the highest applicable minimum wage, whether federal, state, or local. Here is what you need to know for Current Year.
 
 ## States with Notable Increases
 
-Several states implemented significant increases for 2025 through legislative action, ballot initiatives, or inflation-indexed adjustments:
+Several states implemented significant increases for Current Year through legislative action, ballot initiatives, or inflation-indexed adjustments:
 
 **Indexed adjustments.** States that automatically adjust minimum wages based on inflation or cost-of-living indices saw increases effective January 1. These include Arizona, California, Colorado, Maine, Minnesota, Montana, Ohio, Oregon, South Dakota, Vermont, and Washington, among others. The specific amounts vary based on each state's indexing formula and the applicable inflation measure.
 

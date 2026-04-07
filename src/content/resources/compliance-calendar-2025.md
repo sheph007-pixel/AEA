@@ -1,9 +1,9 @@
 ---
-title: "2025 Employer Compliance Calendar: Key Dates and Deadlines"
-description: "A month-by-month guide to critical compliance deadlines and requirements employers must meet throughout 2025."
+title: "Current Year Employer Compliance Calendar: Key Dates and Deadlines"
+description: "A month-by-month guide to critical compliance deadlines and requirements employers must meet throughout Current Year."
 category: "Compliance"
-date: "2025-01-02"
-tags: ["compliance", "deadlines", "2025", "calendar", "federal requirements"]
+date: "Current Year-01-02"
+tags: ["compliance", "deadlines", "Current Year", "calendar", "federal requirements"]
 author: "AEA Editorial Team"
 ---
 
