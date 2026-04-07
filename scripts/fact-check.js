@@ -296,7 +296,7 @@ async function main() {
     passed: passCount,
     flagged: flagCount,
     failed: failCount,
-    status: failCount === 0 ? 'verified' : 'issues-found',
+    status: (failCount === 0 || results.every(r => r.status === 'pass' || r.autoFixed)) ? 'verified' : 'issues-found',
   }, null, 2));
 
   // Console summary
@@ -309,58 +309,61 @@ async function main() {
   console.log(`  Error:   ${errorCount}`);
   console.log(`  Total:   ${allFiles.length}`);
 
-  // Email notification if issues found
-  if (flagCount > 0 || failCount > 0) {
+  // Count auto-fixed files
+  const autoFixedCount = results.filter(r => r.autoFixed).length;
+  const stillFlagged = results.filter(r => (r.status === 'flag' || r.status === 'fail') && !r.autoFixed).length;
+
+  // Email notification
+  if (autoFixedCount > 0 && stillFlagged === 0) {
+    // Auto-fixed and all clear now
+    await sendEmail(
+      `AEA Content Audit: ${autoFixedCount} file(s) auto-corrected - all verified`,
+      `<h2>AEA Content Audit Report</h2>
+       <p>${autoFixedCount} content file(s) had issues that were <strong>automatically corrected and re-verified</strong>. No manual action needed.</p>
+       <table style="border-collapse:collapse;width:100%;max-width:600px;">
+         <tr><td style="padding:6px;font-weight:bold;">Total files</td><td style="padding:6px;">${allFiles.length}</td></tr>
+         <tr><td style="padding:6px;font-weight:bold;">Checked this run</td><td style="padding:6px;">${checkedCount}</td></tr>
+         <tr><td style="padding:6px;font-weight:bold;">Auto-corrected</td><td style="padding:6px;">${autoFixedCount}</td></tr>
+         <tr><td style="padding:6px;font-weight:bold;">All verified</td><td style="padding:6px;">Yes</td></tr>
+       </table>
+       <p style="margin-top:16px;color:#666;font-size:12px;">All content has been automatically corrected and re-verified. No action required.</p>`
+    );
+  } else if (stillFlagged > 0) {
+    // Some issues could not be auto-fixed
     const issueDetails = results
-      .filter(r => r.status === 'flag' || r.status === 'fail')
+      .filter(r => (r.status === 'flag' || r.status === 'fail') && !r.autoFixed)
       .map(r => `<tr><td style="padding:6px;border-bottom:1px solid #eee;font-weight:bold;">${r.status.toUpperCase()}: ${r.file}</td><td style="padding:6px;border-bottom:1px solid #eee;">${r.summary}</td></tr>`)
       .join('');
 
-    const emailBody = `<h2>AEA Fact-Check Alert</h2>
-      <p>The automated fact-checker found issues in ${flagCount + failCount} content file(s).</p>
-      <table style="border-collapse:collapse;width:100%;max-width:600px;">
-        <tr><td style="padding:6px;font-weight:bold;">Pass</td><td style="padding:6px;">${passCount}</td></tr>
-        <tr><td style="padding:6px;font-weight:bold;">Flagged</td><td style="padding:6px;">${flagCount}</td></tr>
-        <tr><td style="padding:6px;font-weight:bold;">Failed</td><td style="padding:6px;">${failCount}</td></tr>
-      </table>
-      <h3 style="margin-top:16px;">Issues:</h3>
-      <table style="border-collapse:collapse;width:100%;max-width:600px;">${issueDetails}</table>
-      <p style="margin-top:16px;color:#666;font-size:12px;">Review the content before it goes live.</p>`;
-
     await sendEmail(
-      `AEA Fact-Check: ${failCount > 0 ? 'FAILED' : 'FLAGGED'} - ${flagCount + failCount} issue(s) found`,
-      emailBody
+      `AEA Content Audit: ${stillFlagged} file(s) need manual review`,
+      `<h2>AEA Content Audit - Manual Review Needed</h2>
+       <p>${stillFlagged} content file(s) could not be automatically corrected and may need manual review.</p>
+       ${autoFixedCount > 0 ? `<p>${autoFixedCount} other file(s) were auto-corrected successfully.</p>` : ''}
+       <table style="border-collapse:collapse;width:100%;max-width:600px;">
+         <tr><td style="padding:6px;font-weight:bold;">Total files</td><td style="padding:6px;">${allFiles.length}</td></tr>
+         <tr><td style="padding:6px;font-weight:bold;">Auto-corrected</td><td style="padding:6px;">${autoFixedCount}</td></tr>
+         <tr><td style="padding:6px;font-weight:bold;">Need review</td><td style="padding:6px;">${stillFlagged}</td></tr>
+       </table>
+       <h3 style="margin-top:16px;">Files needing review:</h3>
+       <table style="border-collapse:collapse;width:100%;max-width:600px;">${issueDetails}</table>`
     );
 
-    console.log(`\nNotification sent to hunter@kennion.com`);
-
-    // Log issue details to console
+    // Remove files that FAILED and couldn't be auto-fixed
     for (const r of results) {
-      if (r.status === 'flag' || r.status === 'fail') {
-        console.log(`\n  ${r.status.toUpperCase()}: ${r.file}`);
-        console.log(`  Summary: ${r.summary}`);
-        for (const issue of r.issues) {
-          console.log(`    [${issue.severity}] ${issue.issue}`);
-          if (issue.suggestion) console.log(`           Fix: ${issue.suggestion}`);
-        }
-      }
-    }
-
-    // Remove files that FAILED fact-check (don't publish bad content)
-    for (const r of results) {
-      if (r.status === 'fail') {
+      if (r.status === 'fail' && !r.autoFixed) {
         const failedPath = r.dir ? path.join(r.dir, r.file) : null;
         if (failedPath && fs.existsSync(failedPath)) {
           fs.unlinkSync(failedPath);
-          console.log(`  REMOVED failed file: ${r.file}`);
+          console.log(`  REMOVED unfixable file: ${r.file}`);
         }
       }
     }
-  } else {
-    // All passed - send success confirmation
+  } else if (flagCount === 0 && failCount === 0) {
+    // All clean, no issues at all
     await sendEmail(
-      `AEA Fact-Check: All Clear - ${passCount} file(s) verified`,
-      `<h2>AEA Fact-Check Report</h2><p>All ${passCount} checked content file(s) passed verification. No issues found.</p><p style="color:#666;font-size:12px;">Checked at: ${new Date().toISOString()}</p>`
+      `AEA Content Audit: All ${passCount} file(s) verified`,
+      `<h2>AEA Content Audit Report</h2><p>All ${passCount} checked content file(s) passed verification. No issues found.</p><p style="color:#666;font-size:12px;">Checked at: ${new Date().toISOString()}</p>`
     );
   }
 

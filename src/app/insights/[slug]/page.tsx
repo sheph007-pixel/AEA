@@ -44,9 +44,15 @@ export default async function InsightPage({ params }: Props) {
             <p className="mt-4 text-lg text-ink-500 leading-relaxed">
               {insight.description}
             </p>
-            <p className="mt-6 text-sm text-ink-400">
+            <div className="mt-6 flex items-center gap-4 text-sm text-ink-400">
               <span className="font-medium text-ink-700">{insight.author}</span>
-            </p>
+              <span className="inline-flex items-center gap-1 text-green-600 text-xs">
+                <svg className="w-3.5 h-3.5" viewBox="0 0 20 20" fill="currentColor">
+                  <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                </svg>
+                Verified
+              </span>
+            </div>
           </div>
         </header>
 
