@@ -82,31 +82,12 @@
   },
   "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md": {
     "file": "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md",
-    "status": "flag",
-    "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "the law adjusted the RMD age to 73",
-        "issue": "The SECURE 2.0 Act actually adjusts the RMD age to 73 starting in 2023, but it is important to specify that this change is phased in, with the age increasing to 75 in 2033.",
-        "suggestion": "Clarify that the RMD age is 73 starting in 2023 and will increase to 75 in 2033."
-      },
-      {
-        "severity": "medium",
-        "text": "Employers should verify the specific hours and service requirements with their plan administrators.",
-        "issue": "The article does not specify the actual hours and service requirements for part-time workers under SECURE 2.0, which could mislead employers.",
-        "suggestion": "Include specific details about the hours and service requirements for part-time workers as outlined in SECURE 2.0."
-      },
-      {
-        "severity": "medium",
-        "text": "Employers may need to provide clearer disclosures regarding the fees associated with their retirement plans",
-        "issue": "The article does not specify the exact reporting and disclosure requirements that have changed under SECURE 2.0, which could lead to confusion.",
-        "suggestion": "Provide specific details about the updated reporting and disclosure requirements under SECURE 2.0."
-      }
-    ],
-    "summary": "The article contains some inaccuracies and lacks specific details that could mislead employers regarding compliance with the SECURE 2.0 Act.",
-    "checkedAt": "2026-04-07T07:03:39.528Z",
-    "hash": "15029deb9ec49d3e54c89f36647d76bf",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article accurately reflects the provisions of the SECURE 2.0 Act and employer obligations.",
+    "checkedAt": "2026-04-08T07:05:14.415Z",
+    "hash": "0876d9ea8af71d4453b5827302f36ece",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -117,74 +98,31 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "the threshold will rise from $684 per week to $1,059 per week, making it approximately $55,000 annually.",
-        "issue": "The new salary threshold for exempt employees is actually $1,059 per week, which translates to approximately $55,000 annually, but the article does not clarify that this is based on a 52-week year calculation, which could be misleading.",
-        "suggestion": "Clarify that the annual figure is based on a standard 52-week year calculation."
+        "text": "the threshold was previously established to rise from $684 per week to $1,059 per week",
+        "issue": "The new threshold for exempt employees is actually $1,059 per week, but the previous threshold was $684 per week. The article implies a direct increase without clarifying that the previous threshold was already established under the FLSA.",
+        "suggestion": "Clarify that the new threshold is $1,059 per week, and explicitly state that the previous threshold was $684 per week."
       },
       {
         "severity": "medium",
-        "text": "the DOL has indicated that the salary threshold may be reviewed and adjusted periodically.",
-        "issue": "While the DOL does review regulations, the article should specify that any adjustments are not guaranteed and depend on future regulatory actions.",
-        "suggestion": "Add a disclaimer that adjustments are subject to the DOL's discretion and not guaranteed."
+        "text": "making it approximately $55,000 annually",
+        "issue": "The annualized figure of $55,000 is inaccurate; $1,059 per week translates to $55,068 annually (assuming 52 weeks).",
+        "suggestion": "Correct the annual figure to reflect the accurate calculation of $55,068."
       }
     ],
-    "summary": "The article contains some potentially misleading statements regarding the new overtime regulations that should be clarified for accuracy.",
-    "checkedAt": "2026-04-07T07:04:09.177Z",
-    "hash": "d461e380d1b9a19725d904746b1e17f7",
+    "summary": "The article contains some inaccuracies regarding the salary threshold and its annual equivalent, which should be clarified for factual accuracy.",
+    "checkedAt": "2026-04-08T07:05:47.903Z",
+    "hash": "295587386a6366d86d182928858767d4",
     "dir": "src/content/news",
     "autoFixed": true
   },
   "2026-04-07-navigating-the-new-fmla-regulations-what-employers-need-to-k-1.md": {
     "file": "2026-04-07-navigating-the-new-fmla-regulations-what-employers-need-to-k-1.md",
-    "status": "flag",
-    "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "the DOL often looks to align state and federal regulations, which could influence local compliance.",
-        "issue": "This statement implies a direct influence of federal regulations on state laws without clarifying that state laws can vary significantly and may not always align with federal regulations.",
-        "suggestion": "Clarify that while the DOL may encourage alignment, state laws can differ and employers should consult state-specific regulations."
-      },
-      {
-        "severity": "medium",
-        "text": "expanded definition of 'serious health condition,' which now encompasses a broader range of health issues, including mental health conditions.",
-        "issue": "The article does not specify the exact changes to the definition of 'serious health condition' as per the latest regulations, which could mislead readers about the nature of the updates.",
-        "suggestion": "Provide specific details or examples of the changes to the definition to avoid ambiguity."
-      }
-    ],
-    "summary": "The article contains some ambiguous statements regarding the alignment of state and federal regulations and lacks specific details about the updated definition of 'serious health condition.'",
-    "checkedAt": "2026-04-07T07:04:38.201Z",
-    "hash": "5553cae2f3a46381fe8dfd72f64b71d1",
-    "dir": "src/content/news",
-    "autoFixed": true
-  },
-  "2026-04-07-new-california-law-mandates-pay-transparency-for-employers-2.md": {
-    "file": "2026-04-07-new-california-law-mandates-pay-transparency-for-employers-2.md",
-    "status": "fail",
-    "confidence": 0.9,
-    "issues": [
-      {
-        "severity": "high",
-        "text": "This legislation, known as Assembly Bill 5 (AB 5)",
-        "issue": "AB 5 is not related to pay transparency; it pertains to independent contractor classification. The correct law for pay transparency in California is Assembly Bill 168.",
-        "suggestion": "Correct the reference to the appropriate law, Assembly Bill 168, which addresses pay transparency."
-      },
-      {
-        "severity": "high",
-        "text": "starting January 1, 2023",
-        "issue": "The article states that the law requires compliance starting January 1, 2023, which is incorrect. The law was enacted in 2022 and took effect on January 1, 2023, but the article does not clarify this distinction.",
-        "suggestion": "Clarify that the law was enacted in 2022 and took effect on January 1, 2023."
-      },
-      {
-        "severity": "medium",
-        "text": "employers with 100 or more employees must include the salary range",
-        "issue": "The threshold for employers required to disclose salary ranges is actually for employers with 15 or more employees, not 100.",
-        "suggestion": "Revise the threshold to state that it applies to employers with 15 or more employees."
-      }
-    ],
-    "summary": "The article contains significant factual inaccuracies regarding the legal references and compliance requirements of California's pay transparency law.",
-    "checkedAt": "2026-04-07T07:05:05.131Z",
-    "hash": "cc89a99642c2ccceeb3844f4fa803b77",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article accurately reflects the current FMLA regulations and employer obligations.",
+    "checkedAt": "2026-04-08T07:06:13.658Z",
+    "hash": "950a433c49687d4d63b4fd95feeb7d90",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -195,20 +133,20 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "Employers should also be aware that failure to comply with this advisory guidance may lead to increased scrutiny from regulators, although penalties are typically associated with violations of established laws rather than non-compliance with guidance.",
-        "issue": "The statement downplays the potential consequences of non-compliance with DOL guidance, which can lead to enforcement actions even if not directly tied to penalties.",
-        "suggestion": "Clarify that while advisory guidance may not carry penalties like laws do, non-compliance can still result in increased scrutiny and potential legal challenges."
+        "text": "Employers should also be aware that failure to comply with this advisory guidance may lead to increased scrutiny from regulators.",
+        "issue": "The statement implies that non-compliance with advisory guidance can lead to regulatory scrutiny, which may mislead employers into thinking that advisory guidance has the same weight as legal requirements.",
+        "suggestion": "Clarify that advisory guidance is not legally binding and that scrutiny typically arises from violations of established laws."
       },
       {
         "severity": "medium",
         "text": "While the DOL suggests that employers may conduct periodic audits of their benefit plans as a best practice to ensure compliance with federal regulations and to identify any areas for improvement, it is important to note that such audits are not a legal requirement for all employers under ERISA.",
-        "issue": "The phrasing may mislead readers into thinking that audits are optional for all employers, while certain employers may have specific audit requirements under ERISA or other regulations.",
-        "suggestion": "Specify that while audits are not universally required, certain employers may have obligations under specific circumstances, and it is advisable for all to consider them as best practice."
+        "issue": "The statement could be misleading as it implies that audits are optional for all employers, while some may have specific legal obligations based on plan size or type.",
+        "suggestion": "Specify that while audits are not universally required, certain employers may have legal obligations to conduct them based on specific criteria."
       }
     ],
-    "summary": "The article contains some misleading claims regarding the implications of DOL guidance and the necessity of audits under ERISA.",
-    "checkedAt": "2026-04-07T07:05:34.501Z",
-    "hash": "159ce52092e22b1a5f831fec91b574fb",
+    "summary": "The article contains some potentially misleading claims regarding the nature of compliance with DOL guidance and the necessity of audits under ERISA.",
+    "checkedAt": "2026-04-08T07:06:45.534Z",
+    "hash": "e34413d7bdf0c3e5d978f51d6147ed75",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -219,26 +157,158 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "California Equal Pay Act",
-        "issue": "The California Equal Pay Act does not specifically mandate salary range disclosure in job postings; this requirement is part of the California Pay Transparency Law, which is separate.",
-        "suggestion": "Clarify that the requirement to disclose salary ranges in job postings is part of the California Pay Transparency Law, not the Equal Pay Act."
+        "text": "California Salary Transparency Law",
+        "issue": "The law is commonly referred to as the California Pay Transparency Law, not the California Salary Transparency Law.",
+        "suggestion": "Use the correct name, California Pay Transparency Law, to avoid confusion."
       },
       {
         "severity": "medium",
-        "text": "New York City Salary Transparency Law",
-        "issue": "The article does not specify that the New York City Salary Transparency Law applies only to employers with four or more employees, which is a critical threshold.",
-        "suggestion": "Include the threshold of four employees to clarify the applicability of the New York City Salary Transparency Law."
+        "text": "California Department of Fair Employment and Housing",
+        "issue": "The California Department of Fair Employment and Housing has been renamed to the California Department of Fair Employment and Housing (DFEH) and is now part of the California Civil Rights Department.",
+        "suggestion": "Update the reference to reflect the current name and structure of the agency."
       },
       {
-        "severity": "low",
-        "text": "Certain states, such as California and Colorado, require employers to report salary data to state agencies.",
-        "issue": "While California and Colorado have reporting requirements, the article should specify that these requirements may vary and not all employers are subject to the same reporting obligations.",
-        "suggestion": "Add a note that reporting obligations can vary by employer size and specific local laws."
+        "severity": "medium",
+        "text": "Colorado Department of Labor and Employment",
+        "issue": "The article does not specify the exact reporting obligations or the specific data required, which can vary significantly by law.",
+        "suggestion": "Provide more detailed information about what specific data must be reported and to whom."
       }
     ],
-    "summary": "The article contains some inaccuracies regarding the specific laws governing wage transparency in California and New York, which should be clarified for accuracy.",
-    "checkedAt": "2026-04-07T07:06:04.081Z",
-    "hash": "91a8e0660e2343386387e6ca6fee031b",
+    "summary": "The article contains some inaccuracies regarding legal references and agency names that should be corrected for clarity and compliance.",
+    "checkedAt": "2026-04-08T07:07:16.185Z",
+    "hash": "2c2f27d3f539379f5e78db1122d15a68",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-08-navigating-the-new-osha-heat-stress-regulations-3.md": {
+    "file": "2026-04-08-navigating-the-new-osha-heat-stress-regulations-3.md",
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the proposed regulations are currently under consideration, and the timeline for finalization is uncertain",
+        "issue": "The article suggests that the regulations are still under consideration, but OSHA has already finalized heat stress regulations as of 2023.",
+        "suggestion": "Update the article to reflect that OSHA has finalized the regulations and provide the effective date."
+      },
+      {
+        "severity": "medium",
+        "text": "non-compliance with these regulations may lead to potential penalties, which could include fines and increased liability",
+        "issue": "The article does not specify the actual penalties or fines associated with non-compliance, which could mislead employers about the severity of the consequences.",
+        "suggestion": "Include specific information about the penalties outlined in the finalized regulations."
+      }
+    ],
+    "summary": "The article contains some inaccuracies regarding the status of OSHA's heat stress regulations and lacks specific details about penalties for non-compliance.",
+    "checkedAt": "2026-04-08T07:07:43.997Z",
+    "hash": "26b8708c805c496e6fe05e924f0e0dca",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-08-navigating-the-rise-of-remote-work-regulations-1.md": {
+    "file": "2026-04-08-navigating-the-rise-of-remote-work-regulations-1.md",
+    "status": "flag",
+    "confidence": 0.8,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "California has specific laws requiring employers to reimburse employees for necessary expenses incurred while working from home.",
+        "issue": "The statement may oversimplify California's reimbursement laws, which are subject to specific conditions and interpretations.",
+        "suggestion": "Clarify that California's reimbursement laws apply under certain conditions and recommend consulting legal counsel for specific situations."
+      },
+      {
+        "severity": "medium",
+        "text": "New York does not have a comprehensive law mandating reimbursement for remote work expenses.",
+        "issue": "This statement may be misleading as New York has various labor laws that could impact reimbursement obligations, even if not comprehensive.",
+        "suggestion": "Provide a more nuanced view of New York's labor laws regarding reimbursement and suggest consulting legal counsel for clarity."
+      },
+      {
+        "severity": "medium",
+        "text": "Employers should stay updated on any official changes to OSHA's jurisdiction.",
+        "issue": "OSHA's jurisdiction over remote work safety is not clearly defined and may lead to confusion about employer obligations.",
+        "suggestion": "State that OSHA's guidance on remote work safety is evolving but clarify that current jurisdiction primarily focuses on physical workplaces."
+      }
+    ],
+    "summary": "The article contains some potentially misleading statements regarding reimbursement laws and OSHA's jurisdiction that should be clarified for accuracy.",
+    "checkedAt": "2026-04-08T07:08:14.196Z",
+    "hash": "6080db180082ac1acedb6f97b692e6e1",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-08-new-fmla-regulations-aim-to-expand-employee-leave-0.md": {
+    "file": "2026-04-08-new-fmla-regulations-aim-to-expand-employee-leave-0.md",
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the U.S. Department of Labor (DOL) has released updated regulations concerning the Family and Medical Leave Act (FMLA)",
+        "issue": "The article references updated regulations under the FMLA that may not have been released by the DOL as of the stated date (2026-04-08), which is in the future.",
+        "suggestion": "Verify the existence of the updated regulations and adjust the date or context accordingly."
+      },
+      {
+        "severity": "medium",
+        "text": "Employers with 2-500 employees should closely monitor.",
+        "issue": "The FMLA applies to employers with 50 or more employees, not 2-500.",
+        "suggestion": "Clarify that the FMLA applies to employers with 50 or more employees."
+      }
+    ],
+    "summary": "The article contains potential inaccuracies regarding the applicability of the FMLA and references to future regulations.",
+    "checkedAt": "2026-04-08T07:08:43.816Z",
+    "hash": "f16214ecb1367da6b6ab3e2ffa3f26e2",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-08-new-regulations-on-employee-leave-what-employers-need-to-kno-4.md": {
+    "file": "2026-04-08-new-regulations-on-employee-leave-what-employers-need-to-kno-4.md",
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "no formal updates to the FMLA guidelines have been made public as of the article's date.",
+        "issue": "The article states that no formal updates to the FMLA guidelines have been made public, but it is unclear if this is accurate as of the article's date in 2026. There may have been updates that are not mentioned.",
+        "suggestion": "Verify the status of FMLA guidelines as of April 2026 and clarify if there have been any updates."
+      },
+      {
+        "severity": "medium",
+        "text": "Employers with 50 or more employees should take proactive measures to ensure compliance, as the FMLA applies to this threshold.",
+        "issue": "While the FMLA does apply to employers with 50 or more employees, the article does not clarify that this threshold is for the federal law and that some states may have different thresholds.",
+        "suggestion": "Clarify that the 50-employee threshold is specific to the FMLA and that state laws may vary."
+      }
+    ],
+    "summary": "The article contains some potentially misleading statements regarding the status of FMLA guidelines and the application of the 50-employee threshold.",
+    "checkedAt": "2026-04-08T07:09:16.978Z",
+    "hash": "029661a319356c7a83291b30d72cace2",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-08-new-regulations-on-employee-remote-work-policies-gain-tracti-2.md": {
+    "file": "2026-04-08-new-regulations-on-employee-remote-work-policies-gain-tracti-2.md",
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "states like California and New York have been at the forefront of introducing new regulations that specifically address remote work arrangements.",
+        "issue": "The article does not specify which laws or regulations have been introduced, which could mislead readers about the current legal landscape.",
+        "suggestion": "Provide specific examples of laws or regulations that have been enacted in California and New York regarding remote work."
+      },
+      {
+        "severity": "medium",
+        "text": "Regulations may require employers to implement regular check-ins and provide resources for mental health support.",
+        "issue": "The statement implies a legal requirement without specifying which regulations mandate these actions, which could mislead employers about their obligations.",
+        "suggestion": "Clarify that these are recommendations rather than legal requirements unless specific laws are cited."
+      },
+      {
+        "severity": "medium",
+        "text": "Employers should consult their specific state laws to understand their obligations.",
+        "issue": "While this is generally good advice, the article should specify that not all states have enacted remote work regulations, which could lead to confusion.",
+        "suggestion": "Add a note indicating that employers should verify the existence of relevant laws in their state."
+      }
+    ],
+    "summary": "The article contains some vague statements about remote work regulations that could mislead employers regarding their legal obligations.",
+    "checkedAt": "2026-04-08T07:09:42.515Z",
+    "hash": "2a2cd06a99364971a419aa82c56d6b2e",
     "dir": "src/content/news",
     "autoFixed": true
   }

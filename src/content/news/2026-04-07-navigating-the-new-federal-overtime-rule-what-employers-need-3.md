@@ -12,7 +12,7 @@ On April 7, 2023, the U.S. Department of Labor (DOL) announced significant updat
 
 ### Key Changes to Overtime Eligibility
 
-The most notable change in the new rule is the increase in the salary threshold for exempt employees. The threshold will rise from $684 per week to $1,059 per week, making it approximately $55,000 annually. This adjustment means that employees earning below this threshold must be classified as non-exempt and eligible for overtime pay. Furthermore, the DOL has indicated that the salary threshold may be reviewed and adjusted periodically, which adds a layer of complexity for employers aiming to stay compliant.
+The most notable change in the new rule is the increase in the salary threshold for exempt employees. The threshold was previously established to rise from $684 per week to $1,059 per week, making it approximately $55,000 annually. This adjustment means that employees earning below this threshold may generally need to be classified as non-exempt and eligible for overtime pay. However, it is important to note that other factors, such as specific job duties, must also be considered when determining whether employees can be classified as exempt or non-exempt. Furthermore, the DOL has indicated that the salary threshold may be reviewed and adjusted periodically, which adds a layer of complexity for employers aiming to stay compliant.
 
 In addition to the salary threshold, the updated rule clarifies the duties test that determines whether employees can be classified as exempt. Employers must now ensure that employees not only meet the salary benchmark but also perform the specific job duties outlined for exempt classifications. This includes roles in executive, administrative, and professional positions.
 

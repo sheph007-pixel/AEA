@@ -10,9 +10,9 @@ author: "AEA Editorial Team"
 
 The SECURE 2.0 Act continues to shape the landscape of employee benefits and retirement plans, with federal agencies providing ongoing guidance clarifying key provisions that employers may need to address. As HR professionals and business owners navigate these changes, it is important to understand the potential implications for compliance and employee engagement.
 
-One of the areas addressed by SECURE 2.0 involves the age for required minimum distributions (RMDs) from retirement accounts. The law adjusted the RMD age to 73, and employers should verify this age with their plan administrators or legal counsel to ensure their retirement plans reflect the correct requirements.
+One of the areas addressed by SECURE 2.0 involves the age for required minimum distributions (RMDs) from retirement accounts. The law adjusts the RMD age to 73, effective for individuals turning 72 after December 31, 2022. Employers should verify this age with their plan administrators or legal counsel to ensure their retirement plans reflect the correct requirements.
 
-SECURE 2.0 also includes provisions related to access to retirement plans for part-time workers. Employers should review their eligibility criteria in light of these provisions, as the law may require certain long-term part-time employees to be eligible to participate in employer-sponsored retirement plans. Employers should verify the specific hours and service requirements with their plan administrators.
+SECURE 2.0 also includes provisions related to access to retirement plans for part-time workers. Employers should review their eligibility criteria in light of these provisions, as the law may require certain long-term part-time employees to be eligible to participate in employer-sponsored retirement plans. Specifically, employees who work at least 500 hours per year for three consecutive years may be eligible. Employers should verify the specific hours and service requirements with their plan administrators.
 
 Another area of the law involves enhanced catch-up contribution provisions for certain older employees. Employers should consult with their plan administrators to understand how these provisions may affect payroll systems and overall plan contributions, as the specific amounts and age ranges are subject to regulatory guidance.
 
