@@ -10,13 +10,13 @@ author: "AEA Editorial Team"
 
 As remote work continues to be a prominent feature of the modern workplace, regulatory changes are emerging that employers must navigate to remain compliant and supportive of their workforce. In recent months, various state legislatures have begun to introduce or amend laws related to remote work, focusing on employee rights, workplace safety, and ensuring equitable treatment of remote employees.
 
-The rise of remote work during the COVID-19 pandemic highlighted gaps in existing labor laws concerning off-site employees. In response, states like California and New York have been at the forefront of introducing new regulations that specifically address remote work arrangements. These changes aim to clarify employer responsibilities regarding communication, equipment provision, and employee monitoring.
+The rise of remote work during the COVID-19 pandemic highlighted gaps in existing labor laws concerning off-site employees. In response, states like California and New York have introduced specific regulations addressing remote work arrangements. For example, California's Assembly Bill 5 (AB 5) and New York's Remote Work Policy Guidance provide frameworks for employer responsibilities regarding communication, equipment provision, and employee monitoring.
 
 ### Key Legislative Developments
 
-One critical area of focus in these new regulations is the encouragement for employers to provide a clear remote work policy. This policy should outline expectations for work hours, communication protocols, and performance metrics. Additionally, while some states may require employers to offer stipends for home office equipment or cover costs associated with remote work, such as internet service or utilities, these requirements vary significantly by state. Employers should consult their specific state laws to understand their obligations.
+One critical area of focus in these new regulations is the encouragement for employers to provide a clear remote work policy. This policy should outline expectations for work hours, communication protocols, and performance metrics. Additionally, while some states may encourage employers to offer stipends for home office equipment or cover costs associated with remote work, such as internet service or utilities, these requirements vary significantly by state. Employers should consult their specific state laws to understand their obligations, as not all states have enacted remote work regulations.
 
-Moreover, there is a growing emphasis on employee mental health and well-being in remote work environments. Regulations may require employers to implement regular check-ins and provide resources for mental health support, recognizing that remote work can lead to feelings of isolation and burnout.
+Moreover, there is a growing emphasis on employee mental health and well-being in remote work environments. While regulations may encourage employers to implement regular check-ins and provide resources for mental health support, these actions are generally considered best practices rather than mandated requirements.
 
 ### Compliance and Action Items for Employers
 

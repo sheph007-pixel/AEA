@@ -8,11 +8,11 @@ author: "AEA Editorial Team"
 
 ## Understanding New Employee Leave Regulations
 
-In a significant shift affecting employers nationwide, recent regulatory changes regarding employee leave have come into effect, necessitating urgent attention from HR professionals and business owners. The U.S. Department of Labor (DOL) has updated its guidelines on the Family and Medical Leave Act (FMLA) and related state laws, which impacts how leave is administered in the workplace. Employers with 50 or more employees should take proactive measures to ensure compliance, as the FMLA applies to this threshold. It is important to note that state laws may have different thresholds.
+In a significant shift affecting employers nationwide, recent regulatory changes regarding employee leave have come into effect, necessitating urgent attention from HR professionals and business owners. The U.S. Department of Labor (DOL) has updated its guidelines on the Family and Medical Leave Act (FMLA) and related state laws, which impacts how leave is administered in the workplace. Employers with 50 or more employees should take proactive measures to ensure compliance, as the FMLA applies to this threshold. However, it is important to note that some states may have different thresholds and requirements for their own leave laws.
 
 ### Key Changes to Regulations
 
-While there have been discussions about expanding definitions of qualifying family members and circumstances under which leave can be taken, no formal updates to the FMLA guidelines have been made public as of the article's date. This means that the current definitions remain in place, and employers should be aware of the existing framework. The regulations clarify the conditions under which employees can take leave for mental health issues, a growing concern in today’s work environment.
+While there have been discussions about expanding definitions of qualifying family members and circumstances under which leave can be taken, no formal updates to the FMLA guidelines have been made public as of the publication date. This means that the current definitions remain in place, and employers should be aware of the existing framework. The regulations clarify the conditions under which employees can take leave for mental health issues, a growing concern in today’s work environment.
 
 Additionally, several states have implemented their own leave laws that may provide even broader benefits than the federal FMLA. For instance, some states have extended paid family leave provisions, and others have introduced leave for domestic violence and other urgent personal matters.
 
