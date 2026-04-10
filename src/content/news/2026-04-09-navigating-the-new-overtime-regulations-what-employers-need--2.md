@@ -10,7 +10,7 @@ author: "AEA Editorial Team"
 
 In March 2026, the U.S. Department of Labor (DOL) announced proposed changes to the Fair Labor Standards Act (FLSA) regarding overtime pay, a significant regulatory development that could impact millions of workers and their employers. These changes, if finalized, would raise the salary threshold for overtime eligibility, affecting companies across various industries, particularly those with 2 to 500 employees.
 
-As of 2023, salaried employees earning less than $684 per week are entitled to overtime pay for hours worked over 40 in a workweek. The DOL's proposal aims to increase this threshold to around $1,000 per week, which translates to approximately $52,000 annually; however, this proposed threshold is subject to change and has not been finalized. This adjustment is intended to reflect the changing economic landscape and increased cost of living, ensuring that more workers receive overtime compensation.
+As of 2023, salaried employees earning less than $684 per week are entitled to overtime pay for hours worked over 40 in a workweek. The DOL's proposal aims to increase this threshold to around $1,000 per week, which translates to approximately $52,000 annually; however, this proposed threshold is not finalized and may change before implementation. This adjustment is intended to reflect the changing economic landscape and increased cost of living, ensuring that more workers receive overtime compensation.
 
 ### Implications for Employers
 
@@ -26,7 +26,7 @@ Moreover, businesses may face increased payroll costs as more employees qualify 
 
 3. **Develop Communication Plans**: Prepare to communicate with employees about potential changes to their pay structure and work hours. Transparency will be key in managing employee morale and expectations.
 
-4. **Stay Informed**: Keep abreast of any updates from the DOL regarding the status of these proposed changes. The public comment period is important for gathering industry concerns, but its influence on the final regulations remains uncertain.
+4. **Stay Informed**: Keep abreast of any updates from the DOL regarding the status of these proposed changes. The public comment period is important for gathering industry concerns, and while its influence on the final regulations may vary, it generally plays a role in shaping the outcome.
 
 5. **Consult Legal or HR Experts**: Given the complexity of employment laws, it may be prudent to consult with legal or HR experts to ensure compliance and to strategize on how to implement changes effectively.
 

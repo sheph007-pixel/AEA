@@ -12,13 +12,13 @@ As of October 2023, the U.S. Department of Labor (DOL) is considering an updated
 
 ### Key Changes to Overtime Regulations
 
-The proposed rule may increase the salary threshold from $35,568 to $50,000 per year, which would mean that employees earning below this amount could be eligible for overtime pay when they work more than 40 hours in a week. This adjustment reflects an ongoing effort by the DOL to ensure that more workers receive fair compensation for their labor, particularly in an era where inflation and cost-of-living adjustments have impacted many households.
+The proposed rule may increase the salary threshold from $35,568 to $50,000 per year, but this change is not yet finalized as the rule is still under consideration. If implemented, this adjustment would mean that employees earning below this amount could be eligible for overtime pay when they work more than 40 hours in a week. This adjustment reflects an ongoing effort by the DOL to ensure that more workers receive fair compensation for their labor, particularly in an era where inflation and cost-of-living adjustments have impacted many households.
 
 Additionally, the rule may include provisions for periodic adjustments to the salary threshold, which means employers should stay vigilant about future changes and prepare for potential increases in the coming years.
 
 ### Implications for Employers
 
-Employers with a workforce of 2-500 employees should evaluate the potential impact of this rule on their payroll and employee classification practices. Here are several key considerations:
+All employers subject to the FLSA should evaluate the potential impact of this rule on their payroll and employee classification practices. Here are several key considerations:
 
 1. **Employee Classification Review**: Employers should conduct a thorough review of their current employee classifications. Identify which employees may be affected by the proposed salary threshold and evaluate whether they meet the criteria for exemption under the FLSA.
 

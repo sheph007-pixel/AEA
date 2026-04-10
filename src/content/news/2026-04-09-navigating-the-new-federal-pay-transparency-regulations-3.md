@@ -8,9 +8,9 @@ author: "AEA Editorial Team"
 
 ## First Section
 
-In a significant shift towards pay equity and transparency, new federal regulations regarding pay disclosure will take effect on January 1, 2024. The U.S. Department of Labor (DOL) has finalized rules under the Pay Transparency Executive Order that require employers with federal contracts to disclose salary ranges in job postings. This move aims to address pay disparities and enhance transparency in the hiring process, particularly for roles often filled by women and minority groups.
+In a significant shift towards pay equity and transparency, new federal regulations regarding pay disclosure will take effect on January 1, 2024. The U.S. Department of Labor (DOL) has finalized rules under the executive order aimed at promoting pay transparency, which require employers with federal contracts to disclose salary ranges in job postings. This move aims to address pay disparities and enhance transparency in the hiring process, particularly for roles often filled by women and minority groups.
 
-Employers need to be prepared for the implications of these changes, as they may affect not only recruitment strategies but also internal pay structures. The new regulations mandate that employers include a pay range in any job listing, which could complicate traditional compensation practices. Additionally, employers with federal contracts are generally required to keep records of compensation data for their employees, which may be subject to review by the DOL.
+Employers need to be prepared for the implications of these changes, as they may affect not only recruitment strategies but also internal pay structures. The new regulations generally mandate that employers with federal contracts include a pay range in any job listing, which could complicate traditional compensation practices. Additionally, these employers are generally required to keep records of compensation data for their employees, which may be subject to review by the DOL.
 
 ### Implications for Employers
 
@@ -24,7 +24,7 @@ For HR professionals and business owners, this regulatory shift necessitates a c
 
 4. **Review Employment Contracts**: Employers should also examine existing employment contracts to ensure they are aligned with the new transparency rules. Any clauses related to confidentiality of pay should be revisited.
 
-5. **Stay Informed**: As the DOL has indicated that further guidance may be issued, employers should keep informed about any developments that might impact compliance. Regularly reviewing updates from the DOL and relevant employment law resources will be vital.
+5. **Stay Informed**: As the DOL has indicated that further guidance may be issued, employers should keep informed about any developments that might impact compliance. Compliance deadlines may vary based on specific regulations or guidance issued by the DOL, so regularly reviewing updates from the DOL and relevant employment law resources will be vital.
 
 ### Conclusion
 

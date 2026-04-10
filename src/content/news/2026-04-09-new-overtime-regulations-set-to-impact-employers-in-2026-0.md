@@ -12,7 +12,7 @@ The U.S. Department of Labor (DOL) has announced significant changes to the over
 
 ### Key Changes to Overtime Rules
 
-Under the new regulations, the salary threshold for the “white collar” exemptions—executive, administrative, and professional employees—may increase from the current level of $684 per week. However, the specific amount of the new threshold has not been officially set and is subject to change. This adjustment is part of the DOL's ongoing efforts to modernize the salary threshold, ensuring that it reflects current economic conditions and the cost of living.
+Under the new regulations, the salary threshold for the “white collar” exemptions—executive, administrative, and professional employees—may increase from the current level of $684 per week as of the date of publication. However, any increase in the salary threshold is subject to official proposal and finalization by the DOL, and the specific amount of the new threshold has not been officially set. This adjustment is part of the DOL's ongoing efforts to modernize the salary threshold, ensuring that it reflects current economic conditions and the cost of living.
 
 Furthermore, there are proposals for the DOL to implement a mechanism for automatic updates to this threshold every three years, which would allow the salary limit to keep pace with inflation and wage growth. However, this has not yet been confirmed as a regulation. This means employers should regularly review their compensation structures to ensure compliance.
 
