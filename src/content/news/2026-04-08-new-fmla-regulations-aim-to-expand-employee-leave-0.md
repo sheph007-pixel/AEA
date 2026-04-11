@@ -8,15 +8,15 @@ author: "AEA Editorial Team"
 
 ## Updated Family and Medical Leave Act Regulations
 
-In a notable shift for employers, the U.S. Department of Labor (DOL) has proposed updated regulations concerning the Family and Medical Leave Act (FMLA). These anticipated changes aim to clarify eligibility and expand the scope of leave available to employees, a development that HR professionals and business owners with 50 or more employees should closely monitor.
+In a notable shift for employers, the U.S. Department of Labor (DOL) is anticipated to propose updated regulations concerning the Family and Medical Leave Act (FMLA). These expected changes aim to clarify eligibility and potentially expand the scope of leave available to employees, a development that HR professionals and business owners with 50 or more employees within a 75-mile radius should generally monitor.
 
-The revisions may primarily address two areas: the definition of family members eligible for leave and the circumstances under which leave can be taken. Any changes to the definition of "family member" would need to be confirmed by the actual text of the updated regulations once enacted. Employers should review their current definitions and ensure their policies reflect the applicable criteria.
+The revisions may primarily address two areas: the definition of family members eligible for leave and the circumstances under which leave can be taken. Any changes to the definition of "family member" would need to be confirmed by the actual text of the updated regulations once finalized. Employers should review their current definitions and ensure their policies reflect the applicable criteria.
 
 Additionally, the proposed rules may provide greater detail on the types of situations that qualify for leave under the FMLA. Employers may need to prepare for increased requests for leave related to mental health conditions, which may qualify under the existing serious health condition criteria. This aligns with a growing recognition of mental health as crucial to overall employee well-being.
 
 ### Key Changes Employers Should Know
 
-1. **Expanded Definition of Family Members**: The proposed update includes significant changes to who qualifies as a family member for FMLA leave. Employers should review their current definitions and ensure their policies reflect these anticipated changes.
+1. **Expanded Definition of Family Members**: The proposed update may include significant changes to who qualifies as a family member for FMLA leave. Employers should review their current definitions and ensure their policies reflect these anticipated changes.
 
 2. **Broader Leave Circumstances**: The new regulations may clarify that leave can be taken for serious health conditions, which may include mental health reasons. Employers must be prepared to manage this increase and ensure compliance with the law.
 
@@ -24,7 +24,7 @@ Additionally, the proposed rules may provide greater detail on the types of situ
 
 ### Action Items for Employers
 
-- **Policy Review and Update**: Employers should review and update their FMLA policies to align with the proposed regulations. This includes redefining family members and clarifying the circumstances under which leave can be taken.
+- **Policy Review and Update**: Employers should review and update their FMLA policies to align with the anticipated regulations. This includes redefining family members and clarifying the circumstances under which leave can be taken.
 
 - **Training for HR Teams**: It is essential to train HR personnel on the proposed regulations to ensure they can adequately handle requests and communicate changes to employees.
 

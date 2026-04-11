@@ -8,9 +8,9 @@ author: "AEA Editorial Team"
 
 ## First Section
 
-In a significant shift towards pay equity and transparency, new federal regulations regarding pay disclosure will take effect on January 1, 2024. The U.S. Department of Labor (DOL) has finalized rules under the executive order aimed at promoting pay transparency, which require employers with federal contracts to disclose salary ranges in job postings. This move aims to address pay disparities and enhance transparency in the hiring process, particularly for roles often filled by women and minority groups.
+In a significant shift towards pay equity and transparency, new federal regulations regarding pay disclosure will take effect on January 1, 2024. The U.S. Department of Labor (DOL) has finalized rules under Executive Order 14026, which aims to promote pay transparency. These regulations specifically require employers with federal contracts to disclose salary ranges in job postings. This move aims to address pay disparities and enhance transparency in the hiring process, particularly for roles often filled by women and minority groups.
 
-Employers need to be prepared for the implications of these changes, as they may affect not only recruitment strategies but also internal pay structures. The new regulations generally mandate that employers with federal contracts include a pay range in any job listing, which could complicate traditional compensation practices. Additionally, these employers are generally required to keep records of compensation data for their employees, which may be subject to review by the DOL.
+Employers need to be prepared for the implications of these changes, as they may affect not only recruitment strategies but also internal pay structures. The new regulations generally mandate that employers with federal contracts include a pay range in any job listing, which could complicate traditional compensation practices. Additionally, these employers are generally required to keep records of compensation data for their employees, including job titles, pay rates, and hours worked, which may be subject to review by the DOL.
 
 ### Implications for Employers
 

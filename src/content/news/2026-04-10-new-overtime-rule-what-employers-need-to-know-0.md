@@ -8,13 +8,13 @@ author: "AEA Editorial Team"
 
 ## Overview of the Overtime Rule Changes
 
-The U.S. Department of Labor (DOL) has recently announced updates to the Fair Labor Standards Act (FLSA) regarding overtime pay. While the DOL has proposed changes that may take effect on July 1, 2026, these changes are not yet finalized, and the effective date may change. Employers, particularly those in the small to mid-sized business sector, should stay informed and prepared to adjust their payroll practices accordingly.
+The U.S. Department of Labor (DOL) has recently announced updates to the Fair Labor Standards Act (FLSA) regarding overtime pay. While the DOL has proposed changes that may take effect on July 1, 2026, these changes are not yet finalized, and the effective date is subject to change. Employers, particularly those in the small to mid-sized business sector, should stay informed and prepared to adjust their payroll practices accordingly.
 
 ## Key Changes to Salary Thresholds
 
-Under the proposed regulations, the salary threshold for exempt employees may increase from the current level of $684 per week. The DOL has indicated that the new threshold could be set at $1,059 per week, but this has not been officially confirmed. This potential increase aims to ensure that more employees receive overtime pay, thereby promoting fair compensation and addressing wage stagnation issues.
+Under the proposed regulations, the salary threshold for exempt employees may increase from the current level of $684 per week. The DOL has indicated that the new threshold could be set at $1,059 per week, but this has not been officially confirmed and may change before implementation. This potential increase aims to ensure that more employees receive overtime pay, thereby promoting fair compensation and addressing wage stagnation issues.
 
-Additionally, the rule may introduce a mechanism for automatic updates to the salary threshold every three years, meaning employers should anticipate ongoing adjustments in the future. This change aims to keep pace with inflation and changes in the cost of living, making it essential for HR professionals and business owners to regularly review their payroll systems.
+Additionally, the rule may introduce a mechanism for automatic updates to the salary threshold every three years, but this is not guaranteed and should be viewed as a possibility rather than a certainty. Employers should anticipate ongoing adjustments in the future. This change aims to keep pace with inflation and changes in the cost of living, making it essential for HR professionals and business owners to regularly review their payroll systems.
 
 ## What Employers Need to Know
 

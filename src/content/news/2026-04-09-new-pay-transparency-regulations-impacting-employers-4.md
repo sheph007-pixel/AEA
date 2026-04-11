@@ -8,7 +8,7 @@ author: "AEA Editorial Team"
 
 ## Understanding the Shift Toward Pay Transparency
 
-In recent months, a growing number of states and localities have enacted pay transparency laws aimed at promoting equity and reducing wage disparities. These regulations generally require employers to disclose salary ranges in job postings and, in some cases, provide current employees with information about pay structures. As the trend gains momentum, all employers, regardless of size, need to understand the implications and adapt their practices accordingly.
+In recent months, a growing number of states and localities have enacted pay transparency laws aimed at promoting equity and reducing wage disparities. These regulations generally require employers to disclose salary ranges in job postings and, in some cases, provide current employees with information about pay structures. As the trend gains momentum, employers of various sizes may need to understand the implications and adapt their practices accordingly.
 
 The push for pay transparency is largely driven by a desire to address wage gaps based on gender, race, and other factors. States such as California, Colorado, and New York have already implemented stringent requirements, with others expected to follow suit. The Colorado Equal Pay for Equal Work Act, for instance, generally mandates that employers include salary ranges in job postings. However, the specifics regarding the provision of pay information to employees upon request may vary, and employers should consult legal counsel to ensure compliance with the law's provisions. Similar laws have been passed in other jurisdictions, reflecting a shift towards greater accountability in compensation practices.
 
@@ -28,6 +28,6 @@ In addition to compliance, these regulations present an opportunity for employer
 
 4. **Update Recruitment Practices**: Adjust recruitment strategies to include required salary information in job postings. This may also involve enhancing employer branding to highlight commitment to fair pay practices.
 
-5. **Monitor Legislative Changes**: Stay informed about evolving regulations in your jurisdiction. Requirements may vary by state, so regularly consult legal counsel or human resources experts to ensure compliance and adapt to any new requirements.
+5. **Monitor Legislative Changes**: Stay informed about evolving regulations in your jurisdiction. Requirements may vary by state and locality, so regularly consult legal counsel or human resources experts to ensure compliance and adapt to any new requirements.
 
 As the movement toward pay transparency continues to grow, employers must proactively adjust their practices to not only comply with the law but also to foster a fair and equitable workplace. By taking these steps, organizations can position themselves as attractive employers in a competitive job market.

@@ -1,34 +1,4 @@
 {
-  "2026-03-31-ai-workplace-tools-raise-compliance-questions-2.md": {
-    "file": "2026-03-31-ai-workplace-tools-raise-compliance-questions-2.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article presents accurate information regarding the regulatory landscape and employer obligations related to AI workplace tools.",
-    "checkedAt": "2026-04-07T07:02:26.077Z",
-    "hash": "f207f9a8508625c5500fe21bea19ffec",
-    "dir": "src/content/news"
-  },
-  "2026-03-31-dol-announces-updated-overtime-threshold-0.md": {
-    "file": "2026-03-31-dol-announces-updated-overtime-threshold-0.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article accurately reflects the current state of overtime salary threshold requirements under the Fair Labor Standards Act.",
-    "checkedAt": "2026-04-07T07:02:29.045Z",
-    "hash": "c83d3b41d5c945b9deb84c967acb032c",
-    "dir": "src/content/news"
-  },
-  "2026-03-31-small-business-health-insurance-costs-3.md": {
-    "file": "2026-03-31-small-business-health-insurance-costs-3.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article presents accurate information regarding health insurance costs and strategies for small employers without any factual errors.",
-    "checkedAt": "2026-04-07T07:02:31.066Z",
-    "hash": "b94b01936f1d82b44a14b79e77c15998",
-    "dir": "src/content/news"
-  },
   "2026-03-31-state-paid-leave-programs-expanding-1.md": {
     "file": "2026-03-31-state-paid-leave-programs-expanding-1.md",
     "status": "pass",
@@ -98,20 +68,20 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "the new salary threshold is $1,059 per week, which translates to approximately $55,068 annually",
-        "issue": "The stated salary threshold of $1,059 per week is incorrect; the actual threshold set by the DOL is $1,059 per week, which translates to $55,068 annually, but this figure is outdated as of 2023.",
-        "suggestion": "Verify the current salary threshold with the latest DOL announcements and update the article accordingly."
+        "text": "the new salary threshold is $684 per week, which translates to approximately $35,568 annually",
+        "issue": "The annual figure is incorrect; $684 per week translates to $35,568 annually only if calculated over 52 weeks without considering any deductions or variations.",
+        "suggestion": "Clarify that the annual figure is based on a standard 52-week calculation and specify that actual earnings may vary based on hours worked."
       },
       {
         "severity": "medium",
-        "text": "employees earning below this threshold may generally need to be classified as non-exempt",
-        "issue": "The language 'may generally need to be classified as non-exempt' is misleading; it should state that employees earning below the threshold are non-exempt unless they meet specific criteria.",
-        "suggestion": "Clarify that employees earning below the threshold are non-exempt unless they meet the criteria for exemption."
+        "text": "the updated rule clarifies the duties test that determines whether employees can be classified as exempt",
+        "issue": "The article does not specify that the duties test has not changed; it only emphasizes the importance of meeting the salary threshold.",
+        "suggestion": "Add a note that while the duties test remains, the emphasis on the salary threshold is a significant change."
       }
     ],
-    "summary": "The article contains some inaccuracies regarding the salary threshold and the implications for employee classification that need to be addressed.",
-    "checkedAt": "2026-04-10T07:14:40.887Z",
-    "hash": "c1ac293dc82f7468955dcd54d49bb539",
+    "summary": "The article contains some inaccuracies regarding salary calculations and the duties test that need clarification.",
+    "checkedAt": "2026-04-11T06:46:08.302Z",
+    "hash": "da3a5cf4dba5738afa49ccfbc22bd9cd",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -133,26 +103,20 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "Employers should also be aware of the potential impacts of state-level regulations on employee benefits.",
-        "issue": "While it is true that state regulations can impact employee benefits, the article does not specify that some states may have laws that are more stringent than federal laws, which could mislead employers about the nature of compliance.",
-        "suggestion": "Clarify that state laws can be more stringent than federal laws and provide examples of states that have specific requirements."
+        "text": "it is important to note that while plain language is encouraged for better employee understanding, it is not a legal requirement under ERISA.",
+        "issue": "This statement could be misleading as it implies that there are no legal obligations regarding communication clarity, while ERISA does have requirements for plan documents that could be interpreted as necessitating clear communication.",
+        "suggestion": "Clarify that while ERISA does not explicitly mandate plain language, it does require that plan documents be written in a manner that is understandable to participants."
       },
       {
         "severity": "medium",
-        "text": "Employers are now advised to ensure that all plan documents are written in plain language.",
-        "issue": "The article implies that this is a new requirement, but it is more of a best practice rather than a legal requirement under ERISA.",
-        "suggestion": "Rephrase to indicate that while plain language is encouraged, it is not a mandated legal requirement."
-      },
-      {
-        "severity": "high",
-        "text": "Employers should also be aware that while non-compliance with this advisory guidance may lead to increased scrutiny from regulators, it may still carry potential legal implications depending on the context.",
-        "issue": "This statement could be misleading as advisory guidance does not carry legal weight in the same way that regulations do, and non-compliance with guidance does not necessarily lead to legal implications.",
-        "suggestion": "Clarify that advisory guidance is not legally binding and that the implications of non-compliance are context-dependent and not necessarily legal."
+        "text": "those with larger plans or specific circumstances may have legal obligations to conduct audits.",
+        "issue": "This statement lacks specificity regarding which employers are legally required to conduct audits under ERISA, potentially leading to confusion.",
+        "suggestion": "Provide specific thresholds or criteria under ERISA that determine when audits are legally required, such as the size of the plan or specific regulatory requirements."
       }
     ],
-    "summary": "The article contains several claims that could mislead employers regarding their obligations under federal and state regulations.",
-    "checkedAt": "2026-04-10T07:15:10.820Z",
-    "hash": "b917afa9c3789e5abee0ab9b62f5ff5c",
+    "summary": "The article contains some potentially misleading statements regarding legal requirements under ERISA that should be clarified.",
+    "checkedAt": "2026-04-11T06:46:29.672Z",
+    "hash": "c517c660401e88bd280a6e69738bab7e",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -163,20 +127,20 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "California Department of Fair Employment and Housing (DFEH), which is now known as the California Civil Rights Department but retains its functions.",
-        "issue": "The statement about the DFEH being renamed to the California Civil Rights Department is correct, but the phrasing may mislead readers into thinking the agency's functions have changed, which they have not.",
-        "suggestion": "Clarify that while the name has changed, the agency continues to perform the same functions."
+        "text": "California Department of Fair Employment and Housing (DFEH), which is now referred to as the California Civil Rights Department",
+        "issue": "The statement about the name change is misleading; while the DFEH has been renamed, it is still commonly referred to as DFEH in many contexts, and the transition may not be fully recognized by all employers.",
+        "suggestion": "Clarify that the agency is now known as the California Civil Rights Department but may still be referred to as DFEH in some contexts."
       },
       {
         "severity": "medium",
-        "text": "In New York City, the law requires employers to include salary ranges in job advertisements as part of the New York City Salary Transparency Law.",
-        "issue": "The article does not specify that the New York City Salary Transparency Law applies only to certain employers and job postings, which could mislead readers about the universality of the requirement.",
-        "suggestion": "Add clarification that the law applies to specific employers and job postings to avoid misleading implications."
+        "text": "In New York City, the law requires employers with four or more employees to include salary ranges in job advertisements as part of the New York City Salary Transparency Law.",
+        "issue": "The threshold for the New York City Salary Transparency Law is actually four or more employees, but the law applies to all employers, including those with fewer than four employees in certain contexts, which could lead to confusion.",
+        "suggestion": "Specify that the law applies broadly but clarify the context in which it applies to smaller employers."
       }
     ],
-    "summary": "The article contains some potentially misleading claims regarding agency names and the applicability of New York City's salary transparency law.",
-    "checkedAt": "2026-04-10T07:15:38.081Z",
-    "hash": "ad384bbd2ef1a88e806a5557ce494ddc",
+    "summary": "The article contains some misleading statements regarding agency names and the applicability of the New York City Salary Transparency Law that should be clarified.",
+    "checkedAt": "2026-04-11T06:46:59.776Z",
+    "hash": "95656d349369f874ce148e510b5c035a",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -187,20 +151,20 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "As of the article's date, OSHA has proposed regulations regarding heat stress, but no final regulations have been established.",
-        "issue": "The statement may mislead readers into thinking that there are no existing regulations on heat stress, while OSHA has guidelines in place that employers are expected to follow.",
-        "suggestion": "Clarify that while new regulations are proposed, employers should still adhere to existing OSHA guidelines on heat stress."
+        "text": "As of the article's date, OSHA has proposed regulations regarding heat stress, and while no final regulations have been established, OSHA has issued interim guidance that employers should be aware of.",
+        "issue": "The article suggests that OSHA has interim guidance on heat stress regulations, but as of October 2023, there is no specific interim guidance issued by OSHA regarding heat stress. This could mislead employers about the current regulatory landscape.",
+        "suggestion": "Clarify that there is no interim guidance specifically for heat stress and suggest that employers should follow general OSHA guidelines for heat safety until new regulations are finalized."
       },
       {
         "severity": "medium",
-        "text": "Employers should consult the latest OSHA guidelines for the most current information on penalties.",
-        "issue": "This statement is vague and could mislead employers about the nature of penalties, as it does not specify that penalties can vary based on the severity of violations and the specific regulations in place.",
-        "suggestion": "Provide more specific information about the types of penalties that may be incurred for non-compliance with existing guidelines."
+        "text": "Employers should consult the latest OSHA guidelines for specific information on penalties, as well as increased liability in the event of heat-related incidents.",
+        "issue": "The statement implies that there are specific penalties outlined for heat stress violations, which may not yet exist as the regulations are still proposed. This could mislead employers about their current obligations.",
+        "suggestion": "Rephrase to indicate that penalties will be established once the regulations are finalized and that employers should prepare for potential penalties based on existing OSHA standards."
       }
     ],
-    "summary": "The article contains some misleading claims regarding the status of OSHA regulations and penalties that need clarification.",
-    "checkedAt": "2026-04-10T07:16:04.482Z",
-    "hash": "144247b031cccdf5ad1591eec643f8de",
+    "summary": "The article contains some misleading claims regarding the current status of OSHA heat stress regulations and potential penalties, which could confuse employers.",
+    "checkedAt": "2026-04-11T06:47:25.699Z",
+    "hash": "8e93ce592bbf9919a39b5d11a12f3829",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -217,35 +181,49 @@
   },
   "2026-04-08-new-fmla-regulations-aim-to-expand-employee-leave-0.md": {
     "file": "2026-04-08-new-fmla-regulations-aim-to-expand-employee-leave-0.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token 'u', \"upstream c\"... is not valid JSON",
-    "checkedAt": "2026-04-10T07:16:15.716Z",
-    "hash": "7b76f6fa32ef6359d26b6f85b0006e3a",
-    "dir": "src/content/news"
+    "status": "flag",
+    "confidence": 0.7,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the U.S. Department of Labor (DOL) is anticipated to propose updated regulations concerning the Family and Medical Leave Act (FMLA)",
+        "issue": "The article implies that the DOL is expected to propose changes, which may not be accurate as of the date mentioned (2026-04-08). There may be no official announcement or proposal at that time.",
+        "suggestion": "Clarify the status of the proposed regulations and ensure it reflects the most current information from the DOL."
+      },
+      {
+        "severity": "medium",
+        "text": "Employers with 50 or more employees within a 75-mile radius should generally monitor.",
+        "issue": "The FMLA applies to employers with 50 or more employees within a 75-mile radius, but the phrasing suggests a lack of obligation to comply until changes are finalized, which may mislead employers about their current obligations.",
+        "suggestion": "Rephrase to clarify that employers are currently obligated to comply with existing FMLA regulations regardless of anticipated changes."
+      }
+    ],
+    "summary": "The article contains some potentially misleading claims regarding the status of proposed FMLA regulations and employer obligations.",
+    "checkedAt": "2026-04-11T06:47:49.999Z",
+    "hash": "ee52d80adb51854ff6cab129ca682e96",
+    "dir": "src/content/news",
+    "autoFixed": true
   },
   "2026-04-08-new-regulations-on-employee-leave-what-employers-need-to-kno-4.md": {
     "file": "2026-04-08-new-regulations-on-employee-leave-what-employers-need-to-kno-4.md",
     "status": "flag",
-    "confidence": 0.8,
+    "confidence": 0.7,
     "issues": [
       {
         "severity": "medium",
-        "text": "no formal updates to the FMLA guidelines have been made public as of the publication date",
-        "issue": "The article states that there have been no formal updates to the FMLA guidelines, but it does not clarify that the DOL regularly updates guidance and interpretations, which could be misleading.",
-        "suggestion": "Clarify that while formal updates may not have been made, the DOL frequently issues guidance that can affect interpretation and application of the FMLA."
+        "text": "Employers with 50 or more employees within a 75-mile radius should take proactive measures to ensure compliance, as the FMLA applies to this threshold.",
+        "issue": "The FMLA applies to employers with 50 or more employees within a 75-mile radius, but the article does not clarify that this is a federal requirement and that some states may have different thresholds.",
+        "suggestion": "Clarify that the 50-employee threshold is a federal requirement under the FMLA and specify that states may have their own laws with different thresholds."
       },
       {
         "severity": "medium",
-        "text": "Employers with 50 or more employees should take proactive measures to ensure compliance, as the FMLA applies to this threshold.",
-        "issue": "The article does not mention that the FMLA applies to employers with 50 or more employees within a 75-mile radius, which is an important detail.",
-        "suggestion": "Include that the FMLA applies to employers with 50 or more employees within a 75-mile radius to provide complete information."
+        "text": "While there have been discussions about expanding definitions of qualifying family members and circumstances under which leave can be taken, no formal updates to the FMLA guidelines have been made public as of the publication date.",
+        "issue": "The statement implies that there are ongoing discussions about changes to the FMLA without providing a clear source or context, which could mislead readers about the status of the law.",
+        "suggestion": "Provide a source or context for the discussions mentioned or remove the statement to avoid misleading implications."
       }
     ],
-    "summary": "The article contains some misleading claims and lacks important details regarding FMLA compliance thresholds.",
-    "checkedAt": "2026-04-10T07:16:47.413Z",
-    "hash": "0d361e8f6d72cd29bc7258b82ec45bb3",
+    "summary": "The article contains some unclear statements regarding FMLA compliance and ongoing discussions about potential changes, which could mislead employers.",
+    "checkedAt": "2026-04-11T06:48:12.198Z",
+    "hash": "84e764788db02f1b1ccd55df351f4d2f",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -256,20 +234,20 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "California's Assembly Bill 5 (AB 5) primarily addresses gig economy workers and does not specifically focus on remote work regulations.",
-        "issue": "While AB 5 does focus on gig economy workers, the statement may mislead readers into thinking it has no relevance to remote work at all, which is not entirely accurate as it impacts employment classification.",
-        "suggestion": "Clarify that while AB 5 primarily addresses gig workers, its implications on employment classification can indirectly affect remote work policies."
+        "text": "California's Assembly Bill 5 (AB 5) primarily addresses gig economy workers, its implications on worker classification can indirectly affect remote work policies.",
+        "issue": "AB 5 is primarily focused on gig economy workers and does not directly address remote work policies. The claim that it indirectly affects remote work policies may mislead readers about the law's intent and scope.",
+        "suggestion": "Clarify that AB 5 is focused on gig economy workers and does not specifically address remote work policies, to avoid misleading implications."
       },
       {
         "severity": "medium",
-        "text": "Employers should consult their specific state laws to understand their obligations, as general labor laws still apply even in states without specific remote work regulations.",
-        "issue": "The statement could mislead employers into thinking that general labor laws do not apply in states with specific remote work regulations, which is not accurate.",
-        "suggestion": "Rephrase to clarify that general labor laws apply universally, and specific remote work regulations may add additional obligations."
+        "text": "Employers should also be aware that New York's guidance on remote work policies may provide some frameworks, but the specifics can vary and may not comprehensively cover all employer responsibilities.",
+        "issue": "The statement is vague and could mislead employers about the existence and applicability of New York's guidance on remote work policies.",
+        "suggestion": "Provide specific references to any existing New York regulations or guidelines on remote work to clarify the obligations of employers."
       }
     ],
-    "summary": "The article contains some misleading claims regarding the relevance of AB 5 to remote work and the application of general labor laws.",
-    "checkedAt": "2026-04-10T07:17:15.423Z",
-    "hash": "ea164db95549d745e5cf69eb4fd17c07",
+    "summary": "The article contains some misleading claims regarding the implications of specific laws on remote work policies that need clarification.",
+    "checkedAt": "2026-04-11T06:48:36.962Z",
+    "hash": "c53cd192a0d7ce56bfb2e4fc301ca029",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -281,25 +259,25 @@
       {
         "severity": "medium",
         "text": "new federal regulations regarding pay disclosure will take effect on January 1, 2024.",
-        "issue": "The article does not specify the exact law or executive order being referenced, which could lead to confusion about the legal basis for the regulations.",
-        "suggestion": "Clarify the specific law or executive order that mandates these regulations to provide accurate context."
+        "issue": "The article states that the regulations will take effect on January 1, 2024, but it does not clarify that these regulations are specific to federal contractors and may not apply to all employers.",
+        "suggestion": "Clarify that the regulations apply specifically to employers with federal contracts and provide context on who is affected."
       },
       {
         "severity": "medium",
-        "text": "Employers with federal contracts to disclose salary ranges in job postings.",
-        "issue": "The statement implies that all employers with federal contracts are subject to these regulations without clarifying the thresholds or specific types of contracts that apply.",
-        "suggestion": "Specify which types of federal contracts are affected and any thresholds that may apply to ensure clarity."
+        "text": "the U.S. Department of Labor (DOL) has finalized rules under Executive Order 14026",
+        "issue": "The article references Executive Order 14026, which pertains to minimum wage for federal contractors, not specifically to pay transparency regulations. This could mislead readers about the legal basis for the pay transparency requirements.",
+        "suggestion": "Verify the correct legal basis for the pay transparency regulations and provide accurate references."
       },
       {
         "severity": "medium",
-        "text": "Compliance deadlines may vary based on specific regulations or guidance issued by the DOL.",
-        "issue": "The article suggests variability in compliance deadlines without providing specific dates or conditions, which could mislead employers.",
-        "suggestion": "Provide a clear compliance deadline and any known conditions that might affect it."
+        "text": "Employers are generally required to keep records of compensation data for their employees",
+        "issue": "The statement lacks specificity regarding the requirements for record-keeping and may mislead employers about their obligations under the new regulations.",
+        "suggestion": "Provide more detailed information about the specific record-keeping requirements and clarify any nuances."
       }
     ],
-    "summary": "The article contains some vague references and lacks specificity regarding the legal framework and compliance details, which could lead to misunderstandings among employers.",
-    "checkedAt": "2026-04-10T07:17:41.611Z",
-    "hash": "157e4f3a6d469f53a79ee86de90903de",
+    "summary": "The article contains some misleading claims and lacks clarity on the applicability and legal basis of the new regulations.",
+    "checkedAt": "2026-04-11T06:48:58.165Z",
+    "hash": "ed57decb0393b769d34477867fb47097",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -311,43 +289,49 @@
       {
         "severity": "medium",
         "text": "the DOL's proposal aims to increase this threshold to around $1,000 per week",
-        "issue": "The proposed threshold is not confirmed and could be subject to change, which may mislead employers into making premature adjustments.",
-        "suggestion": "Clarify that the proposed threshold is not finalized and emphasize the importance of awaiting the final decision from the DOL."
+        "issue": "The proposed threshold is not finalized and may change, but the article presents it as a near certainty.",
+        "suggestion": "Clarify that the proposed threshold is subject to change and emphasize that it is not finalized."
       },
       {
         "severity": "medium",
-        "text": "the public comment period is important for gathering industry concerns",
-        "issue": "The article does not specify the actual dates for the public comment period, which could lead to confusion about compliance timelines.",
-        "suggestion": "Include specific dates for the public comment period and any relevant deadlines to provide clearer guidance."
+        "text": "the public comment period, which is expected to occur in the coming months",
+        "issue": "The timeline for the public comment period is vague and could mislead employers about the urgency of their preparations.",
+        "suggestion": "Provide a more specific timeline or clarify that the public comment period's timing is uncertain."
       }
     ],
-    "summary": "The article contains some potentially misleading claims regarding the proposed overtime threshold and lacks specific details on compliance timelines.",
-    "checkedAt": "2026-04-10T07:18:08.202Z",
-    "hash": "b9eb07e81e97f7434c2804347c394c7b",
+    "summary": "The article contains some potentially misleading claims regarding the proposed overtime regulations and their implications for employers.",
+    "checkedAt": "2026-04-11T06:49:21.424Z",
+    "hash": "e7a0e824051f8288e776dbbfd4e1fb8e",
     "dir": "src/content/news",
     "autoFixed": true
   },
   "2026-04-09-navigating-the-new-overtime-rule-what-employers-need-to-know-1.md": {
     "file": "2026-04-09-navigating-the-new-overtime-rule-what-employers-need-to-know-1.md",
     "status": "flag",
-    "confidence": 0.8,
+    "confidence": 0.7,
     "issues": [
       {
         "severity": "medium",
-        "text": "the proposed rule may increase the salary threshold from $35,568 to $50,000 per year",
-        "issue": "The current salary threshold for exempt employees under the FLSA is $35,568, but the proposed increase to $50,000 is not confirmed and may not reflect the latest discussions or proposals from the DOL.",
-        "suggestion": "Clarify that the proposed increase is under consideration and may change, and provide context on the status of the rule-making process."
+        "text": "As of October 2023, the U.S. Department of Labor (DOL) is in the proposal stage for an updated overtime rule",
+        "issue": "The article states that the DOL is in the proposal stage as of October 2023, but the actual proposal was released earlier, and the article should clarify the current status of the rule.",
+        "suggestion": "Update the text to reflect the accurate timeline of the DOL's actions regarding the overtime rule."
+      },
+      {
+        "severity": "high",
+        "text": "the current $35,568 per year",
+        "issue": "The current salary threshold for exempt employees under the FLSA is $35,568, but this figure may not be accurate if the DOL has made updates since the article's publication.",
+        "suggestion": "Verify the current salary threshold and update the article with the correct figure if necessary."
       },
       {
         "severity": "medium",
-        "text": "As of October 2023, the U.S. Department of Labor (DOL) is considering an updated overtime rule",
-        "issue": "The article states that the DOL is considering an updated rule as of October 2023, which may mislead readers into thinking that the rule is imminent when it may still be in the proposal stage.",
-        "suggestion": "Specify that the rule is still in the proposal stage and clarify the timeline for when final decisions are expected."
+        "text": "the final decision by the DOL may differ",
+        "issue": "This statement could mislead readers into thinking that the DOL's proposal is uncertain, while the proposal process typically leads to a final rule.",
+        "suggestion": "Clarify that while changes may occur, the DOL typically finalizes proposals after a comment period."
       }
     ],
-    "summary": "The article contains some potentially misleading claims regarding the status and specifics of the proposed overtime rule that require clarification.",
-    "checkedAt": "2026-04-10T07:18:36.042Z",
-    "hash": "bf8349bb8908da1188d27a5d44508f92",
+    "summary": "The article contains some inaccuracies regarding the status of the DOL's overtime rule and the current salary threshold, which need to be addressed for clarity and accuracy.",
+    "checkedAt": "2026-04-11T06:49:48.430Z",
+    "hash": "078e552f7ae95fa33727fad91db50f85",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -359,79 +343,73 @@
       {
         "severity": "medium",
         "text": "the salary threshold for the “white collar” exemptions—executive, administrative, and professional employees—may increase from the current level of $684 per week",
-        "issue": "The article suggests a potential increase in the salary threshold without confirming that it is a proposal from the DOL. The current threshold is accurate, but the implication that it will definitely increase is misleading.",
-        "suggestion": "Clarify that any increase is speculative and dependent on future DOL proposals and finalizations."
+        "issue": "The article states that the current salary threshold is $684 per week, which is accurate as of 2023, but it does not clarify that this amount is subject to change and that the DOL has not officially proposed a new threshold yet.",
+        "suggestion": "Clarify that the current threshold is accurate as of 2023 and emphasize that any increase is speculative and contingent on future proposals by the DOL."
       },
       {
         "severity": "medium",
-        "text": "the specific amount of the new threshold has not been officially set",
-        "issue": "While this statement is true, it could mislead readers into thinking that the DOL has already proposed a new threshold when it has not.",
-        "suggestion": "Rephrase to indicate that no proposals have been made yet regarding the new threshold."
-      },
-      {
-        "severity": "medium",
-        "text": "the DOL to implement a mechanism for automatic updates to this threshold every three years",
-        "issue": "This statement presents a proposal as if it is a confirmed plan, which could mislead employers about their obligations.",
-        "suggestion": "State that this is a proposed idea and has not yet been confirmed as a regulation."
+        "text": "the salary threshold for exempt employees may increase",
+        "issue": "The article implies that the increase in the salary threshold is likely, which could mislead employers into assuming it is a certainty.",
+        "suggestion": "Rephrase to indicate that while an increase is anticipated, it is not guaranteed, and the specific amount has not been proposed or finalized."
       }
     ],
-    "summary": "The article contains speculative statements about future DOL regulations that could mislead employers regarding their obligations.",
-    "checkedAt": "2026-04-10T07:19:06.651Z",
-    "hash": "79827a5a3ce9854c0ca9ef68b75750b6",
+    "summary": "The article contains speculative language regarding the salary threshold increase that could mislead employers about the certainty of upcoming changes.",
+    "checkedAt": "2026-04-11T06:50:11.135Z",
+    "hash": "8e1bea58b31f691806226eeefd31e278",
     "dir": "src/content/news",
     "autoFixed": true
   },
   "2026-04-09-new-pay-transparency-regulations-impacting-employers-4.md": {
     "file": "2026-04-09-new-pay-transparency-regulations-impacting-employers-4.md",
     "status": "flag",
-    "confidence": 0.8,
+    "confidence": 0.7,
     "issues": [
       {
         "severity": "medium",
-        "text": "the Colorado Equal Pay for Equal Work Act, for instance, generally mandates that employers include salary ranges in job postings.",
-        "issue": "The article does not specify that the Colorado Equal Pay for Equal Work Act has specific requirements for employers regarding salary disclosures, which may mislead readers about the law's scope.",
-        "suggestion": "Clarify that while the Act requires salary disclosures, the specifics can vary and should be confirmed with legal counsel."
+        "text": "Colorado Equal Pay for Equal Work Act, for instance, generally mandates that employers include salary ranges in job postings.",
+        "issue": "The statement lacks specificity regarding the requirements of the Colorado Equal Pay for Equal Work Act, which has specific provisions that must be followed.",
+        "suggestion": "Clarify that the Act requires employers to disclose salary ranges in job postings and provide pay information to employees upon request, and ensure that the description aligns with the actual legal text."
       },
       {
         "severity": "medium",
         "text": "Employers must adapt to new pay transparency laws to ensure compliance and attract talent.",
-        "issue": "The article implies that all employers are subject to these laws without acknowledging that compliance requirements can vary significantly by state and locality.",
-        "suggestion": "Add a disclaimer that compliance requirements differ based on jurisdiction and employer size."
+        "issue": "The article implies a uniformity in pay transparency laws across states, which may mislead readers about the varying requirements and compliance deadlines.",
+        "suggestion": "Specify that pay transparency laws vary significantly by state and locality, and employers should consult legal counsel for specific compliance requirements."
       }
     ],
-    "summary": "The article contains some misleading claims regarding the specifics of pay transparency laws and their applicability to all employers.",
-    "checkedAt": "2026-04-10T07:19:35.424Z",
-    "hash": "9d53185e06fe24577882f664101d6060",
+    "summary": "The article contains some misleading claims regarding the specifics of pay transparency laws and their uniformity across jurisdictions.",
+    "checkedAt": "2026-04-11T06:50:36.271Z",
+    "hash": "8cb816bafdb1deba9f747b53e8a5ef61",
     "dir": "src/content/news",
     "autoFixed": true
   },
   "2026-04-10-navigating-the-new-paid-leave-regulations-what-employers-mus-2.md": {
     "file": "2026-04-10-navigating-the-new-paid-leave-regulations-what-employers-mus-2.md",
     "status": "flag",
-    "confidence": 0.7,
+    "confidence": 0.8,
     "issues": [
       {
         "severity": "medium",
-        "text": "significant changes to paid leave regulations have been implemented in various states",
-        "issue": "The article does not specify which states have enacted these changes or provide specific legal references, which could mislead readers about the scope and applicability of the regulations.",
-        "suggestion": "Include specific state laws and their effective dates to provide clarity on the changes."
+        "text": "California's Paid Family Leave program allows eligible employees to take up to eight weeks of paid leave",
+        "issue": "The current duration for California's Paid Family Leave is actually up to 8 weeks, but it is important to specify that this is for certain qualifying events and may not apply universally.",
+        "suggestion": "Clarify that the 8 weeks applies to specific qualifying events and ensure that the context of eligibility is clear."
       },
       {
         "severity": "medium",
-        "text": "some laws now include part-time and temporary employees",
-        "issue": "The statement lacks specificity regarding which states have made these changes, potentially leading to confusion about employer obligations.",
-        "suggestion": "Clarify which states have expanded eligibility to part-time and temporary employees."
+        "text": "New York's Paid Family Leave provides up to 12 weeks of paid leave for similar reasons",
+        "issue": "While New York's Paid Family Leave does provide up to 12 weeks, it is essential to specify that this is contingent on the employee meeting eligibility criteria.",
+        "suggestion": "Add a note that the 12 weeks is subject to eligibility requirements and specific qualifying events."
       },
       {
         "severity": "medium",
-        "text": "most paid leave laws include provisions that protect an employee's job upon return",
-        "issue": "While many laws do include job protection, this is not universally true across all states, and the article should clarify that job protection varies by state.",
-        "suggestion": "Add a disclaimer that job protection provisions differ by state law."
+        "text": "New Jersey offers up to 12 weeks of paid family leave as well",
+        "issue": "Similar to New York, New Jersey's paid leave duration is contingent upon specific qualifying events and eligibility criteria.",
+        "suggestion": "Clarify that the 12 weeks is based on eligibility and specific circumstances."
       }
     ],
-    "summary": "The article contains some vague statements and lacks specific legal references, which could mislead employers about their obligations under new paid leave regulations.",
-    "checkedAt": "2026-04-10T07:20:07.063Z",
-    "hash": "5054f022f5775eddaff9251638e587b0",
+    "summary": "The article contains some accurate information but requires clarification on the eligibility and conditions surrounding paid leave durations in California, New York, and New Jersey.",
+    "checkedAt": "2026-04-11T06:51:03.342Z",
+    "hash": "b4186d118287c126fb6c0c9c1ab3bc70",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -442,20 +420,20 @@
     "issues": [
       {
         "severity": "medium",
-        "text": "California's paid family leave has been at eight weeks since July 2020",
-        "issue": "The statement is misleading as California's paid family leave duration has been eight weeks since July 2020, but it is set to increase to 12 weeks starting in 2024, which is not mentioned.",
-        "suggestion": "Clarify that while the duration is currently eight weeks, it will increase to 12 weeks in 2024."
+        "text": "California's paid family leave is currently eight weeks, but it is scheduled to increase to 12 weeks in 2024.",
+        "issue": "The statement about California's paid family leave duration is misleading as the current duration is actually 8 weeks, but the increase to 12 weeks is not officially confirmed for 2024.",
+        "suggestion": "Clarify that the increase is proposed or pending confirmation rather than stating it as a scheduled change."
       },
       {
         "severity": "medium",
         "text": "Employers must ensure that their leave policies are compliant with the new regulations, which may differ significantly from existing company policies.",
-        "issue": "The article does not specify the exact new regulations or how they differ from existing policies, which could mislead employers about their obligations.",
-        "suggestion": "Provide specific examples of new regulations or changes in compliance requirements to give employers a clearer understanding."
+        "issue": "The article does not specify which new regulations are being referred to, which could lead to confusion about compliance obligations.",
+        "suggestion": "Provide specific references to the new regulations or laws being discussed to enhance clarity."
       }
     ],
-    "summary": "The article contains some misleading statements and lacks specific details about new regulations that could affect employer compliance.",
-    "checkedAt": "2026-04-10T07:20:29.933Z",
-    "hash": "794888ae35eb28f86782109317f38b65",
+    "summary": "The article contains some misleading statements and lacks specificity regarding compliance obligations, warranting a flag for review.",
+    "checkedAt": "2026-04-11T06:51:23.659Z",
+    "hash": "9ca1054e61a248cb68121490d215f160",
     "dir": "src/content/news",
     "autoFixed": true
   },
@@ -478,49 +456,142 @@
       {
         "severity": "medium",
         "text": "the salary threshold for exempt employees may increase from the current level of $684 per week.",
-        "issue": "The current salary threshold for exempt employees under the FLSA is indeed $684 per week, but the proposed increase to $1,059 per week has not been officially confirmed and may not reflect the final decision.",
-        "suggestion": "Clarify that the proposed threshold is subject to change and not yet finalized."
+        "issue": "The current salary threshold for exempt employees under the FLSA is indeed $684 per week, but the proposed new threshold of $1,059 per week is not confirmed and could change. The article should clarify that this is a proposal and not a finalized figure.",
+        "suggestion": "Add a statement emphasizing that the $1,059 figure is a proposal and subject to change until finalized."
       },
       {
         "severity": "medium",
-        "text": "the rule may introduce a mechanism for automatic updates to the salary threshold every three years.",
-        "issue": "While the DOL has discussed automatic updates, this is not guaranteed and should be presented as a possibility rather than a certainty.",
-        "suggestion": "Rephrase to indicate that automatic updates are a proposed feature and not confirmed."
-      },
-      {
-        "severity": "medium",
-        "text": "the effective date may change.",
-        "issue": "While it is true that proposed regulations can change, the article should specify that the proposed effective date is July 1, 2026, and that any changes would need to be communicated by the DOL.",
-        "suggestion": "Include a note that the DOL will provide updates on any changes to the effective date."
+        "text": "the effective date is subject to change.",
+        "issue": "While the article mentions that the effective date is subject to change, it should specify that the proposed effective date is July 1, 2026, and clarify that this date is contingent upon finalization of the rule.",
+        "suggestion": "Clarify that the proposed effective date is July 1, 2026, and emphasize that it is contingent on the finalization of the rule."
       }
     ],
-    "summary": "The article contains several claims about proposed overtime rule changes that require clarification and caution regarding their current status and implications.",
-    "checkedAt": "2026-04-10T07:21:27.031Z",
-    "hash": "fc60a3ff2298dfa74238f806505f5168",
+    "summary": "The article contains some potentially misleading claims regarding the proposed salary threshold and effective date that should be clarified for accuracy.",
+    "checkedAt": "2026-04-11T06:51:48.622Z",
+    "hash": "e98a70c1e99ede2b164ca8451a8587c7",
     "dir": "src/content/news",
     "autoFixed": true
   },
   "2026-04-10-the-rise-of-remote-work-regulations-what-employers-need-to-k-1.md": {
     "file": "2026-04-10-the-rise-of-remote-work-regulations-what-employers-need-to-k-1.md",
     "status": "flag",
+    "confidence": 0.8,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "California is currently considering legislation that may require employers to provide employees with a “work from home” agreement",
+        "issue": "The article presents the status of California's legislation as current and ongoing, but it lacks specific details about the bill's number or provisions, which could mislead readers about its actual status.",
+        "suggestion": "Provide the bill number and a brief summary of its provisions, or clarify that the status is speculative and subject to change."
+      },
+      {
+        "severity": "medium",
+        "text": "The Equal Employment Opportunity Commission (EEOC) has emphasized that remote work may be considered a reasonable accommodation under the Americans with Disabilities Act (ADA)",
+        "issue": "While the EEOC does consider remote work as a potential reasonable accommodation, the article does not clarify that this is highly dependent on individual circumstances and may not apply universally.",
+        "suggestion": "Add a disclaimer that the applicability of remote work as a reasonable accommodation under the ADA is case-specific and should be assessed individually."
+      }
+    ],
+    "summary": "The article contains some speculative claims about pending legislation and lacks clarity on the applicability of remote work accommodations under the ADA.",
+    "checkedAt": "2026-04-11T06:52:11.332Z",
+    "hash": "2d291cbf30996e6680b95b08500ff45b",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-11-navigating-the-rise-of-remote-work-regulations-1.md": {
+    "file": "2026-04-11-navigating-the-rise-of-remote-work-regulations-1.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article presents accurate information regarding remote work regulations and employer obligations.",
+    "checkedAt": "2026-04-11T06:52:28.958Z",
+    "hash": "6b9b4847ebcd836211ed6b5c24945fb0",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-11-new-federal-protections-for-pregnant-workers-what-employers--0.md": {
+    "file": "2026-04-11-new-federal-protections-for-pregnant-workers-what-employers--0.md",
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "summary": "The article accurately reflects the provisions and implications of the Pregnant Workers Fairness Act.",
+    "checkedAt": "2026-04-11T06:52:30.961Z",
+    "hash": "30d957b695ed2bbd1c68aaa124e6dccd",
+    "dir": "src/content/news"
+  },
+  "2026-04-11-new-federal-regulations-on-remote-work-policies-affect-emplo-2.md": {
+    "file": "2026-04-11-new-federal-regulations-on-remote-work-policies-affect-emplo-2.md",
+    "status": "flag",
     "confidence": 0.7,
     "issues": [
       {
         "severity": "medium",
-        "text": "California has introduced Assembly Bill 1234, which requires employers to provide employees with a “work from home” agreement.",
-        "issue": "Assembly Bill 1234 is not a current bill related to remote work regulations; it may be fabricated or misrepresented.",
-        "suggestion": "Verify the existence and content of Assembly Bill 1234 or replace it with accurate information about existing remote work legislation."
+        "text": "the U.S. Department of Labor (DOL) is expected to release updated guidelines regarding remote work policies",
+        "issue": "There are no current federal guidelines specifically from the DOL regarding remote work policies as of the article's date. This could mislead employers about the existence of such guidelines.",
+        "suggestion": "Clarify that these are anticipated guidelines and provide context on the current status of federal regulations regarding remote work."
       },
       {
         "severity": "medium",
-        "text": "Employers are reminded that even remote employees are entitled to the same protections as those working on-site, including minimum wage, overtime, and meal breaks.",
-        "issue": "While generally true, the specifics of wage and hour laws can vary by state, and the article does not clarify these nuances.",
-        "suggestion": "Include a disclaimer that state laws may vary and employers should consult local regulations."
+        "text": "Employers should ensure that remote employees receive benefits and protections that are consistent with applicable laws, which may include overtime pay, meal and rest breaks, and reimbursement for work-related expenses.",
+        "issue": "While it is true that remote employees are entitled to certain benefits, the statement could imply that there are new or different requirements specifically for remote workers, which is misleading.",
+        "suggestion": "Specify that existing labor laws apply to remote workers as they do to in-office workers, without implying new obligations."
       }
     ],
-    "summary": "The article contains some potentially misleading information regarding specific legislation and lacks clarity on state law variations.",
-    "checkedAt": "2026-04-10T07:22:02.863Z",
-    "hash": "7a1a82302f28251e8be11cd4f7bffdf8",
+    "summary": "The article contains potentially misleading claims about the existence of federal guidelines and the obligations of employers regarding remote work policies.",
+    "checkedAt": "2026-04-11T06:52:49.770Z",
+    "hash": "c110285ea569405f3e8307252bf74154",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-11-new-overtime-rule-set-to-impact-small-and-mid-sized-business-3.md": {
+    "file": "2026-04-11-new-overtime-rule-set-to-impact-small-and-mid-sized-business-3.md",
+    "status": "flag",
+    "confidence": 0.8,
+    "issues": [
+      {
+        "severity": "medium",
+        "text": "the DOL has proposed raising this threshold to approximately $1,000 per week",
+        "issue": "The proposed threshold is not officially confirmed and may be subject to change. The article should clarify that this is a proposal and not a finalized rule.",
+        "suggestion": "Rephrase to indicate that the $1,000 threshold is a proposal and subject to change pending final approval."
+      },
+      {
+        "severity": "medium",
+        "text": "Companies with fewer than 500 employees may encounter challenges in adapting to the new regulations",
+        "issue": "The statement implies that only companies with fewer than 500 employees will face challenges, which could mislead readers about the applicability of the rule to larger companies.",
+        "suggestion": "Clarify that all employers, regardless of size, may face challenges in adapting to the new regulations."
+      }
+    ],
+    "summary": "The article contains some misleading claims and lacks clarity on the status of the proposed overtime threshold.",
+    "checkedAt": "2026-04-11T06:53:11.478Z",
+    "hash": "c727c0df92842b028dbf5eb5e5aed8ae",
+    "dir": "src/content/news",
+    "autoFixed": true
+  },
+  "2026-04-11-understanding-the-new-overtime-rule-changes-in-2023-4.md": {
+    "file": "2026-04-11-understanding-the-new-overtime-rule-changes-in-2023-4.md",
+    "status": "fail",
+    "confidence": 0.9,
+    "issues": [
+      {
+        "severity": "high",
+        "text": "the salary threshold for exempt employees—will increase from the current level of $684 per week (as of 2020) to approximately $1,059 per week.",
+        "issue": "The new salary threshold for exempt employees is inaccurately stated. As of 2023, the threshold is set to increase to $1,059 per week, but the correct figure should be confirmed against the latest DOL announcements.",
+        "suggestion": "Verify the new salary threshold with the latest DOL regulations and update the article accordingly."
+      },
+      {
+        "severity": "high",
+        "text": "These changes are significant for all employers subject to the FLSA, as they could require adjustments to payroll practices and employee classifications.",
+        "issue": "The article implies that all employers will be significantly impacted, which may not be true for all industries or employer sizes. The impact can vary widely.",
+        "suggestion": "Clarify that the impact of the changes may vary by industry and employer size, and provide examples of those most likely to be affected."
+      },
+      {
+        "severity": "high",
+        "text": "the DOL is also considering additional changes that could further impact employee classification, including potential modifications to the duties test used to determine exemption eligibility.",
+        "issue": "This statement could mislead employers into thinking that changes to the duties test are imminent when they may not be.",
+        "suggestion": "Rephrase to indicate that while discussions are ongoing, no definitive changes to the duties test have been announced."
+      }
+    ],
+    "summary": "The article contains significant factual inaccuracies regarding the new overtime regulations and their implications for employers.",
+    "checkedAt": "2026-04-11T06:53:33.980Z",
+    "hash": "85f062096ef405de6f24ff5999a4b3b6",
     "dir": "src/content/news",
     "autoFixed": true
   }

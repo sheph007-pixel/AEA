@@ -10,7 +10,7 @@ author: "AEA Editorial Team"
 
 As remote work continues to be a prominent feature of the modern workplace, regulatory changes are emerging that employers must navigate to remain compliant and supportive of their workforce. In recent months, various state legislatures have begun to introduce or amend laws related to remote work, focusing on employee rights, workplace safety, and ensuring equitable treatment of remote employees.
 
-The rise of remote work during the COVID-19 pandemic highlighted gaps in existing labor laws concerning off-site employees. In response, states like California and New York have introduced specific regulations addressing remote work arrangements. However, California's Assembly Bill 5 (AB 5) primarily addresses gig economy workers and does not specifically focus on remote work regulations. Employers should be aware that New York's guidance on remote work policies may provide some frameworks, but the specifics can vary and may not comprehensively cover all employer responsibilities.
+The rise of remote work during the COVID-19 pandemic highlighted gaps in existing labor laws concerning off-site employees. In response, states like California and New York have introduced specific regulations addressing remote work arrangements. However, while California's Assembly Bill 5 (AB 5) primarily addresses gig economy workers, its implications on worker classification can indirectly affect remote work policies. Employers should also be aware that New York's guidance on remote work policies may provide some frameworks, but the specifics can vary and may not comprehensively cover all employer responsibilities.
 
 ### Key Legislative Developments
 

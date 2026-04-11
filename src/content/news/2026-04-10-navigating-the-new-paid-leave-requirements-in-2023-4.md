@@ -10,7 +10,7 @@ author: "AEA Editorial Team"
 
 As of October 2023, several states have updated their paid leave laws, prompting employers to reassess their benefits offerings and compliance strategies. These changes primarily stem from a growing push for more comprehensive employee benefits designed to support work-life balance, particularly in the wake of the COVID-19 pandemic.
 
-States such as California, New York, and Illinois have expanded their paid family leave programs, increasing the number of weeks available to employees and broadening the definition of what qualifies for leave. For instance, California's paid family leave has been at eight weeks since July 2020 and includes benefits for those caring for siblings or grandparents, which reflects a significant shift in the understanding of family caregiving.
+States such as California, New York, and Illinois have expanded their paid family leave programs, increasing the number of weeks available to employees and broadening the definition of what qualifies for leave. For instance, California's paid family leave is currently eight weeks, but it is scheduled to increase to 12 weeks in 2024. The program includes benefits for those caring for siblings or grandparents, reflecting a significant shift in the understanding of family caregiving.
 
 For HR professionals and business owners, these legislative updates carry important implications. Employers must ensure that their leave policies are compliant with the new regulations, which may differ significantly from existing company policies. Specific compliance obligations may vary by state, and non-compliance can result in substantial penalties and legal challenges, making it crucial for employers to stay informed and proactive.
 
@@ -26,7 +26,7 @@ For HR professionals and business owners, these legislative updates carry import
 
 To navigate these changes effectively, HR professionals should take the following steps:
 
-- **Review and Update Leave Policies**: Conduct a thorough review of current leave policies to ensure they align with state regulations. This may involve consulting legal experts to address compliance issues.
+- **Review and Update Leave Policies**: Conduct a thorough review of current leave policies to ensure they align with state regulations. This may involve consulting legal experts to address compliance issues related to the new laws.
 
 - **Train Management**: Ensure that managers and HR personnel are trained on the new policies and understand how to handle leave requests appropriately. This training should emphasize the importance of compliance and sensitivity around employee needs.
 

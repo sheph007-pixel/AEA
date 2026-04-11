@@ -26,7 +26,7 @@ Moreover, businesses may face increased payroll costs as more employees qualify 
 
 3. **Develop Communication Plans**: Prepare to communicate with employees about potential changes to their pay structure and work hours. Transparency will be key in managing employee morale and expectations.
 
-4. **Stay Informed**: Keep abreast of any updates from the DOL regarding the status of these proposed changes. The public comment period is important for gathering industry concerns, and while its influence on the final regulations may vary, it generally plays a role in shaping the outcome.
+4. **Stay Informed**: Keep abreast of any updates from the DOL regarding the status of these proposed changes. The public comment period, which is expected to occur in the coming months, is important for gathering industry concerns. While its influence on the final regulations may vary, it generally plays a role in shaping the outcome.
 
 5. **Consult Legal or HR Experts**: Given the complexity of employment laws, it may be prudent to consult with legal or HR experts to ensure compliance and to strategize on how to implement changes effectively.
 
