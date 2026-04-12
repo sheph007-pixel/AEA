@@ -8,7 +8,7 @@ author: "AEA Editorial Team"
 
 ## Understanding New Employee Leave Regulations
 
-In a significant shift affecting employers nationwide, recent regulatory changes regarding employee leave have come into effect, necessitating urgent attention from HR professionals and business owners. The U.S. Department of Labor (DOL) has updated its guidelines on the Family and Medical Leave Act (FMLA) and related state laws, which impacts how leave is administered in the workplace. Employers with 50 or more employees within a 75-mile radius should take proactive measures to ensure compliance, as the FMLA applies to this threshold. However, it is important to note that some states may have different thresholds and requirements for their own leave laws, and employers should consult counsel to understand their specific obligations.
+In a significant shift affecting employers nationwide, recent regulatory changes regarding employee leave have come into effect, necessitating urgent attention from HR professionals and business owners. The U.S. Department of Labor (DOL) has updated its guidelines on the Family and Medical Leave Act (FMLA) and related state laws, which impacts how leave is administered in the workplace. Employers with 50 or more employees within a 75-mile radius should take proactive measures to ensure compliance, as the 50-employee threshold is a federal requirement. However, it is important to note that some states may have different thresholds and requirements for their own leave laws, and employers should consult counsel to understand their specific obligations.
 
 ### Key Changes to Regulations
 

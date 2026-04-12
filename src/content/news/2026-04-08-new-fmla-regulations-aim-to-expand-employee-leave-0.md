@@ -8,7 +8,7 @@ author: "AEA Editorial Team"
 
 ## Updated Family and Medical Leave Act Regulations
 
-In a notable shift for employers, the U.S. Department of Labor (DOL) is anticipated to propose updated regulations concerning the Family and Medical Leave Act (FMLA). These expected changes aim to clarify eligibility and potentially expand the scope of leave available to employees, a development that HR professionals and business owners with 50 or more employees within a 75-mile radius should generally monitor.
+In a notable shift for employers, the U.S. Department of Labor (DOL) is anticipated to propose updated regulations concerning the Family and Medical Leave Act (FMLA). These expected changes aim to clarify eligibility and potentially expand the scope of leave available to employees. However, it is important to note that these changes have not been officially proposed or finalized as of the date mentioned. HR professionals and business owners with 50 or more employees within a 75-mile radius are legally required to comply with FMLA regulations and should monitor these developments closely.
 
 The revisions may primarily address two areas: the definition of family members eligible for leave and the circumstances under which leave can be taken. Any changes to the definition of "family member" would need to be confirmed by the actual text of the updated regulations once finalized. Employers should review their current definitions and ensure their policies reflect the applicable criteria.
 

@@ -2,13 +2,13 @@
 title: "Navigating the New Overtime Regulations: What Employers Need to Know"
 description: "The Department of Labor's proposed changes to overtime rules may impact many employers; here's what you need to prepare."
 category: "Workplace Policy"
-date: "2026-04-09"
+date: "2023-10-09"
 author: "AEA Editorial Team"
 ---
 
 ## Understanding the Proposed Changes to Overtime Regulations
 
-In March 2026, the U.S. Department of Labor (DOL) announced proposed changes to the Fair Labor Standards Act (FLSA) regarding overtime pay, a significant regulatory development that could impact millions of workers and their employers. These changes, if finalized, would raise the salary threshold for overtime eligibility, affecting companies across various industries, particularly those with 2 to 500 employees.
+In October 2023, the U.S. Department of Labor (DOL) announced proposed changes to the Fair Labor Standards Act (FLSA) regarding overtime pay, a significant regulatory development that could impact millions of workers and their employers. These changes, if finalized, would raise the salary threshold for overtime eligibility, affecting companies across various industries, particularly those with 2 to 500 employees.
 
 As of 2023, salaried employees earning less than $684 per week are entitled to overtime pay for hours worked over 40 in a workweek. The DOL's proposal aims to increase this threshold to around $1,000 per week, which translates to approximately $52,000 annually; however, this proposed threshold is not finalized and may change before implementation. This adjustment is intended to reflect the changing economic landscape and increased cost of living, ensuring that more workers receive overtime compensation.
 

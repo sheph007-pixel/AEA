@@ -28,7 +28,7 @@ For HR professionals and business owners, the first step in adapting to these ch
 
 3. **Implement Training Programs**: Provide training for managers and HR personnel on how to effectively lead remote teams. This training should cover topics such as maintaining team cohesion, recognizing signs of burnout, and ensuring equitable treatment for all employees.
 
-4. **Monitor Legislative Changes**: Keep abreast of ongoing legislative developments at both state and federal levels regarding remote work. The landscape is rapidly changing, and proactive compliance will safeguard your organization against potential penalties.
+4. **Monitor Legislative Changes**: Keep abreast of ongoing legislative developments at both state and federal levels regarding remote work. The landscape is rapidly changing, and proactive compliance may safeguard your organization against potential penalties, such as fines or legal challenges, arising from non-compliance with applicable labor laws.
 
 5. **Consider Legal Consultation**: As regulations vary widely by state, it may be beneficial to consult with legal experts specializing in labor law to ensure all aspects of remote work compliance are addressed.
 
