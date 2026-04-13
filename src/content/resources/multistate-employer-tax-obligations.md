@@ -19,9 +19,9 @@ Most states with an income tax require employers to withhold state income tax fr
 
 However, several complicating factors apply:
 
-**Reciprocity agreements.** Some neighboring states have reciprocal agreements allowing employees who live in one state and work in another to have taxes withheld only for their state of residence. Examples include the agreements between New Jersey and Pennsylvania, and among several states in the D.C. metropolitan area. Check whether a reciprocity agreement covers your specific state combination.
+**Reciprocity agreements.** Reciprocity agreements can vary significantly by state, and some neighboring states have agreements allowing employees who live in one state and work in another to have taxes withheld only for their state of residence. Examples include the agreements between New Jersey and Pennsylvania, and among several states in the D.C. metropolitan area. Employers should verify whether a reciprocity agreement covers their specific state combination.
 
-**Convenience of the employer rules.** A handful of states, notably New York, tax nonresidents on wages earned while working remotely if the remote work is for the employee's convenience rather than the employer's necessity. This can create withholding obligations even for employees who rarely set foot in that state.
+**Convenience of the employer rules.** A handful of states, notably New York, tax nonresidents on wages earned while working remotely if the remote work is for the employee's convenience rather than the employer's necessity. This rule can create withholding obligations even for employees who rarely set foot in that state. For example, if an employee works from home in New York for their own convenience while their employer operates in another state, New York may impose tax obligations on those wages.
 
 **De minimis thresholds.** Some states exempt withholding if an employee works fewer than a specified number of days in the state during the year. These thresholds vary significantly.
 
@@ -29,7 +29,7 @@ However, several complicating factors apply:
 
 Each state operates its own unemployment insurance (UI) program with its own tax rates, wage bases, and rules. Generally, you must pay state UI taxes in the state where the employee performs services.
 
-If an employee works in multiple states, most states follow a localization test: UI taxes are owed in the state where the majority of work is performed. If work is not localized to any single state, a series of secondary tests under federal guidelines determine the liable state, looking at factors such as the employee's base of operations or the location from which the employer directs and controls the work.
+If an employee works in multiple states, most states follow a localization test: UI taxes are owed in the state where the majority of work is performed. If work is not localized to any single state, a series of secondary tests under federal guidelines, such as the "base of operations" test or the "direction and control" test, may determine the liable state. Employers should consult the specific federal guidelines that apply to their situation.
 
 Register for UI in each state where you have an obligation. Failure to register and pay on time results in penalties and can increase your federal UI tax rate by losing the credit offset.
 

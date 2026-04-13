@@ -14,7 +14,7 @@ Here are the questions employers are raising most frequently this month, along w
 
 ## 1. When does the OSHA 300A need to be posted, and who is required to post it?
 
-The OSHA Form 300A — the Summary of Work-Related Injuries and Illnesses — generally must be posted in a conspicuous location in the workplace by February 1 each year and must remain posted through April 30. The form summarizes injury and illness data recorded on the OSHA 300 Log during the prior calendar year and must be certified by a company executive. Employers should verify the current posting requirements with OSHA.
+The OSHA Form 300A — the Summary of Work-Related Injuries and Illnesses — generally must be posted in a conspicuous location in the workplace by February 1 each year and must remain posted through April 30. The form summarizes injury and illness data recorded on the OSHA 300 Log during the prior calendar year and must be certified by a company executive. Employers should verify the current posting requirements with OSHA, specifically referencing 29 CFR 1904.32, which outlines the posting requirements for the OSHA Form 300A.
 
 Most employers above a certain employee count threshold are generally required to maintain OSHA injury and illness records, though certain low-hazard industries may be partially exempt from routine recordkeeping. Employers should confirm whether their industry classification falls within an exempt category. Even partially exempt employers must generally report certain severe injuries — such as fatalities, amputations, and hospitalizations — directly to OSHA regardless of their recordkeeping exemption status.
 
@@ -32,7 +32,7 @@ The practical advice is to proceed with preparation as if no extension will be g
 
 The regulatory landscape around AI in hiring is evolving. A growing number of jurisdictions have enacted or are considering laws governing the use of automated employment decision tools (AEDTs) in hiring. Depending on the jurisdiction, requirements may include:
 
-- **Bias audits.** Some jurisdictions may require employers using AEDTs to conduct independent bias audits before deploying the tools and to make audit results publicly available. Employers should check the requirements in each jurisdiction where they recruit or hire.
+- **Bias audits.** Some jurisdictions, such as New York City and Illinois, may require employers using AEDTs to conduct independent bias audits before deploying the tools and to make audit results publicly available. Employers should check the requirements in each jurisdiction where they recruit or hire.
 - **Candidate notice and disclosure.** Laws in certain jurisdictions may require employers to inform candidates when AI or automated tools are being used to screen, evaluate, or rank their applications. Some may also require disclosure of the data inputs used by the tool.
 - **Consent requirements.** In some jurisdictions, candidates may need to consent to AI-based evaluation, or at minimum be given the option to request an alternative selection process.
 - **Record retention.** Employers may be required to retain records related to AI tool usage, bias audit results, and candidate notifications for a specified period.

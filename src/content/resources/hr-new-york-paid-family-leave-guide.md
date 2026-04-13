@@ -21,13 +21,13 @@ Employees who will not meet these thresholds may file a waiver of PFL coverage, 
 
 ## Benefit Levels and Contribution Rates
 
-As of 2025, eligible employees may receive up to 67 percent of their average weekly wage, capped at 67 percent of the statewide average weekly wage. Benefits are available for up to 12 weeks within a 52-week period.
+As of 2025, eligible employees may receive up to 67 percent of their average weekly wage, capped at 67 percent of the statewide average weekly wage, which is subject to change. Employers should verify the most current figures with the New York Department of Financial Services. Benefits are available for up to 12 weeks within a 52-week period.
 
 The contribution rate is set annually by the New York Department of Financial Services. Employers must deduct the correct amount from employee wages and remit it to their PFL insurance carrier. Employers may not pay the employee share of PFL premiums.
 
 ## Employer Obligations and Compliance
 
-Employers must obtain PFL coverage through a disability insurance carrier or through a self-insured plan approved by the Workers' Compensation Board. Failure to maintain coverage can result in penalties of one-half of one percent of the employer's payroll for the period of non-compliance.
+Employers must obtain PFL coverage through a disability insurance carrier or through a self-insured plan approved by the New York State Department of Financial Services. The Workers' Compensation Board does not oversee PFL coverage. Failure to maintain coverage can result in penalties of one-half of one percent of the employer's payroll for the period of non-compliance.
 
 When an employee requests PFL, the employer must provide the employee with the Request for Paid Family Leave (Form PFL-1) within five business days. Employers may not retaliate against employees who request or use PFL benefits, and employees are entitled to be restored to their same or comparable position upon return.
 

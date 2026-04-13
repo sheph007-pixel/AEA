@@ -28,11 +28,11 @@ Employers must train workers and supervisors to recognize these conditions and r
 
 ### Written Heat Illness Prevention Plan
 
-Develop a written plan that covers your specific workplace conditions. Include the triggers for activating the plan (temperature thresholds), specific procedures, and assigned responsibilities. California requires a written plan for all outdoor work; even where not legally required, a written plan demonstrates due diligence.
+Develop a written plan that covers your specific workplace conditions. Include the triggers for activating the plan (temperature thresholds), specific procedures, and assigned responsibilities. California requires a written plan specifically for outdoor workers; even where not legally required, a written plan demonstrates due diligence.
 
 ### Water
 
-Provide fresh, cool drinking water at no cost to employees, positioned so that workers can access it without unreasonable delay. The general guidance is one quart of water per employee per hour in hot conditions. Do not rely on employees bringing their own water.
+Provide fresh, cool drinking water at no cost to employees, positioned so that workers can access it without unreasonable delay. The general guidance is that employers may consider providing one quart of water per employee per hour in hot conditions. Employers should consult state-specific regulations for precise requirements and should not rely on employees bringing their own water.
 
 ### Rest and Shade
 

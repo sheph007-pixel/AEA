@@ -10,19 +10,19 @@ author: "AEA Editorial Team"
 
 As temperatures continue to rise in many parts of the country, the Occupational Safety and Health Administration (OSHA) is moving forward with new regulations aimed at preventing heat-related illnesses in the workplace. The current status of these regulations is evolving, and while they have been proposed, a specific timeline for finalization has not yet been confirmed. Employers should remain vigilant for updates from OSHA regarding the progress of these regulations.
 
-Employers need to be aware that the new regulations may necessitate proactive measures to ensure worker safety. Under the proposed rules, companies may be required to monitor heat index levels, provide access to shade and water, and develop training programs to educate employees about the signs and symptoms of heat-related illnesses.
+Employers need to be aware that the new regulations may necessitate proactive measures to ensure worker safety. Under the proposed rules, companies may be encouraged to monitor heat index levels, provide access to shade and water, and develop training programs to educate employees about the signs and symptoms of heat-related illnesses.
 
 ## Key Elements of the Proposed Standards
 
 The proposed OSHA heat stress regulations focus on several critical components:
 
-1. **Monitoring and Reporting**: Employers may be required to monitor environmental conditions and implement heat index assessments. Any readings above a specified threshold, which OSHA has indicated may be based on the heat index, could trigger specific actions, including increased access to hydration and rest periods. However, the exact threshold is still under discussion.
+1. **Monitoring and Reporting**: Employers may be encouraged to monitor environmental conditions and implement heat index assessments. Any readings above a specified threshold, which OSHA has indicated may be based on the heat index, could trigger specific actions, including increased access to hydration and rest periods. However, no specific threshold has been established by OSHA, and the agency is still in the process of developing these regulations.
 
 2. **Employee Training**: Companies may need to implement training programs aimed at educating employees about the risks of heat stress, how to recognize symptoms, and the importance of hydration and rest.
 
-3. **Emergency Response Plans**: Employers must develop and communicate clear procedures for responding to heat-related emergencies, ensuring that all employees know how to act quickly if someone shows symptoms of heat exhaustion or heat stroke.
+3. **Emergency Response Plans**: Employers are encouraged to develop and communicate clear procedures for responding to heat-related emergencies, ensuring that all employees know how to act quickly if someone shows symptoms of heat exhaustion or heat stroke.
 
-4. **Access to Resources**: The regulations may mandate that employers provide adequate access to shade and cooling areas, as well as ample hydration options, particularly during high-heat days.
+4. **Access to Resources**: The regulations may suggest that employers provide adequate access to shade and cooling areas, as well as ample hydration options, particularly during high-heat days.
 
 ## What Employers Should Do Now
 

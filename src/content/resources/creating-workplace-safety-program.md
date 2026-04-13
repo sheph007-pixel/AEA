@@ -68,6 +68,6 @@ When a workplace injury or near-miss occurs:
 - Investigate promptly while details are fresh
 - Identify root causes, not just immediate causes
 - Develop corrective actions to prevent recurrence
-- Report fatalities to OSHA within 8 hours and hospitalizations, amputations, or losses of an eye within 24 hours
+- Report fatalities to OSHA within 8 hours. Hospitalizations, amputations, or losses of an eye must be reported within 24 hours.
 
 A non-punitive reporting culture encourages employees to report hazards and near-misses before injuries occur.

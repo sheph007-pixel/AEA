@@ -29,7 +29,7 @@ Common failures include:
 
 While I-9 audits are typically conducted by Immigration and Customs Enforcement (ICE) rather than DOL, incomplete I-9 forms can also surface during other investigations and indicate broader compliance problems.
 
-Common errors include missing forms for current employees, incomplete Section 2 (employer verification), expired documents that were not re-verified when required, and forms that were completed late (Section 1 must be completed no later than the first day of employment; Section 2 within three business days of the start of work).
+Common errors include missing forms for current employees, incomplete Section 2 (employer verification), expired documents that were not re-verified when required, and forms that were completed late (Section 1 must be completed no later than the first day of employment; Section 2 requires the employee to be physically present for verification within three business days of the start of work).
 
 **Fix:** Conduct an internal I-9 audit annually. Verify that a properly completed form exists for every active employee and that forms for separated employees are retained for the required period (three years from hire or one year from separation, whichever is later).
 
@@ -41,7 +41,7 @@ If an auditor questions whether an employee is properly classified as exempt, yo
 
 ## Mistake 4: Failing to Maintain Payroll Records for the Required Period
 
-The FLSA requires employers to retain payroll records for at least three years. This includes each employee's name, address, date of birth (if under 19), sex, occupation, regular rate of pay, hours worked each day and each workweek, total wages paid each pay period, deductions from wages, and the pay period dates.
+The FLSA requires employers to retain payroll records for at least three years. However, certain records related to wage calculations must be kept for at least five years. This includes each employee's name, address, date of birth (if under 19), sex, occupation, regular rate of pay, hours worked each day and each workweek, total wages paid each pay period, deductions from wages, and the pay period dates.
 
 Supplementary records — time cards, wage rate tables, work schedules, and records explaining additions to or deductions from wages — must be kept for at least two years.
 

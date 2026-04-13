@@ -23,9 +23,9 @@ The compliance, cost, and operational implications differ significantly between 
 
 ## Legal Considerations
 
-**Overtime.** Under the FLSA, overtime is calculated based on hours worked over 40 in a workweek. A compressed 4x10 schedule does not trigger overtime at the federal level. However, some states, notably California, require daily overtime for hours worked over eight in a day. Employers in these states must account for daily overtime when implementing compressed schedules.
+**Overtime.** Under the FLSA, overtime is calculated based on hours worked over 40 in a workweek. A compressed 4x10 schedule does not trigger overtime at the federal level. However, some states, notably California, require daily overtime for hours worked over eight in a day. Employers in these states should be aware that daily overtime rules apply when implementing compressed schedules, while other states may have different regulations. Employers should consult their specific state laws to ensure compliance.
 
-**Exempt employees.** Salaried exempt employees can generally be scheduled for any number of hours without overtime implications. However, reducing the workweek to 32 hours raises questions about the salary basis test, since the minimum salary threshold assumes a full-time commitment.
+**Exempt employees.** Salaried exempt employees can generally be scheduled for any number of hours without overtime implications. However, reducing the workweek to 32 hours may raise questions about the salary basis test, as the minimum salary threshold typically assumes a full-time commitment. The implications of reducing hours on the salary basis test can vary based on specific circumstances, and employers should seek legal advice.
 
 **Benefits eligibility.** Review whether your health insurance, retirement plan, and other benefits define eligibility based on hours worked per week. A reduction to 32 hours could affect eligibility under some plan documents.
 

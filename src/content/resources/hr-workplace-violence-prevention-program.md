@@ -9,9 +9,9 @@ author: "AEA Editorial Team"
 
 ## The Growing Focus on Workplace Violence Prevention
 
-Workplace violence remains a critical safety concern, with the Bureau of Labor Statistics reporting hundreds of workplace homicides and tens of thousands of nonfatal workplace violence injuries annually. California became the first state to require nearly all employers to maintain a written Workplace Violence Prevention Plan under SB 553, effective July 1, 2024. This trend is expected to spread to other states.
+Workplace violence remains a critical safety concern, with the Bureau of Labor Statistics reporting hundreds of workplace homicides and tens of thousands of nonfatal workplace violence injuries annually. California became the first state to require nearly all employers to maintain a written Workplace Violence Prevention Plan under SB 553, effective January 1, 2024. This trend is expected to spread to other states.
 
-OSHA has long addressed workplace violence through the General Duty Clause, Section 5(a)(1) of the Occupational Safety and Health Act, which requires employers to provide a workplace free from recognized hazards. A proactive prevention program helps employers meet this obligation.
+OSHA has long addressed workplace violence through the General Duty Clause, Section 5(a)(1) of the Occupational Safety and Health Act, which requires employers to provide a workplace free from recognized hazards. However, it is important to note that OSHA does not have a specific standard regulating workplace violence. A proactive prevention program may help employers meet their obligations under this clause.
 
 ## Key Components of a Prevention Plan
 
@@ -33,4 +33,4 @@ Supervisors should receive additional training on their responsibilities for mai
 
 ## Incident Response and Documentation
 
-Every workplace violence incident, including threats and near-misses, should be documented, investigated, and analyzed. The employer should maintain a violent incident log that records the date, time, location, type of incident, circumstances, and outcomes. This log helps identify patterns and evaluate the effectiveness of the prevention program. Regular review of incident data should inform updates to the prevention plan and training content.
+Every workplace violence incident, including threats and near-misses, should be documented, investigated, and analyzed. The employer should maintain a violent incident log that records the date, time, location, type of incident, circumstances, and outcomes. This log may help identify patterns and evaluate the effectiveness of the prevention program. Regular review of incident data should inform updates to the prevention plan and training content.

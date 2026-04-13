@@ -17,9 +17,9 @@ How you handle an employee's departure affects your legal exposure, data securit
 
 Before the employee's last day, address these legal requirements:
 
-**Final pay.** Determine the final pay deadline for your state. Requirements range from immediate payment at the time of termination (California, for involuntary separations) to the next regular payday. Include all earned and unused vacation pay if required by state law or company policy. Failure to pay final wages on time can trigger significant penalties.
+**Final pay.** Determine the final pay deadline for your state. Requirements may range from immediate payment at the time of termination (California, for involuntary separations) to the next regular payday. Include all earned and unused vacation pay if required by state law or company policy. Note that penalties for late payment of final wages depend on state laws and can vary significantly.
 
-**COBRA notification.** If the departing employee was enrolled in group health coverage and your company has 20 or more employees, you must provide COBRA continuation coverage notice within 14 days of the qualifying event. Some states have mini-COBRA requirements for smaller employers.
+**COBRA notification.** If the departing employee was enrolled in group health coverage and your company has 20 or more employees, you must provide COBRA continuation coverage notice within 44 days of the qualifying event. Some states have mini-COBRA requirements for smaller employers.
 
 **Benefits termination.** Confirm the date health insurance, dental, vision, life insurance, and other benefits will terminate. Provide information about conversion options if available.
 

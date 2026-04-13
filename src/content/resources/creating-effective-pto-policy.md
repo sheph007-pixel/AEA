@@ -45,7 +45,7 @@ Decide whether unused PTO carries over to the next year and, if so, whether ther
 
 ### Payout at Separation
 
-State law governs whether you must pay out unused PTO when an employee leaves. In some states, such as California, accrued vacation is considered earned wages and must be paid out at separation regardless of the reason for departure. Other states allow employers to set their own payout policies. Review the law in each state where you have employees and ensure your written policy is consistent with those requirements.
+State law governs whether you must pay out unused PTO when an employee leaves. In some states, such as California, accrued vacation time is considered earned wages and must be paid out at separation regardless of the reason for departure. Other types of PTO may not have the same requirement. Other states allow employers to set their own payout policies. Review the law in each state where you have employees and ensure your written policy is consistent with those requirements.
 
 ## Scheduling and Approval
 
@@ -59,7 +59,7 @@ Your policy should establish:
 
 ## Compliance Considerations
 
-**Paid sick leave laws.** As of this writing, numerous states and many cities require paid sick leave with specific accrual rates, eligible uses, and employee protections. If your PTO policy is intended to satisfy these requirements, ensure it meets every element of the applicable law.
+**Paid sick leave laws.** As of this writing, numerous states and many cities, including New York City and San Francisco, require paid sick leave with specific accrual rates, eligible uses, and employee protections. If your PTO policy is intended to satisfy these requirements, ensure it meets every element of the applicable law.
 
 **FMLA interaction.** You may require employees to use PTO concurrently with FMLA leave, but your policy should state this clearly.
 

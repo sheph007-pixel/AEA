@@ -9,9 +9,9 @@ author: "AEA Editorial Team"
 
 ## The Proposed Salary Threshold Increase
 
-In 2023, the Department of Labor (DOL) proposed a significant increase to the salary threshold for the white-collar overtime exemptions under the Fair Labor Standards Act (FLSA). The proposal would raise the minimum salary required to classify an employee as exempt from overtime from $35,568 per year to a substantially higher figure, with an automatic updating mechanism built in.
+In 2023, the Department of Labor (DOL) proposed a significant increase to the salary threshold for the white-collar overtime exemptions under the Fair Labor Standards Act (FLSA). The proposal would raise the minimum salary required to classify an employee as exempt from overtime from $35,568 per year to $55,068 per year, with an automatic updating mechanism built in.
 
-This matters to every employer who has salaried employees classified as exempt from overtime. If the threshold rises and your exempt employees earn below the new level, you will need to either increase their salaries or reclassify them as non-exempt and pay overtime for hours worked over 40 in a workweek.
+This matters to every employer who has salaried employees classified as exempt from overtime. If the threshold rises and your exempt employees earn below the new level, you may need to either increase their salaries or reclassify them as non-exempt and pay overtime for hours worked over 40 in a workweek.
 
 ## Understanding the Exemptions
 
@@ -33,7 +33,7 @@ The proposed rule primarily affects the salary level test. The duties tests rema
 
 **Prepare for the cultural shift.** Employees who have been salaried their entire careers may view reclassification to hourly status as a demotion, even when their total compensation remains the same or increases. Plan your communication carefully. Emphasize that the change is driven by federal law, not performance.
 
-**Update timekeeping systems.** Newly non-exempt employees will need to track their hours. Ensure you have adequate timekeeping systems in place and that employees understand how to use them. The failure to maintain accurate time records is itself an FLSA violation.
+**Update timekeeping systems.** Newly non-exempt employees will need to track their hours. Ensure you have adequate timekeeping systems in place and that employees understand how to use them. The failure to maintain accurate time records for non-exempt employees may lead to FLSA violations.
 
 **Review state law requirements.** Some states, including California, New York, and Washington, have their own salary thresholds that may be higher than the federal level. Compliance with the higher threshold is always required.
 
@@ -49,3 +49,5 @@ The proposed rule primarily affects the salary level test. The duties tests rema
 Monitor the rulemaking process through the DOL website and through AEA updates. The final rule may differ from the proposal based on public comments. Regardless of the final numbers, the direction is clear: salary thresholds are rising, and employers need to be ready.
 
 Use this as an opportunity to clean up any existing classification issues. A proactive audit now is far less costly than a DOL investigation or a collective action lawsuit later.
+
+---

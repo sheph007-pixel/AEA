@@ -11,11 +11,11 @@ author: "AEA Editorial Team"
 
 Florida is generally considered an employer-friendly state with a regulatory environment that favors business flexibility. As an at-will employment state, Florida allows either party to terminate the employment relationship at any time for any lawful reason. However, employers must still comply with numerous federal and state-specific requirements.
 
-Florida does not have a state-level comprehensive employment discrimination statute comparable to those in many other states. Instead, the Florida Civil Rights Act (FCRA) provides protections that closely mirror federal Title VII, covering employers with 15 or more employees and prohibiting discrimination based on race, color, religion, sex, pregnancy, national origin, age, handicap, and marital status.
+While Florida's protections may not be as extensive as in some other states, the Florida Civil Rights Act (FCRA) provides important anti-discrimination protections that closely mirror federal Title VII. This act covers employers with 15 or more employees and prohibits discrimination based on race, color, religion, sex, pregnancy, national origin, age, handicap, and marital status.
 
 ## Minimum Wage and Wage Payment
 
-Florida's minimum wage is adjusted annually based on the Consumer Price Index, following the passage of a 2020 constitutional amendment that established a phased increase schedule. Employers should verify the current Florida minimum wage rate, as it changes each year. Employers must pay tipped employees a cash wage that, combined with tips, meets or exceeds the state minimum wage. The tip credit in Florida is a set amount below the standard minimum wage; check the current rate with the Florida Department of Economic Opportunity.
+Florida's minimum wage is adjusted annually based on the Consumer Price Index, following the passage of a 2020 constitutional amendment that established a phased increase schedule. Employers should verify the current Florida minimum wage rate, as it changes each year. As of the latest update, Florida's minimum wage is $11.00 per hour. Employers must pay tipped employees a cash wage that, combined with tips, meets or exceeds the state minimum wage. The tip credit in Florida is currently $3.02 per hour, which means employers can pay tipped employees a cash wage of $7.98 per hour, provided that their tips bring their total earnings to at least the minimum wage.
 
 Florida's wage payment statute requires employers to pay employees at least semimonthly on regular paydays designated in advance. There is no state law requiring payment of accrued but unused vacation upon termination, though employers must follow their own established policies on this matter.
 
@@ -27,9 +27,9 @@ Employers conducting background checks must still comply with the federal Fair C
 
 ## Workers' Compensation Requirements
 
-Florida requires most employers with four or more employees to carry workers' compensation insurance. Construction industry employers must carry coverage if they have one or more employees, and agricultural employers must carry coverage with six or more regular employees or 12 or more seasonal employees working more than 30 days.
+Florida requires most employers with one or more employees in the construction industry and four or more employees in non-construction industries to carry workers' compensation insurance. Construction industry employers must carry coverage if they have one or more employees, and agricultural employers must carry coverage with six or more regular employees or 12 or more seasonal employees working more than 30 days.
 
-The Florida Division of Workers' Compensation aggressively enforces coverage requirements and imposes stop-work orders on non-compliant employers, along with significant financial penalties. Verify current penalty amounts with the Florida Division of Workers' Compensation.
+The Florida Division of Workers' Compensation aggressively enforces coverage requirements and imposes stop-work orders on non-compliant employers, along with significant financial penalties. Employers should verify current penalty amounts with the Florida Division of Workers' Compensation.
 
 ## Unique Florida Provisions
 

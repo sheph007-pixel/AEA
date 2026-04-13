@@ -9,7 +9,7 @@ author: "AEA Editorial Team"
 
 ## The Privacy Landscape for Employee Data
 
-State comprehensive data privacy laws have proliferated rapidly. California, Colorado, Connecticut, Virginia, Utah, Texas, Oregon, Montana, and other states have enacted consumer privacy laws. While many of these laws initially exempted employee data, the exemptions are expiring or narrowing. California's CCPA already applies to employee personal information, and other states are following.
+State comprehensive data privacy laws have proliferated rapidly. California, Colorado, Connecticut, Virginia, Utah, Texas, Oregon, Montana, and other states have enacted consumer privacy laws. While many of these laws initially exempted employee data, the exemptions are expiring or narrowing. The California Consumer Privacy Act (CCPA) initially exempted employee personal information, but this exemption was narrowed by the California Privacy Rights Act (CPRA), which took effect in 2023. Other states are following suit in addressing employee data privacy.
 
 Employers collect and maintain vast amounts of sensitive personal information: Social Security numbers, banking details, health records, background check results, performance evaluations, and more. Protecting this data is both a legal obligation and a business imperative.
 
@@ -50,9 +50,9 @@ Provide employees with clear, plain-language notices about your data practices. 
 
 ### Implement Retention Schedules
 
-Maintain employee records only as long as required by law or necessary for a legitimate business purpose. Common retention requirements include:
+Maintain employee records only as long as required by law or necessary for a legitimate business purpose. Retention requirements for payroll records can vary by state, and employers should consult state-specific laws to ensure compliance. Common retention requirements may include:
 
-- Payroll records: three to four years after creation
+- Payroll records: varies by state
 - I-9 forms: three years after hire or one year after separation, whichever is later
 - Tax records: four years after the tax becomes due or is paid
 - Personnel files: varies by state, commonly three to seven years after separation

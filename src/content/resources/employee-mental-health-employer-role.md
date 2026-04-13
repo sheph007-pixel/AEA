@@ -9,9 +9,9 @@ author: "AEA Editorial Team"
 
 ## Why This Matters for Employers
 
-Mental health conditions — including depression, anxiety, and stress-related disorders — affect workplace performance, absenteeism, and healthcare costs. Employers are not therapists and should not try to be. But employers can create conditions that support mental health, reduce barriers to treatment, and avoid practices that make things worse.
+Mental health conditions — including depression, anxiety, and stress-related disorders — may affect workplace performance, absenteeism, and healthcare costs. Employers are not therapists and should not try to be. However, employers can create conditions that support mental health, reduce barriers to treatment, and avoid practices that may exacerbate issues.
 
-There is also a legal dimension. Mental health conditions may qualify as disabilities under the ADA, which means employers have obligations around accommodation and nondiscrimination that apply to mental health just as they do to physical health.
+There is also a legal dimension. Mental health conditions may qualify as disabilities under the ADA, which means employers generally have obligations around accommodation and nondiscrimination that apply to mental health just as they do to physical health.
 
 ## What Employers Can Do
 
@@ -25,20 +25,20 @@ The biggest barrier to employees seeking help for mental health issues is stigma
 
 ### Provide Accessible Resources
 
-**Employee Assistance Programs.** Ensure your EAP is well-promoted and easily accessible. Many employees do not know their EAP offers free, confidential counseling. Display the EAP contact information prominently and remind employees of the benefit regularly.
+**Employee Assistance Programs.** Ensure your EAP is well-promoted and easily accessible. Many employees may not know their EAP offers free, confidential counseling. Display the EAP contact information prominently and remind employees of the benefit regularly.
 
-**Health insurance with mental health coverage.** Under the Mental Health Parity and Addiction Equity Act, group health plans that cover mental health must provide coverage that is no more restrictive than coverage for medical and surgical conditions — in terms of financial requirements, treatment limits, and access. Review your plan to ensure meaningful access to mental health providers with reasonable copays and adequate network coverage.
+**Health insurance with mental health coverage.** Under the Mental Health Parity and Addiction Equity Act, group health plans that cover mental health must provide coverage that is generally no more restrictive than coverage for medical and surgical conditions — in terms of financial requirements, treatment limits, and access. Review your plan to ensure meaningful access to mental health providers with reasonable copays and adequate network coverage.
 
-**Flexible time for treatment.** Allow employees to attend therapy appointments without punitive consequences. This may mean flexible scheduling, the ability to use PTO in hourly increments, or simply a culture that does not penalize employees for a midday appointment.
+**Flexible time for treatment.** Allow employees to attend therapy appointments without punitive consequences. This may mean flexible scheduling, the ability to use PTO in hourly increments, or simply fostering a culture that does not penalize employees for a midday appointment.
 
 ### Address Workload and Work Design
 
-Chronic overwork, unreasonable deadlines, lack of control over work processes, and unclear expectations are significant contributors to workplace stress. Employers can address these structural factors:
+Chronic overwork, unreasonable deadlines, lack of control over work processes, and unclear expectations are significant contributors to workplace stress. Employers can address these structural factors by:
 
-- Set realistic expectations for workload and deadlines
-- Give employees appropriate autonomy over how they accomplish their work
-- Ensure adequate staffing so the departure of one team member does not create unsustainable burdens on the rest
-- Encourage employees to use their paid time off and model that behavior in leadership
+- Setting realistic expectations for workload and deadlines
+- Giving employees appropriate autonomy over how they accomplish their work
+- Ensuring adequate staffing so the departure of one team member does not create unsustainable burdens on the rest
+- Encouraging employees to use their paid time off and modeling that behavior in leadership
 
 ### Train Managers to Respond Appropriately
 
@@ -48,7 +48,7 @@ Managers are often the first to notice changes in an employee's behavior — dec
 - Express concern in private: "I've noticed you seem to be under a lot of stress lately. Is there anything I can do to help?"
 - Refer to the EAP and other available resources
 - Discuss performance expectations and offer support
-- Engage in the interactive process if the employee discloses a condition that may be a disability
+- Engage in the interactive process if the employee discloses a condition that may be a disability, which involves discussing the employee's needs and potential accommodations collaboratively.
 
 **What not to do:**
 - Do not diagnose the employee or speculate about their condition
@@ -60,7 +60,7 @@ Managers are often the first to notice changes in an employee's behavior — dec
 
 Mental health conditions such as major depression, anxiety disorders, PTSD, bipolar disorder, and OCD may qualify as disabilities under the ADA if they substantially limit a major life activity. When an employee discloses a mental health condition and requests an accommodation, the employer must engage in the interactive process.
 
-Common reasonable accommodations for mental health conditions include:
+Common reasonable accommodations for mental health conditions may include:
 
 - Modified work schedule to attend therapy appointments
 - Temporary reduced workload during a treatment period
@@ -69,7 +69,7 @@ Common reasonable accommodations for mental health conditions include:
 - Additional breaks during the workday
 - Leave for inpatient treatment
 
-As with any accommodation, the employer may request medical documentation sufficient to establish that the employee has a qualifying disability and that the accommodation is needed. The employer is not entitled to the employee's complete medical records or a specific diagnosis unless it is relevant to the accommodation.
+As with any accommodation, the employer may request medical documentation sufficient to establish that the employee has a qualifying disability and that the accommodation is needed. The employer is generally not entitled to the employee's complete medical records or a specific diagnosis unless it is relevant to the accommodation.
 
 ## Privacy Protections
 

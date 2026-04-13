@@ -24,7 +24,7 @@ Determine what equipment remote employees need. At minimum:
 - A webcam and headset or earbuds for video conferencing
 - A phone solution — either a company-provided mobile phone, a softphone application, or a plan for reimbursing personal phone use for business calls
 
-Decide whether the company will provide all equipment, reimburse employees for purchases, or use a stipend model. Several states require employers to reimburse necessary business expenses, which may include internet service and equipment used for remote work.
+Decide whether the company will provide all equipment, reimburse employees for purchases, or use a stipend model. Employers should be aware that reimbursement requirements for necessary business expenses, which may include internet service and equipment used for remote work, vary by state. For example, California and Illinois have specific laws regarding expense reimbursement. Employers should consult state laws or legal counsel for guidance on their obligations.
 
 ### Software and Collaboration Tools
 

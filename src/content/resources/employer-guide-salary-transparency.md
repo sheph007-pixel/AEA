@@ -9,7 +9,7 @@ author: "AEA Editorial Team"
 
 ## The Transparency Trend
 
-Pay transparency is moving from a progressive ideal to a legal requirement. Several states and cities have enacted or are considering laws requiring employers to disclose salary ranges in job postings, provide pay ranges to applicants upon request, or prohibit inquiries into salary history. Even where not legally required, employee expectations around pay transparency are rising.
+Pay transparency is moving from a progressive ideal to a legal requirement. Several states and cities, including California, New York City, and Colorado, have enacted or are considering laws requiring employers to disclose salary ranges in job postings, provide pay ranges to applicants upon request, or prohibit inquiries into salary history. Even where not legally required, employee expectations around pay transparency are rising.
 
 Employers who proactively address pay transparency will be better positioned than those who scramble to comply when a law passes in their jurisdiction.
 
@@ -37,7 +37,7 @@ Review your compensation data by role, department, tenure, and demographic group
 
 If you find unjustified disparities — and most employers do — develop a plan to close them. This may involve targeted pay adjustments phased over one or more budget cycles.
 
-Work with legal counsel during this process. An attorney-directed pay equity audit may receive attorney-client privilege protection, shielding the analysis from discovery in potential litigation.
+Work with legal counsel during this process. The applicability of attorney-client privilege to an attorney-directed pay equity audit may vary based on jurisdiction and specific circumstances, so employers should consult counsel for specific guidance.
 
 ### Formalize Your Compensation Structure
 

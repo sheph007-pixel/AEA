@@ -10,7 +10,7 @@ tags: ["compliance-alert", "ACA", "1095-C", "1094-C", "IRS", "reporting", "2026"
 
 # Compliance Alert: ACA Reporting Requirements for 2026
 
-Applicable large employers (ALEs) — generally those that employed an average of 50 or more full-time equivalent employees during 2025 — are required to report health coverage information to both the IRS and to covered individuals under Sections 6055 and 6056 of the Internal Revenue Code. This alert outlines the key obligations, deadlines, and practical considerations for the 2025 tax year reporting cycle.
+Applicable large employers (ALEs) — generally those that employed an average of 50 or more full-time equivalent employees during the preceding calendar year (2024 for the 2025 tax year) — are required to report health coverage information to both the IRS and to covered individuals under Sections 6055 and 6056 of the Internal Revenue Code. This alert outlines the key obligations, deadlines, and practical considerations for the 2025 tax year reporting cycle.
 
 ## Who Must File
 
@@ -20,11 +20,11 @@ Self-insured employers that are not ALEs have separate reporting obligations und
 
 ## Key Deadlines
 
-**Furnishing to employees:** Form 1095-C must be provided to each full-time employee. The IRS has in some years adjusted the furnishing deadline, so employers should verify current year deadlines with the IRS by checking the IRS website or consulting their tax advisor for the most current deadline applicable to the 2025 tax year. Regardless of the specific deadline, early preparation and distribution is advisable.
+**Furnishing to employees:** Form 1095-C must be provided to each full-time employee. The IRS has in some years adjusted the furnishing deadline, so employers should verify current year deadlines with the IRS by checking the IRS website or consulting their tax advisor for the most current deadline applicable to the 2025 tax year. For the 2025 tax year, the deadline for furnishing Form 1095-C to employees is expected to be March 2, 2026, but employers should confirm this date.
 
-**Filing with the IRS (electronic):** Employers should verify current year deadlines with the IRS for electronic filing of Forms 1094-C and 1095-C. Electronic filing is generally required for employers filing above the applicable threshold of information returns during the calendar year, which may encompass most ALEs. Employers should check current IRS guidance on the electronic filing threshold.
+**Filing with the IRS (electronic):** Employers should verify current year deadlines with the IRS for electronic filing of Forms 1094-C and 1095-C. Electronic filing is generally required for employers filing above the applicable threshold of information returns during the calendar year, which may encompass most ALEs. Employers should check current IRS guidance on the electronic filing threshold. The deadline for electronic filing is typically April 1, 2026, but this should also be confirmed.
 
-**Filing with the IRS (paper):** Employers eligible to file on paper generally face an earlier deadline than electronic filers. Given the threshold for mandatory electronic filing, most ALEs will likely be filing electronically. Employers should verify current year deadlines with the IRS.
+**Filing with the IRS (paper):** Employers eligible to file on paper generally face an earlier deadline than electronic filers. Given the threshold for mandatory electronic filing, most ALEs will likely be filing electronically. Employers should verify current year deadlines with the IRS. The paper filing deadline is usually February 28, 2026.
 
 ## What to Report
 

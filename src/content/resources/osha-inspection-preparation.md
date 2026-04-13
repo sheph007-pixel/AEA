@@ -14,7 +14,7 @@ An OSHA inspection can happen to any employer, whether triggered by a complaint,
 OSHA conducts inspections based on a priority system:
 
 - **Imminent danger**: Situations where there is immediate risk of death or serious physical harm
-- **Fatalities and catastrophes**: Employers must report fatalities within 8 hours and hospitalizations, amputations, or eye losses within 24 hours
+- **Fatalities and catastrophes**: Employers must report fatalities within 8 hours and hospitalizations, amputations, or eye losses within 24 hours, as mandated by OSHA regulations under 29 CFR 1904.39
 - **Complaints and referrals**: Formal complaints from employees or referrals from other agencies
 - **Programmed inspections**: Targeting industries with high injury rates or specific hazards
 - **Follow-up inspections**: Verifying that previously cited violations have been corrected
@@ -55,7 +55,7 @@ The inspection typically involves three phases:
 
 If OSHA issues citations:
 
-- You have 15 working days to contest citations, penalties, or abatement dates
+- You have 15 working days to contest citations, penalties, or abatement dates, in accordance with the Occupational Safety and Health Act
 - Correct hazards by the abatement dates specified
 - Post citations at or near the location of the violation for three working days or until the hazard is corrected, whichever is longer
 - Submit proof of abatement as required
@@ -72,3 +72,5 @@ The best time to prepare for an OSHA inspection is before one occurs:
 - Post required OSHA notices and posters
 - Train a management team on inspection procedures and their roles
 - Fix known hazards promptly rather than waiting for an inspection to force action
+
+---

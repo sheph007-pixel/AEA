@@ -26,8 +26,8 @@ The key takeaway is that the employer, not the vendor, is ultimately responsible
 
 Several jurisdictions have enacted or proposed laws specifically targeting AI in employment:
 
-- **New York City Local Law 144** requires employers using automated employment decision tools to conduct annual bias audits performed by independent auditors and to notify candidates that such tools are being used.
-- **Illinois** amended its AI Video Interview Act to require employer consent disclosures before using AI to analyze video interviews.
+- **New York City Local Law 144** requires employers using automated employment decision tools to conduct annual bias audits. While the law mandates these audits, it does not explicitly require that they be performed by independent auditors. Employers must also notify candidates that such tools are being used.
+- **Illinois** amended its AI Video Interview Act to require employer consent disclosures before using AI to analyze video interviews. The specific consent requirements may vary based on circumstances, and employers should be aware of any exceptions that may apply.
 - **Colorado** passed legislation requiring developers and deployers of high-risk AI systems, including employment tools, to conduct impact assessments and mitigate algorithmic discrimination.
 
 Employers operating in multiple states should expect this patchwork to expand and should track legislative developments in every jurisdiction where they hire.
@@ -38,7 +38,7 @@ Employers operating in multiple states should expect this patchwork to expand an
 
 **2. Request vendor documentation.** Ask your vendors for validation studies, adverse impact analyses, and information about the data sets used to train their models. A reputable vendor should be able to provide this. If they cannot, that is a red flag.
 
-**3. Conduct adverse impact testing.** Run your own analysis of selection rates by race, sex, age, and other protected categories. The four-fifths rule remains a common benchmark: if the selection rate for a protected group is less than 80% of the rate for the most-selected group, further investigation is warranted.
+**3. Conduct adverse impact testing.** Run your own analysis of selection rates by race, sex, age, and other protected categories. The four-fifths rule is a common benchmark: if the selection rate for a protected group is less than 80% of the rate for the most-selected group, further investigation may be warranted. However, it is important to note that the four-fifths rule is a guideline rather than a legal standard, and employers should consult legal counsel for specific compliance advice.
 
 **4. Provide candidate notice.** Even where not legally required, disclosing the use of AI tools builds trust and reduces litigation risk. Include information about what data is collected and how it is used.
 

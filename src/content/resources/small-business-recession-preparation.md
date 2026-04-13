@@ -57,7 +57,7 @@ Determine which employees are essential to maintain operations at reduced capaci
 Losing critical employees during a downturn compounds the financial pressure:
 
 - Have honest conversations with key employees about the business outlook and your commitment to their role
-- Consider retention agreements or bonuses tied to continued employment through a defined period
+- Consider retention agreements or bonuses tied to continued employment through a defined period; employers should consult legal or financial advisors to ensure compliance with applicable laws
 - Ensure key employees feel valued and see a future with the organization
 - Address compensation competitiveness proactively for your most important people
 
@@ -65,7 +65,7 @@ Losing critical employees during a downturn compounds the financial pressure:
 If revenue declines significantly, you may need to reduce labor costs. Having a plan in advance makes difficult decisions more thoughtful:
 
 - Define objective criteria for any future workforce reduction (seniority, performance, business need)
-- Review legal requirements (WARN Act, state notification laws, final pay deadlines)
+- Review legal requirements, including the WARN Act, which generally applies to employers with 100 or more employees during mass layoffs, as well as state notification laws and final pay deadlines, which may vary by state
 - Budget for severance and benefits continuation costs
 - Consider alternatives to layoffs: hiring freezes, reduced hours, voluntary furloughs, elimination of overtime, temporary pay reductions with restoration commitments
 

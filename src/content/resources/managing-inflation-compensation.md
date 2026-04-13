@@ -7,76 +7,76 @@ tags: ["inflation", "compensation", "salary", "cost of living", "total rewards"]
 author: "AEA Editorial Team"
 ---
 
-When inflation runs well above historical norms, employees feel the pinch in their daily lives and look to their employers for relief. Traditional annual raise budgets of 3-4% fall short when the cost of living increases by 7-9%. Employers must balance legitimate employee expectations with business financial realities.
+When inflation runs well above historical norms, employees feel the pinch in their daily lives and look to their employers for relief. Traditional annual raise budgets of 3-4% may fall short when the cost of living increases significantly. Employers must balance legitimate employee expectations with business financial realities.
 
 ## Understanding the Compensation-Inflation Dynamic
 
 Several factors complicate the inflation-compensation relationship:
 
-- **Wage expectations shift.** Employees who accepted a 3% raise when inflation was 2% feel shortchanged by the same raise when inflation is 8%. The real value of their compensation is declining.
+- **Wage expectations shift.** Employees who accepted a 3% raise when inflation was 2% may feel shortchanged by the same raise when inflation is 8%. The real value of their compensation is declining.
 - **Market rates move.** Competitors adjust compensation to retain and attract talent, making your current rates less competitive even without any changes in your own pay structure.
-- **Compression accelerates.** If new hires command higher rates due to market movement while tenured employees receive standard annual increases, pay compression worsens rapidly.
-- **Benefits costs rise simultaneously.** Health insurance premiums, retirement plan costs, and other benefit expenses also increase during inflationary periods, squeezing the total compensation budget.
+- **Compression accelerates.** If new hires command higher rates due to market movement while tenured employees receive standard annual increases, pay compression may worsen rapidly.
+- **Benefits costs rise simultaneously.** Health insurance premiums, retirement plan costs, and other benefit expenses may also increase during inflationary periods, squeezing the total compensation budget.
 
 ## Compensation Strategies
 
 ### Accelerate market adjustments
 Rather than waiting for the annual review cycle, consider mid-year market adjustments for roles most affected by wage inflation:
 
-- Identify positions where your pay lags market by more than 10%
-- Prioritize adjustments for roles with the highest turnover or hardest-to-fill positions
-- Communicate that these are market adjustments, not performance-based raises, to maintain the integrity of your merit increase program
+- Identify positions where your pay lags market by a guideline of more than 10%. This figure may vary by industry or region.
+- Prioritize adjustments for roles with the highest turnover or hardest-to-fill positions.
+- Communicate that these are market adjustments, not performance-based raises, to maintain the integrity of your merit increase program.
 
 ### Differentiate increases
 A uniform percentage increase for all employees is the least effective use of limited compensation dollars:
 
-- **High performers:** Above-market increases to retain your best talent
-- **Market-lagging roles:** Larger adjustments where competitive pressure is strongest
-- **Compression cases:** Targeted increases for tenured employees whose pay has fallen below or near new hire rates
-- **Standard performers in competitive roles:** Market-rate adjustments to maintain competitiveness
+- **High performers:** Above-market increases to retain your best talent.
+- **Market-lagging roles:** Larger adjustments where competitive pressure is strongest.
+- **Compression cases:** Targeted increases for tenured employees whose pay has fallen below or near new hire rates.
+- **Standard performers in competitive roles:** Market-rate adjustments to maintain competitiveness.
 
 ### Expand variable compensation
 If base salary budget is constrained, variable pay provides flexibility:
 
-- One-time bonuses provide immediate relief without permanently increasing the payroll base
-- Profit-sharing or gainsharing programs tie additional compensation to business performance, aligning employee and employer interests
-- Spot bonuses for exceptional performance provide recognition and supplement income
-- Variable pay can be adjusted year to year based on business conditions, providing more flexibility than base salary increases
+- One-time bonuses provide immediate relief without permanently increasing the payroll base.
+- Profit-sharing or gainsharing programs tie additional compensation to business performance, aligning employee and employer interests.
+- Spot bonuses for exceptional performance provide recognition and supplement income.
+- Variable pay can be adjusted year to year based on business conditions, providing more flexibility than base salary increases.
 
 ### Review total compensation
 Help employees understand the full value of their compensation package:
 
-- Create annual total compensation statements that itemize base salary, bonuses, employer benefit contributions, retirement matching, and other elements
-- Quantify the dollar value of benefits (employer health insurance premium contribution, retirement match, PTO value)
-- Employees who understand their total compensation are less likely to focus exclusively on base salary comparisons
+- Create annual total compensation statements that itemize base salary, bonuses, employer benefit contributions, retirement matching, and other elements.
+- Quantify the dollar value of benefits (employer health insurance premium contribution, retirement match, PTO value).
+- Employees who understand their total compensation are less likely to focus exclusively on base salary comparisons.
 
 ## Benefits Adjustments That Help
 
-Certain benefit enhancements directly offset the impact of inflation on employees' finances:
+Certain benefit enhancements may directly offset the impact of inflation on employees' finances:
 
 ### Financial wellness benefits
-- Emergency savings programs with employer matching
-- Financial planning and budgeting resources through your EAP or a dedicated vendor
-- Student loan repayment assistance
-- Low-interest employee loans for emergency expenses
+- Emergency savings programs with employer matching.
+- Financial planning and budgeting resources through your EAP or a dedicated vendor.
+- Student loan repayment assistance.
+- Low-interest employee loans for emergency expenses.
 
 ### Commute cost mitigation
-- Increase commuter benefit allowances for transit and parking
-- Subsidize fuel costs for employees who must drive to work
-- Allow more remote work to eliminate commute costs entirely
-- Offer carpooling incentives or shuttle services
+- Increase commuter benefit allowances for transit and parking.
+- Subsidize fuel costs for employees who must drive to work.
+- Allow more remote work to eliminate commute costs entirely.
+- Offer carpooling incentives or shuttle services.
 
 ### Healthcare cost management
-- Absorb a larger share of premium increases rather than passing them to employees
-- Increase employer HSA contributions to offset higher deductibles
-- Enhance telehealth benefits, which typically have lower copays than in-person visits
-- Offer prescription discount programs or generic medication incentives
+- Absorb a larger share of premium increases rather than passing them to employees.
+- Increase employer HSA contributions to offset higher deductibles.
+- Enhance telehealth benefits, which typically have lower copays than in-person visits.
+- Offer prescription discount programs or generic medication incentives.
 
 ### Lifestyle benefits
-- Meal subsidies or on-site food options at reduced cost
-- Childcare assistance or subsidies
-- Gym membership discounts or wellness stipends
-- Employee discount programs for everyday purchases
+- Meal subsidies or on-site food options at reduced cost.
+- Childcare assistance or subsidies.
+- Gym membership discounts or wellness stipends.
+- Employee discount programs for everyday purchases.
 
 ## Communication Is Critical
 

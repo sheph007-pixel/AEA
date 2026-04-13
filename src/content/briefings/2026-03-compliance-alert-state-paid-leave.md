@@ -36,7 +36,7 @@ Several developments are shaping the paid leave landscape this year:
 
 Employers in states with PFML programs have several core obligations:
 
-**Payroll contributions.** Employers must collect and remit employee contributions (where applicable) and pay any employer-share contributions on time. Late or missed contributions can result in penalties and interest.
+**Payroll contributions.** Employers must collect and remit employee contributions (where applicable) and pay any employer-share contributions on time. It is important to note that employer obligations regarding payroll contributions may vary by state, and employers should consult state-specific laws to ensure compliance. Late or missed contributions can result in penalties and interest.
 
 **Employee notification.** Most state programs require employers to provide employees with written notice of their rights under the PFML program, typically at the time of hire and when an employee experiences a qualifying event. Notice requirements vary by state and may include specific content, format, and timing mandates.
 

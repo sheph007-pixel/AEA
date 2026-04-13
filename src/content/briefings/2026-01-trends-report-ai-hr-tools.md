@@ -39,7 +39,7 @@ Several factors appear to be driving adoption among smaller employers:
 
 While the benefits of AI in HR are real, so are the risks. Employers should approach adoption with care and attention to the following:
 
-**Bias and fairness.** AI tools trained on historical data can perpetuate existing biases in hiring and performance evaluation. Employers are generally responsible for the outcomes these tools produce, regardless of whether the bias originates in the technology. Some jurisdictions are considering or have begun exploring requirements around bias audits for AI hiring tools, and more regulatory activity in this area is expected. Employers should monitor developments in the jurisdictions where they operate.
+**Bias and fairness.** AI tools trained on historical data can perpetuate existing biases in hiring and performance evaluation. Employers are generally responsible for the outcomes these tools produce, regardless of whether the bias originates in the technology. Some jurisdictions, including New York City and Illinois, are considering or have begun implementing requirements around bias audits for AI hiring tools, and more regulatory activity in this area is expected. Employers should monitor developments in the jurisdictions where they operate.
 
 **Transparency and disclosure.** Some jurisdictions are considering or have adopted requirements for employers to disclose the use of AI in hiring decisions. Employers should evaluate their disclosure obligations and consider ensuring candidates and employees are informed when AI is being used to evaluate them, even where not strictly required. Requirements vary by jurisdiction.
 

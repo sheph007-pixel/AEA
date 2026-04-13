@@ -9,7 +9,7 @@ author: "AEA Editorial Team"
 
 ## A Rapidly Expanding Landscape
 
-The number of states with mandatory paid family and medical leave (PFML) programs has grown significantly in recent years. As of 2023, thirteen states and the District of Columbia have enacted some form of paid family leave program, and more states introduce legislation each session. For employers with workers in multiple states, compliance has become a serious operational challenge.
+The number of states with mandatory paid family and medical leave (PFML) programs has grown significantly in recent years. As of 2023, the number of states and the District of Columbia with enacted paid family leave programs may vary, as new laws can be introduced or amended frequently. For employers with workers in multiple states, compliance has become a serious operational challenge.
 
 This guide covers the key differences between state programs and outlines practical steps to manage compliance across jurisdictions.
 
@@ -29,13 +29,13 @@ State PFML programs vary widely on several dimensions:
 
 As of 2023, states with operational or imminent PFML programs include California, Colorado, Connecticut, Delaware, Maine, Maryland, Massachusetts, Minnesota, New Jersey, New York, Oregon, Rhode Island, and Washington, plus the District of Columbia. Several of these programs are phased in over multiple years, with contribution requirements starting before benefits become available.
 
-Employers should note that some states allow private plan alternatives. If your company offers a benefit that meets or exceeds the state program, you may be able to opt out of the state system, but this typically requires an application and approval process.
+Employers should note that some states allow private plan alternatives. States such as Massachusetts and New Jersey permit employers to opt out of the state system if they offer a benefit that meets or exceeds the state program. However, this typically requires an application and approval process.
 
 ## Practical Compliance Steps
 
 **1. Map your workforce to applicable programs.** Identify every state where you have employees and determine whether a PFML program applies. Remember that remote employees are generally covered based on their work location, not your company headquarters.
 
-**2. Register with each state program.** Most states require employers to register with the administering agency, even if contributions are employee-only. Failing to register can result in penalties.
+**2. Register with each state program.** Requirements for registration may vary by state, and some states require employers to register with the administering agency, even if contributions are employee-only. Failing to register can result in penalties.
 
 **3. Set up payroll withholding correctly.** Work with your payroll provider to ensure the correct contribution rates are applied for each state. Rates often change annually, so build in a process for updating them.
 

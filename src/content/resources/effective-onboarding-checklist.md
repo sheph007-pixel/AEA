@@ -27,10 +27,10 @@ Complete these items before the new employee arrives:
 
 The first day should balance required paperwork with a welcoming experience:
 
-- Complete Form I-9 (Section 1 on or before day one; Section 2 within three business days)
+- Complete Form I-9 (Section 1 on or before day one; Section 2 by the end of the third business day after the employee's start date)
 - Complete W-4 and state tax withholding forms
 - Process direct deposit authorization
-- Enroll in benefits or provide enrollment information and deadlines
+- Enroll in benefits or provide enrollment information and deadlines (note that benefits enrollment deadlines can vary by employer)
 - Review and sign the employee handbook acknowledgment
 - Complete any required policy acknowledgments (anti-harassment, confidentiality, IT acceptable use)
 - Provide workplace safety orientation
@@ -83,3 +83,5 @@ Maintain a system for tracking onboarding completion:
 - Identify common questions or gaps and update the process accordingly
 - Review time-to-productivity metrics to assess program effectiveness
 - Update the onboarding program at least annually
+
+---

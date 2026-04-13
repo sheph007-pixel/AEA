@@ -36,7 +36,7 @@ Most employers are finding that a hybrid model, combining some in-office days wi
 
 **Maintain remote infrastructure.** Continue investing in the tools and processes that make remote work effective. Hybrid models fail when they are designed entirely around the in-office experience, leaving remote participants as second-class participants.
 
-**Accommodate individual circumstances.** Some employees relocated during the pandemic, some have caregiving responsibilities that make rigid schedules difficult, and some have disabilities that remote work accommodates. Build in a process for requesting exceptions or modifications.
+**Accommodate individual circumstances.** Some employees relocated during the pandemic, some have caregiving responsibilities that make rigid schedules difficult, and some have disabilities that remote work accommodates. Employers should build in a process for requesting exceptions or modifications, keeping in mind their obligations under the Americans with Disabilities Act (ADA). For example, if an employee with a disability was effectively accommodated by remote work, they may be entitled to continued remote work as a reasonable accommodation.
 
 ## Communication and Timing
 
@@ -57,10 +57,12 @@ Return-to-office mandates can trigger legal issues in several areas:
 - **Disparate impact**: If a return mandate disproportionately affects employees of a particular protected class (for example, women who bear a greater share of childcare), it could face legal scrutiny.
 - **NLRA implications**: Employee collective action to resist return mandates may be protected concerted activity under the NLRA.
 
-Consult employment counsel before implementing a mandate, particularly if you anticipate significant employee resistance.
+Employers should consult employment counsel before implementing a mandate, particularly if they anticipate significant employee resistance.
 
 ## Measuring Success
 
 After implementation, track metrics that indicate whether the return is achieving its goals: collaboration output, employee engagement scores, turnover rates, recruitment success, and productivity measures. If turnover spikes significantly, revisit your approach rather than attributing departures solely to employees who "did not want to work."
 
 The employers managing this transition most successfully are those who treat it as a negotiation, not an edict. They explain their reasoning, offer genuine flexibility, and adjust based on results.
+
+---

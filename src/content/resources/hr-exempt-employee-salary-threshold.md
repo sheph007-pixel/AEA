@@ -21,7 +21,7 @@ The administrative exemption requires that the employee's primary duty is the pe
 
 ## State Salary Thresholds
 
-Several states have established their own salary thresholds that exceed the federal minimum. California requires exempt employees to earn a monthly salary of at least twice the state minimum wage for full-time employment. New York has varying thresholds depending on the region and employer size. Washington State has a salary threshold tied to the state minimum wage multiplied by specified factors.
+Several states have established their own salary thresholds that exceed the federal minimum. As of January 1, 2023, California requires exempt employees to earn a monthly salary of at least $5,200, which is twice the state minimum wage of $15.50 per hour for full-time employment. New York has varying thresholds depending on the region and employer size. Washington State has a salary threshold tied to the state minimum wage multiplied by specified factors.
 
 Employers with employees in multiple states must comply with the higher of the federal or state threshold in each jurisdiction. Failure to meet the applicable threshold results in the employee being non-exempt regardless of the duties they perform.
 
@@ -29,7 +29,7 @@ Employers with employees in multiple states must comply with the higher of the f
 
 The FLSA provides a streamlined duties test for highly compensated employees (HCEs) who earn above a higher annual compensation threshold. HCEs need only customarily and regularly perform at least one of the exempt duties of an executive, administrative, or professional employee to qualify for exemption, rather than satisfying the full standard duties test.
 
-The HCE threshold has been subject to the same regulatory changes as the standard salary threshold. Employers should verify the current HCE threshold and ensure that employees classified under this exemption meet both the compensation and minimal duties requirements.
+The current HCE threshold is $107,432 annually, and it has been subject to regulatory changes in recent years. Employers should verify the current HCE threshold and ensure that employees classified under this exemption meet both the compensation and minimal duties requirements.
 
 ## Salary Basis Requirements
 

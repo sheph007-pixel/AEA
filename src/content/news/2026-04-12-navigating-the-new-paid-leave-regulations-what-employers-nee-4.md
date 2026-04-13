@@ -14,7 +14,7 @@ The new regulations primarily focus on expanding eligibility for paid family and
 
 ### Key Changes to Paid Leave Laws
 
-1. **Increased Duration and Pay**: Many jurisdictions have extended the duration of paid leave, with some states currently offering up to 16 weeks of paid time off. Additionally, the percentage of salary covered during leave has generally increased, with certain laws in jurisdictions like California and New Jersey mandating coverage of up to 90% of an employee’s regular pay.
+1. **Increased Duration and Pay**: Many jurisdictions have extended the duration of paid leave, with some states generally offering up to 16 weeks of paid time off. Additionally, the percentage of salary covered during leave may vary, with certain laws in jurisdictions like California and New Jersey providing for coverage that can reach up to 90% of an employee’s regular pay, depending on specific circumstances and eligibility criteria.
 
 2. **Broadened Eligibility**: The definition of who qualifies for leave has expanded. Employers should note that many new regulations include part-time workers, as well as those in non-traditional employment arrangements, such as gig economy roles.
 

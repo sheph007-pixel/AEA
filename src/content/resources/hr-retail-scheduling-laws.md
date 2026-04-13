@@ -15,13 +15,13 @@ As of 2025, predictive scheduling requirements exist in Oregon (statewide), and 
 
 ## Common Requirements Across Jurisdictions
 
-While specific provisions vary, most predictive scheduling laws share several core requirements. Employers must provide schedules a set number of days in advance, typically 14 days. Schedule changes made after the advance notice deadline trigger premium pay, often ranging from one to four hours of additional compensation depending on the nature and timing of the change.
+While specific provisions vary, most predictive scheduling laws share several core requirements. Employers must provide schedules a set number of days in advance, typically 14 days. Schedule changes made after the advance notice deadline may trigger premium pay, which varies by jurisdiction. Employers should consult counsel to understand the specific premium pay obligations in their area.
 
 Most laws also include right-to-rest provisions that require a minimum number of hours between closing and opening shifts, commonly 10 or 11 hours. Employees who consent to work during the rest period are typically entitled to time-and-a-half pay for the hours that fall within the rest period.
 
 ## Employer Coverage Thresholds
 
-These laws generally apply to retail and food service employers above certain size thresholds. Oregon's law covers employers with 500 or more employees worldwide in the retail, hospitality, and food service industries. New York City's law applies to fast food employers with 30 or more locations nationally. Seattle's law covers retail and food service companies with 500 or more employees worldwide.
+These laws generally apply to retail and food service employers above certain size thresholds. Oregon's law covers employers with 1,000 or more employees worldwide in the retail, hospitality, and food service industries. New York City's law applies to fast food employers with 30 or more locations within the city. Seattle's law covers retail and food service companies with 500 or more employees worldwide.
 
 Employers should verify the specific applicability thresholds in each jurisdiction where they operate, as the definitions of covered employers and covered employees differ significantly.
 

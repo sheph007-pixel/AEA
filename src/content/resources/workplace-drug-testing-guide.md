@@ -63,5 +63,7 @@ Marijuana legalization creates unique challenges for employers:
 - DOT-regulated employers must continue to treat marijuana as a prohibited substance regardless of state law
 - Non-regulated employers should review state and local laws before taking adverse action based on marijuana test results
 - Many states protect employees from adverse action for lawful off-duty marijuana use
-- No state requires employers to permit marijuana use or impairment in the workplace
+- While no state requires employers to permit marijuana use or impairment in the workplace, many states have specific regulations regarding marijuana testing and adverse actions
 - Consider whether your drug testing program should focus on impairment rather than presence of metabolites
+
+---

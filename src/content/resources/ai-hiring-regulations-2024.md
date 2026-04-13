@@ -15,18 +15,18 @@ In 2023, we covered the emerging legal risks of AI in hiring. By 2024, those ris
 
 ### New York City Local Law 144
 
-Now fully enforced after an extended implementation period, NYC Local Law 144 requires employers and employment agencies that use automated employment decision tools (AEDTs) to:
+Now enforced after an extended implementation period, NYC Local Law 144 requires employers and employment agencies that use automated employment decision tools (AEDTs) to:
 
 - Conduct an annual independent bias audit of the tool, analyzing selection rates and scoring by sex, race, and ethnicity
 - Publish the audit results on the employer's website
 - Provide notice to candidates at least ten business days before using the tool, including information about the tool's function, the job qualifications assessed, and the data sources used
 - Allow candidates to request an alternative selection process or accommodation
 
-The law defines an AEDT broadly as any computational process derived from machine learning or statistical modeling that substantially assists or replaces discretionary decision-making.
+The law defines an AEDT broadly as any computational process derived from machine learning or statistical modeling that substantially assists or replaces discretionary decision-making. While the law is currently enforced, employers should be aware that there may still be ongoing discussions or amendments regarding its implementation.
 
 ### Colorado AI Act
 
-Colorado enacted comprehensive AI legislation requiring developers and deployers of "high-risk AI systems" to take specific actions. Employment tools are explicitly classified as high-risk. Deployers (employers using the tools) must:
+Colorado enacted comprehensive AI legislation requiring developers and deployers of "high-risk AI systems" to take specific actions. Employment tools are explicitly classified as high-risk, though the term "high-risk AI systems" generally refers to those that pose significant risks to individuals or society. Deployers (employers using the tools) must:
 
 - Implement a risk management policy
 - Complete an impact assessment before deployment
@@ -35,11 +35,11 @@ Colorado enacted comprehensive AI legislation requiring developers and deployers
 
 ### Illinois AI Video Interview Act
 
-Illinois continues to enforce its law requiring employers that use AI to analyze video interviews to: notify applicants that AI will be used, explain how it works, and obtain consent before the interview. Employers must also comply with data retention and deletion requirements.
+Illinois continues to enforce its law requiring employers that use AI to analyze video interviews to notify applicants that AI will be used, explain how it works, and obtain consent before the interview. Employers must also comply with data retention and deletion requirements, which generally involve retaining data for a specified period and ensuring secure deletion after that period.
 
 ### Additional Developments
 
-Several states introduced AI employment bills in their 2024 legislative sessions. While not all passed, the volume of legislative activity signals that more jurisdictions will enact requirements in the near future. Federal legislation remains under discussion but has not been enacted.
+Several states introduced AI employment bills in their 2024 legislative sessions. While not all passed, the volume of legislative activity signals that more jurisdictions may enact requirements in the near future. Federal legislation remains under discussion but has not been enacted.
 
 ## Practical Compliance Framework
 

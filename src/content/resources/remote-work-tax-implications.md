@@ -21,7 +21,7 @@ This means that if you have an employee who moved from your office state to anot
 
 ## Key Obligations
 
-**State income tax withholding.** You are generally required to withhold state income tax based on where the employee performs work. If an employee lives and works in State A but your company is in State B, you typically must withhold for State A. Some states have reciprocal agreements that simplify this, but many do not.
+**State income tax withholding.** You are generally required to withhold state income tax based on where the employee performs work. If an employee lives and works in State A but your company is in State B, you typically must withhold for State A. Some states, such as Maryland and Virginia, have reciprocal agreements that simplify this process, allowing employees to pay income tax only to their home state. However, many states do not have such agreements.
 
 **Unemployment insurance.** Unemployment tax is generally owed in the state where the employee performs the work. You must register with the unemployment insurance agency in each state where you have remote workers.
 
@@ -33,9 +33,9 @@ This means that if you have an employee who moved from your office state to anot
 
 ## Reciprocal Agreements and Convenience Rules
 
-A handful of states have reciprocal agreements that allow residents to pay income tax only to their home state, simplifying withholding for cross-border situations. These are most common among neighboring states in the mid-Atlantic and Midwest regions.
+A handful of states have reciprocal agreements that allow residents to pay income tax only to their home state, simplifying withholding for cross-border situations. These agreements are most common among neighboring states in the mid-Atlantic and Midwest regions.
 
-Separately, a few states apply a "convenience of the employer" rule. Under this rule, if an employee works remotely for their own convenience rather than because the employer requires it, the employee's wages may be taxed by the employer's state as well. New York is the most prominent state applying this rule, which can result in employees being taxed by two states without full credit.
+Separately, a few states apply a "convenience of the employer" rule. Under this rule, if an employee works remotely for their own convenience rather than because the employer requires it, the employee's wages may be taxed by the employer's state as well. New York is one of the states that applies this rule, which can result in employees being taxed by two states without full credit. Other states, such as New Jersey and Pennsylvania, also have similar rules.
 
 ## Practical Steps
 

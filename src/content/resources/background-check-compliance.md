@@ -20,7 +20,7 @@ When using a consumer reporting agency (CRA) to conduct background checks, the F
 
 **Before taking adverse action based on the report:**
 - Provide the individual with a pre-adverse action notice that includes a copy of the report and a summary of rights under the FCRA
-- Allow a reasonable period (typically five business days) for the individual to dispute the report before making a final decision
+- Allow a reasonable period for the individual to dispute the report before making a final decision; this time frame may vary
 
 **After taking adverse action:**
 - Provide an adverse action notice identifying the CRA that provided the report
@@ -31,6 +31,7 @@ When using a consumer reporting agency (CRA) to conduct background checks, the F
 
 Many states and municipalities have enacted ban-the-box laws that restrict when and how employers can inquire about criminal history:
 
+- The applicability of these laws varies by jurisdiction, and not all states have enacted such laws
 - Some laws prohibit asking about criminal history on the initial job application
 - Others delay criminal history inquiries until after a conditional offer of employment
 - Many require individualized assessment of criminal records rather than blanket exclusions

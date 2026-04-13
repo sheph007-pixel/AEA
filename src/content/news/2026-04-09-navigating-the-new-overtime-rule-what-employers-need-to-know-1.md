@@ -14,7 +14,7 @@ As of October 2023, the U.S. Department of Labor (DOL) has released a proposal f
 
 The proposed rule may increase the salary threshold from the current figure of $684 per week, which translates to $35,568 per year. However, this change is not yet finalized, and the final decision by the DOL may differ after considering public feedback. If implemented, this adjustment could mean that employees earning below this amount may become eligible for overtime pay when they work more than 40 hours in a week. This adjustment reflects an ongoing effort by the DOL to ensure that more workers receive fair compensation for their labor, particularly in an era where inflation and cost-of-living adjustments have impacted many households.
 
-Additionally, the rule may include provisions for periodic adjustments to the salary threshold, which means employers should stay vigilant about future changes and prepare for potential increases in the coming years.
+Additionally, while the rule may include provisions for periodic adjustments to the salary threshold, such provisions are not guaranteed. Employers should stay vigilant about future changes and prepare for potential increases in the coming years.
 
 ### Implications for Employers
 

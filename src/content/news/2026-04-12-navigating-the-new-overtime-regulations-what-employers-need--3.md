@@ -8,11 +8,11 @@ author: "AEA Editorial Team"
 
 ## Changes to Overtime Regulations
 
-As of October 2023, the U.S. Department of Labor (DOL) has finalized new regulations regarding overtime pay under the Fair Labor Standards Act (FLSA). These changes raise the salary threshold for exempt employees, requiring employers to reassess their payroll practices and ensure compliance. The new threshold is set to increase from $55,068 to a figure that is not subject to change until the DOL issues further updates, impacting a significant number of employees who previously qualified as exempt.
+As of October 2023, the U.S. Department of Labor (DOL) has finalized new regulations regarding overtime pay under the Fair Labor Standards Act (FLSA). These changes raise the salary threshold for exempt employees, requiring employers to reassess their payroll practices and ensure compliance. The new threshold is set to increase from $55,068 to $60,000, which may be subject to future adjustments, impacting a significant number of employees who previously qualified as exempt.
 
 ### Implications for Employers
 
-The updated salary threshold means that many employees who were not previously entitled to overtime pay may now qualify for it. This change could affect various industries, particularly those with a significant number of managerial or administrative employees earning below the new threshold. Employers will need to evaluate their workforce to identify any positions that may require reclassification due to the new salary threshold for exemption.
+The updated salary threshold means that many employees who were not previously entitled to overtime pay may now qualify for it. This change could affect various industries, particularly those with a significant number of managerial or administrative employees earning below the new threshold. Employers will need to evaluate their workforce to identify any positions that may require reclassification based on both the new salary threshold and the specific job duties performed.
 
 ### Action Items for HR Professionals
 

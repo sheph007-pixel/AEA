@@ -14,7 +14,7 @@ The proposed rule suggests increasing the current salary threshold from $684 per
 
 ### Implications for Employers
 
-All employers covered by the FLSA should prepare for the changes presented by this proposed rule, regardless of their size. First, organizations must assess their current compensation structures to identify which positions may be affected by the salary threshold increase. This review should encompass not only salaried employees but also those who may be classified under the “white-collar” exemptions for executive, administrative, or professional roles.
+Many employers covered by the FLSA should prepare for the changes presented by this proposed rule, though specific obligations may vary, particularly for smaller employers. First, organizations must assess their current compensation structures to identify which positions may be affected by the salary threshold increase. This review should encompass not only salaried employees but also those who may be classified under the “white-collar” exemptions for executive, administrative, or professional roles.
 
 Moreover, employers will need to consider the financial impact of reclassifying employees from exempt to non-exempt status. This reclassification could lead to increased labor costs due to overtime pay obligations, necessitating a careful examination of budgets and workforce management strategies.
 

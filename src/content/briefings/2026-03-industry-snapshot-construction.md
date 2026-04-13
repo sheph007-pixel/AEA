@@ -18,9 +18,9 @@ Construction consistently ranks as OSHA's highest enforcement priority. The agen
 
 Key OSHA focus areas for construction employers in 2026 include:
 
-**Fall protection.** Falls remain among the leading causes of serious injury and death in construction. OSHA's fall protection standards generally require employers to provide fall protection systems — such as guardrails, safety nets, or personal fall arrest systems — for workers at applicable heights in construction. Employers should verify the specific height thresholds and requirements that apply to their operations, ensure that fall protection plans are in place, equipment is inspected and maintained, and workers are trained on proper use.
+**Fall protection.** Falls remain among the leading causes of serious injury and death in construction. OSHA's fall protection standards generally require employers to provide fall protection systems — such as guardrails, safety nets, or personal fall arrest systems — for workers at heights of six feet in the construction industry. Employers should verify the specific height thresholds and requirements that apply to their operations, ensure that fall protection plans are in place, equipment is inspected and maintained, and workers are trained on proper use.
 
-**Trenching and excavation.** OSHA has generally maintained a strong enforcement focus on trenching violations. Employers performing trenching and excavation work should ensure that protective systems — such as sloping, shoring, or shielding — are in place as required by applicable OSHA standards before workers enter trenches, and that competent persons inspect the site daily and after any condition change. Employers should verify the specific depth thresholds and protective system requirements that apply.
+**Trenching and excavation.** OSHA has generally maintained a strong enforcement focus on trenching violations. Employers performing trenching and excavation work should ensure that protective systems — such as sloping, shoring, or shielding — are in place as required by applicable OSHA standards before workers enter trenches, and that competent persons inspect the site daily and after any condition change. Employers should verify the specific depth thresholds, which are typically five feet or greater, and protective system requirements that apply.
 
 **Silica exposure.** OSHA's respirable crystalline silica standard for construction generally requires employers to implement specified dust control measures or, where those measures do not cover the task, to measure employee exposure and implement a written exposure control plan. Medical surveillance may be required for workers exposed above certain thresholds. Employers should consult the current OSHA standard and qualified counsel to confirm the specific requirements applicable to their operations.
 
@@ -60,18 +60,4 @@ Construction employers face extensive safety training requirements under both fe
 - **OSHA 10-hour and 30-hour courses.** While not universally mandated by federal OSHA, many states, municipalities, and project owners require construction workers to hold OSHA 10-hour or 30-hour training cards. Employers should verify the training requirements applicable to each project and jurisdiction.
 - **Hazard-specific training.** OSHA requires training on specific hazards including fall protection, scaffolding, electrical safety, hazard communication, confined space entry, respiratory protection, and crane operations. Training must be provided in a language and manner the worker can understand.
 - **Competent person designations.** Many OSHA construction standards require a competent person — someone capable of identifying hazards and authorized to take corrective action — to be designated for specific activities such as excavation, scaffolding erection, and fall protection.
-- **Documentation.** Employers must maintain records of all safety training, including the date, topic, trainer, and attendees. These records are essential evidence of compliance during OSHA inspections.
-
-## Practical Steps for Construction Employers
-
-1. Conduct a comprehensive OSHA compliance audit of all active jobsites.
-2. Verify that prevailing wage determinations and certified payrolls are current and accurate for all covered projects.
-3. Perform an internal I-9 audit and correct any errors using applicable correction procedures.
-4. Review all safety training records and schedule any overdue or upcoming required training.
-5. Ensure that competent persons have been designated and are actively performing their oversight roles on every applicable jobsite.
-
-Construction employers who maintain disciplined compliance programs across these interconnected areas are best positioned to avoid the costly penalties, project delays, and reputational harm that enforcement actions can produce.
-
----
-
-*This briefing is prepared by the AEA Editorial Team based on publicly available regulatory guidance, employment law developments, and employer-reported trends. Individual data from AEA members is never disclosed. All analysis reflects general observations and should not be treated as legal advice. Consult qualified counsel for guidance on specific situations.*
+- **Documentation.** Employers must maintain records of all safety training, including the date, topic, trainer, and attendees. These records are essential evidence of

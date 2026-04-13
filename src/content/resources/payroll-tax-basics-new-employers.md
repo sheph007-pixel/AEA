@@ -24,7 +24,7 @@ You must also obtain an Employer Identification Number (EIN) from the IRS by fil
 
 The IRS requires electronic deposit of payroll taxes through the Electronic Federal Tax Payment System (EFTPS). Your deposit schedule depends on your tax liability:
 
-- **Monthly depositors**: Employers with a tax liability of $50,000 or less during the lookback period deposit by the 15th of the following month
+- **Monthly depositors**: Employers with a tax liability of $50,000 or less during the lookback period may generally deposit by the 15th of the following month, but this is also influenced by the employer's deposit history.
 - **Semi-weekly depositors**: Employers with a liability exceeding $50,000 deposit on Wednesday or Friday depending on payday
 - **Next-day deposit**: If your accumulated tax liability reaches $100,000 or more on any day, you must deposit by the next business day
 
@@ -34,7 +34,7 @@ New employers without a lookback period are generally monthly depositors.
 
 Employers must file several tax forms:
 
-- **Form 941**: Quarterly report of federal income tax, Social Security, and Medicare taxes (filed by April 30, July 31, October 31, and January 31)
+- **Form 941**: Quarterly report of federal income tax, Social Security, and Medicare taxes (filed on April 30 for Q1, July 31 for Q2, October 31 for Q3, and January 31 for Q4)
 - **Form 940**: Annual FUTA tax return (filed by January 31)
 - **Form W-2**: Annual wage and tax statement for each employee (furnished to employees by January 31, filed with SSA by January 31)
 - **Form W-3**: Transmittal of W-2 forms to the Social Security Administration
@@ -61,3 +61,5 @@ New employers frequently make these payroll tax errors:
 - Using payroll tax funds for other business expenses (this is a trust fund obligation, and the IRS can hold business owners personally liable for unpaid trust fund taxes under the Trust Fund Recovery Penalty)
 
 Consider using a reputable payroll service to handle calculations, deposits, and filings, especially when starting out. The cost is modest compared to the potential penalties for errors.
+
+---

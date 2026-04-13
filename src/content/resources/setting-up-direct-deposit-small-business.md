@@ -23,10 +23,10 @@ When evaluating providers, compare per-transaction fees, monthly minimums, setup
 
 Before implementing direct deposit, be aware of the legal landscape:
 
-- **Federal law** does not require employers to offer direct deposit, but it does not prohibit mandatory direct deposit either
-- **State laws vary significantly**: Some states require employers to offer an alternative payment method, while others allow mandatory direct deposit
-- **The Electronic Fund Transfer Act** requires that direct deposit participation be voluntary for federal government payments, but this does not apply to private employers
-- You must comply with all applicable wage payment laws in your state
+- **Federal law** does not require employers to offer direct deposit, and while it does not prohibit mandatory direct deposit, state laws may impose restrictions on making it mandatory.
+- **State laws vary significantly**: Some states require employers to offer an alternative payment method, while others allow mandatory direct deposit.
+- **The Electronic Fund Transfer Act** generally requires that direct deposit participation be voluntary for federal government payments. While this act primarily applies to federal payments, private employers should be aware of any relevant state laws that may influence their practices.
+- You must comply with all applicable wage payment laws in your state.
 
 Always check your state's specific rules before making direct deposit mandatory.
 

@@ -48,7 +48,7 @@ Generous PTO policies cost relatively little and are highly valued:
 
 A retirement plan is a powerful differentiator for small employers:
 
-- **SIMPLE IRA:** Available to employers with 100 or fewer employees. Lower administrative costs than a 401(k). Employers must either match employee contributions up to 3% of compensation or make a 2% non-elective contribution for all eligible employees.
+- **SIMPLE IRA:** Available to employers with 100 or fewer employees who earned at least $5,000 in the preceding calendar year. Lower administrative costs than a 401(k). Employers may either match employee contributions up to 3% of compensation or make a 2% non-elective contribution for all eligible employees. The 3% match is optional and can be reduced to 1% for two out of five years.
 - **SEP IRA:** Employer-funded only (no employee contributions). Contributions up to 25% of each employee's compensation. Simple to administer but less flexible than SIMPLE IRA or 401(k).
 - **Solo 401(k):** For self-employed individuals and business owners with no employees other than a spouse.
 - **Pooled Employer Plans (PEPs):** Allow multiple small employers to join a single 401(k) plan, reducing administrative burden and costs through scale.

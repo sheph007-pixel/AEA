@@ -10,7 +10,7 @@ featured: false
 
 ## The Current Year Minimum Wage Landscape
 
-The federal minimum wage remains at $7.25 per hour, unchanged since 2009. However, the practical relevance of the federal rate continues to diminish as states, counties, and cities set higher minimum wages. As of January 1, Current Year, the majority of states have minimum wage rates above the federal level, and many jurisdictions saw significant increases for the new year.
+The federal minimum wage remains at $7.25 per hour, unchanged since 2009. However, the practical relevance of the federal rate continues to diminish as states, counties, and cities set higher minimum wages. As of January 1, Current Year, some states have minimum wage rates above the federal level, while others still adhere to the federal minimum wage. Many jurisdictions saw significant increases for the new year.
 
 Employers must pay the highest applicable minimum wage, whether federal, state, or local. Here is what you need to know for Current Year.
 
@@ -45,11 +45,11 @@ Do not assume a single rate applies across your workforce. Check the minimum wag
 
 ### 2. Update Payroll Systems
 
-Adjust payroll for all affected employees before the effective date. Most increases take effect January 1, but some jurisdictions have different effective dates (July 1 is common for mid-year increases). Calendar these dates and make adjustments in advance.
+Adjust payroll for all affected employees before the effective date. Most increases take effect January 1, but some jurisdictions have different effective dates; July 1 is common for mid-year increases in certain areas. Calendar these dates and make adjustments in advance.
 
 ### 3. Review Exempt Employee Salaries
 
-In states with high minimum wages, the minimum wage can approach or exceed the FLSA salary threshold for exempt employees. Additionally, some states tie their exempt salary threshold to the state minimum wage. Verify that your exempt employees' salaries meet both federal and state requirements.
+In states with high minimum wages, the minimum wage may approach or exceed the FLSA salary threshold for exempt employees, which is currently set at $684 per week. Additionally, some states tie their exempt salary threshold to the state minimum wage. Verify that your exempt employees' salaries meet both federal and state requirements.
 
 ### 4. Assess Impact on Pay Structure
 
@@ -69,6 +69,6 @@ Some states allow lower minimum wages for employees under a certain age or for a
 
 ## Looking Ahead
 
-The trend toward higher state and local minimum wages will continue. Employers should monitor legislative activity in every jurisdiction where they operate and build minimum wage increases into their annual budgeting process. Annual increases are now the norm, not the exception, in the majority of states.
+The trend toward higher state and local minimum wages will continue. Employers should monitor legislative activity in every jurisdiction where they operate and build minimum wage increases into their annual budgeting process. Annual increases are now the norm, not the exception, in many states.
 
 A proactive approach to minimum wage compliance protects you from back-wage claims, penalties, and the reputational harm of underpaying your workforce.

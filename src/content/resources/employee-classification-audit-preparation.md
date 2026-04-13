@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 Classification audits examine whether your workers are properly classified as employees or independent contractors, and — for those classified as employees — whether they are correctly designated as exempt or non-exempt under wage and hour laws. Misclassification in either direction can result in back taxes, unpaid overtime, penalties, and interest.
 
-Multiple agencies conduct these audits. The IRS examines whether employment taxes were properly withheld and paid. The Department of Labor investigates whether workers were denied wages, overtime, or benefits they were entitled to as employees. State agencies investigate both tax and workers' compensation issues. Each agency applies its own legal test, which means a worker could be classified one way under federal tax law and differently under state employment law.
+Multiple agencies conduct these audits. The IRS focuses on overall tax compliance, which includes but is not limited to employment taxes. The Department of Labor investigates whether workers were denied wages, overtime, or benefits they were entitled to as employees. State agencies may investigate various issues related to tax and workers' compensation, but their specific focuses can vary by state. Each agency applies its own legal test, which means a worker could be classified one way under federal tax law and differently under state employment law.
 
 ## Common Audit Triggers
 
@@ -57,7 +57,7 @@ For each independent contractor relationship, maintain:
 
 ### Ensure Consistent Treatment
 
-Workers with similar roles should be classified consistently. If you have ten people performing the same function and nine are employees while one is an independent contractor, you will need a strong justification for the difference.
+Workers should generally be classified consistently based on their specific circumstances. If you have ten people performing the same function and nine are employees while one is an independent contractor, you will need a strong justification for the difference.
 
 ### Prepare Your Response Team
 

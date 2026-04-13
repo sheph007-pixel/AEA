@@ -17,11 +17,11 @@ However, these exemptions are narrowly construed. The FLSA defines agriculture t
 
 Employers who cannot find sufficient domestic workers may petition for temporary foreign agricultural workers under the H-2A visa program, administered by the Department of Labor and U.S. Citizenship and Immigration Services. The program requires employers to demonstrate that there are not enough qualified domestic workers available and that hiring H-2A workers will not adversely affect the wages and working conditions of similarly employed domestic workers.
 
-H-2A employers must provide free housing that meets federal standards, daily transportation between housing and work sites, meals or cooking facilities, and tools and equipment at no cost to workers. Employers must also pay the Adverse Effect Wage Rate, which is set annually by DOL and varies by state.
+H-2A employers must provide free housing that meets federal standards, daily transportation between housing and work sites, meals or cooking facilities, and tools and equipment at no cost to workers. Employers must also pay the Adverse Effect Wage Rate, which is determined based on the highest of the prevailing wage rate, the federal or state minimum wage, or the adverse effect wage rate set by the DOL, and it varies by state.
 
 ## Child Labor in Agriculture
 
-Agricultural child labor rules differ significantly from non-agricultural rules. Children aged 16 and older may work in any agricultural job at any time. Children aged 14 and 15 may work outside school hours in non-hazardous agricultural jobs. Children aged 12 and 13 may work on farms with parental consent or on farms where parents are employed. Children under 12 may work on small farms with parental consent.
+Agricultural child labor rules differ significantly from non-agricultural rules. Children aged 16 and older may work in any agricultural job at any time. Children aged 14 and 15 may work outside school hours in non-hazardous agricultural jobs. Children aged 12 and 13 may work on farms with parental consent or on farms where parents are employed. Children under 12 may work on small farms with parental consent, provided the work is non-hazardous and complies with state laws, which may vary.
 
 The Hazardous Occupations Orders for agriculture prohibit minors under 16 from performing certain dangerous tasks, including operating tractors over 20 PTO horsepower, handling anhydrous ammonia, and working in timber operations.
 

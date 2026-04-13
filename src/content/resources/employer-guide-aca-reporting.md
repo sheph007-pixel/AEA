@@ -45,9 +45,9 @@ Each ALE member must furnish a Form 1095-C to every full-time employee. The form
 
 ## Filing Deadlines
 
-Forms 1095-C must be furnished to employees by the IRS-established deadline, typically in early March. The transmittal forms (1094-C) and copies of all 1095-C forms must be filed with the IRS by the applicable deadline, with a later date allowed for electronic filing. Always check the current year's deadlines, as the IRS has granted extensions in the past.
+Forms 1095-C must be furnished to employees by the IRS-established deadline, which may vary each year. Employers should check the IRS website for the most current deadline. The transmittal forms (1094-C) and copies of all 1095-C forms must be filed with the IRS by the applicable deadline, with a later date allowed for electronic filing. Always check the current year's deadlines, as the IRS has granted extensions in the past.
 
-Electronic filing is mandatory for employers filing 250 or more forms.
+Electronic filing is generally mandatory for employers filing 250 or more forms, although there may be exceptions or waivers for smaller employers.
 
 ## Practical Steps
 

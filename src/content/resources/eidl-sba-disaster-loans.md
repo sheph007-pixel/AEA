@@ -13,12 +13,12 @@ The Economic Injury Disaster Loan (EIDL) program, administered by the Small Busi
 
 EIDLs were available to small businesses, nonprofits, and agricultural enterprises with 500 or fewer employees that suffered substantial economic injury due to the pandemic. Key terms:
 
-- **Maximum loan amount:** Up to $2 million (initially capped at $150,000, later increased)
+- **Maximum loan amount:** Up to $2 million (with specific caps for certain applicants during a defined time frame that were later lifted)
 - **Interest rate:** 3.75% for small businesses; 2.75% for nonprofits
 - **Repayment term:** Up to 30 years
 - **Collateral:** Required for loans over $25,000 (UCC filing on business assets); real estate collateral required for loans over $500,000
 - **Personal guarantee:** Required for loans over $200,000
-- **First payment due:** Deferred for the first 24 months from the date of the loan (extended from the original 12-month deferral). Interest accrues during deferral.
+- **First payment due:** Deferred for the first 24 months from the date of the loan for all loans issued after a certain date. Loans issued before that date had a 12-month deferral period. Interest accrues during deferral.
 
 ## EIDL Advance Grants
 
@@ -68,8 +68,8 @@ These covenants can affect future business decisions such as selling the company
 
 With 30-year terms and relatively low interest rates, monthly payments are manageable for most borrowers. However, consider:
 
-- **Making payments during the deferral period.** Even paying interest-only during deferral reduces the total cost of the loan significantly over 30 years.
-- **Prepayment.** There is no prepayment penalty. If your business recovers and cash flow allows, making additional payments reduces total interest expense.
+- **Making payments during the deferral period.** Even paying interest-only during deferral may reduce the total cost of the loan significantly over 30 years.
+- **Prepayment.** There is no prepayment penalty. If your business recovers and cash flow allows, making additional payments may reduce total interest expense.
 - **Budgeting for the transition.** When deferral ends and payments begin, ensure your cash flow projections account for the new monthly obligation.
 - **Communication with SBA.** If you anticipate difficulty making payments, contact the SBA before you default. Options may include payment plan modifications.
 
@@ -89,3 +89,5 @@ The SBA may audit EIDL recipients, and borrowers who cannot document proper use 
 EIDL funds and PPP funds could not be used for the same expenses. If you received both, maintain clear records showing that each dollar of spending was allocated to only one program. The EIDL advance amounts were deducted from PPP forgiveness for borrowers who received both.
 
 Small employers who received EIDLs should treat them as any other long-term business obligation: budget for repayment, maintain compliance with loan covenants, and keep documentation organized for the life of the loan.
+
+---

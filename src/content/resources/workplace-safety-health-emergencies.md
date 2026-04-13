@@ -7,7 +7,7 @@ tags: ["workplace safety", "health emergency", "OSHA", "infectious disease", "pr
 author: "AEA Editorial Team"
 ---
 
-Public health emergencies demand rapid action from employers. Developing clear safety protocols protects your workforce, maintains operations, and demonstrates compliance with OSHA's General Duty Clause, which requires employers to provide a workplace free from recognized hazards likely to cause death or serious harm.
+Public health emergencies demand rapid action from employers. Developing clear safety protocols protects your workforce, maintains operations, and demonstrates compliance with OSHA's General Duty Clause, which requires employers to provide a workplace free from recognized hazards likely to cause death or serious harm. It is important to note that while the General Duty Clause applies broadly, specific regulations regarding infectious diseases may also be relevant.
 
 ## Risk Assessment by Industry
 
@@ -64,9 +64,9 @@ Clear, consistent communication is critical during a health emergency:
 
 ## Legal Considerations
 
-- **OSHA recordkeeping:** Work-related illness cases must be recorded on OSHA Form 300 if they meet recording criteria. The determination of whether an illness is work-related during a widespread community outbreak requires a reasonable investigation.
+- **OSHA recordkeeping:** Work-related illness cases must be recorded on OSHA Form 300 if they meet recording criteria. The determination of whether an illness is work-related during a widespread community outbreak requires a reasonable investigation to assess the connection to the workplace.
 - **ADA and confidentiality:** Medical information gathered through health screenings must be stored separately from personnel files and treated as confidential medical records.
-- **Workers' compensation:** Some states have created presumptions that certain workers who contract infectious diseases during outbreaks did so on the job. Understand your state's rules.
+- **Workers' compensation:** Some states have created presumptions that certain workers who contract infectious diseases during outbreaks did so on the job. Employers should understand their state's rules.
 - **Reasonable accommodations:** Employees with underlying health conditions that put them at higher risk may request accommodations under the ADA. Engage in the interactive process to identify solutions such as remote work, modified duties, or enhanced protective measures.
 
 ## Building a Response Team

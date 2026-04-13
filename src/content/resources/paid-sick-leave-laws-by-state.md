@@ -38,7 +38,7 @@ Paid sick leave can generally be used for:
 
 ### Carryover
 
-Most laws require unused sick leave to carry over from year to year, though annual usage caps still apply. Some laws waive the carryover requirement if the employer front-loads the full amount at the start of each year.
+While many laws require unused sick leave to carry over from year to year, there are exceptions and variations that should be noted. Some laws waive the carryover requirement if the employer front-loads the full amount at the start of each year.
 
 ### Job Protection and Anti-Retaliation
 
@@ -48,7 +48,7 @@ All paid sick leave laws prohibit employers from retaliating against employees w
 
 ### Employer Size Thresholds
 
-Some laws have different requirements based on employer size. Connecticut's law, for example, initially applied only to employers with 50 or more employees. Maryland's law requires paid leave for employers with 15 or more employees but only unpaid leave for smaller employers. Check the specific threshold in your jurisdiction.
+Some laws have different requirements based on employer size. Connecticut's law has undergone changes and may apply to smaller employers under specific conditions. Maryland's law requires paid leave for employers with 15 or more employees, but smaller employers may not be required to provide paid sick leave. Employers should check the specific threshold in their jurisdiction.
 
 ### Documentation Requirements
 
@@ -80,3 +80,5 @@ Alternatively, if your jurisdictions have widely varying requirements, you may n
 If you already offer PTO that meets or exceeds the paid sick leave requirements in your jurisdictions — including accrual rates, permitted uses, carryover, and anti-retaliation protections — you generally do not need a separate sick leave policy. However, you must ensure your PTO policy satisfies every element of the applicable law, not just the total number of days.
 
 Review your existing policies carefully against the specific requirements, and update them where gaps exist.
+
+---

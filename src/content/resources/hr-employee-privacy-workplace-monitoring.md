@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 Employee monitoring has expanded dramatically with advances in technology, raising important legal and ethical questions for employers. The legal framework governing workplace monitoring draws from federal wiretapping laws, state privacy statutes, common law privacy protections, and labor relations law. While employers generally have broad rights to monitor workplace activities, these rights are not unlimited.
 
-The Electronic Communications Privacy Act (ECPA) of 1986, which includes the Stored Communications Act, provides the primary federal framework. The ECPA generally prohibits intentional interception of electronic communications but includes business purpose and consent exceptions that employers commonly rely upon.
+The Electronic Communications Privacy Act (ECPA) of 1986 provides the primary federal framework regarding the interception of electronic communications. The ECPA generally prohibits intentional interception of electronic communications but includes business purpose and consent exceptions that employers commonly rely upon. The Stored Communications Act, which is separate from the ECPA, addresses the access and disclosure of stored electronic communications.
 
 ## Email and Computer Monitoring
 
@@ -27,7 +27,7 @@ The National Labor Relations Act also limits video surveillance in areas where e
 
 ## GPS and Location Tracking
 
-Employers increasingly use GPS tracking for company vehicles and mobile devices. Tracking company-owned vehicles during work hours is generally permissible, but tracking employee-owned vehicles or monitoring locations outside of work hours raises significant privacy concerns. Several states, including California, Minnesota, and Virginia, have enacted laws specifically addressing GPS tracking that employers must consider.
+Employers increasingly use GPS tracking for company vehicles and mobile devices. Tracking company-owned vehicles during work hours is generally permissible, but tracking employee-owned vehicles or monitoring locations outside of work hours raises significant privacy concerns. California has enacted specific laws regarding GPS tracking that employers must consider, while other states may have varying requirements.
 
 Employers should develop clear policies explaining when and how GPS tracking is used, limit tracking to legitimate business purposes such as fleet management and safety, and disable tracking during non-work hours whenever possible.
 

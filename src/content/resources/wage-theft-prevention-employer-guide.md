@@ -25,7 +25,7 @@ Employers should be aware of these frequently cited violations:
 Several states have enacted specific wage theft prevention measures:
 
 - **New York**: Requires employers to provide written wage notices to new hires detailing pay rate, pay frequency, employer information, and other compensation details
-- **California**: Requires similar wage theft prevention notices at time of hire and when wage information changes
+- **California**: Requires written notice of pay rates and other information at the time of hire; changes in wage information may not require a new notice unless specified by law
 - **Other states**: An increasing number of jurisdictions are enacting notice and transparency requirements
 
 Even without a specific state law, clear communication about pay practices helps prevent disputes and demonstrates good faith.
@@ -50,7 +50,7 @@ Implement systems and practices that prevent wage theft:
 - Require supervisor approval for overtime rather than simply prohibiting it after the fact
 - Pay employees for all mandatory activities including meetings, training, and donning and doffing required safety gear
 - Review and correct automatic time rounding policies to ensure they are neutral over time
-- Process final paychecks in accordance with state law deadlines
+- Process final paychecks in accordance with state law deadlines, noting that deadlines may vary by state law and employers should verify the specific requirements in their jurisdiction
 
 ## Responding to Wage Claims
 
@@ -62,3 +62,5 @@ If an employee files a wage claim:
 - Consider voluntary resolution if the claim has merit
 - Preserve all relevant records (destruction of evidence can result in additional penalties)
 - Address any systemic issues identified during the investigation to prevent future claims
+
+---

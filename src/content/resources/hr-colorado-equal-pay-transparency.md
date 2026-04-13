@@ -9,7 +9,7 @@ author: "AEA Editorial Team"
 
 ## Overview of the Colorado Equal Pay Act
 
-Colorado's Equal Pay for Equal Work Act (EPEWA), effective January 1, 2021, with amendments effective January 1, 2024, is one of the most expansive pay transparency laws in the nation. The law prohibits employers from paying employees of different sexes differently for substantially similar work and imposes affirmative obligations related to job postings and internal promotions.
+Colorado's Equal Pay for Equal Work Act (EPEWA), effective January 1, 2021, with amendments effective January 1, 2024, is one of the most expansive pay transparency laws in the nation. The law prohibits employers from paying employees differently based on sex and other protected characteristics for substantially similar work and imposes affirmative obligations related to job postings and internal promotions.
 
 The law applies to all employers with at least one employee in Colorado, and its posting requirements extend to remote positions that could be performed from Colorado.
 
@@ -27,9 +27,9 @@ If an employer selects a candidate for a promotion without posting the opportuni
 
 ## Recordkeeping and Anti-Retaliation
 
-Employers must maintain records of job descriptions and wage rate histories for each employee for the duration of employment plus two years. These records must include the job title, the wage rate, and any compensation changes. Employers may not retaliate against employees who inquire about, discuss, or disclose their wages or the wages of others, invoke the EPEWA, or assist in any investigation under the act.
+Employers must maintain records of job descriptions and wage rate histories for each employee for the duration of employment plus three years. These records must include the job title, the wage rate, and any compensation changes. Employers may not retaliate against employees who inquire about, discuss, or disclose their wages or the wages of others, invoke the EPEWA, or assist in any investigation under the act.
 
-Employees who believe they have been subject to a pay disparity may file a complaint with the Colorado Department of Labor and Employment (CDLE) within two years of the alleged violation, or three years for willful violations.
+Employees who believe they have been subject to a pay disparity may file a complaint with the Colorado Department of Labor and Employment (CDLE) within two years of the alleged violation for most cases, or within three years for willful violations.
 
 ## Practical Compliance Strategies
 

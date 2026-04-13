@@ -12,7 +12,7 @@ In a significant update that could reshape payroll structures across the country
 
 ### Understanding the Changes
 
-The proposed regulations aim to increase the salary threshold for employees eligible for overtime pay. Currently, employees earning less than $684 per week (equivalent to $35,568 annually) are entitled to overtime pay for hours worked beyond 40 in a workweek. It is important to note that this threshold is subject to change, and the proposed increase to approximately $1,000 per week (or $52,000 annually) is not yet finalized. Employers should await official announcements from the DOL regarding any changes to this threshold, as the proposal is currently open for public comment and final approval.
+The proposed regulations aim to increase the salary threshold for employees eligible for overtime pay. Currently, employees earning less than $684 per week (equivalent to $35,568 annually) are entitled to overtime pay for hours worked beyond 40 in a workweek. It is important to note that this threshold is subject to change, and employers should verify with the DOL for the most current information. Additionally, the proposed increase to approximately $1,000 per week (or $52,000 annually) is still under consideration and has not yet been finalized. Employers should not assume that this proposal will be implemented without official confirmation from the DOL.
 
 ### Implications for Employers
 

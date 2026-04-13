@@ -9,7 +9,7 @@ author: "AEA Editorial Team"
 
 ## The Paid vs. Unpaid Question
 
-The most critical legal question in any internship program is whether the intern must be paid. Under the FLSA, if the intern is an employee, they must receive at least minimum wage and overtime for hours over 40 per week. The Department of Labor uses a "primary beneficiary test" to determine whether an intern at a for-profit company is an employee or can properly be unpaid.
+The most critical legal question in any internship program is whether the intern must be paid. Under the FLSA, if the intern is classified as an employee, they must receive at least minimum wage and overtime for hours over 40 per week. The Department of Labor uses a "primary beneficiary test" to determine whether an intern at a for-profit company is an employee or can properly be unpaid. This test is often applied in legal contexts, particularly during disputes.
 
 The primary beneficiary test examines seven factors:
 
@@ -27,7 +27,7 @@ No single factor is determinative. Courts weigh the totality of the circumstance
 
 For most for-profit employers, the safest and simplest approach is to pay interns. Paid internships avoid FLSA litigation risk entirely, attract better candidates, and demonstrate that you value the intern's contribution.
 
-If you choose to offer unpaid internships, structure them to genuinely benefit the intern through training, mentoring, and educational experiences rather than using interns as free labor for routine tasks.
+If you choose to offer unpaid internships, it is essential to ensure that they meet specific legal criteria under the FLSA. Structure them to genuinely benefit the intern through training, mentoring, and educational experiences, rather than using interns as free labor for routine tasks. Failing to adhere to the FLSA's requirements could result in legal consequences.
 
 ## Structuring an Effective Program
 

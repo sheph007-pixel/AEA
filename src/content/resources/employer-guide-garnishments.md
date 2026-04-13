@@ -17,7 +17,7 @@ Garnishment orders come from courts, government agencies, and child support enfo
 
 ### Child Support Orders
 
-Child support withholding orders are the most common type of garnishment. They are typically issued using an Income Withholding for Support (IWS) form. Federal law requires employers to begin withholding no later than the first pay period after the date specified on the order. Remit the withheld amount to the state disbursement unit identified on the order.
+Child support withholding orders are the most common type of garnishment. They are typically issued using an Income Withholding for Support (IWS) form. The Child Support Enforcement Act requires employers to begin withholding no later than the first pay period after the date specified on the order. Remit the withheld amount to the state disbursement unit identified on the order.
 
 ### Federal Tax Levies
 
@@ -33,7 +33,7 @@ Courts issue garnishment orders on behalf of creditors — credit card companies
 
 ### Student Loan Garnishments
 
-The federal government can garnish wages for defaulted federal student loans through administrative wage garnishment, without obtaining a court order. The maximum is typically 15 percent of disposable earnings.
+The federal government can garnish wages for defaulted federal student loans through administrative wage garnishment, without obtaining a court order. The maximum is generally 15 percent of disposable earnings for defaulted federal student loans, although exceptions may apply.
 
 ## Federal Limits on Garnishment
 
@@ -45,7 +45,7 @@ The Consumer Credit Protection Act (CCPA) limits how much of an employee's dispo
 
 Disposable earnings means gross pay minus legally required deductions (taxes, Social Security, Medicare, and mandatory state deductions). Voluntary deductions like retirement contributions and health insurance premiums are not subtracted.
 
-State laws may provide lower garnishment limits than the federal CCPA. You must apply whichever limit is more protective of the employee.
+State laws may have different thresholds or additional protections regarding garnishment limits compared to the federal CCPA. You must apply whichever limit is more protective of the employee.
 
 ## Priority of Multiple Garnishments
 

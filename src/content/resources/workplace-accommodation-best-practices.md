@@ -9,7 +9,7 @@ author: "AEA Editorial Team"
 
 ## The Accommodation Landscape Is Expanding
 
-Workplace accommodation requests have increased substantially in recent years, driven by greater awareness of mental health conditions, the normalization of remote work as an accommodation, growing recognition of neurodivergent conditions, and the passage of the Pregnant Workers Fairness Act. Employers need accommodation processes that are not only legally compliant but also operationally efficient and culturally supportive.
+Workplace accommodation requests have increased substantially in recent years, driven by greater awareness of mental health conditions, the normalization of remote work as an accommodation, growing recognition of neurodivergent conditions, and the passage of the Pregnant Workers Fairness Act, which became effective on June 27, 2023. This act requires employers to provide reasonable accommodations related to pregnancy, childbirth, or related medical conditions, unless doing so would impose an undue hardship on the operation of the business. Employers need accommodation processes that are not only legally compliant but also operationally efficient and culturally supportive.
 
 ## Emerging Accommodation Areas
 
@@ -28,9 +28,9 @@ These accommodations are typically low-cost and often improve productivity. The 
 
 ### Remote Work as Accommodation
 
-The pandemic demonstrated that many jobs can be performed remotely. This has strengthened the argument that remote work is a reasonable accommodation for disabilities that make commuting or office presence difficult. Courts and the EEOC have increasingly recognized remote work as a potential accommodation where the essential functions of the job can be performed remotely.
+The pandemic demonstrated that many jobs can be performed remotely. This has strengthened the argument that remote work may be considered a reasonable accommodation for disabilities that make commuting or office presence difficult. Courts and the EEOC have increasingly recognized remote work as a potential accommodation where the essential functions of the job can be performed remotely.
 
-Employers who allowed remote work during the pandemic will find it difficult to argue that the same work cannot be done remotely as an accommodation. If you are bringing employees back to the office, be prepared for accommodation requests for continued remote work and evaluate them on their individual merits.
+Employers who allowed remote work during the pandemic may find it challenging to argue that the same work cannot be done remotely as an accommodation. If you are bringing employees back to the office, be prepared for accommodation requests for continued remote work and evaluate them on their individual merits, considering the specific job requirements and the interactive process.
 
 ### Mental Health Accommodations
 

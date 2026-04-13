@@ -10,13 +10,13 @@ author: "AEA Editorial Team"
 
 In late 2023, the U.S. Department of Labor (DOL) announced updates to the Fair Labor Standards Act (FLSA) regarding overtime pay, which are set to take effect in 2024. These changes may be significant for many employers subject to the FLSA, as they could require adjustments to payroll practices and employee classifications, though the impact may vary by industry and employer size.
 
-Under the new regulations, the salary threshold for exempt employees—those who are not entitled to overtime pay—may increase from the current level of $684 per week (as of 2020) to a proposed figure of approximately $1,059 per week. This adjustment is designed to ensure that more workers may be entitled to overtime pay, reflecting current wage trends and cost of living increases. It is important to note that this threshold is subject to change based on future regulations, and the exact figure has not yet been officially confirmed. Employers should monitor official announcements for the finalized threshold.
+Under the new regulations, the salary threshold for exempt employees—those who are not entitled to overtime pay—may increase from the current level of $684 per week (as of 2020) to a proposed figure that is still under consideration. This adjustment is designed to ensure that more workers may be entitled to overtime pay, reflecting current wage trends and cost of living increases. It is important to note that this threshold is subject to change based on future regulations, and the exact figure has not yet been officially confirmed. Employers should monitor official announcements for the finalized threshold.
 
 ### What Employers Need to Know
 
 The DOL’s revision aims to broaden the scope of who qualifies for overtime pay, meaning that many employees who previously fell under the exempt category may now be eligible for overtime compensation. This shift is expected to affect a wide range of industries, particularly those that employ a significant number of administrative, executive, and professional staff.
 
-Employers should be aware that the DOL is considering additional changes that could further impact employee classification, including potential modifications to the duties test used to determine exemption eligibility. However, any changes to the duties test are still under consideration and have not been definitively announced, so it is essential for HR professionals and business owners to stay informed and prepared for potential adjustments.
+Employers should be aware that the DOL is considering additional changes that could further impact employee classification, including potential modifications to the duties test used to determine exemption eligibility. However, any changes to the duties test are still speculative and have not been definitively announced, so it is essential for HR professionals and business owners to stay informed and prepared for potential adjustments.
 
 ### Action Items for Employers
 

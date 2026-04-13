@@ -11,9 +11,9 @@ OSHA recordkeeping requirements apply to most employers with 11 or more employee
 
 ## Who Must Keep Records
 
-Most employers with 11 or more employees at any time during the prior calendar year must maintain OSHA injury and illness records. Exemptions include:
+Most employers with 11 or more employees at any time during the prior calendar year must maintain OSHA injury and illness records. However, there are specific exemptions to this requirement, including:
 
-- Employers with 10 or fewer employees throughout the prior year (though they must still report certain severe injuries)
+- Employers with 10 or fewer employees throughout the prior year (though they must still report certain severe injuries, such as fatalities, in-patient hospitalizations, amputations, and losses of an eye)
 - Establishments in specific low-hazard industries listed in OSHA's partially exempt industries list (updated periodically). Even partially exempt employers must report fatalities, hospitalizations, amputations, and losses of an eye.
 
 ## Required Forms
@@ -40,7 +40,7 @@ An annual summary that must be:
 
 - Completed based on the year's Form 300 data
 - Certified by a company executive
-- Posted in a visible location from February 1 through April 30 of the following year
+- Posted continuously in a visible location from February 1 through April 30 of the following year
 - Made available to employees and their representatives upon request
 
 ## What Is Recordable

@@ -23,11 +23,11 @@ The Department of Labor considers whether the volunteer received anything of val
 
 Courts examine the totality of circumstances when determining volunteer status. Relevant factors include the degree of control the organization exercises over the individual, whether the individual has the ability to decline assignments without consequence, whether the individual receives regular compensation or only nominal perquisites, and whether the individual's participation is truly voluntary.
 
-Stipends present particular challenges. While small stipends intended to cover incidental expenses generally do not convert a volunteer into an employee, stipends that approximate what the individual would earn as an employee suggest an employment relationship. The DOL considers stipends exceeding 20 percent of what an employee would earn for similar work to be potentially problematic.
+Stipends present particular challenges. While small stipends intended to cover incidental expenses generally do not convert a volunteer into an employee, stipends that approximate what the individual would earn as an employee may suggest an employment relationship. The DOL does not establish a specific percentage threshold universally recognized for stipends, and the determination is based on the totality of circumstances.
 
 ## State Law Considerations
 
-State wage and hour laws may impose additional restrictions on volunteer arrangements. Some states define employees more broadly than the FLSA, potentially capturing individuals who would qualify as volunteers under federal law. California, for example, applies the ABC test for worker classification under certain statutes, which can be difficult for volunteer arrangements to satisfy.
+State wage and hour laws may impose additional restrictions on volunteer arrangements. Some states define employees more broadly than the FLSA, potentially capturing individuals who would qualify as volunteers under federal law. California, for example, applies the ABC test for worker classification under specific statutes, which may not apply universally to all volunteer classifications and can be difficult for volunteer arrangements to satisfy.
 
 Nonprofit employers should research the specific volunteer laws in each state where they operate, as state laws may require additional protections such as workers' compensation coverage for volunteers or limits on volunteer working hours.
 

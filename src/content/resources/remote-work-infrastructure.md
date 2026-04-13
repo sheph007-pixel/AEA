@@ -41,9 +41,9 @@ Employees need access to company documents without compromising security:
 
 Purchasing equipment for every remote employee adds up quickly. Consider these approaches:
 
-- **Allow employees to use personal devices** with a stipend for upgrades. A monthly stipend of $50-$100 helps employees maintain adequate equipment without the company purchasing full workstations.
-- **Purchase refurbished laptops.** Business-grade refurbished machines from reputable vendors cost 40-60% less than new equipment and are perfectly adequate for most office work.
-- **Prioritize peripherals.** A quality headset ($30-$60) and external webcam ($40-$70) dramatically improve meeting quality and are relatively inexpensive.
+- **Allow employees to use personal devices** with a stipend for upgrades. A monthly stipend of $50-$100 may help employees maintain adequate equipment without the company purchasing full workstations.
+- **Purchase refurbished laptops.** Business-grade refurbished machines from reputable vendors may cost 40-60% less than new equipment and are generally adequate for most office work.
+- **Prioritize peripherals.** A quality headset ($30-$60) and external webcam ($40-$70) may dramatically improve meeting quality and are relatively inexpensive.
 
 ## Security on a Budget
 
@@ -58,7 +58,7 @@ Remote work introduces security risks that must be addressed:
 
 Not every employee has business-grade internet at home. Options to consider:
 
-- **Internet stipends:** Offering $50-$75 per month toward internet costs is common and often cheaper than maintaining office space.
+- **Internet stipends:** Offering $50-$75 per month toward internet costs may be common and often cheaper than maintaining office space.
 - **Mobile hotspot backup:** A prepaid mobile hotspot plan provides a fallback when home internet goes down, typically $30-$50 per month.
 
 ## Building Your Budget
@@ -71,7 +71,7 @@ A practical small business remote work setup might look like this per employee:
 - Password manager: $0-$4/month
 - VPN solution: $0-$10/month
 
-This puts the total ongoing cost at roughly $60-$100 per employee per month, plus initial hardware costs. For many businesses, this is substantially less than the per-employee cost of maintaining physical office space.
+This puts the total ongoing cost at roughly $60-$100 per employee per month, plus initial hardware costs. For many businesses, this may be substantially less than the per-employee cost of maintaining physical office space.
 
 ## Implementation Tips
 

@@ -13,12 +13,12 @@ Wage garnishments are court-ordered or government-ordered deductions from an emp
 
 The most common types of wage garnishments employers encounter include:
 
-- **Child support orders**: Issued by state agencies or courts, these take priority over most other garnishments
-- **Federal tax levies**: Issued by the IRS for unpaid federal taxes
-- **State tax levies**: Issued by state tax agencies
-- **Creditor garnishments**: Court orders for unpaid debts such as credit cards, medical bills, or loans
-- **Federal student loan garnishments**: Administrative wage garnishment by the Department of Education or its servicers
-- **Bankruptcy orders**: Court orders related to bankruptcy proceedings
+- **Child support orders**: Issued by state agencies or courts, these take priority over most other garnishments.
+- **Federal tax levies**: Issued by the IRS for unpaid federal taxes.
+- **State tax levies**: Issued by state tax agencies.
+- **Creditor garnishments**: Court orders for unpaid debts such as credit cards, medical bills, or loans.
+- **Federal student loan garnishments**: Administrative wage garnishment by the Department of Education or its servicers.
+- **Bankruptcy orders**: Court orders related to bankruptcy proceedings.
 
 ## Federal Limits on Garnishment
 
@@ -26,7 +26,7 @@ The Consumer Credit Protection Act (CCPA) limits the amount that can be garnishe
 
 - **Ordinary creditor garnishments**: Limited to the lesser of a percentage of disposable earnings or the amount by which disposable earnings exceed a multiple of the federal minimum wage per week. Check the current CCPA limits and federal minimum wage to calculate the applicable thresholds.
 - **Child support and alimony**: Higher percentages are allowed than for ordinary creditors, with the exact limit depending on whether the employee supports another spouse or child and whether payments are in arrears. Consult the current CCPA provisions for specific percentages.
-- **Federal tax levies**: Follow the IRS exempt amount tables (currently published in IRS Publication 1494), which consider filing status and exemptions
+- **Federal tax levies**: Follow the IRS exempt amount tables (currently published in IRS Publication 1494), which consider filing status and exemptions.
 - **Federal student loans**: Subject to a separate percentage cap on disposable earnings. Verify the current limit with the Department of Education.
 
 Disposable earnings are what remains after legally required deductions such as taxes and Social Security.
@@ -35,23 +35,23 @@ Disposable earnings are what remains after legally required deductions such as t
 
 When you receive a garnishment order:
 
-1. Verify the order is valid (issued by a court or authorized government agency)
-2. Identify the employee and confirm they work for you
-3. Respond to the order within the required timeframe (typically 10-30 days depending on the type)
-4. Calculate the correct garnishment amount based on the applicable limits
-5. Begin withholding from the employee's next paycheck or as specified in the order
-6. Remit garnished amounts to the designated recipient on time
-7. Continue withholding until you receive a release or the debt is satisfied
-8. Notify the employee of the garnishment as required
+1. Verify the order is valid (issued by a court or authorized government agency).
+2. Identify the employee and confirm they work for you.
+3. Respond to the order within the required timeframe (typically 10-30 days depending on the type).
+4. Calculate the correct garnishment amount based on the applicable limits.
+5. Begin withholding from the employee's next paycheck or as specified in the order.
+6. Remit garnished amounts to the designated recipient on time.
+7. Continue withholding until you receive a release or the debt is satisfied.
+8. Notify the employee of the garnishment as required.
 
 ## Handling Multiple Garnishments
 
 When an employee has multiple garnishments, priority rules apply:
 
-- Child support generally takes first priority
-- Federal tax levies typically take second priority
-- State tax levies and other creditor garnishments follow
-- The total garnishment cannot exceed the CCPA limits (though child support can be taken in addition to creditor garnishments up to applicable limits)
+- Child support generally takes first priority.
+- Federal tax levies typically take second priority.
+- State tax levies and other creditor garnishments follow.
+- The total garnishment must comply with CCPA limits, and while child support has priority, it must still adhere to these limits. Employers should consult the specific legal text for clarification.
 
 Consult the specific laws in your state, as priority rules can vary.
 
@@ -59,9 +59,11 @@ Consult the specific laws in your state, as priority rules can vary.
 
 Key legal protections and obligations for employers:
 
-- You cannot terminate an employee because of a single garnishment order (CCPA protection, though this does not extend to multiple garnishments under federal law—some states provide broader protection)
-- You may charge administrative fees for processing garnishments in some states
-- You must comply with the order even if you disagree with it
-- Failure to withhold can make you liable for the amount you should have withheld
-- Keep records of all garnishment orders, calculations, and payments
-- Respond to interrogatories or information requests promptly
+- You cannot terminate an employee because of a single garnishment order (CCPA protection). However, while federal law provides certain protections, state laws may offer additional protections or different interpretations regarding multiple garnishments.
+- You may charge administrative fees for processing garnishments in some states.
+- You must comply with the order even if you disagree with it.
+- Failure to withhold can make you liable for the amount you should have withheld.
+- Keep records of all garnishment orders, calculations, and payments.
+- Respond to interrogatories or information requests promptly.
+
+---

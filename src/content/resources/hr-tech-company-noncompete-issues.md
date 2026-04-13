@@ -11,13 +11,13 @@ author: "AEA Editorial Team"
 
 Technology companies have historically relied on noncompete agreements to protect proprietary information and retain talent. However, the legal landscape has shifted dramatically in recent years. Several states have enacted laws restricting or banning noncompete agreements, and federal regulatory efforts have added further uncertainty.
 
-California has long prohibited noncompete agreements under Business and Professions Code Section 16600, making them void and unenforceable with very limited exceptions. Other states including Oklahoma, North Dakota, Colorado, Minnesota, and Washington have enacted significant restrictions. Oregon limits noncompetes to employees earning above a specified income threshold and restricts their duration to 18 months.
+California has long prohibited noncompete agreements under Business and Professions Code Section 16600, making them void and unenforceable with very limited exceptions. Other states including Oklahoma, North Dakota, Colorado, Minnesota, and Washington have enacted significant restrictions. Oregon limits noncompetes to employees earning above an income threshold of $100,533 and restricts their duration to 18 months.
 
 ## State-by-State Restrictions
 
-The patchwork of state laws creates complex compliance challenges for technology companies with distributed workforces. Colorado's law, effective August 2022, prohibits noncompetes for employees earning below a certain threshold adjusted annually and requires separate agreements signed by the employee. Illinois prohibits noncompetes for employees earning $75,000 or less annually and requires the employee to receive adequate consideration.
+The patchwork of state laws creates complex compliance challenges for technology companies with distributed workforces. Colorado's law, effective August 2022, prohibits noncompetes for employees earning below an annual threshold of $101,250, which is adjusted annually, and requires separate agreements signed by the employee. Illinois prohibits noncompetes for non-exempt employees earning $75,000 or less annually and requires the employee to receive adequate consideration.
 
-Washington State limits noncompetes to employees earning over $100,000 annually (adjusted for inflation), caps their duration at 18 months, and requires employers to disclose the terms at or before the time of hiring. Companies must determine which state's law applies to each employee, considering both the employer's location and the employee's work location.
+Washington State limits noncompetes to employees in certain roles earning over $100,000 annually (adjusted for inflation), caps their duration at 18 months, and requires employers to disclose the terms at or before the time of hiring. Companies must determine which state's law applies to each employee, considering both the employer's location and the employee's work location.
 
 ## Protecting Intellectual Property Without Noncompetes
 

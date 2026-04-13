@@ -15,11 +15,11 @@ Employers have a responsibility to address ergonomic risks for their hybrid work
 
 ## Legal Framework
 
-OSHA's General Duty Clause requires employers to provide a workplace free from recognized hazards, and OSHA has stated that this obligation extends to home offices for telecommuting employees. However, OSHA has also indicated that it will not conduct inspections of home offices and will not hold employers liable for home office conditions they did not create. This creates a gray area that employers should navigate proactively.
+OSHA's General Duty Clause requires employers to provide a workplace free from recognized hazards. While OSHA has indicated that this obligation may extend to home offices for telecommuting employees, it does not specifically enforce ergonomic standards in these settings. OSHA has also stated that it will not conduct inspections of home offices and will not hold employers liable for home office conditions they did not create. This creates a gray area that employers should navigate proactively.
 
-Workers' compensation is clearer: injuries that occur while performing work duties are generally compensable regardless of location. An employee who develops carpal tunnel syndrome from typing at an improper workstation at home can file a workers' compensation claim, and in most cases it will be covered.
+Workers' compensation is clearer: injuries that occur while performing work duties are generally compensable regardless of location. An employee who develops carpal tunnel syndrome from typing at an improper workstation at home can file a workers' compensation claim, and in most cases, it will be covered.
 
-State-specific requirements vary. California's Cal/OSHA has specific ergonomic standards, and some states have additional guidance on employer obligations for remote workspaces.
+State-specific requirements vary. California's Cal/OSHA has specific ergonomic standards that generally apply to workplaces, including remote workspaces. Employers should familiarize themselves with these standards, which may include guidelines on workstation setup and equipment to minimize ergonomic risks.
 
 ## Practical Steps for Employers
 
@@ -41,7 +41,7 @@ Consider providing or subsidizing essential ergonomic equipment for home workspa
 - **Chairs**: A supportive office chair is the most significant ergonomic investment. While providing chairs for every remote employee may be costly, a stipend toward chair purchase is a reasonable alternative.
 - **Monitor stands or laptop risers**: These simple, inexpensive devices raise screen height to reduce neck strain.
 
-Many employers provide a one-time home office stipend ($200-$500) that employees can use toward ergonomic equipment of their choice. Others maintain a catalog of approved equipment that employees can order through the company.
+Employers may consider providing a one-time home office stipend that employees can use toward ergonomic equipment of their choice. Others maintain a catalog of approved equipment that employees can order through the company.
 
 ### Offer Ergonomic Assessments
 

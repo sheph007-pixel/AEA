@@ -25,7 +25,7 @@ Existing plans are not required to add automatic enrollment, but it remains a be
 
 Starting in 2025, employees aged 60 through 63 can make enhanced catch-up contributions above the standard catch-up limit. For 401(k) plans, the enhanced limit is the greater of $10,000 or 150% of the standard catch-up contribution limit.
 
-Additionally, catch-up contributions for participants earning over $145,000 must be designated as Roth contributions. This Roth catch-up requirement was originally effective January 2024 but was delayed by IRS guidance to January 2026.
+Additionally, catch-up contributions for participants earning over $145,000 must be designated as Roth contributions. This Roth catch-up requirement applies to contributions made in 2024 and beyond, as per IRS guidance.
 
 ### Small Employer Tax Credits
 
@@ -46,7 +46,7 @@ Employers may offer pension-linked emergency savings accounts within their retir
 
 ### Required Minimum Distribution Changes
 
-The age for required minimum distributions increased to 73 in 2023 and will increase to 75 in 2033. This affects plan administration and participant communications.
+The age for required minimum distributions increased to 73 for individuals who reach age 72 after December 31, 2022, and will increase to 75 in 2033. This affects plan administration and participant communications.
 
 ### Part-Time Worker Eligibility
 

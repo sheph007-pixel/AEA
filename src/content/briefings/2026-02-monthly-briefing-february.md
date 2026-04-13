@@ -24,15 +24,15 @@ Common areas where errors arise include:
 - Failure to account for mid-year changes in employee status, such as transitions between full-time and part-time.
 - Inaccurate reporting of employee share of the lowest-cost self-only coverage on Line 15.
 
-Employers should verify current year deadlines with the IRS for both electronic and paper filing of Forms 1094-C and 1095-C. Electronic filing is generally required for employers filing above the applicable threshold of information returns and is strongly recommended for accuracy and receipt confirmation. Employers should check current IRS guidance on the electronic filing threshold.
+Employers should verify current year deadlines with the IRS for both electronic and paper filing of Forms 1094-C and 1095-C. For the 2025 tax year, the deadlines are as follows: paper filing is due by February 28, 2026, and electronic filing is due by March 31, 2026. Electronic filing is generally required for employers filing above the applicable threshold of information returns and is strongly recommended for accuracy and receipt confirmation. Employers should check current IRS guidance on the electronic filing threshold.
 
 ## OSHA 300A Posting Requirements
 
-February 1 generally marks the date by which employers required to maintain OSHA injury and illness records must post the OSHA Form 300A — the Summary of Work-Related Injuries and Illnesses — in a conspicuous location in the workplace. The form generally must remain posted through April 30. Employers should verify the current requirements with OSHA.
+February 1 generally marks the date by which employers required to maintain OSHA injury and illness records must post the OSHA Form 300A — the Summary of Work-Related Injuries and Illnesses — in a conspicuous location in the workplace. It is important to note that February 1 is the deadline for posting the 300A form for the previous calendar year, and the form generally must remain posted through April 30. Employers should verify the current requirements with OSHA.
 
 The 300A summarizes the total number of work-related injuries and illnesses recorded on the OSHA 300 Log during the prior calendar year. It must be signed and certified by a company executive.
 
-Employers covered by OSHA's recordkeeping requirements — generally those above a certain employee count threshold in industries not exempt from recordkeeping — must comply. Certain employers in high-hazard industries may also be required to electronically submit their 300A data to OSHA through the Injury Tracking Application (ITA). Employers should check OSHA's current guidance on which establishments are covered by the electronic submission requirement and the applicable submission deadline.
+Employers covered by OSHA's recordkeeping requirements — generally those with 10 or more employees in industries not exempt from recordkeeping — must comply. Certain employers in high-hazard industries may also be required to electronically submit their 300A data to OSHA through the Injury Tracking Application (ITA). Employers should check OSHA's current guidance on which establishments are covered by the electronic submission requirement and the applicable submission deadline.
 
 Failure to post the 300A or submit data electronically when required can result in citations and penalties. This is one of the most commonly cited OSHA violations, and it is generally preventable with basic calendar management.
 

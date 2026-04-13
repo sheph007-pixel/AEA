@@ -29,7 +29,7 @@ As the employer, you may not require that notice come in any particular form. An
 
 ### Duration
 
-USERRA's reemployment rights apply to cumulative absences of up to five years with any single employer. Certain categories of service are exempt from the five-year limit, including initial enlistments lasting more than five years, required training, service during national emergencies, and service under involuntary orders.
+USERRA's reemployment rights apply to cumulative absences of up to five years with any single employer. However, certain categories of service, such as initial enlistments lasting more than five years, required training, service during national emergencies, and service under involuntary orders, may exempt employees from the five-year cumulative absence limit.
 
 ### Pay During Leave
 

@@ -14,7 +14,7 @@ Under these anticipated guidelines, employers may be encouraged to establish cle
 
 ### Key Changes and Implications
 
-One of the most significant anticipated changes is the clarification of employee classification and compensation for remote workers. Employers should ensure that remote employees receive benefits and protections that are consistent with existing applicable laws, which generally apply to all employees regardless of work location. This may include overtime pay, meal and rest breaks, and reimbursement for work-related expenses. However, it is important to note that specific requirements may vary by state and individual employment agreements.
+One of the most significant anticipated changes is the clarification of employee classification and compensation for remote workers. Employers should ensure that remote employees receive benefits and protections that are consistent with existing applicable laws, such as the Fair Labor Standards Act (FLSA) for overtime and minimum wage, which generally apply to all employees regardless of work location. This may include overtime pay, meal and rest breaks, and reimbursement for work-related expenses. However, it is important to note that specific requirements may vary by state and individual employment agreements.
 
 Additionally, the anticipated guidelines may encourage employers to conduct regular assessments of their remote work policies. This includes gathering employee feedback and making necessary adjustments to ensure that remote work arrangements contribute positively to employee morale and productivity. Employers are encouraged to implement regular check-ins and performance reviews to monitor the effectiveness of their remote work strategies.
 

@@ -17,11 +17,11 @@ Employers must navigate a patchwork of state laws that vary dramatically in the 
 
 State laws fall into several broad categories:
 
-**No employment protections.** Some states have legalized cannabis but provide no protections for employees. Employers in these states can generally continue to test for marijuana and make employment decisions based on positive results.
+**No employment protections.** Some states have legalized cannabis but provide no protections for employees. Employers in these states can generally continue to test for marijuana and make employment decisions based on positive results, but they should be aware of any local ordinances or regulations that may impose additional restrictions.
 
 **Medical cannabis protections.** Many states prohibit employers from discriminating against employees or applicants who are registered medical cannabis users, with exceptions for safety-sensitive positions and situations where accommodation would violate federal law. States in this category include Arizona, Connecticut, Delaware, Illinois, Minnesota, New York, and Pennsylvania, among others.
 
-**Off-duty use protections.** A growing number of states prohibit employers from taking adverse action based on off-duty cannabis use. California's AB 2188 (effective January 2024) prohibits employment discrimination based on off-duty marijuana use and bars employers from using hair or urine tests that detect non-psychoactive cannabis metabolites, as these indicate past use rather than current impairment. Washington and other states have similar protections.
+**Off-duty use protections.** A growing number of states prohibit employers from taking adverse action based on off-duty cannabis use. California's AB 2188 (effective January 2024) prohibits employment discrimination based on off-duty marijuana use and restricts the use of certain testing methods in the context of employment decisions related to off-duty use, but it does not outright ban all forms of testing. Washington and other states have similar protections.
 
 **Pre-employment testing restrictions.** Some jurisdictions, including New York City and Philadelphia, restrict or prohibit pre-employment marijuana testing for most positions.
 

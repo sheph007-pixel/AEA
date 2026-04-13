@@ -16,8 +16,8 @@ April is a month for employers to shift from first-quarter execution to second-q
 
 The end of Q1 is a natural checkpoint for employers to verify that recurring compliance obligations have been satisfied and to address any gaps before they compound. Employers should confirm the following:
 
-- **ACA filings.** Applicable large employers are generally required to file Forms 1094-C and 1095-C with the IRS and furnish copies to employees by the applicable deadlines. Employers should verify the current filing deadlines, which may shift from year to year, and file as soon as possible if any deadlines were missed. Those who received IRS rejection notices should review and correct the errors promptly.
-- **OSHA 300A posting.** The OSHA 300A summary generally must remain posted in the workplace through the end of the required posting period. Employers should verify the current posting deadline and confirm that any required electronic submissions to OSHA were accepted.
+- **ACA filings.** Applicable large employers are generally required to file Forms 1094-C and 1095-C with the IRS and furnish copies to employees by the applicable deadlines. For the 2026 tax year, the deadlines are generally March 31 for electronic submissions and February 28 for paper submissions. Employers should verify these deadlines and file as soon as possible if any deadlines were missed. Those who received IRS rejection notices should review and correct the errors promptly.
+- **OSHA 300A posting.** The OSHA 300A summary generally must remain posted in the workplace from February 1 to April 30 each year. Employers should verify this posting deadline and confirm that any required electronic submissions to OSHA were accepted.
 - **State filings and reports.** Employers should verify that all state-specific Q1 reports have been filed, including quarterly wage and tax reports, paid leave program contributions, and new hire reports.
 - **Handbook updates.** Any policy changes that were identified in Q1 but not yet implemented should be prioritized. Employee handbooks should reflect all current legal requirements, and employees should be notified of material changes.
 
@@ -70,16 +70,4 @@ Employers who engage with these legislative processes — through industry assoc
 Immigration enforcement and employer compliance continue to be areas of significant activity in 2026. Employers should be aware of the following:
 
 - **I-9 audits.** Worksite enforcement actions, including I-9 audits conducted by Immigration and Customs Enforcement (ICE), remain an active compliance risk. Employers should maintain audit-ready I-9 files and have a response plan in place for handling Notices of Inspection.
-- **E-Verify.** Employers that are required to use E-Verify — which may include federal contractors and employers in states with mandatory E-Verify laws — should verify that their E-Verify accounts are active, that designated users are current, and that cases are being created within the required timeframes. Requirements vary by state, and employers should verify their specific obligations.
-- **Work visa processing.** Employers sponsoring employees for work visas should monitor USCIS processing times, fee schedules, and any policy changes that may affect petition filing strategies. Employers should consult qualified immigration counsel regarding applicable deadlines and filing requirements.
-- **Anti-discrimination compliance.** While employers must verify work authorization, they must also avoid discrimination in the I-9 and hiring process. The Immigrant and Employee Rights Section (IER) of the Department of Justice enforces anti-discrimination provisions of the Immigration and Nationality Act, including prohibitions on citizenship status and national origin discrimination in hiring, firing, and document verification.
-
-Employers should approach immigration compliance as both a legal obligation and a workforce management issue. Maintaining compliant, well-documented processes protects the employer and supports workforce stability.
-
-## Looking Ahead
-
-Employers should monitor developments in the coming months, which may include the conclusion of many state legislative sessions, the beginning of summer operational adjustments, and continued regulatory activity at the federal level. Employers who use April to take stock, plan ahead, and address any Q1 compliance gaps may be better positioned for the second half of the year.
-
----
-
-*This briefing is prepared by the AEA Editorial Team based on publicly available regulatory guidance, employment law developments, and employer-reported trends. Individual data from AEA members is never disclosed. All analysis reflects general observations and should not be treated as legal advice. Consult qualified counsel for guidance on specific situations.*
+- **E-Verify.** Employers that are required to use E-Verify — which may include federal contractors and employers in states with mandatory E-Verify

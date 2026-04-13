@@ -11,11 +11,11 @@ author: "AEA Editorial Team"
 
 The Employee Retention Credit (ERC) was created as part of the CARES Act in 2020 to help employers retain employees during the COVID-19 pandemic. It was later expanded and extended through the end of 2021. The credit provided eligible employers up to $5,000 per employee for 2020 and up to $7,000 per employee per quarter for the first three quarters of 2021.
 
-By 2023, the ERC has become one of the most complicated and contentious tax provisions in recent memory. The IRS placed a moratorium on processing new claims in September 2023 due to a flood of questionable claims driven by aggressive third-party promoters. Employers need to understand where things stand.
+By 2023, the ERC has become one of the most complicated and contentious tax provisions in recent memory. The IRS placed a moratorium on processing new claims filed after September 2023 due to a flood of questionable claims driven by aggressive third-party promoters. Employers need to understand where things stand.
 
 ## Eligibility Basics
 
-An employer was eligible for the ERC if, during the relevant period, it either experienced a full or partial suspension of operations due to a government order related to COVID-19, or it experienced a significant decline in gross receipts compared to the same quarter in 2019. The decline threshold was 50% for 2020 and 20% for 2021.
+An employer was eligible for the ERC if, during the relevant period, it either experienced a full or partial suspension of operations due to a government order related to COVID-19, or it experienced a significant decline in gross receipts compared to the same quarter in 2019. The decline threshold was 50% for 2020 and 20% for the first two quarters of 2021, and 10% for the third and fourth quarters of 2021.
 
 The credit applies to qualified wages paid to employees. For employers with 500 or fewer full-time employees in 2019, qualified wages include wages paid to all employees during the eligible period, regardless of whether they were working. For larger employers, the credit was limited to wages paid to employees who were not providing services.
 
@@ -43,7 +43,7 @@ The IRS moratorium means that new claims filed after September 2023 face indefin
 
 ## The Withdrawal Option
 
-If you filed an ERC claim that has not yet been processed and you now believe you may not be eligible, the IRS allows you to withdraw the claim. Withdrawal means the IRS will treat the claim as if it was never filed. You will not receive the credit, but you will also not face penalties or interest. This is the cleanest option for employers who were misled by promoters.
+If you filed an ERC claim that has not yet been processed and you now believe you may not be eligible, the IRS allows you to withdraw the claim. Withdrawal means the IRS will treat the claim as if it was never filed. You will not receive the credit, but you will also not face penalties or interest. This is the cleanest option for employers who were misled by promoters. Employers should ensure they follow the specific steps outlined by the IRS for withdrawal and be mindful of any deadlines that may apply.
 
 ## The Voluntary Disclosure Program
 

@@ -35,9 +35,9 @@ Before implementing solutions, understand what is driving your costs:
 
 ### Alternative Funding Arrangements
 
-**Self-funding.** Employers with 50 or more employees may benefit from self-funding (self-insurance), where the employer pays claims directly rather than paying a fixed premium to an insurer. Self-funded plans offer greater flexibility in plan design, access to claims data, and potential savings by eliminating insurer profit margins. Stop-loss insurance limits the employer's exposure to catastrophic claims.
+**Self-funding.** Employers with 50 or more employees may generally benefit from self-funding (self-insurance), where the employer pays claims directly rather than paying a fixed premium to an insurer. However, employers with fewer than 50 employees can also consider self-funding, though they should be aware of different regulatory requirements. Self-funded plans offer greater flexibility in plan design, access to claims data, and potential savings by eliminating insurer profit margins. Stop-loss insurance limits the employer's exposure to catastrophic claims.
 
-**Level-funded plans.** A hybrid between fully insured and self-funded, level-funded plans provide monthly fixed costs with the possibility of refunds if claims are lower than expected. These are increasingly popular among employers with 25-100 employees.
+**Level-funded plans.** A hybrid between fully insured and self-funded, level-funded plans are generally more suitable for mid-sized employers and provide monthly fixed costs with the possibility of refunds if claims are lower than expected. These plans may be available to employers with varying employee counts, typically focusing on those with 50 or more employees.
 
 **Individual Coverage HRAs (ICHRAs).** ICHRAs allow employers to provide tax-free reimbursements for employees to purchase their own individual health insurance. This shifts the employer's obligation from sponsoring a group plan to providing a defined contribution. ICHRAs eliminate the risk of adverse claims experience and give employees choice in their coverage.
 

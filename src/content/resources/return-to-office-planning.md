@@ -34,24 +34,24 @@ Before setting dates, evaluate whether your workplace and organization are prepa
 A phased approach lets you test and adjust before reaching full capacity:
 
 **Phase 1: Voluntary return (10-25% capacity)**
-- Open the office to employees who want to return and whose roles benefit from on-site work
-- Test new safety protocols, cleaning procedures, and traffic flow with a small group
-- Gather feedback and adjust before expanding
+- Open the office to employees who want to return and whose roles benefit from on-site work.
+- Test new safety protocols, cleaning procedures, and traffic flow with a small group.
+- Gather feedback and adjust before expanding.
 
 **Phase 2: Prioritized return (25-50% capacity)**
-- Bring back roles that are most effective on-site (client-facing, equipment-dependent, collaborative teams)
-- Implement rotating schedules so teams alternate days in the office
-- Continue to allow fully remote work for roles that do not require on-site presence
+- Bring back roles that are most effective on-site (client-facing, equipment-dependent, collaborative teams).
+- Implement rotating schedules so teams alternate days in the office.
+- Continue to allow fully remote work for roles that do not require on-site presence.
 
 **Phase 3: Broad return (50-75% capacity)**
-- Expand on-site availability to most employees
-- Transition to a hybrid model where employees split time between office and home
-- Evaluate whether pre-pandemic office capacity is still necessary
+- Expand on-site availability to most employees.
+- Transition to a hybrid model where employees split time between office and home.
+- Evaluate whether pre-pandemic office capacity is still necessary.
 
 **Phase 4: New normal**
-- Establish long-term hybrid policies based on what you learned during the phased return
-- Right-size your physical workspace based on actual usage patterns
-- Formalize flexible work arrangements as permanent options
+- Establish long-term hybrid policies based on what you learned during the phased return.
+- Right-size your physical workspace based on actual usage patterns.
+- Formalize flexible work arrangements as permanent options.
 
 ## Addressing Employee Concerns
 
@@ -64,8 +64,8 @@ Employees may resist returning for a variety of valid reasons:
 
 ## Legal Considerations
 
-- **ADA accommodations:** Employees with disabilities that place them at higher risk may request continued remote work as a reasonable accommodation. Engage in the interactive process.
-- **Retaliation protections:** Employees who raise safety concerns are protected under OSHA's whistleblower provisions. Never discipline or terminate an employee for raising good-faith safety concerns.
+- **ADA accommodations:** Employees with disabilities that place them at higher risk may request continued remote work as a reasonable accommodation. Employers should engage in the interactive process to assess each request on a case-by-case basis.
+- **Retaliation protections:** Employees who raise safety concerns are protected under OSHA's whistleblower provisions, which apply specifically to reporting violations of safety regulations. Employers should never discipline or terminate an employee for raising good-faith safety concerns.
 - **Consistent application:** Apply return-to-work policies consistently to avoid discrimination claims. Document business reasons for any role-based distinctions.
 - **State and local orders:** Ensure your return plan complies with any active occupancy restrictions or workplace safety orders in your jurisdiction.
 

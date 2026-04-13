@@ -23,16 +23,16 @@ Georgia law does provide certain protections specific to the state. Employers ma
 
 Georgia requires employers with three or more employees, including part-time workers, to carry workers' compensation insurance under OCGA Title 34, Chapter 9. Coverage must be obtained through authorized insurance carriers or approved self-insurance plans. Corporate officers and LLC members may elect to be excluded from coverage.
 
-Georgia's State Board of Workers' Compensation administers the system and has specific requirements for posting notices, reporting injuries, and responding to claims. Employers must file a First Report of Injury (Form WC-1) within 21 days of learning of a workplace injury.
+Georgia's State Board of Workers' Compensation administers the system and has specific requirements for posting notices, reporting injuries, and responding to claims. Employers must file a First Report of Injury (Form WC-1) within 30 days of learning of a workplace injury.
 
 ## Wage and Hour Considerations
 
-Georgia's state minimum wage is below the federal minimum wage, so the federal rate applies to employees covered by the FLSA. Employees not covered by the FLSA may be subject to the lower state rate, though this affects very few workers. Verify the current federal and Georgia state minimum wage rates. Georgia does not have state overtime requirements beyond the federal FLSA.
+Georgia's state minimum wage is equal to the federal minimum wage, so the federal rate applies to employees covered by the FLSA. Employees not covered by the FLSA may be subject to the lower state rate, though this affects very few workers. Employers should verify the current federal and Georgia state minimum wage rates. Georgia does not have state overtime requirements beyond the federal FLSA.
 
 Georgia does not require employers to provide meal or rest breaks to adult employees. However, employers must comply with federal child labor laws and FLSA requirements regarding breaks for minors. Georgia also has no state law requiring final paychecks within a specific timeframe, though federal law and common practices dictate prompt payment.
 
 ## Drug Testing and Background Checks
 
-Georgia employers have broad discretion to implement drug testing programs. The Georgia Drug-Free Workplace Act allows employers to establish drug-free workplace policies and conduct testing of applicants and employees. Employers who maintain certified drug-free workplace programs may receive a discount on workers' compensation premiums. Verify the current discount percentage with the Georgia State Board of Workers' Compensation.
+Georgia employers have broad discretion to implement drug testing programs. The Georgia Drug-Free Workplace Act allows employers to establish drug-free workplace policies and conduct testing of applicants and employees. Employers who maintain certified drug-free workplace programs may receive a discount on workers' compensation premiums. Employers should verify the current discount percentage with the Georgia State Board of Workers' Compensation.
 
 Georgia's Second Chance Act, effective July 1, 2021, limits certain public employers from inquiring about criminal history on initial job applications. Private employers in Georgia face few state-level restrictions on background checks beyond federal FCRA requirements.

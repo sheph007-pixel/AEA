@@ -32,10 +32,10 @@ Organizations anticipating new federal contract awards in Q1 should also prepare
 
 The Affordable Care Act reporting season is upon us. Applicable large employers (ALEs) — generally those with 50 or more full-time equivalent employees — must furnish Form 1095-C to employees and file Forms 1094-C and 1095-C with the IRS. Employers should be assembling the data needed for these filings now, including tracking monthly offers of coverage, employee enrollment status, and affordability safe harbor calculations.
 
-Employers should check IRS guidance for current deadlines applicable to the 2025 tax year filings:
+For the 2025 tax year, employers should adhere to the following deadlines:
 
-- **Furnishing to employees:** Employers should check IRS guidance for the current deadline to distribute 1095-C forms to individuals. The IRS has in prior years adjusted this date, so employers should watch for any formal notices regarding the applicable deadline.
-- **Filing with the IRS:** Employers should verify current year deadlines with the IRS for both electronic and paper filing of Forms 1094-C and 1095-C. Electronic filing requirements apply to employers filing above the applicable threshold of information returns.
+- **Furnishing to employees:** Employers must furnish Form 1095-C to employees by March 2, 2026.
+- **Filing with the IRS:** Employers must file Forms 1094-C and 1095-C with the IRS by May 31, 2026, if filing electronically, or by February 28, 2026, if filing by paper.
 
 Employers who have not yet selected a reporting vendor or begun data compilation should treat this as an urgent priority. Errors and late filings may result in penalties under the Internal Revenue Code.
 
