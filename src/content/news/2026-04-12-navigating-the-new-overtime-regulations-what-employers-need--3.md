@@ -8,7 +8,7 @@ author: "AEA Editorial Team"
 
 ## Changes to Overtime Regulations
 
-As of October 2023, the U.S. Department of Labor (DOL) has finalized new regulations regarding overtime pay under the Fair Labor Standards Act (FLSA). These changes raise the salary threshold for exempt employees, requiring employers to reassess their payroll practices and ensure compliance. The new threshold is set to increase from $35,568 to a figure that may be subject to change, impacting a significant number of employees who previously qualified as exempt.
+As of October 2023, the U.S. Department of Labor (DOL) has finalized new regulations regarding overtime pay under the Fair Labor Standards Act (FLSA). These changes raise the salary threshold for exempt employees, requiring employers to reassess their payroll practices and ensure compliance. The new threshold is set to increase from $55,068 to a figure that is not subject to change until the DOL issues further updates, impacting a significant number of employees who previously qualified as exempt.
 
 ### Implications for Employers
 
@@ -24,7 +24,7 @@ The updated salary threshold means that many employees who were not previously e
 
 4. **Communicate Changes**: Clear communication with affected employees is essential. Employers should prepare to inform employees about their status changes, explaining how it may affect their compensation and work hours. Transparency will help manage expectations and reduce potential pushback.
 
-5. **Stay Informed on Future Changes**: The DOL has indicated that they will review the salary threshold regularly. Employers should stay informed about any future amendments to ensure ongoing compliance. Joining relevant industry associations or subscribing to updates from the DOL can be beneficial for staying ahead of regulatory changes.
+5. **Stay Informed on Future Changes**: While the DOL reviews regulations periodically, there is no set schedule for changes to the salary threshold. Employers should stay informed about any future amendments to ensure ongoing compliance. Joining relevant industry associations or subscribing to updates from the DOL can be beneficial for staying ahead of regulatory changes.
 
 ### Conclusion
 

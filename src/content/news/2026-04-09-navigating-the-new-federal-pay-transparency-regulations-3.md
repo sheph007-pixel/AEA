@@ -22,7 +22,7 @@ For HR professionals and business owners, this regulatory shift necessitates a c
 
 3. **Training for Hiring Managers**: It’s essential to train hiring managers and HR personnel on the new requirements. They need to understand how to communicate pay ranges effectively and the importance of maintaining equity in compensation.
 
-4. **Review Employment Contracts**: Employers should also examine existing employment contracts to ensure they are aligned with the new transparency rules. Any clauses related to confidentiality of pay should be revisited.
+4. **Review Employment Contracts**: Employers should also examine existing employment contracts to ensure they are aligned with the new transparency rules. This includes revisiting any clauses related to the confidentiality of pay and ensuring that they comply with the requirements for pay disclosure.
 
 5. **Stay Informed**: As the DOL has indicated that further guidance may be issued, employers should keep informed about any developments that might impact compliance. Compliance deadlines may vary based on specific regulations or guidance issued by the DOL, so regularly reviewing updates from the DOL and relevant employment law resources will be vital.
 

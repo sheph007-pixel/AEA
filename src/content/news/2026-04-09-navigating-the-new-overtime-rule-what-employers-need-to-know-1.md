@@ -8,11 +8,11 @@ author: "AEA Editorial Team"
 
 ## Understanding the Updated Overtime Regulations
 
-As of October 2023, the U.S. Department of Labor (DOL) has released a proposal for an updated overtime rule that may alter the salary threshold for exempt employees. This potential change could raise the minimum salary requirement for employees to qualify for the "white-collar" exemptions under the Fair Labor Standards Act (FLSA). For HR professionals and business owners, understanding these developments is crucial for compliance and effective workforce management. The proposal is currently under review and is subject to public comment.
+As of October 2023, the U.S. Department of Labor (DOL) has released a proposal for an updated overtime rule that may alter the salary threshold for exempt employees. This potential change could raise the minimum salary requirement for employees to qualify for the "white-collar" exemptions under the Fair Labor Standards Act (FLSA). For HR professionals and business owners, understanding these developments is crucial for compliance and effective workforce management. The proposal was released for public comment in 2023 and is currently under review.
 
 ### Key Changes to Overtime Regulations
 
-The proposed rule may increase the salary threshold from the current figure of $35,568 per year, but this change is not yet finalized, and the final decision by the DOL may differ after considering public feedback. If implemented, this adjustment could mean that employees earning below this amount may become eligible for overtime pay when they work more than 40 hours in a week. This adjustment reflects an ongoing effort by the DOL to ensure that more workers receive fair compensation for their labor, particularly in an era where inflation and cost-of-living adjustments have impacted many households.
+The proposed rule may increase the salary threshold from the current figure of $684 per week, which translates to $35,568 per year. However, this change is not yet finalized, and the final decision by the DOL may differ after considering public feedback. If implemented, this adjustment could mean that employees earning below this amount may become eligible for overtime pay when they work more than 40 hours in a week. This adjustment reflects an ongoing effort by the DOL to ensure that more workers receive fair compensation for their labor, particularly in an era where inflation and cost-of-living adjustments have impacted many households.
 
 Additionally, the rule may include provisions for periodic adjustments to the salary threshold, which means employers should stay vigilant about future changes and prepare for potential increases in the coming years.
 

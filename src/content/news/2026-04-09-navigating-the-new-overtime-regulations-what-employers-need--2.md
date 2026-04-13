@@ -10,7 +10,7 @@ author: "AEA Editorial Team"
 
 In October 2023, the U.S. Department of Labor (DOL) announced proposed changes to the Fair Labor Standards Act (FLSA) regarding overtime pay, a significant regulatory development that could impact millions of workers and their employers. These changes, if finalized, would raise the salary threshold for overtime eligibility, affecting companies across various industries, particularly those with 2 to 500 employees.
 
-As of 2023, salaried employees earning less than $684 per week are entitled to overtime pay for hours worked over 40 in a workweek. The DOL's proposal aims to increase this threshold to around $1,000 per week, which translates to approximately $52,000 annually; however, this proposed threshold is not finalized and may change before implementation. This adjustment is intended to reflect the changing economic landscape and increased cost of living, ensuring that more workers receive overtime compensation.
+As of 2023, salaried employees earning less than $684 per week are entitled to overtime pay for hours worked over 40 in a workweek. The DOL's proposal aims to increase this threshold, potentially to around $1,000 per week; however, this proposed threshold is not finalized and may change before implementation. This adjustment is intended to reflect the changing economic landscape and increased cost of living, ensuring that more workers receive overtime compensation.
 
 ### Implications for Employers
 

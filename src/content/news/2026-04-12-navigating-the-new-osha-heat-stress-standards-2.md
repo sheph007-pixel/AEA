@@ -8,7 +8,7 @@ author: "AEA Editorial Team"
 
 ## Understanding the Implications of New OSHA Regulations
 
-As temperatures continue to rise in many parts of the country, the Occupational Safety and Health Administration (OSHA) is moving forward with new regulations aimed at preventing heat-related illnesses in the workplace. The status of these regulations is still developing, and while they have been proposed, a specific timeline for finalization has not yet been confirmed. Employers should remain vigilant for updates from OSHA regarding the progress of these regulations.
+As temperatures continue to rise in many parts of the country, the Occupational Safety and Health Administration (OSHA) is moving forward with new regulations aimed at preventing heat-related illnesses in the workplace. The current status of these regulations is evolving, and while they have been proposed, a specific timeline for finalization has not yet been confirmed. Employers should remain vigilant for updates from OSHA regarding the progress of these regulations.
 
 Employers need to be aware that the new regulations may necessitate proactive measures to ensure worker safety. Under the proposed rules, companies may be required to monitor heat index levels, provide access to shade and water, and develop training programs to educate employees about the signs and symptoms of heat-related illnesses.
 
@@ -16,7 +16,7 @@ Employers need to be aware that the new regulations may necessitate proactive me
 
 The proposed OSHA heat stress regulations focus on several critical components:
 
-1. **Monitoring and Reporting**: Employers may be required to monitor environmental conditions and implement heat index assessments. Any readings above a specified threshold, which OSHA has indicated may be based on the heat index, could trigger specific actions, including increased access to hydration and rest periods.
+1. **Monitoring and Reporting**: Employers may be required to monitor environmental conditions and implement heat index assessments. Any readings above a specified threshold, which OSHA has indicated may be based on the heat index, could trigger specific actions, including increased access to hydration and rest periods. However, the exact threshold is still under discussion.
 
 2. **Employee Training**: Companies may need to implement training programs aimed at educating employees about the risks of heat stress, how to recognize symptoms, and the importance of hydration and rest.
 
