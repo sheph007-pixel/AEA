@@ -35,6 +35,7 @@ export function getAllNews(): NewsItem[] {
         verified: data.verified === true,
       };
     })
+    .filter((item) => item.verified)
     .sort((a, b) => (a.date > b.date ? -1 : 1));
 }
 
@@ -47,6 +48,7 @@ export async function getNewsBySlug(slug: string): Promise<NewsItem | null> {
   if (!fs.existsSync(fullPath)) return null;
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
+  if (data.verified !== true) return null;
   const { remark } = await import('remark');
   const html = await import('remark-html');
   const processed = await remark().use(html.default).process(content);
@@ -57,7 +59,7 @@ export async function getNewsBySlug(slug: string): Promise<NewsItem | null> {
     category: data.category || 'Industry News',
     date: data.date || '2025-01-01',
     author: data.author || 'AEA Editorial Team',
-    verified: data.verified === true,
+    verified: true,
     contentHtml: processed.toString(),
   };
 }

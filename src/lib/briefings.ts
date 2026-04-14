@@ -41,6 +41,7 @@ export function getAllBriefings(): BriefingItem[] {
         verified: data.verified === true,
       };
     })
+    .filter((item) => item.verified)
     .sort((a, b) => (a.date > b.date ? -1 : 1));
 }
 
@@ -49,6 +50,7 @@ export async function getBriefingBySlug(slug: string): Promise<BriefingItem | nu
   if (!fs.existsSync(fullPath)) return null;
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
+  if (data.verified !== true) return null;
   const processedContent = await remark().use(html).process(content);
   return {
     slug,

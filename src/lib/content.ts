@@ -51,7 +51,8 @@ function loadFromDirectory(directory: string): ContentItem[] {
         featured: data.featured || false,
         verified: data.verified === true,
       };
-    });
+    })
+    .filter((item) => item.verified);
 }
 
 let _allContent: ContentItem[] | null = null;
@@ -81,6 +82,7 @@ async function loadSingleItem(slug: string): Promise<ContentItem | null> {
     if (fs.existsSync(fullPath)) {
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const { data, content } = matter(fileContents);
+      if (data.verified !== true) return null;
       const processedContent = await remark().use(html).process(content);
       return {
         slug,
