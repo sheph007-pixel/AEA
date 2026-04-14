@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 7 * * 1'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fact-check.js'
+      - 'src/content/.fact-check-report.json'
 
 permissions:
   contents: write
