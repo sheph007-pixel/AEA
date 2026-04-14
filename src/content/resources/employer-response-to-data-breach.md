@@ -5,6 +5,7 @@ category: "Technology"
 date: "2026-01-15"
 tags: ["data breach", "cybersecurity", "privacy", "compliance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Employers hold vast amounts of sensitive employee data including Social Security numbers, bank account information, medical records, and tax documents. When a data breach occurs, employers must act quickly to comply with notification laws, minimize damage, and maintain employee trust.

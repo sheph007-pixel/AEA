@@ -4,6 +4,7 @@ description: "The Department of Labor's updated overtime regulations will impact
 category: "HR Trends"
 date: "2026-04-09"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Understanding the Updated Overtime Regulations

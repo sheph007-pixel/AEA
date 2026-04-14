@@ -11,6 +11,7 @@ export interface NewsItem {
   category: string;
   date: string;
   author: string;
+  verified: boolean;
   contentHtml?: string;
 }
 
@@ -31,6 +32,7 @@ export function getAllNews(): NewsItem[] {
         category: data.category || 'Industry News',
         date: data.date || '2025-01-01',
         author: data.author || 'AEA Editorial Team',
+        verified: data.verified === true,
       };
     })
     .sort((a, b) => (a.date > b.date ? -1 : 1));
@@ -55,6 +57,7 @@ export async function getNewsBySlug(slug: string): Promise<NewsItem | null> {
     category: data.category || 'Industry News',
     date: data.date || '2025-01-01',
     author: data.author || 'AEA Editorial Team',
+    verified: data.verified === true,
     contentHtml: processed.toString(),
   };
 }

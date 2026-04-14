@@ -6,6 +6,7 @@ date: "2026-01-12"
 month: "2026-01"
 author: "AEA Editorial Team"
 tags: ["trends-report", "AI", "HR-technology", "compliance", "small-business", "2026"]
+verified: false
 ---
 
 # Employer Trends: AI-Powered HR Tools Becoming Standard

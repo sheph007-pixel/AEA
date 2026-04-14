@@ -15,6 +15,7 @@ export interface BriefingItem {
   month: string; // YYYY-MM
   author: string;
   tags: string[];
+  verified: boolean;
   contentHtml?: string;
 }
 
@@ -37,6 +38,7 @@ export function getAllBriefings(): BriefingItem[] {
         month: data.month || data.date?.substring(0, 7) || '2025-01',
         author: data.author || 'AEA Editorial Team',
         tags: data.tags || [],
+        verified: data.verified === true,
       };
     })
     .sort((a, b) => (a.date > b.date ? -1 : 1));
@@ -57,6 +59,7 @@ export async function getBriefingBySlug(slug: string): Promise<BriefingItem | nu
     month: data.month || data.date?.substring(0, 7) || '2025-01',
     author: data.author || 'AEA Editorial Team',
     tags: data.tags || [],
+    verified: data.verified === true,
     contentHtml: processedContent.toString(),
   };
 }

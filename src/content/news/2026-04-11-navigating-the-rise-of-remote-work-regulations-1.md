@@ -4,6 +4,7 @@ description: "Employers must adapt to new remote work regulations impacting work
 category: "HR Trends"
 date: "2026-04-11"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## The Shift Toward Remote Work Regulations

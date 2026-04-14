@@ -5,6 +5,7 @@ category: "Small Business"
 date: "2022-09-12"
 tags: ["hiring", "small business", "recruitment", "talent acquisition", "creative hiring"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Small businesses compete for the same talent as larger organizations but with smaller recruiting budgets, less brand recognition, and fewer resources. When traditional job postings are not generating adequate candidates, these creative strategies can help level the playing field.

@@ -5,6 +5,7 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["COBRA", "health insurance", "benefits", "compliance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 The Consolidated Omnibus Budget Reconciliation Act (COBRA) requires employers with 20 or more employees who sponsor group health plans to offer continuation of coverage to employees and their dependents who lose coverage due to certain qualifying events. COBRA compliance involves strict notice requirements and timelines that employers must follow carefully.

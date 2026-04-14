@@ -5,6 +5,7 @@ category: "Leadership"
 date: "2026-01-15"
 tags: ["succession planning", "leadership", "talent management", "retention"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## The Importance of Succession Planning

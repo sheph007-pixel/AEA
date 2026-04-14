@@ -105,6 +105,7 @@ description: "One sentence summary under 160 chars."
 category: "${category}"
 date: "${date}"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## First Section

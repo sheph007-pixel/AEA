@@ -5,6 +5,7 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["construction", "OSHA", "safety", "industry-specific"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## OSHA Construction Standards Overview

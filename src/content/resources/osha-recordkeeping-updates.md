@@ -5,6 +5,7 @@ category: "Safety"
 date: "2021-11-28"
 tags: ["OSHA", "recordkeeping", "workplace safety", "reporting", "compliance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 OSHA recordkeeping requirements apply to most employers with 11 or more employees. Proper documentation of workplace injuries and illnesses is not just a compliance obligation; it provides data that drives safety improvements and protects you in the event of an OSHA inspection. Here are the current requirements and best practices.

@@ -5,6 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["auto dealership", "sales", "commissions", "FLSA"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## FLSA Auto Dealership Exemptions

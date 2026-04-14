@@ -4,6 +4,7 @@ description: "New laws are shaping remote work policies; employers must adapt to
 category: "HR Trends"
 date: "2026-04-14"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Understanding the Evolving Landscape of Remote Work Regulations

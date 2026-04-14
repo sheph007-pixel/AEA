@@ -5,6 +5,7 @@ category: "Compliance"
 date: "2020-05-28"
 tags: ["PPP", "CARES Act", "loan forgiveness", "small business", "COVID-19"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 The Paycheck Protection Program (PPP) provided critical funding to millions of small businesses during the COVID-19 pandemic. However, securing a loan was only the first step. Proper use of funds and thorough documentation are essential for achieving loan forgiveness and avoiding repayment obligations.

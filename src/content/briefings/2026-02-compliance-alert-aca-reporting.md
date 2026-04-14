@@ -6,6 +6,7 @@ date: "2026-02-05"
 month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["compliance-alert", "ACA", "1095-C", "1094-C", "IRS", "reporting", "2026"]
+verified: false
 ---
 
 # Compliance Alert: ACA Reporting Requirements for 2026

@@ -5,6 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["arizona", "employment law", "minimum wage", "compliance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Arizona At-Will Employment

@@ -5,6 +5,7 @@ category: "HR Management"
 date: "2017-01-25"
 tags: ["workers compensation", "return to work", "light duty", "disability management"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Why Return-to-Work Programs Matter

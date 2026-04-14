@@ -5,6 +5,7 @@ category: "HR Management"
 date: "2024-02-15"
 tags: ["pay equity", "compensation", "audit", "equal pay", "compliance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Why Pay Equity Audits Matter Now

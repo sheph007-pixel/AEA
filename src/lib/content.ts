@@ -19,6 +19,7 @@ export interface ContentItem {
   author: string;
   readTime: string;
   featured: boolean;
+  verified: boolean;
   contentHtml?: string;
 }
 
@@ -48,6 +49,7 @@ function loadFromDirectory(directory: string): ContentItem[] {
         author: data.author || 'AEA Editorial Team',
         readTime: data.readTime || estimateReadTime(content),
         featured: data.featured || false,
+        verified: data.verified === true,
       };
     });
 }
@@ -90,6 +92,7 @@ async function loadSingleItem(slug: string): Promise<ContentItem | null> {
         author: data.author || 'AEA Editorial Team',
         readTime: data.readTime || estimateReadTime(content),
         featured: data.featured || false,
+        verified: data.verified === true,
         contentHtml: processedContent.toString(),
       };
     }

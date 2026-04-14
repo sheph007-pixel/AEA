@@ -5,6 +5,7 @@ category: "Leadership"
 date: "2021-12-15"
 tags: ["succession planning", "leadership development", "small business", "talent management", "business continuity"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Succession planning is not just for large corporations. Small and mid-sized employers face even greater risk from unexpected leadership departures because they have fewer people who can step into critical roles. A practical succession plan ensures business continuity and reduces the disruption of leadership transitions.
