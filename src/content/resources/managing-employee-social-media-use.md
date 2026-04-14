@@ -5,7 +5,7 @@ category: "Technology"
 date: "2018-09-18"
 tags: ["social media", "NLRA", "workplace policy", "technology"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Why You Need a Social Media Policy

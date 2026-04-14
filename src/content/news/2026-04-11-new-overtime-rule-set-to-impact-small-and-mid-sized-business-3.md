@@ -4,7 +4,7 @@ description: "The Department of Labor's proposed changes to overtime regulations
 category: "Business Operations"
 date: "2026-04-11"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## New Overtime Rule Set to Impact Small and Mid-Sized Businesses

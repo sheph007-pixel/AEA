@@ -5,7 +5,7 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["manufacturing", "lockout tagout", "OSHA", "safety"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Understanding Lockout/Tagout Requirements

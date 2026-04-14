@@ -4,7 +4,7 @@ description: "States continue to enact restrictions on non-compete agreements. E
 category: "Compliance"
 date: "2024-12-20"
 tags: ["non-compete", "employment agreements", "state law"]
-verified: false
+verified: true
 ---
 
 ## Current Landscape

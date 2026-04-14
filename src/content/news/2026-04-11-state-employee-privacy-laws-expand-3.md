@@ -4,7 +4,7 @@ description: "New state privacy laws in Texas, Florida, and Indiana impose fresh
 category: "Workplace Policy"
 date: "2026-04-11"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Privacy Landscape Is Shifting

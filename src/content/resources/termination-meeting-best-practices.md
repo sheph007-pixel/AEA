@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["termination", "employee relations", "HR", "management"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 Terminating an employee is one of the most difficult tasks a manager faces. How you conduct the termination meeting affects the departing employee's dignity, the remaining team's morale, and your organization's legal exposure. Preparation and professionalism are essential.

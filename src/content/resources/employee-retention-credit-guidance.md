@@ -5,7 +5,7 @@ category: "Small Business"
 date: "2023-08-20"
 tags: ["ERC", "tax credit", "IRS", "small business", "COVID relief"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Current State of the ERC

@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["michigan", "paid medical leave", "sick leave", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Michigan Paid Medical Leave Overview

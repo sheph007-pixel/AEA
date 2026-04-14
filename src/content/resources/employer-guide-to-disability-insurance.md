@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["disability insurance", "benefits", "STD", "LTD"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 Disability insurance replaces a portion of an employee's income when they are unable to work due to illness or injury. While not required by federal law for most private employers, disability insurance is a valued benefit that protects employees from financial hardship and helps employers retain talent.

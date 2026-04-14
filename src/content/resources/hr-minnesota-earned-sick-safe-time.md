@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["minnesota", "sick leave", "safe time", "benefits"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Minnesota Earned Sick and Safe Time Overview

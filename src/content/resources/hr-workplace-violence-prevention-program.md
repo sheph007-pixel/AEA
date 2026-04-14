@@ -5,7 +5,7 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["workplace violence", "safety", "prevention", "California"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Growing Focus on Workplace Violence Prevention

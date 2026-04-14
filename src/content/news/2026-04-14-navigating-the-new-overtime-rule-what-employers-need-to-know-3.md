@@ -4,7 +4,7 @@ description: "The Department of Labor's updated overtime rule impacts salary thr
 category: "Business Operations"
 date: "2026-04-14"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Understanding the Overtime Rule Changes

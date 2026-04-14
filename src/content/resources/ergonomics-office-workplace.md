@@ -5,7 +5,7 @@ category: "Safety"
 date: "2017-10-30"
 tags: ["ergonomics", "workplace safety", "workers compensation", "office safety"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Business Case for Ergonomics

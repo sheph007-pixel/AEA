@@ -5,7 +5,7 @@ category: "Safety"
 date: "2015-02-18"
 tags: ["OSHA", "recordkeeping", "workplace safety", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Who Needs to Keep OSHA Records?

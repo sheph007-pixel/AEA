@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2022-02-14"
 tags: ["great resignation", "retention", "turnover", "employee experience", "HR"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 The wave of voluntary resignations that accelerated in 2021 and continued into 2022 forced employers to confront uncomfortable questions about compensation, culture, and employee experience. While some employers responded with expensive retention bonuses and across-the-board raises, sustainable strategies do not require unlimited budgets. Here is how to stem turnover and rebuild effectively.

@@ -4,7 +4,7 @@ description: "Employers must adapt to new federal recommendations governing remo
 category: "Workplace Policy"
 date: "2026-04-14"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Federal Recommendations on Remote Work Policies

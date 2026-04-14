@@ -4,7 +4,7 @@ description: "Employers must prepare for new OSHA regulations on heat stress in 
 category: "Workplace Policy"
 date: "2026-04-12"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Understanding the Implications of New OSHA Regulations

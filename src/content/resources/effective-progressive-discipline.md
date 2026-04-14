@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2016-08-15"
 tags: ["discipline", "HR management", "documentation", "employment law"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## What Progressive Discipline Means

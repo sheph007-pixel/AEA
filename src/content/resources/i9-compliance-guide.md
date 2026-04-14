@@ -4,7 +4,7 @@ description: "Step-by-step guidance on properly completing Form I-9, conducting 
 category: "Compliance"
 date: "2024-09-18"
 tags: ["I-9", "employment verification", "immigration", "compliance"]
-verified: false
+verified: true
 ---
 
 ## Form I-9 Basics

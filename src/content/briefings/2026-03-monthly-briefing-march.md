@@ -6,7 +6,7 @@ date: "2026-03-02"
 month: "2026-03"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "hiring", "EEO-1", "state-legislation", "workplace-safety", "Q2-planning", "March-2026"]
-verified: false
+verified: true
 ---
 
 # Monthly Employer Briefing: March 2026

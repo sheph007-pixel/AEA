@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2023-04-22"
 tags: ["paid leave", "family leave", "state law", "multi-state compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## A Rapidly Expanding Landscape

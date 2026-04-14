@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2016-02-10"
 tags: ["FLSA", "overtime", "DOL", "salary threshold"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Changing Overtime Landscape

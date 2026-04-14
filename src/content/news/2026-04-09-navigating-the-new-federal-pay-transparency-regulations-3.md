@@ -4,7 +4,7 @@ description: "Employers must adapt to new federal pay transparency regulations e
 category: "Business Operations"
 date: "2026-04-09"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## First Section

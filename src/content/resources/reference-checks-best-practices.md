@@ -5,7 +5,7 @@ category: "Hiring"
 date: "2016-04-25"
 tags: ["reference checks", "hiring", "recruitment", "due diligence"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Why Reference Checks Still Matter

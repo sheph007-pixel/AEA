@@ -4,7 +4,7 @@ description: "Employers face new challenges as pay transparency laws gain moment
 category: "HR Trends"
 date: "2023-10-13"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Growing Momentum of Pay Transparency

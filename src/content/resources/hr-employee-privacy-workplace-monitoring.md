@@ -5,7 +5,7 @@ category: "Technology"
 date: "2026-01-15"
 tags: ["employee privacy", "monitoring", "technology", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Legal Framework for Workplace Monitoring

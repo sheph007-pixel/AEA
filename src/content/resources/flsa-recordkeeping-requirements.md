@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["FLSA", "recordkeeping", "wage and hour", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 The Fair Labor Standards Act requires employers to maintain specific records for each employee. These records must be kept for defined retention periods and made available for inspection by the Department of Labor. Failure to maintain proper records can result in penalties and shifts the burden of proof to the employer in wage disputes.

@@ -4,7 +4,7 @@ description: "Employers face new remote work regulations as states adapt to chan
 category: "Business Operations"
 date: "2026-04-10"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Changing Landscape of Remote Work Regulations

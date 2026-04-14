@@ -4,7 +4,7 @@ description: "The Department of Labor has finalized its 2026 update to the overt
 category: "Employment Law"
 date: "2026-04-07"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## What Changed

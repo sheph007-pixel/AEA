@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["wage garnishment", "payroll", "compliance", "CCPA"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 Wage garnishments are court-ordered or government-ordered deductions from an employee's pay to satisfy a debt. Employers are legally required to comply with garnishment orders and can face penalties for failing to do so. Understanding the process and limits protects your organization from liability.

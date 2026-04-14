@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["florida", "employment law", "state law", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Florida Employment Law Framework

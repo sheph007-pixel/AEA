@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2023-12-05"
 tags: ["cannabis", "drug testing", "state law", "HR policy", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## A Fractured Legal Landscape

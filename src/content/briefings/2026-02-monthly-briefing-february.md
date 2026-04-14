@@ -6,7 +6,7 @@ date: "2026-02-03"
 month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "ACA", "OSHA", "paid-leave", "non-compete", "February-2026"]
-verified: false
+verified: true
 ---
 
 # Monthly Employer Briefing: February 2026

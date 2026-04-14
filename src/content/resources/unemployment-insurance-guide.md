@@ -4,7 +4,7 @@ description: "How to respond to unemployment claims, manage your UI tax rate, an
 category: "Operations"
 date: "2024-06-01"
 tags: ["unemployment", "insurance", "claims", "taxes"]
-verified: false
+verified: true
 ---
 
 ## How Unemployment Insurance Works
