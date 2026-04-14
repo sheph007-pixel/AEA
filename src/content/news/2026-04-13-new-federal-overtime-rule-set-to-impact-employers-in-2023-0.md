@@ -4,6 +4,7 @@ description: "The U.S. Department of Labor's proposed overtime rule could change
 category: "Employment Law"
 date: "2023-10-13"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## First Section

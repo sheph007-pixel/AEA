@@ -5,6 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["religious accommodation", "Title VII", "compliance", "employee rights"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Religious accommodation requests are a reality for employers of all sizes. Title VII of the Civil Rights Act of 1964 requires employers with 15 or more employees to reasonably accommodate sincerely held religious beliefs, practices, and observances unless doing so would cause undue hardship on the business.

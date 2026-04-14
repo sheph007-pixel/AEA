@@ -5,6 +5,7 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["dental", "healthcare", "employment law", "small business"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Employment Structure in Dental Practices

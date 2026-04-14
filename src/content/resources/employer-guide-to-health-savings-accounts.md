@@ -5,6 +5,7 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["HSA", "health savings account", "benefits", "HDHP"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Health Savings Accounts (HSAs) are tax-advantaged accounts that allow employees enrolled in a High Deductible Health Plan (HDHP) to save for qualified medical expenses. For employers, HSAs can reduce health insurance premiums and provide a valuable benefit that employees retain even if they leave the company.

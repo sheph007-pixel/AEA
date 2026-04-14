@@ -4,6 +4,7 @@ description: "An overview of retirement plan options available to smaller employ
 category: "Operations"
 date: "2024-06-10"
 tags: ["retirement", "401k", "SIMPLE IRA", "benefits"]
+verified: false
 ---
 
 ## Why Offer a Retirement Plan?

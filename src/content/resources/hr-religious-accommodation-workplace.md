@@ -5,6 +5,7 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["religious accommodation", "Title VII", "diversity", "compliance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Title VII Religious Accommodation Requirements

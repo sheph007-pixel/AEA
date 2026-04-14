@@ -6,6 +6,7 @@ date: "2026-01-15"
 month: "2026-01"
 author: "AEA Editorial Team"
 tags: ["employer-questions", "compliance", "AI-policy", "wage-thresholds", "remote-work", "taxes", "Q1-2026"]
+verified: false
 ---
 
 # What Employers Are Asking: January 2026

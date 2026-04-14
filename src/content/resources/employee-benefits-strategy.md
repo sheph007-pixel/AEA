@@ -4,6 +4,7 @@ description: "How to design a benefits package that attracts and retains talent 
 category: "HR"
 date: "2024-08-28"
 tags: ["benefits", "retention", "compensation", "HR strategy"]
+verified: false
 ---
 
 ## Why Benefits Matter

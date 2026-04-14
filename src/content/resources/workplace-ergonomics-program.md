@@ -5,6 +5,7 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["ergonomics", "workplace safety", "OSHA", "injury prevention"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Musculoskeletal disorders (MSDs) are among the most frequently reported causes of lost work time. They include conditions such as carpal tunnel syndrome, tendinitis, rotator cuff injuries, and lower back pain. An effective ergonomics program identifies and mitigates the risk factors that contribute to these injuries, reducing both human suffering and employer costs.

@@ -157,6 +157,7 @@ category: "${category}"
 date: "${date}"
 tags: ["tag1", "tag2", "tag3"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## First Section

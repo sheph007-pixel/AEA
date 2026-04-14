@@ -5,6 +5,7 @@ category: "Safety"
 date: "2020-06-08"
 tags: ["workplace safety", "health emergency", "OSHA", "infectious disease", "protocols"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Public health emergencies demand rapid action from employers. Developing clear safety protocols protects your workforce, maintains operations, and demonstrates compliance with OSHA's General Duty Clause, which requires employers to provide a workplace free from recognized hazards likely to cause death or serious harm. It is important to note that while the General Duty Clause applies broadly, specific regulations regarding infectious diseases may also be relevant.

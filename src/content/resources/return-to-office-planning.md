@@ -5,6 +5,7 @@ category: "Operations"
 date: "2021-01-20"
 tags: ["return to office", "workplace planning", "safety", "hybrid work", "operations"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Planning a return to the physical workplace requires balancing safety requirements, business needs, and employee concerns. A phased, well-communicated approach reduces risk and builds confidence among employees who may be anxious about returning.

@@ -6,6 +6,7 @@ date: "2024-12-10"
 tags: ["small business", "compliance", "HR", "checklist", "federal law"]
 author: "AEA Editorial Team"
 featured: true
+verified: false
 ---
 
 ## Compliance Is Not Optional for Small Employers

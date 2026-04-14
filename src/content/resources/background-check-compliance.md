@@ -5,6 +5,7 @@ category: "Hiring"
 date: "2026-01-15"
 tags: ["background checks", "FCRA", "hiring", "compliance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Employment background checks are a valuable tool for making informed hiring decisions, but they are heavily regulated. The Fair Credit Reporting Act (FCRA) and numerous state and local laws impose specific requirements that employers must follow. Non-compliance can result in class action lawsuits and significant statutory damages.

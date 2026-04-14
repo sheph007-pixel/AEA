@@ -5,6 +5,7 @@ category: "Benefits"
 date: "2021-11-10"
 tags: ["benefits", "small business", "health insurance", "PTO", "compensation"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Small employers often assume they cannot compete with large companies on benefits. While it is true that large organizations benefit from economies of scale, small employers have advantages including flexibility, speed, and the ability to tailor offerings to their specific workforce. Here is how to build a competitive benefits package without a Fortune 500 budget.

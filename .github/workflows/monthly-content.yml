@@ -22,6 +22,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install dependencies
+        run: npm ci
+
       - name: Ensure content directories
         run: mkdir -p src/content/briefings
 
@@ -30,12 +33,21 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
         run: node scripts/generate-monthly-briefings.js
 
-      - name: Fact-check briefings
+      - name: Fact-check briefings (multi-pass with web search)
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: node scripts/fact-check.js src/content/briefings
-        continue-on-error: true
+
+      - name: Determine verification status
+        id: verify-status
+        run: |
+          if [ -f src/content/verification.json ]; then
+            STATUS=$(node -e "console.log(JSON.parse(require('fs').readFileSync('src/content/verification.json','utf8')).status)")
+            echo "status=$STATUS" >> $GITHUB_OUTPUT
+          else
+            echo "status=unknown" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and push
         run: |
@@ -45,6 +57,10 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new briefings to commit"
           else
-            git commit -m "Monthly employer briefings: $(date +%B\ %Y) [verified]"
+            if [ "${{ steps.verify-status.outputs.status }}" = "verified" ]; then
+              git commit -m "Monthly employer briefings: $(date +%B\ %Y) [all verified]"
+            else
+              git commit -m "Monthly employer briefings: $(date +%B\ %Y) [partial verification]"
+            fi
             git push origin main
           fi

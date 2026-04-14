@@ -5,6 +5,7 @@ category: "Hiring"
 date: "2026-01-15"
 tags: ["job postings", "recruitment", "hiring", "talent acquisition"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 A job posting is your first communication with potential candidates, and it significantly influences who applies. An effective posting attracts qualified, diverse candidates while accurately representing the role and your organization. A poorly written posting wastes recruiting resources and may expose you to legal risk.

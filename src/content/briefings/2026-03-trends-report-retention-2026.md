@@ -6,6 +6,7 @@ date: "2026-03-12"
 month: "2026-03"
 author: "AEA Editorial Team"
 tags: ["trends-report", "retention", "flexible-work", "career-development", "benefits", "workplace-culture", "2026"]
+verified: false
 ---
 
 # Employer Trends: What Is Working for Retention in 2026

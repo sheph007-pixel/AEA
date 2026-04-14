@@ -5,6 +5,7 @@ category: "Workplace Culture"
 date: "2021-08-05"
 tags: ["DEI", "diversity", "equity", "inclusion", "workplace culture"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Effective diversity, equity, and inclusion (DEI) initiatives go beyond statements and training sessions. They require systemic changes to how organizations recruit, develop, promote, and retain talent. Here is a practical framework for building DEI efforts that produce measurable results.

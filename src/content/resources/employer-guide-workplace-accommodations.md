@@ -5,6 +5,7 @@ category: "Compliance"
 date: "2018-08-30"
 tags: ["ADA", "accommodations", "interactive process", "disability"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## The Interactive Process Requirement

@@ -4,6 +4,7 @@ description: "An overview of how employment laws vary across states and what emp
 category: "Compliance"
 date: "2024-08-20"
 tags: ["multi-state", "employment law", "compliance", "expansion"]
+verified: false
 ---
 
 ## The Challenge of Multi-State Compliance

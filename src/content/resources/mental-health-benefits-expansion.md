@@ -5,6 +5,7 @@ category: "Benefits"
 date: "2021-10-08"
 tags: ["mental health", "benefits", "EAP", "telehealth", "employee wellness"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 Mental health benefits have moved from a nice-to-have to a competitive necessity. Employees increasingly evaluate prospective employers based on mental health support, and inadequate coverage is a growing driver of voluntary turnover. Here is how to enhance your mental health benefits strategically and cost-effectively.

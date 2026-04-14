@@ -4,6 +4,7 @@ description: "Employers should prepare for new overtime regulations affecting co
 category: "Benefits & Compensation"
 date: "2026-04-11"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## New Overtime Regulations Could Impact Employee Compensation Structures

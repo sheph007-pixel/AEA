@@ -4,6 +4,7 @@ description: "Employers must adapt to new pay transparency laws to ensure compli
 category: "Benefits & Compensation"
 date: "2026-04-09"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Understanding the Shift Toward Pay Transparency

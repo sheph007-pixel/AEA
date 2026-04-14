@@ -4,6 +4,7 @@ description: "New EEOC guidance establishes employer responsibilities when using
 category: "Workplace Policy"
 date: "2026-04-13"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## The New Guidance

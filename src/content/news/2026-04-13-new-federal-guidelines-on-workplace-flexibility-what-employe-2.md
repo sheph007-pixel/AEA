@@ -4,6 +4,7 @@ description: "The U.S. Department of Labor has issued new guidelines on flexible
 category: "Workplace Policy"
 date: "2023-04-13"
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## New Federal Guidelines on Workplace Flexibility: What Employers Need to Know

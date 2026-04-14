@@ -5,6 +5,7 @@ category: "Technology"
 date: "2023-03-28"
 tags: ["employee monitoring", "privacy", "technology", "remote work", "surveillance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## The Monitoring Landscape

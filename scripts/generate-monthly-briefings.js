@@ -121,6 +121,7 @@ date: "${ctx.date}"
 month: "${ctx.ym}"
 author: "AEA Editorial Team"
 tags: ["monthly briefing", "compliance", "employer update"]
+verified: false
 ---
 
 ## Key Developments This Month
@@ -144,6 +145,7 @@ date: "${ctx.date}"
 month: "${ctx.ym}"
 author: "AEA Editorial Team"
 tags: ["compliance", "alert"]
+verified: false
 ---
 
 ## What Changed
@@ -167,6 +169,7 @@ date: "${ctx.date}"
 month: "${ctx.ym}"
 author: "AEA Editorial Team"
 tags: ["trends", "workforce"]
+verified: false
 ---
 
 Content with ## headings...`, ctx);
@@ -183,6 +186,7 @@ date: "${ctx.date}"
 month: "${ctx.ym}"
 author: "AEA Editorial Team"
 tags: ["industry", "${industry.toLowerCase()}"]
+verified: false
 ---
 
 Content with ## headings...`, ctx);
@@ -199,6 +203,7 @@ date: "${ctx.date}"
 month: "${ctx.ym}"
 author: "AEA Editorial Team"
 tags: ["employer questions", "FAQ"]
+verified: false
 ---
 
 ## Q: [Question 1]

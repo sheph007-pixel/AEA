@@ -5,6 +5,7 @@ category: "Compliance"
 date: "2023-01-25"
 tags: ["NLRB", "social media", "employee rights", "policy", "Section 7"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## The NLRB's Renewed Focus on Workplace Rules

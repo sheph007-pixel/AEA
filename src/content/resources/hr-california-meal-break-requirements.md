@@ -5,6 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["california", "meal breaks", "labor law", "compliance"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Overview of California Meal Break Law

@@ -5,6 +5,7 @@ category: "Operations"
 date: "2024-04-10"
 tags: ["four-day workweek", "productivity", "operations", "retention", "flexibility"]
 author: "AEA Editorial Team"
+verified: false
 ---
 
 ## Beyond the Headlines
