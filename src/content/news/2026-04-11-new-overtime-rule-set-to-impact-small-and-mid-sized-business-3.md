@@ -16,7 +16,7 @@ For employers, the proposed changes could necessitate a reevaluation of payroll 
 
 ### What Employers Need to Know
 
-1. **Compliance Timeline**: While the proposed rule is still subject to public comment and may undergo revisions before it is finalized, employers should stay informed about the timeline and prepare for eventual implementation. The public comment period typically lasts for 30 to 60 days, and the timeline for finalization can vary based on past DOL rule changes. Therefore, it is advisable to monitor the DOL’s announcements for updates on the rule's status.
+1. **Compliance Timeline**: While the proposed rule is still subject to public comment and may undergo revisions before it is finalized, employers should stay informed about the timeline and prepare for eventual implementation. The duration of the public comment period can vary, so it is advisable to monitor the DOL’s announcements for updates on the rule's status.
 
 2. **Budgeting for Changes**: As the proposed salary threshold could result in additional overtime costs, businesses should begin budgeting for these changes. Employers may need to conduct a thorough review of their compensation strategies and assess the potential need to increase salaries for employees who currently do not meet the new threshold.
 

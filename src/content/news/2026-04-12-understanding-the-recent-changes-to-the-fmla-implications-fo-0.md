@@ -8,7 +8,7 @@ author: "AEA Editorial Team"
 
 ## Recent Updates to the Family and Medical Leave Act
 
-In a significant move that impacts employers across the United States, the U.S. Department of Labor (DOL) has previously announced updates to the Family and Medical Leave Act (FMLA) regulations. As of the date of this article, there have been no new updates, but employers should remain aware of the existing regulations that aim to streamline processes for employees seeking leave and clarify employers' obligations under the law. It is advisable for employers to stay informed about any potential updates that may be announced in the near future.
+In a significant move that impacts employers across the United States, the U.S. Department of Labor (DOL) has previously announced updates to the Family and Medical Leave Act (FMLA) regulations. Employers should remain aware of the existing regulations that aim to streamline processes for employees seeking leave and clarify employers' obligations under the law. It is advisable for employers to stay informed about any potential updates that may be announced in the near future.
 
 The FMLA, originally enacted in 1993, allows eligible employees to take unpaid, job-protected leave for specified family and medical reasons. The amendments made in recent years include provisions designed to enhance leave access for employees, particularly in light of the evolving workplace dynamics influenced by the COVID-19 pandemic.
 
@@ -18,7 +18,7 @@ The FMLA, originally enacted in 1993, allows eligible employees to take unpaid, 
 
 2. **Intermittent Leave Clarifications**: The regulations provide clearer guidelines on how intermittent leave can be taken. Employers are encouraged to develop flexible policies that accommodate employees needing to take leave in shorter, unpredictable segments.
 
-3. **Employee Notification**: Employers are now required to notify employees of their FMLA rights and responsibilities more explicitly. This includes providing information about the process for filing a leave request and the consequences of failing to follow the necessary procedures.
+3. **Employee Notification**: Employers are generally required to notify employees of their FMLA rights and responsibilities. This includes providing information about the process for filing a leave request and the consequences of failing to follow the necessary procedures. Employers should review existing notification practices to ensure compliance with current obligations.
 
 4. **Recordkeeping Requirements**: Updated recordkeeping requirements may suggest that employers maintain more detailed documentation regarding leave usage and management. Employers should consult the DOL for the latest information on these requirements, as non-compliance could lead to penalties, making it critical for HR teams to have robust tracking systems in place.
 

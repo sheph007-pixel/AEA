@@ -8,17 +8,17 @@ author: "AEA Editorial Team"
 
 ## Changes to Overtime Regulations
 
-As of October 2023, the U.S. Department of Labor (DOL) has finalized new regulations regarding overtime pay under the Fair Labor Standards Act (FLSA). These changes raise the salary threshold for exempt employees, requiring employers to reassess their payroll practices and ensure compliance. The new threshold is set to increase from $55,068 to $60,000, which may be subject to future adjustments, impacting a significant number of employees who previously qualified as exempt.
+As of October 2023, the U.S. Department of Labor (DOL) has finalized new regulations regarding overtime pay under the Fair Labor Standards Act (FLSA). These changes confirm the existing salary threshold for exempt employees at $55,068, requiring employers to reassess their payroll practices and ensure compliance. This threshold may be subject to future adjustments, impacting a significant number of employees who previously qualified as exempt.
 
 ### Implications for Employers
 
-The updated salary threshold means that many employees who were not previously entitled to overtime pay may now qualify for it. This change could affect various industries, particularly those with a significant number of managerial or administrative employees earning below the new threshold. Employers will need to evaluate their workforce to identify any positions that may require reclassification based on both the new salary threshold and the specific job duties performed.
+The updated salary threshold means that many employees who were not previously entitled to overtime pay may now qualify for it. This change could affect various industries, particularly those with a significant number of managerial or administrative employees earning below the threshold. Employers will need to evaluate their workforce to identify any positions that may require reclassification based on both the salary threshold and the specific job duties performed.
 
 ### Action Items for HR Professionals
 
 1. **Conduct a Pay Audit**: HR departments should conduct a thorough audit of the current employee classifications and salaries to identify those who will be affected by the changes. This includes reviewing job descriptions and ensuring they align with actual duties performed.
 
-2. **Reclassify Employees as Necessary**: For employees whose salaries fall below the new threshold, employers may need to reclassify them from exempt to non-exempt status. This transition means these employees will be entitled to overtime pay for hours worked over 40 in a week.
+2. **Reclassify Employees as Necessary**: For employees whose salaries fall below the threshold, employers may need to reclassify them from exempt to non-exempt status. This transition means these employees will be entitled to overtime pay for hours worked over 40 in a week.
 
 3. **Adjust Payroll Systems**: Employers should work with their payroll departments to ensure that systems are updated to reflect the new classifications and salary thresholds. This may involve additional training for payroll staff to manage the complexities of overtime calculations.
 
@@ -28,4 +28,4 @@ The updated salary threshold means that many employees who were not previously e
 
 ### Conclusion
 
-The increase in the overtime salary threshold is a significant regulatory change that requires immediate attention from employers. By taking proactive steps to assess and adjust payroll practices, HR professionals can help their organizations remain compliant while also maintaining employee morale. With proper planning and communication, businesses can navigate these changes effectively, minimizing disruption while ensuring fair compensation for their employees.
+The confirmation of the overtime salary threshold is a significant regulatory change that requires immediate attention from employers. By taking proactive steps to assess and adjust payroll practices, HR professionals can help their organizations remain compliant while also maintaining employee morale. With proper planning and communication, businesses can navigate these changes effectively, minimizing disruption while ensuring fair compensation for their employees.

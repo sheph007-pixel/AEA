@@ -2,7 +2,7 @@
 title: "New Federal Overtime Rule Set to Impact Employers in 2023"
 description: "The U.S. Department of Labor's proposed overtime rule could change salary thresholds for exempt employees."
 category: "Employment Law"
-date: "2026-04-13"
+date: "2023-10-13"
 author: "AEA Editorial Team"
 ---
 
@@ -10,7 +10,7 @@ author: "AEA Editorial Team"
 
 In a significant development for employers, the U.S. Department of Labor (DOL) has proposed updates to the Fair Labor Standards Act (FLSA) regarding overtime eligibility. This change may raise the salary threshold for exempt employees, making it essential for HR professionals and business owners to prepare for potential compliance challenges and budget adjustments.
 
-The proposed rule suggests increasing the current salary threshold from $684 per week (or $35,568 annually) to approximately $1,059 per week (or $55,068 annually). However, it is important to note that this adjustment is still under consideration and may change based on public comments and final decisions by the DOL. If enacted, this adjustment could expand the number of employees eligible for overtime pay, impacting a wide range of industries and roles. The change aims to reflect the current economic climate and cost of living, as previous thresholds have not kept pace with inflation or wage growth.
+The proposed rule suggests increasing the current salary threshold from $684 per week (or $35,568 annually) to approximately $1,059 per week (or $55,068 annually). However, it is important to note that these figures are based on proposals and are still under consideration, subject to change based on public comments and final decisions by the DOL. If enacted, this adjustment could expand the number of employees eligible for overtime pay, impacting a wide range of industries and roles. The change aims to reflect the current economic climate and cost of living, as previous thresholds have not kept pace with inflation or wage growth.
 
 ### Implications for Employers
 

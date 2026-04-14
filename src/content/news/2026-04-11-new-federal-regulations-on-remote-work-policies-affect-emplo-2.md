@@ -8,13 +8,13 @@ author: "AEA Editorial Team"
 
 ## Understanding New Federal Guidelines on Remote Work
 
-As the workforce continues to evolve with an increasing number of employees working remotely, there are speculative federal guidelines that employers may want to be aware of to ensure compliance. While the U.S. Department of Labor (DOL) has not yet released specific guidelines regarding remote work policies, there is speculation that future updates may address the importance of equitable treatment of remote and in-office employees.
+As the workforce continues to evolve with an increasing number of employees working remotely, there are anticipated federal guidelines that employers may want to be aware of to ensure compliance. While the U.S. Department of Labor (DOL) has not yet released specific guidelines regarding remote work policies, there is speculation that future updates may address the importance of equitable treatment of remote and in-office employees.
 
 Under these anticipated guidelines, employers may be encouraged to establish clear remote work policies that outline expectations, responsibilities, and performance evaluation criteria for remote employees. These guidelines may aim to address concerns about productivity, communication, and workplace culture in a hybrid work environment.
 
 ### Key Changes and Implications
 
-One of the most significant anticipated changes is the clarification of employee classification and compensation for remote workers. Employers should ensure that remote employees receive benefits and protections that are consistent with existing applicable laws, such as the Fair Labor Standards Act (FLSA) for overtime and minimum wage, which generally apply to all employees regardless of work location. This may include overtime pay, meal and rest breaks, and reimbursement for work-related expenses. However, it is important to note that specific requirements may vary by state and individual employment agreements.
+One of the most significant anticipated changes is the clarification of employee classification and compensation for remote workers. Employers should ensure that remote employees receive benefits and protections that are consistent with existing applicable laws, such as the Fair Labor Standards Act (FLSA) for overtime and minimum wage, which generally apply to all employees regardless of work location. This may include overtime pay, meal and rest breaks, and reimbursement for work-related expenses. However, it is important to note that specific requirements may vary by state and individual employment agreements, and employers should consult legal counsel to understand the nuances of state laws that may differ significantly from federal regulations.
 
 Additionally, the anticipated guidelines may encourage employers to conduct regular assessments of their remote work policies. This includes gathering employee feedback and making necessary adjustments to ensure that remote work arrangements contribute positively to employee morale and productivity. Employers are encouraged to implement regular check-ins and performance reviews to monitor the effectiveness of their remote work strategies.
 
