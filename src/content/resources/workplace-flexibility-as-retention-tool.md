@@ -5,7 +5,7 @@ category: "Workplace Culture"
 date: "2019-09-16"
 tags: ["flexibility", "retention", "work-life balance", "workplace culture", "remote work"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Flexibility Is No Longer a Perk

@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["USERRA", "military leave", "compliance", "veterans"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 The Uniformed Services Employment and Reemployment Rights Act (USERRA) protects employees who serve in the uniformed services from employment discrimination and provides reemployment rights after military service. USERRA applies to virtually all employers regardless of size and covers all categories of military service.

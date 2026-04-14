@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2024-02-22"
 tags: ["SECURE 2.0", "401k", "retirement", "benefits", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Overview of SECURE 2.0

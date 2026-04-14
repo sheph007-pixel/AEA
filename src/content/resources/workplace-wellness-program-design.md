@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2019-08-05"
 tags: ["wellness programs", "ADA", "HIPAA", "employee health", "benefits"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Compliance Framework

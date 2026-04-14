@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2016-10-03"
 tags: ["FMLA", "ADA", "leave management", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Complexity of Leave Management

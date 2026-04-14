@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["massachusetts", "noncompete", "employment agreements", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Massachusetts Noncompete Reform

@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["employee relations", "complaints", "management", "HR"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 When an employee complains about a manager, how you respond matters enormously. A poorly handled complaint can escalate into a harassment or retaliation lawsuit, while a well-managed process can resolve issues early and strengthen workplace trust. Every complaint deserves a thoughtful, consistent response.

@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["nonprofit", "volunteers", "employee classification", "FLSA"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Volunteer Classification Challenge

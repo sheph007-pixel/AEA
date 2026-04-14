@@ -5,7 +5,7 @@ category: "Compliance"
 date: "-03-10"
 tags: ["labor law", "compliance", "minimum wage", "employment law", "regulations"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 Employment law evolves constantly at the federal, state, and local levels. Staying current is essential for compliance. Here are the most significant labor law changes that took effect or were enacted during 2021 and their practical implications for employers.

@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2023-06-18"
 tags: ["FLSA", "overtime", "salary threshold", "Department of Labor", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Proposed Salary Threshold Increase

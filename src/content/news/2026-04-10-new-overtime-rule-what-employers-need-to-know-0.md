@@ -4,7 +4,7 @@ description: "The Department of Labor updates overtime regulations impacting sal
 category: "Employment Law"
 date: "2026-04-10"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Overview of the Overtime Rule Changes

@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["restaurants", "tip pooling", "FLSA", "wages"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Federal Tip Pooling Rules Under the FLSA

@@ -4,7 +4,7 @@ description: "Essential cybersecurity practices that protect your business, empl
 category: "Operations"
 date: "2024-11-12"
 tags: ["cybersecurity", "data security", "operations", "risk management"]
-verified: false
+verified: true
 ---
 
 ## Why Employers Must Act

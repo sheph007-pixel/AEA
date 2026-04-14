@@ -5,7 +5,7 @@ category: "Technology"
 date: "2017-12-05"
 tags: ["HR technology", "HRIS", "payroll systems", "software selection"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## When It Is Time to Upgrade

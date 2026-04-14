@@ -5,7 +5,7 @@ category: "Hiring"
 date: "2026-01-15"
 tags: ["references", "hiring", "defamation", "employment verification"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 Reference checks are a valuable but legally sensitive part of the hiring process. Employers who give references risk defamation claims, while those who refuse to provide information make the hiring process harder for everyone. Understanding the legal landscape helps you navigate reference checks effectively.

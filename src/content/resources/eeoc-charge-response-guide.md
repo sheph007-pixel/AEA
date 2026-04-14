@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2015-05-12"
 tags: ["EEOC", "discrimination", "compliance", "employment law"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Receiving the Charge

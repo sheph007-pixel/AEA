@@ -4,7 +4,7 @@ description: "Early IRS projections signal increases to HSA, FSA, and retirement
 category: "Benefits & Compensation"
 date: "2026-04-12"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Early Projections

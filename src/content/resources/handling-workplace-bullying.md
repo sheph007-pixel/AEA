@@ -5,7 +5,7 @@ category: "Workplace Culture"
 date: "2026-01-15"
 tags: ["workplace bullying", "employee relations", "workplace culture", "management"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 Workplace bullying involves repeated, unreasonable behavior directed at an employee that creates a risk to health and safety. Unlike harassment based on a protected characteristic, general workplace bullying is not explicitly prohibited by federal law. However, it can lead to legal claims, high turnover, reduced productivity, and a toxic work environment.

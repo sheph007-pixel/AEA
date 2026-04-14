@@ -4,7 +4,7 @@ description: "An overview of common health plan structures available to employer
 category: "Operations"
 date: "2024-06-25"
 tags: ["health insurance", "benefits", "cost management", "plans"]
-verified: false
+verified: true
 ---
 
 ## Health Plan Structures

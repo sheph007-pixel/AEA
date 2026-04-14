@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["prevailing wage", "Davis-Bacon", "government contracts", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Federal Prevailing Wage Requirements

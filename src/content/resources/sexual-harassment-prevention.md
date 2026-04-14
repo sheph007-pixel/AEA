@@ -4,7 +4,7 @@ description: "Understanding your legal duties to prevent and address sexual hara
 category: "Compliance"
 date: "2024-09-10"
 tags: ["harassment", "compliance", "training", "workplace culture"]
-verified: false
+verified: true
 ---
 
 ## Legal Framework

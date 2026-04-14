@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["401k", "retirement", "benefits", "ERISA"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 A 401(k) plan is one of the most valued employee benefits and can be a powerful recruiting and retention tool. However, establishing and maintaining a plan involves significant legal and administrative responsibilities under ERISA, the Internal Revenue Code, and Department of Labor regulations.

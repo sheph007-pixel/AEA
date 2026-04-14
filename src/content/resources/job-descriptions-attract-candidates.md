@@ -5,7 +5,7 @@ category: "Hiring"
 date: "2019-01-14"
 tags: ["job descriptions", "recruiting", "hiring", "talent acquisition"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## The Job Description as a Marketing Tool

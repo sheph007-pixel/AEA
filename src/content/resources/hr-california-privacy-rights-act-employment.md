@@ -5,7 +5,7 @@ category: "Technology"
 date: "2026-01-15"
 tags: ["california", "CPRA", "data privacy", "employment"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## CPRA Employment Data Provisions

@@ -4,7 +4,7 @@ description: "Employers must adapt to anticipated federal guidelines on remote w
 category: "Workplace Policy"
 date: "2026-04-11"
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Understanding New Federal Guidelines on Remote Work

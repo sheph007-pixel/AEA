@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["FLSA", "exempt employees", "salary threshold", "overtime"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 ## Federal Salary Threshold Overview

@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2020-08-15"
 tags: ["remote work", "compliance", "wage and hour", "multi-state", "workers compensation"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
 ---
 
 Remote work policies involve more legal complexity than many employers realize. An employee working from home in a different state or even a different city may trigger new tax obligations, change applicable employment laws, and create unexpected compliance risks. Here are the legal issues every employer should address.
