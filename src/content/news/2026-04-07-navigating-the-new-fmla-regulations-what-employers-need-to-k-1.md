@@ -4,7 +4,7 @@ description: "A new DOL proposal would broaden FMLA qualifying conditions to exp
 category: "HR Trends"
 date: "2026-04-07"
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## The Proposal

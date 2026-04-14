@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["hospitality", "overtime", "wages", "FLSA"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Overtime Basics for Hospitality Employers

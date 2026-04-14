@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["personnel files", "recordkeeping", "compliance", "HR"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Proper employee file management is essential for legal compliance, efficient HR operations, and protecting sensitive employee information. Federal and state laws impose specific requirements about what records to keep, how long to retain them, and who can access them.

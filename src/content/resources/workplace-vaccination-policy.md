@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2021-02-15"
 tags: ["vaccination", "workplace policy", "ADA", "Title VII", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Employers who choose to implement vaccination policies must navigate a complex intersection of employment law, public health guidance, and employee relations. Whether you mandate vaccination, incentivize it, or simply encourage it, a well-structured policy protects both your organization and your workforce.

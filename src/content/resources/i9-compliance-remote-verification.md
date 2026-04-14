@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-04-18"
 tags: ["I-9", "remote hiring", "compliance", "E-Verify", "immigration"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## The Remote I-9 Challenge

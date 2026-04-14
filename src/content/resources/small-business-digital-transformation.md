@@ -5,7 +5,7 @@ category: "Operations"
 date: "2020-10-28"
 tags: ["digital transformation", "small business", "technology", "automation", "operations"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 The shift to remote and hybrid work accelerated digital adoption for businesses of all sizes. For small employers, digital transformation is not about implementing enterprise software suites. It is about strategically adopting affordable tools that eliminate manual processes, reduce errors, and free up time for higher-value work.

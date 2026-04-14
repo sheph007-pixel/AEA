@@ -4,7 +4,7 @@ description: "Navigate the legal requirements of hiring, from job postings to ba
 category: "Hiring"
 date: "2024-10-28"
 tags: ["hiring", "employment law", "background checks", "interviewing"]
-verified: true
+verified: false
 ---
 
 ## Job Postings and Descriptions

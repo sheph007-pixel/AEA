@@ -4,7 +4,7 @@ description: "Recent updates to the Family and Medical Leave Act require HR prof
 category: "Employment Law"
 date: "2026-04-12"
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Recent Updates to the Family and Medical Leave Act

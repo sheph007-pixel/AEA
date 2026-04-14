@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2022-07-25"
 tags: ["non-compete", "employment agreements", "restrictive covenants", "compliance", "legal"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Non-compete agreements are under increasing legal scrutiny at both the federal and state level. The Federal Trade Commission has signaled interest in broadly restricting or banning non-competes, and numerous states have already enacted significant limitations. Employers who rely on non-compete agreements should understand the evolving landscape and prepare alternative strategies for protecting legitimate business interests.

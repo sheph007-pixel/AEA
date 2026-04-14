@@ -5,7 +5,7 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["performance reviews", "employee development", "HR", "management"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Performance reviews, when done well, improve employee engagement, identify development opportunities, and create documentation that supports personnel decisions. When done poorly, they breed resentment, expose legal risk, and waste everyone's time. The difference lies in preparation, consistency, and follow-through.

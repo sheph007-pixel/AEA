@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["oregon", "predictive scheduling", "fair workweek", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Oregon's Fair Work Week Act

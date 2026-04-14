@@ -5,7 +5,7 @@ category: "Leadership"
 date: "2022-10-05"
 tags: ["management training", "leadership development", "new managers", "HR", "training"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Promoting a strong individual contributor into a management role without adequate training is one of the most common and costly mistakes employers make. The skills that make someone an excellent salesperson, engineer, or analyst do not automatically translate to effective people management. A structured training program for new managers protects your organization from preventable turnover, legal risk, and team dysfunction.

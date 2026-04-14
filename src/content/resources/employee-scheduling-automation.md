@@ -5,7 +5,7 @@ category: "Technology"
 date: "2022-06-08"
 tags: ["scheduling", "automation", "workforce management", "technology", "operations"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Manual employee scheduling consumes an enormous amount of manager time, introduces errors, and creates employee frustration. Modern scheduling tools automate much of this process while improving compliance with labor laws and employee satisfaction. Here is how to select and implement the right scheduling solution for your organization.

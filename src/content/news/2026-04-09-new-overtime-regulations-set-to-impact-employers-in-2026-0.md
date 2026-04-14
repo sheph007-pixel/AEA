@@ -4,7 +4,7 @@ description: "Employers must prepare for updated overtime regulations from the D
 category: "Employment Law"
 date: "2026-04-09"
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## New Overtime Regulations Set to Impact Employers in 2026

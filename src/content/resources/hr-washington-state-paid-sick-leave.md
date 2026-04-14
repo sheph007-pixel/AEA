@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["washington", "paid sick leave", "benefits", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Washington Paid Sick Leave Requirements

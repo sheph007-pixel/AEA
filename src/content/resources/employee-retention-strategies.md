@@ -5,7 +5,7 @@ category: "Small Business"
 date: "2026-01-15"
 tags: ["retention", "employee engagement", "small business", "turnover"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Employee turnover is expensive. The cost of replacing an employee typically ranges from one-half to two times the employee's annual salary when you account for recruiting, hiring, training, and lost productivity. For small businesses operating on tight margins, retention is not just an HR issue but a financial imperative.

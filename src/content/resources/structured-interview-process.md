@@ -5,7 +5,7 @@ category: "Hiring"
 date: "2023-04-05"
 tags: ["interviewing", "hiring", "structured interviews", "discrimination", "best practices"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Why Structure Matters

@@ -5,7 +5,7 @@ category: "Technology"
 date: "2016-11-18"
 tags: ["cybersecurity", "data protection", "technology", "small business"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Why Small Businesses Are Targets

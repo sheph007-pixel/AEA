@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["sexual harassment", "investigation", "Title VII", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Receiving a sexual harassment complaint creates an immediate obligation to investigate. Under Title VII and the framework established by the Supreme Court, an employer's prompt and thorough response to harassment complaints is critical to both stopping the behavior and establishing a legal defense. A botched investigation can be more damaging than the underlying conduct.

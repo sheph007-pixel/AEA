@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2018-04-19"
 tags: ["PTO", "benefits", "paid time off", "vacation policy"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Traditional Leave vs. PTO Banks

@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2023-09-05"
 tags: ["pay transparency", "salary ranges", "job postings", "state law", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## The Pay Transparency Movement

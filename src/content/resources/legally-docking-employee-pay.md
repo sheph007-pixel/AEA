@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["wage deductions", "FLSA", "payroll", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Docking an employee's pay is one of the most legally sensitive actions an employer can take. The rules differ depending on whether the employee is exempt or non-exempt, what the deduction is for, and which state the employee works in. Getting it wrong can lead to wage claims, penalties, and even loss of the FLSA overtime exemption.

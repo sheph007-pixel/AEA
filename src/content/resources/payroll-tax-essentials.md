@@ -4,7 +4,7 @@ description: "A breakdown of employer payroll tax obligations, including FICA, F
 category: "Operations"
 date: "2024-09-05"
 tags: ["payroll", "taxes", "FICA", "operations"]
-verified: true
+verified: false
 ---
 
 ## Federal Payroll Tax Obligations

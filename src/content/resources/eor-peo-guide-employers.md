@@ -5,7 +5,7 @@ category: "Operations"
 date: "2024-05-08"
 tags: ["EOR", "PEO", "outsourcing", "HR", "employment model"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Understanding the Options

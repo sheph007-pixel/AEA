@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["pennsylvania", "employment law", "wages", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Pennsylvania Employment Law Overview

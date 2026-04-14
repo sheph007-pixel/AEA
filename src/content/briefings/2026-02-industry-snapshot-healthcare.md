@@ -6,7 +6,7 @@ date: "2026-02-12"
 month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["industry-snapshot", "healthcare", "staffing", "burnout", "OSHA", "scheduling", "2026"]
-verified: true
+verified: false
 ---
 
 # Industry Snapshot: Healthcare Employers in 2026

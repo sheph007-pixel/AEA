@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["texas", "workers compensation", "insurance", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Texas Workers' Compensation System

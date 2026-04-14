@@ -54,7 +54,7 @@ export default async function ResourcePage({ params }: Props) {
             </p>
             <div className="mt-6 flex items-center gap-4 text-sm text-ink-400">
               <span className="font-medium text-ink-700">{resource.author}</span>
-              <ArticleVerifiedBadge verified={resource.verified} />
+              <ArticleVerifiedBadge verified={resource.verified} factChecked={resource.factChecked} />
             </div>
           </div>
         </header>

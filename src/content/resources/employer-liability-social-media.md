@@ -4,7 +4,7 @@ description: "Understanding employer risks related to employee social media use,
 category: "Operations"
 date: "2024-05-10"
 tags: ["social media", "NLRA", "policies", "employer liability"]
-verified: true
+verified: false
 ---
 
 ## The Landscape
