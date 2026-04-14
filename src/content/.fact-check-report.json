@@ -1,1 +1,73 @@
-{}
+{
+  "2026-04-14-navigating-the-new-federal-pay-transparency-rules-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-14-navigating-the-new-federal-pay-transparency-rules-3.md",
+    "hash": "b5b8b2d569415d4eae18e9df193da8a8",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-14T19:15:11.566Z",
+    "autoFixed": true
+  },
+  "2026-04-14-navigating-the-rise-of-employee-mental-health-initiatives-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-14-navigating-the-rise-of-employee-mental-health-initiatives-1.md",
+    "hash": "bbac24b55ffbf46851735981b2fef04f",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-14T19:15:13.470Z"
+  },
+  "2026-04-14-new-california-law-mandates-pay-transparency-in-job-postings-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-14-new-california-law-mandates-pay-transparency-in-job-postings-2.md",
+    "hash": "73b0692d74556bc5dae00fa716903a2a",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-14T19:15:15.432Z"
+  },
+  "2026-04-14-new-eeoc-guidance-on-ai-tools-in-hiring-what-employers-need--0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-14-new-eeoc-guidance-on-ai-tools-in-hiring-what-employers-need--0.md",
+    "hash": "9831a201532d7a322dd10f15f15f5589",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-14T19:15:17.373Z"
+  },
+  "2026-04-14-new-pay-transparency-laws-are-reshaping-compensation-strateg-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-14-new-pay-transparency-laws-are-reshaping-compensation-strateg-4.md",
+    "hash": "43fca2cf94576408f7d8334ea992f34c",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-14T19:15:19.144Z"
+  }
+}
