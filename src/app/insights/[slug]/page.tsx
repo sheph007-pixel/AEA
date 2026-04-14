@@ -47,7 +47,7 @@ export default async function InsightPage({ params }: Props) {
             </p>
             <div className="mt-6 flex items-center gap-4 text-sm text-ink-400">
               <span className="font-medium text-ink-700">{insight.author}</span>
-              <ArticleVerifiedBadge verified={insight.verified} />
+              <ArticleVerifiedBadge verified={insight.verified} factChecked={insight.factChecked} />
             </div>
           </div>
         </header>

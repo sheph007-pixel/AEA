@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2022-01-18"
 tags: ["pay transparency", "compensation", "compliance", "salary disclosure", "hiring"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Pay transparency legislation is expanding rapidly across the United States. These laws, which generally require employers to disclose salary ranges in job postings or upon request, represent a significant shift in how compensation information is shared. Employers who prepare now will be ahead of the curve as more jurisdictions adopt similar requirements.

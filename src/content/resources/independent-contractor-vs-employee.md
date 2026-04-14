@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["independent contractors", "employee classification", "IRS", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Misclassifying workers as independent contractors when they should be employees is one of the most heavily penalized employment law violations. The consequences include back taxes, penalties, unpaid benefits, and potential liability under wage and hour, workers compensation, and unemployment insurance laws.

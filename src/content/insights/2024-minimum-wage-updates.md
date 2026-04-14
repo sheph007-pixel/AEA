@@ -4,7 +4,7 @@ description: "Several states and localities have enacted minimum wage increases.
 category: "Compliance"
 date: "2025-01-15"
 tags: ["minimum wage", "state law", "compliance"]
-verified: true
+verified: false
 ---
 
 ## Overview

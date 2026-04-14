@@ -11,7 +11,8 @@ export interface NewsItem {
   category: string;
   date: string;
   author: string;
-  verified: boolean;
+  verified: boolean;       // true = passed fact-check
+  factChecked: boolean;    // true = has been through the fact-checker (pass or fail)
   contentHtml?: string;
 }
 
@@ -33,9 +34,14 @@ export function getAllNews(): NewsItem[] {
         date: data.date || '2025-01-01',
         author: data.author || 'AEA Editorial Team',
         verified: data.verified === true,
+        factChecked: data.factCheckedAt != null,
       };
     })
-    .filter((item) => item.verified)
+    .filter((item) => {
+      // Hide articles that were fact-checked and failed
+      if (item.factChecked && !item.verified) return false;
+      return true;
+    })
     .sort((a, b) => (a.date > b.date ? -1 : 1));
 }
 
@@ -48,7 +54,10 @@ export async function getNewsBySlug(slug: string): Promise<NewsItem | null> {
   if (!fs.existsSync(fullPath)) return null;
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
-  if (data.verified !== true) return null;
+  const factChecked = data.factCheckedAt != null;
+  const verified = data.verified === true;
+  // Hide articles that were fact-checked and failed
+  if (factChecked && !verified) return null;
   const { remark } = await import('remark');
   const html = await import('remark-html');
   const processed = await remark().use(html.default).process(content);
@@ -59,7 +68,8 @@ export async function getNewsBySlug(slug: string): Promise<NewsItem | null> {
     category: data.category || 'Industry News',
     date: data.date || '2025-01-01',
     author: data.author || 'AEA Editorial Team',
-    verified: true,
+    verified,
+    factChecked,
     contentHtml: processed.toString(),
   };
 }

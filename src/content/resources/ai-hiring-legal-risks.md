@@ -5,7 +5,7 @@ category: "Hiring"
 date: "2023-03-15"
 tags: ["AI", "hiring", "compliance", "discrimination", "technology"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## The Rise of AI in Recruitment

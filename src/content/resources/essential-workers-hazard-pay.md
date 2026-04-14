@@ -5,7 +5,7 @@ category: "Benefits"
 date: "2020-10-12"
 tags: ["hazard pay", "essential workers", "compensation", "benefits", "COVID-19"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Essential workers who continued reporting to job sites during the pandemic faced elevated health risks. Many employers implemented hazard pay or premium compensation to acknowledge those risks, support retention, and maintain morale. While hazard pay is generally not legally mandated by federal law, understanding the landscape helps employers make informed decisions.

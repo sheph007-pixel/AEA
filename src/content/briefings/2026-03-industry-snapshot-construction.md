@@ -6,7 +6,7 @@ date: "2026-03-18"
 month: "2026-03"
 author: "AEA Editorial Team"
 tags: ["industry-snapshot", "construction", "OSHA", "prevailing-wage", "I-9", "safety-training", "2026"]
-verified: true
+verified: false
 ---
 
 # Industry Snapshot: Construction Industry Employer Compliance

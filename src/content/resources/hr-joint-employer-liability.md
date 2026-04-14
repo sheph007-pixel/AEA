@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["joint employer", "staffing", "liability", "FLSA"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Understanding Joint Employment

@@ -5,7 +5,7 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["OSHA", "workplace safety", "safety program", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 A strong workplace safety program protects employees, reduces costs associated with injuries and illnesses, and helps employers comply with OSHA requirements. OSHA recommends that all employers establish a safety and health program based on a framework of core elements. Many states require written safety programs for certain industries.

@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["at-will employment", "wrongful termination", "employment law", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Employment at-will is the default rule in every U.S. state except Montana. Under this doctrine, either the employer or the employee may end the employment relationship at any time, for any reason, with or without notice. However, the at-will doctrine has exceptions that employers should understand to avoid wrongful termination claims.

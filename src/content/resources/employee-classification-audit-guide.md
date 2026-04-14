@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["classification audit", "exempt", "non-exempt", "FLSA"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 An employee classification audit reviews how your workers are classified to identify potential misclassifications before they result in lawsuits, back pay awards, or government penalties. Given the complexity of classification rules and the frequency of errors, periodic audits are a best practice for every employer.

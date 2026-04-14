@@ -5,7 +5,7 @@ category: "Workplace Culture"
 date: "2026-01-15"
 tags: ["harassment prevention", "Title VII", "workplace culture", "training"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Workplace harassment remains one of the leading sources of EEOC charges and employment litigation. An effective prevention program does more than check a compliance box. It creates a culture where harassment is unlikely to occur and is quickly addressed when it does. The legal framework established by the Supreme Court in *Faragher v. City of Boca Raton* and *Burlington Industries v. Ellerth* rewards employers who take proactive steps.

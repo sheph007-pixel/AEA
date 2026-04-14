@@ -4,7 +4,7 @@ description: "Recent regulatory changes require employers to update policies reg
 category: "Employment Law"
 date: "2026-04-11"
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## New Protections Under the Pregnant Workers Fairness Act

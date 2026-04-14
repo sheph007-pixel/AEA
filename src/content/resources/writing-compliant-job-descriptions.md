@@ -5,7 +5,7 @@ category: "Hiring"
 date: "2017-03-14"
 tags: ["job descriptions", "ADA", "hiring", "essential functions"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Why Job Descriptions Matter Legally

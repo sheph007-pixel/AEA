@@ -5,7 +5,7 @@ category: "Safety"
 date: "2022-08-30"
 tags: ["heat illness", "OSHA", "workplace safety", "outdoor workers", "prevention"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Heat-related illness is a significant workplace hazard that affects outdoor workers, warehouse and manufacturing employees, and anyone working in hot environments. With OSHA pursuing a federal heat illness prevention standard, employers should implement protective measures now rather than waiting for regulatory mandates.

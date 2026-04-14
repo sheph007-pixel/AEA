@@ -4,7 +4,7 @@ description: "How to properly administer COBRA continuation coverage, including 
 category: "Compliance"
 date: "2024-08-05"
 tags: ["COBRA", "health benefits", "compliance", "administration"]
-verified: true
+verified: false
 ---
 
 ## What Is COBRA?

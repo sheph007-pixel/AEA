@@ -38,7 +38,7 @@ export default async function NewsArticlePage({ params }: Props) {
             <p className="mt-4 text-lg text-ink-500 leading-relaxed">{item.description}</p>
             <div className="mt-6 flex items-center gap-4 text-sm text-ink-400">
               <span className="font-medium text-ink-700">{item.author}</span>
-              <ArticleVerifiedBadge verified={item.verified} />
+              <ArticleVerifiedBadge verified={item.verified} factChecked={item.factChecked} />
             </div>
           </div>
         </header>

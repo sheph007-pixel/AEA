@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["prevailing wage", "Davis-Bacon", "government contracts", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Employers working on federally funded construction projects must comply with the Davis-Bacon Act, which requires payment of locally prevailing wages and fringe benefits to laborers and mechanics. Similar prevailing wage laws exist at the state level for state-funded projects. Non-compliance can result in contract termination, debarment, and liability for back wages.

@@ -20,6 +20,7 @@ export interface ContentItem {
   readTime: string;
   featured: boolean;
   verified: boolean;
+  factChecked: boolean;
   contentHtml?: string;
 }
 
@@ -50,9 +51,13 @@ function loadFromDirectory(directory: string): ContentItem[] {
         readTime: data.readTime || estimateReadTime(content),
         featured: data.featured || false,
         verified: data.verified === true,
+        factChecked: data.factCheckedAt != null,
       };
     })
-    .filter((item) => item.verified);
+    .filter((item) => {
+      if (item.factChecked && !item.verified) return false;
+      return true;
+    });
 }
 
 let _allContent: ContentItem[] | null = null;
@@ -82,7 +87,9 @@ async function loadSingleItem(slug: string): Promise<ContentItem | null> {
     if (fs.existsSync(fullPath)) {
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const { data, content } = matter(fileContents);
-      if (data.verified !== true) return null;
+      const factChecked = data.factCheckedAt != null;
+      const verified = data.verified === true;
+      if (factChecked && !verified) return null;
       const processedContent = await remark().use(html).process(content);
       return {
         slug,
@@ -94,7 +101,8 @@ async function loadSingleItem(slug: string): Promise<ContentItem | null> {
         author: data.author || 'AEA Editorial Team',
         readTime: data.readTime || estimateReadTime(content),
         featured: data.featured || false,
-        verified: data.verified === true,
+        verified,
+        factChecked,
         contentHtml: processedContent.toString(),
       };
     }

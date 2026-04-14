@@ -4,7 +4,7 @@ description: "What records employers must maintain, how long to keep them, and h
 category: "Compliance"
 date: "2024-07-08"
 tags: ["records", "compliance", "documentation", "retention"]
-verified: true
+verified: false
 ---
 
 ## Why Record-Keeping Matters

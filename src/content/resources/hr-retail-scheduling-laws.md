@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["retail", "scheduling", "predictive scheduling", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## The Rise of Predictive Scheduling Laws

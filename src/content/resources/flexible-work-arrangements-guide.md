@@ -5,7 +5,7 @@ category: "Operations"
 date: "2019-04-22"
 tags: ["flexible work", "work-life balance", "scheduling", "workplace flexibility"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Types of Flexible Arrangements

@@ -4,7 +4,7 @@ description: "Evidence-based approaches to reducing turnover and retaining valua
 category: "HR"
 date: "2024-07-01"
 tags: ["retention", "turnover", "employee engagement", "HR strategy"]
-verified: true
+verified: false
 ---
 
 ## Understanding Turnover

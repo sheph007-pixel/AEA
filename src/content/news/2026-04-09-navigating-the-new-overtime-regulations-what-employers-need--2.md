@@ -4,7 +4,7 @@ description: "The Department of Labor's proposed changes to overtime rules may i
 category: "Workplace Policy"
 date: "2023-10-09"
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Understanding the Proposed Changes to Overtime Regulations

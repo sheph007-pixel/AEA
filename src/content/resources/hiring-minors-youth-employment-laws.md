@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["youth employment", "child labor", "FLSA", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Hiring minors requires compliance with both federal child labor provisions under the FLSA and state youth employment laws, which are often stricter. Violations can result in civil penalties, and in cases of willful violation leading to serious injury or death, criminal penalties are possible.

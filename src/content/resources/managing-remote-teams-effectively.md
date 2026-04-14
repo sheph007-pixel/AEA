@@ -5,7 +5,7 @@ category: "Leadership"
 date: "2020-09-14"
 tags: ["remote work", "leadership", "management", "team building", "productivity"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 Managing a remote team requires different skills than managing an in-office team. The leaders who succeed remotely are those who shift from monitoring presence to measuring outcomes, communicate with deliberate frequency, and build trust through transparency.

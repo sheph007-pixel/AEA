@@ -4,7 +4,7 @@ description: "Following favorable appellate decisions, the FTC is moving forward
 category: "Employment Law"
 date: "2026-04-14"
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## Background

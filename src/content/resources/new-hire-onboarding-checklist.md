@@ -4,7 +4,7 @@ description: "A comprehensive onboarding checklist to ensure compliance, product
 category: "Hiring"
 date: "2024-07-15"
 tags: ["onboarding", "hiring", "new employees", "checklist"]
-verified: true
+verified: false
 ---
 
 ## Pre-Start Preparation

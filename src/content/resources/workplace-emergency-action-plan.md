@@ -5,7 +5,7 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["OSHA", "emergency planning", "workplace safety", "compliance"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 OSHA requires employers covered under specific standards to have a written emergency action plan (EAP). Even if your business is not specifically required to have one, creating an EAP is a best practice that protects employees and limits liability. OSHA's EAP requirements are found in 29 CFR 1910.38.

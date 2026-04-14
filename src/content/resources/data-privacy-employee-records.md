@@ -5,7 +5,7 @@ category: "Technology"
 date: "2024-09-28"
 tags: ["data privacy", "employee records", "state law", "compliance", "cybersecurity"]
 author: "AEA Editorial Team"
-verified: true
+verified: false
 ---
 
 ## The Privacy Landscape for Employee Data
