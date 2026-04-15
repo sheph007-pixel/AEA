@@ -69,5 +69,160 @@
     "hash": "43fca2cf94576408f7d8334ea992f34c",
     "dir": "src/content/news",
     "checkedAt": "2026-04-14T19:15:19.144Z"
+  },
+  "2026-04-15-navigating-the-new-landscape-of-remote-work-regulations-3.md": {
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "confirmed_claims": 5,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "summary": "All claims in the article are confirmed by credible sources, making it a reliable piece on remote work regulations.",
+    "claims_extracted": 5,
+    "verification_details": [
+      {
+        "claim_number": 1,
+        "claim": "California has implemented new guidelines that require employers to reimburse employees for expenses incurred while working from home.",
+        "verdict": "confirmed",
+        "source": "https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html",
+        "explanation": "California Labor Code Section 2802 mandates that employers reimburse employees for all necessary business expenses, including those incurred while working from home, such as internet and phone bills."
+      },
+      {
+        "claim_number": 2,
+        "claim": "States like New York have begun to legislate on workplace surveillance.",
+        "verdict": "confirmed",
+        "source": "https://www.nysenate.gov/legislation/bills/2025/A8917",
+        "explanation": "New York has introduced Assembly Bill A8917, which aims to prohibit employers from using workplace surveillance tools to monitor employees in private, off-duty areas or a worker's residence, vehicle, or property."
+      },
+      {
+        "claim_number": 3,
+        "claim": "Employers are now required to notify employees if they are using monitoring software to track productivity or communications.",
+        "verdict": "confirmed",
+        "source": "https://www.hklaw.com/en/insights/publications/2022/05/new-york-law-requires-notice-of-employees-electronic-monitoring",
+        "explanation": "As of May 7, 2022, New York law requires private-sector employers to provide notice to employees about electronic monitoring practices upon hiring and in a conspicuous place."
+      },
+      {
+        "claim_number": 4,
+        "claim": "The Fair Labor Standards Act (FLSA) pertains to remote workers.",
+        "verdict": "confirmed",
+        "source": "https://www.dwt.com/blogs/employment-labor-and-benefits/2023/07/reimbursing-california-remote-employee-expenses",
+        "explanation": "The FLSA applies to all employees, including those working remotely, ensuring they receive minimum wage and overtime protections."
+      },
+      {
+        "claim_number": 5,
+        "claim": "Under the FLSA, remote workers are generally entitled to minimum wage protections and overtime pay.",
+        "verdict": "confirmed",
+        "source": "https://www.dwt.com/blogs/employment-labor-and-benefits/2023/07/reimbursing-california-remote-employee-expenses",
+        "explanation": "The FLSA mandates that remote workers are entitled to minimum wage and overtime pay, similar to on-site employees."
+      }
+    ],
+    "file": "2026-04-15-navigating-the-new-landscape-of-remote-work-regulations-3.md",
+    "hash": "0ea7a68e596674802a804a810c75f136",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-15T07:16:24.101Z",
+    "autoFixed": true
+  },
+  "2026-04-15-navigating-the-new-pay-transparency-regulations-what-employe-1.md": {
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "confirmed_claims": 3,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "summary": "All claims in the article are confirmed by credible sources, and the article accurately reflects the current state of pay transparency laws.",
+    "claims_extracted": 3,
+    "verification_details": [
+      {
+        "claim_number": 1,
+        "claim": "In 2023, several states and cities enacted or updated laws focusing on pay transparency.",
+        "verdict": "confirmed",
+        "source": "https://www.cnbc.com/2022/12/29/new-salary-transparency-laws-going-into-effect-in-2023.html",
+        "explanation": "Multiple states, including California and Washington, implemented pay transparency laws in 2023, requiring employers to disclose salary ranges in job postings."
+      },
+      {
+        "claim_number": 2,
+        "claim": "California's pay transparency law mandates that employers with 15 or more employees include salary ranges in job postings.",
+        "verdict": "confirmed",
+        "source": "https://www.cnbc.com/2022/09/28/california-pay-transparency-law-to-require-salary-ranges-on-job-postings.html",
+        "explanation": "California's law, effective January 1, 2023, requires employers with 15 or more employees to list salary ranges in job postings."
+      },
+      {
+        "claim_number": 3,
+        "claim": "New York City has expanded its pay transparency regulations, which now require employers to disclose salary ranges for all job postings, regardless of the company's size.",
+        "verdict": "confirmed",
+        "source": "https://www.cnbc.com/2022/12/29/new-salary-transparency-laws-going-into-effect-in-2023.html",
+        "explanation": "New York City's pay transparency law, effective November 1, 2022, requires employers to include salary ranges in job postings, applicable to all employers."
+      }
+    ],
+    "file": "2026-04-15-navigating-the-new-pay-transparency-regulations-what-employe-1.md",
+    "hash": "db4740f3ee6371356e2b3d36481dc300",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-15T07:16:34.917Z"
+  },
+  "2026-04-15-new-overtime-regulations-impacting-employers-what-you-need-t-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-15-new-overtime-regulations-impacting-employers-what-you-need-t-4.md",
+    "hash": "2181dc0149e1366e6182fd67105973c4",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-15T07:16:54.412Z",
+    "autoFixed": true
+  },
+  "2026-04-15-new-pay-transparency-laws-impact-employers-nationwide-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-15-new-pay-transparency-laws-impact-employers-nationwide-0.md",
+    "hash": "e4d52f023bae2f68b0e3d55d8a3c110f",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-15T07:16:56.606Z"
+  },
+  "2026-04-15-new-pay-transparency-regulations-what-employers-need-to-know-2.md": {
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "confirmed_claims": 3,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "summary": "All claims in the article are confirmed by credible sources, and the article is well-supported and accurate.",
+    "claims_extracted": 3,
+    "verification_details": [
+      {
+        "claim_number": 1,
+        "claim": "As of April 2026, states including California, New York, and Washington have adopted or expanded laws mandating pay transparency.",
+        "verdict": "confirmed",
+        "source": "https://www.paycor.com/resource-center/articles/pay-transparency-laws-by-state/",
+        "explanation": "As of April 2026, California, New York, and Washington have implemented pay transparency laws. California's SB 1162, effective January 1, 2023, requires employers with 15 or more employees to include pay scales in job postings. New York's pay transparency law, effective September 17, 2023, mandates employers to disclose salary ranges in job advertisements. Washington's law, effective January 1, 2023, requires employers with 15 or more employees to include salary information in job postings."
+      },
+      {
+        "claim_number": 2,
+        "claim": "In California, the law requires employers with 15 or more employees to include the pay scale in job postings.",
+        "verdict": "confirmed",
+        "source": "https://www.cda.org/newsroom/employment-practices/pay-scale-must-be-included-in-job-postings-by-california-employers-with-15-or-more-employees/",
+        "explanation": "California's SB 1162, effective January 1, 2023, mandates that employers with 15 or more employees include the pay scale in all job postings."
+      },
+      {
+        "claim_number": 3,
+        "claim": "New York City mandates that employers disclose salary ranges for all job advertisements.",
+        "verdict": "confirmed",
+        "source": "https://www.paycor.com/resource-center/articles/pay-transparency-laws-by-state/",
+        "explanation": "New York City's pay transparency law, effective November 1, 2022, requires employers to include salary ranges in all job advertisements."
+      }
+    ],
+    "file": "2026-04-15-new-pay-transparency-regulations-what-employers-need-to-know-2.md",
+    "hash": "10566e6a7687e32529997ff8b2944f68",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-15T07:17:05.935Z"
   }
 }
