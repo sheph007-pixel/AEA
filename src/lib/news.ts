@@ -16,9 +16,12 @@ export interface NewsItem {
   contentHtml?: string;
 }
 
+let _allNews: NewsItem[] | null = null;
+
 export function getAllNews(): NewsItem[] {
+  if (_allNews) return _allNews;
   if (!fs.existsSync(newsDirectory)) return [];
-  return fs
+  _allNews = fs
     .readdirSync(newsDirectory)
     .filter((f) => f.endsWith('.md'))
     .map((fileName) => {
@@ -43,6 +46,7 @@ export function getAllNews(): NewsItem[] {
       return true;
     })
     .sort((a, b) => (a.date > b.date ? -1 : 1));
+  return _allNews;
 }
 
 export function getLatestNews(count: number): NewsItem[] {
