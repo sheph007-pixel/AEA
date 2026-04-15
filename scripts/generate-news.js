@@ -85,8 +85,41 @@ function callOpenAI(prompt) {
   });
 }
 
-async function generateArticle(category, index) {
+function getExistingTitles() {
+  if (!fs.existsSync(NEWS_DIR)) return [];
+  return fs
+    .readdirSync(NEWS_DIR)
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => {
+      const content = fs.readFileSync(path.join(NEWS_DIR, f), 'utf8');
+      const match = content.match(/title:\s*"([^"]+)"/);
+      return match ? match[1] : '';
+    })
+    .filter(Boolean);
+}
+
+function isTooSimilar(newTitle, existingTitles) {
+  const normalize = (s) => s.toLowerCase().replace(/[^a-z0-9 ]/g, '').split(/\s+/).sort().join(' ');
+  const newNorm = normalize(newTitle);
+  for (const existing of existingTitles) {
+    const existNorm = normalize(existing);
+    // Check if the key words overlap heavily
+    const newWords = new Set(newNorm.split(' ').filter((w) => w.length > 3));
+    const existWords = new Set(existNorm.split(' ').filter((w) => w.length > 3));
+    const overlap = [...newWords].filter((w) => existWords.has(w)).length;
+    const maxLen = Math.max(newWords.size, existWords.size);
+    if (maxLen > 0 && overlap / maxLen > 0.7) return true;
+  }
+  return false;
+}
+
+async function generateArticle(category, index, existingTitles) {
   const date = todayFormatted();
+
+  const avoidList =
+    existingTitles.length > 0
+      ? `\n\nIMPORTANT: Do NOT write about topics already covered. Avoid these existing headlines:\n${existingTitles.map((t) => `- ${t}`).join('\n')}\n\nChoose a substantially DIFFERENT topic within the "${category}" category.`
+      : '';
 
   const prompt = `Write a short news article (400-500 words) about a current topic in "${category}" that employers and HR professionals would find useful and want to read today.
 
@@ -95,7 +128,7 @@ The article should:
 - Be written as a news/analysis piece, not a how-to guide
 - Include what employers need to know and any action items
 - Reference real laws, agencies, or regulations where relevant
-- NOT invent specific statistics, company names, or quotes
+- NOT invent specific statistics, company names, or quotes${avoidList}
 
 Output the article in this EXACT markdown format (nothing else before or after):
 
@@ -116,12 +149,18 @@ Content here...`;
 
   const titleMatch = content.match(/title:\s*"([^"]+)"/);
   const title = titleMatch ? titleMatch[1] : `${category} Update`;
+
+  if (isTooSimilar(title, existingTitles)) {
+    console.log(`Skipped (too similar to existing): ${title}`);
+    return null;
+  }
+
   const slug = `${date}-${slugify(title)}-${index}`;
 
   const filePath = path.join(NEWS_DIR, `${slug}.md`);
   fs.writeFileSync(filePath, content.trim() + '\n');
   console.log(`Created: ${slug}`);
-  return slug;
+  return title;
 }
 
 function cleanOldNews() {
@@ -152,10 +191,14 @@ async function main() {
 
   console.log('Generating 5 daily news articles...');
 
+  const existingTitles = getExistingTitles();
+  console.log(`Found ${existingTitles.length} existing articles to check against.`);
+
   for (let i = 0; i < 5; i++) {
     const category = CATEGORIES[i % CATEGORIES.length];
     try {
-      await generateArticle(category, i);
+      const newTitle = await generateArticle(category, i, existingTitles);
+      if (newTitle) existingTitles.push(newTitle);
     } catch (err) {
       console.error(`Failed to generate article ${i}:`, err.message);
     }

@@ -64,6 +64,18 @@ function getRandomItem(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
+function isTooSimilar(newTitle, existingTitles) {
+  const normalize = (s) => s.toLowerCase().replace(/[^a-z0-9 ]/g, '').split(/\s+/).sort().join(' ');
+  const newWords = new Set(normalize(newTitle).split(' ').filter((w) => w.length > 3));
+  for (const existing of existingTitles) {
+    const existWords = new Set(normalize(existing).split(' ').filter((w) => w.length > 3));
+    const overlap = [...newWords].filter((w) => existWords.has(w)).length;
+    const maxLen = Math.max(newWords.size, existWords.size);
+    if (maxLen > 0 && overlap / maxLen > 0.7) return true;
+  }
+  return false;
+}
+
 function slugify(text) {
   return text
     .toLowerCase()
@@ -128,11 +140,22 @@ async function main() {
 
   // Check existing articles to avoid duplicates
   const resourcesDir = path.join(__dirname, '..', 'src', 'content', 'resources');
-  const existing = fs.readdirSync(resourcesDir).map((f) => f.replace('.md', ''));
+  const existingFiles = fs.readdirSync(resourcesDir).filter((f) => f.endsWith('.md'));
+  const existingSlugs = existingFiles.map((f) => f.replace('.md', ''));
+  const existingTitles = existingFiles.map((f) => {
+    const content = fs.readFileSync(path.join(resourcesDir, f), 'utf8');
+    const match = content.match(/title:\s*"([^"]+)"/);
+    return match ? match[1] : '';
+  }).filter(Boolean);
 
   const category = getRandomItem(CATEGORIES);
   const topic = getRandomItem(TOPICS);
   const date = todayFormatted();
+
+  // Build avoid list from existing titles in the same topic area
+  const avoidList = existingTitles.length > 0
+    ? `\n\nIMPORTANT: Do NOT write about topics already covered. These articles already exist:\n${existingTitles.map((t) => `- ${t}`).join('\n')}\n\nChoose a substantially DIFFERENT angle or subtopic within "${topic}".`
+    : '';
 
   const prompt = `Write a practical employer-focused article for the American Employers Alliance website.
 
@@ -146,7 +169,7 @@ Requirements:
 - Reference relevant laws or regulations where applicable (FLSA, FMLA, ADA, OSHA, etc.)
 - Do NOT invent statistics, quotes, case studies, or partnerships
 - Write in a professional, direct style suitable for a business publication
-- The content must be factually accurate
+- The content must be factually accurate${avoidList}
 
 Output ONLY the article in this exact format (no other text before or after):
 
@@ -171,10 +194,17 @@ Content here...`;
   // Extract title from frontmatter for slug
   const titleMatch = content.match(/title:\s*"([^"]+)"/);
   const title = titleMatch ? titleMatch[1] : `${category}-${topic}`;
+
+  // Check title similarity against existing articles
+  if (isTooSimilar(title, existingTitles)) {
+    console.log(`Skipped (too similar to existing article): ${title}`);
+    process.exit(0);
+  }
+
   let slug = slugify(title);
 
   // Ensure unique slug
-  if (existing.includes(slug)) {
+  if (existingSlugs.includes(slug)) {
     slug = slug + '-' + Date.now().toString(36).slice(-4);
   }
 
