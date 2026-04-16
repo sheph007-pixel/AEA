@@ -1,19 +1,4 @@
 {
-  "2026-04-14-navigating-the-new-federal-pay-transparency-rules-3.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-14-navigating-the-new-federal-pay-transparency-rules-3.md",
-    "hash": "b5b8b2d569415d4eae18e9df193da8a8",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-14T19:15:11.566Z",
-    "autoFixed": true
-  },
   "2026-04-14-navigating-the-rise-of-employee-mental-health-initiatives-1.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -55,20 +40,6 @@
     "hash": "9831a201532d7a322dd10f15f15f5589",
     "dir": "src/content/news",
     "checkedAt": "2026-04-14T19:15:17.373Z"
-  },
-  "2026-04-14-new-pay-transparency-laws-are-reshaping-compensation-strateg-4.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-14-new-pay-transparency-laws-are-reshaping-compensation-strateg-4.md",
-    "hash": "43fca2cf94576408f7d8334ea992f34c",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-14T19:15:19.144Z"
   },
   "2026-04-15-navigating-the-new-landscape-of-remote-work-regulations-3.md": {
     "status": "pass",
@@ -122,43 +93,6 @@
     "checkedAt": "2026-04-15T07:16:24.101Z",
     "autoFixed": true
   },
-  "2026-04-15-navigating-the-new-pay-transparency-regulations-what-employe-1.md": {
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "confirmed_claims": 3,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "summary": "All claims in the article are confirmed by credible sources, and the article accurately reflects the current state of pay transparency laws.",
-    "claims_extracted": 3,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "In 2023, several states and cities enacted or updated laws focusing on pay transparency.",
-        "verdict": "confirmed",
-        "source": "https://www.cnbc.com/2022/12/29/new-salary-transparency-laws-going-into-effect-in-2023.html",
-        "explanation": "Multiple states, including California and Washington, implemented pay transparency laws in 2023, requiring employers to disclose salary ranges in job postings."
-      },
-      {
-        "claim_number": 2,
-        "claim": "California's pay transparency law mandates that employers with 15 or more employees include salary ranges in job postings.",
-        "verdict": "confirmed",
-        "source": "https://www.cnbc.com/2022/09/28/california-pay-transparency-law-to-require-salary-ranges-on-job-postings.html",
-        "explanation": "California's law, effective January 1, 2023, requires employers with 15 or more employees to list salary ranges in job postings."
-      },
-      {
-        "claim_number": 3,
-        "claim": "New York City has expanded its pay transparency regulations, which now require employers to disclose salary ranges for all job postings, regardless of the company's size.",
-        "verdict": "confirmed",
-        "source": "https://www.cnbc.com/2022/12/29/new-salary-transparency-laws-going-into-effect-in-2023.html",
-        "explanation": "New York City's pay transparency law, effective November 1, 2022, requires employers to include salary ranges in job postings, applicable to all employers."
-      }
-    ],
-    "file": "2026-04-15-navigating-the-new-pay-transparency-regulations-what-employe-1.md",
-    "hash": "db4740f3ee6371356e2b3d36481dc300",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-15T07:16:34.917Z"
-  },
   "2026-04-15-new-overtime-regulations-impacting-employers-what-you-need-t-4.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -174,7 +108,7 @@
     "checkedAt": "2026-04-15T07:16:54.412Z",
     "autoFixed": true
   },
-  "2026-04-15-new-pay-transparency-laws-impact-employers-nationwide-0.md": {
+  "2026-04-16-irs-updates-guidelines-on-employee-benefit-plan-compliance-4.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -183,46 +117,51 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-15-new-pay-transparency-laws-impact-employers-nationwide-0.md",
-    "hash": "e4d52f023bae2f68b0e3d55d8a3c110f",
+    "file": "2026-04-16-irs-updates-guidelines-on-employee-benefit-plan-compliance-4.md",
+    "hash": "092baeeaca5033ca0618ed99d3eea661",
     "dir": "src/content/news",
-    "checkedAt": "2026-04-15T07:16:56.606Z"
+    "checkedAt": "2026-04-16T07:16:13.445Z"
   },
-  "2026-04-15-new-pay-transparency-regulations-what-employers-need-to-know-2.md": {
+  "2026-04-16-the-impact-of-updated-family-leave-policies-on-employers-2.md": {
     "status": "pass",
-    "confidence": 1,
+    "confidence": 0.8,
     "issues": [],
-    "confirmed_claims": 3,
+    "confirmed_claims": 0,
     "unverified_claims": 0,
     "false_claims": 0,
-    "summary": "All claims in the article are confirmed by credible sources, and the article is well-supported and accurate.",
-    "claims_extracted": 3,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "As of April 2026, states including California, New York, and Washington have adopted or expanded laws mandating pay transparency.",
-        "verdict": "confirmed",
-        "source": "https://www.paycor.com/resource-center/articles/pay-transparency-laws-by-state/",
-        "explanation": "As of April 2026, California, New York, and Washington have implemented pay transparency laws. California's SB 1162, effective January 1, 2023, requires employers with 15 or more employees to include pay scales in job postings. New York's pay transparency law, effective September 17, 2023, mandates employers to disclose salary ranges in job advertisements. Washington's law, effective January 1, 2023, requires employers with 15 or more employees to include salary information in job postings."
-      },
-      {
-        "claim_number": 2,
-        "claim": "In California, the law requires employers with 15 or more employees to include the pay scale in job postings.",
-        "verdict": "confirmed",
-        "source": "https://www.cda.org/newsroom/employment-practices/pay-scale-must-be-included-in-job-postings-by-california-employers-with-15-or-more-employees/",
-        "explanation": "California's SB 1162, effective January 1, 2023, mandates that employers with 15 or more employees include the pay scale in all job postings."
-      },
-      {
-        "claim_number": 3,
-        "claim": "New York City mandates that employers disclose salary ranges for all job advertisements.",
-        "verdict": "confirmed",
-        "source": "https://www.paycor.com/resource-center/articles/pay-transparency-laws-by-state/",
-        "explanation": "New York City's pay transparency law, effective November 1, 2022, requires employers to include salary ranges in all job advertisements."
-      }
-    ],
-    "file": "2026-04-15-new-pay-transparency-regulations-what-employers-need-to-know-2.md",
-    "hash": "10566e6a7687e32529997ff8b2944f68",
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-16-the-impact-of-updated-family-leave-policies-on-employers-2.md",
+    "hash": "83154700d98105cd22cf1581a19255e4",
     "dir": "src/content/news",
-    "checkedAt": "2026-04-15T07:17:05.935Z"
+    "checkedAt": "2026-04-16T07:16:15.741Z"
+  },
+  "2026-04-16-the-rise-of-corporate-sustainability-initiatives-what-employ-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-16-the-rise-of-corporate-sustainability-initiatives-what-employ-3.md",
+    "hash": "41d987259e84178e84d545de25991b64",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-16T07:16:17.849Z"
+  },
+  "2026-04-16-understanding-the-legal-implications-of-employee-surveillanc-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-16-understanding-the-legal-implications-of-employee-surveillanc-0.md",
+    "hash": "1c2436163b4aaa88891b89f87ec0e8c7",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-16T07:16:19.734Z"
   }
 }
