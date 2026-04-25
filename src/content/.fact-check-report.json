@@ -1,98 +1,4 @@
 {
-  "2026-04-14-navigating-the-rise-of-employee-mental-health-initiatives-1.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-14-navigating-the-rise-of-employee-mental-health-initiatives-1.md",
-    "hash": "bbac24b55ffbf46851735981b2fef04f",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-14T19:15:13.470Z"
-  },
-  "2026-04-14-new-california-law-mandates-pay-transparency-in-job-postings-2.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-14-new-california-law-mandates-pay-transparency-in-job-postings-2.md",
-    "hash": "73b0692d74556bc5dae00fa716903a2a",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-14T19:15:15.432Z"
-  },
-  "2026-04-14-new-eeoc-guidance-on-ai-tools-in-hiring-what-employers-need--0.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-14-new-eeoc-guidance-on-ai-tools-in-hiring-what-employers-need--0.md",
-    "hash": "9831a201532d7a322dd10f15f15f5589",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-14T19:15:17.373Z"
-  },
-  "2026-04-15-navigating-the-new-landscape-of-remote-work-regulations-3.md": {
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "confirmed_claims": 5,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "summary": "All claims in the article are confirmed by credible sources, making it a reliable piece on remote work regulations.",
-    "claims_extracted": 5,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "California has implemented new guidelines that require employers to reimburse employees for expenses incurred while working from home.",
-        "verdict": "confirmed",
-        "source": "https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html",
-        "explanation": "California Labor Code Section 2802 mandates that employers reimburse employees for all necessary business expenses, including those incurred while working from home, such as internet and phone bills."
-      },
-      {
-        "claim_number": 2,
-        "claim": "States like New York have begun to legislate on workplace surveillance.",
-        "verdict": "confirmed",
-        "source": "https://www.nysenate.gov/legislation/bills/2025/A8917",
-        "explanation": "New York has introduced Assembly Bill A8917, which aims to prohibit employers from using workplace surveillance tools to monitor employees in private, off-duty areas or a worker's residence, vehicle, or property."
-      },
-      {
-        "claim_number": 3,
-        "claim": "Employers are now required to notify employees if they are using monitoring software to track productivity or communications.",
-        "verdict": "confirmed",
-        "source": "https://www.hklaw.com/en/insights/publications/2022/05/new-york-law-requires-notice-of-employees-electronic-monitoring",
-        "explanation": "As of May 7, 2022, New York law requires private-sector employers to provide notice to employees about electronic monitoring practices upon hiring and in a conspicuous place."
-      },
-      {
-        "claim_number": 4,
-        "claim": "The Fair Labor Standards Act (FLSA) pertains to remote workers.",
-        "verdict": "confirmed",
-        "source": "https://www.dwt.com/blogs/employment-labor-and-benefits/2023/07/reimbursing-california-remote-employee-expenses",
-        "explanation": "The FLSA applies to all employees, including those working remotely, ensuring they receive minimum wage and overtime protections."
-      },
-      {
-        "claim_number": 5,
-        "claim": "Under the FLSA, remote workers are generally entitled to minimum wage protections and overtime pay.",
-        "verdict": "confirmed",
-        "source": "https://www.dwt.com/blogs/employment-labor-and-benefits/2023/07/reimbursing-california-remote-employee-expenses",
-        "explanation": "The FLSA mandates that remote workers are entitled to minimum wage and overtime pay, similar to on-site employees."
-      }
-    ],
-    "file": "2026-04-15-navigating-the-new-landscape-of-remote-work-regulations-3.md",
-    "hash": "0ea7a68e596674802a804a810c75f136",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-15T07:16:24.101Z",
-    "autoFixed": true
-  },
   "2026-04-15-new-overtime-regulations-impacting-employers-what-you-need-t-4.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -443,5 +349,91 @@
     "hash": "424e8b46b1b7a106b374b85a2dcc756a",
     "dir": "src/content/news",
     "checkedAt": "2026-04-20T07:47:31.553Z"
+  },
+  "2026-04-25-new-federal-guidelines-on-employee-misclassification-what-em-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-25-new-federal-guidelines-on-employee-misclassification-what-em-0.md",
+    "hash": "f0d2c80847364a63d42c2de09333bbe1",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-25T07:00:04.708Z"
+  },
+  "2026-04-25-proposed-changes-to-the-fair-labor-standards-act-implication-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-25-proposed-changes-to-the-fair-labor-standards-act-implication-2.md",
+    "hash": "d0eb1bd0ad7f37a7b5c4ff800e833136",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-25T07:00:07.361Z"
+  },
+  "2026-04-25-the-rise-of-flexible-benefits-packages-meeting-diverse-emplo-4.md": {
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "confirmed_claims": 2,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "summary": "All claims in the article are confirmed or properly hedged, resulting in a pass.",
+    "claims_extracted": 2,
+    "verification_details": [
+      {
+        "claim_number": 1,
+        "claim": "The Employee Retirement Income Security Act (ERISA) governs many aspects of employee benefits, including the fiduciary responsibilities of employers.",
+        "verdict": "confirmed",
+        "source": "https://www.dol.gov/general/topic/retirement/fiduciaryresp",
+        "explanation": "ERISA establishes standards for private-sector retirement and health plans, including fiduciary responsibilities for those managing these plans."
+      },
+      {
+        "claim_number": 2,
+        "claim": "Employers with 50 or more full-time equivalent employees must provide affordable health insurance that meets minimum essential coverage standards.",
+        "verdict": "confirmed",
+        "source": "https://www.irs.gov/affordable-care-act/employers/employer-shared-responsibility-provisions",
+        "explanation": "Under the Affordable Care Act, applicable large employers (those with 50 or more full-time equivalent employees) are required to offer affordable health insurance that provides minimum essential coverage to their full-time employees."
+      }
+    ],
+    "file": "2026-04-25-the-rise-of-flexible-benefits-packages-meeting-diverse-emplo-4.md",
+    "hash": "75e07ae297eb3a423cab1a102188b09d",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-25T07:00:17.264Z"
+  },
+  "2026-04-25-the-rise-of-hybrid-work-policies-new-guidelines-for-employer-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-25-the-rise-of-hybrid-work-policies-new-guidelines-for-employer-1.md",
+    "hash": "3d3c499eb23f4ad311d3d834fdd02c32",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-25T07:00:19.395Z"
+  },
+  "2026-04-25-understanding-the-impact-of-the-new-cybersecurity-regulation-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-25-understanding-the-impact-of-the-new-cybersecurity-regulation-3.md",
+    "hash": "981c8b0fbce1959a5d5aa82d67fe0918",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-25T07:00:21.683Z"
   }
 }
