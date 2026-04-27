@@ -5,7 +5,8 @@ category: "Hiring"
 date: "2026-01-15"
 tags: ["veterans", "tax credits", "hiring", "WOTC"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:57:01.872Z"
 ---
 
 ## Work Opportunity Tax Credit for Veteran Hires

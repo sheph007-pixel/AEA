@@ -5,7 +5,8 @@ category: "Operations"
 date: "2025-03-05"
 tags: ["payroll", "compliance", "wage and hour", "mistakes", "best practices"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:24:13.746Z"
 ---
 
 ## Payroll Errors Are Expensive

@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["FLSA", "exempt employees", "salary threshold", "overtime"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T09:54:25.445Z"
 ---
 
 ## Federal Salary Threshold Overview
@@ -22,9 +23,9 @@ The administrative exemption requires that the employee's primary duty is the pe
 
 ## State Salary Thresholds
 
-Several states have established their own salary thresholds that exceed the federal minimum. As of January 1, 2023, California requires exempt employees to earn a monthly salary of at least $5,200, which is twice the state minimum wage of $15.50 per hour for full-time employment. New York has varying thresholds depending on the region and employer size. Washington State has a salary threshold tied to the state minimum wage multiplied by specified factors.
+Several states have established their own salary thresholds that exceed the federal minimum. As of January 1, 2023, California requires exempt employees to earn a monthly salary of at least $5,373.34, which aligns with the annual salary of $64,480. New York has varying thresholds depending on the region and employer size. Washington State has a salary threshold tied to the state minimum wage multiplied by specified factors.
 
-Employers with employees in multiple states must comply with the higher of the federal or state threshold in each jurisdiction. Failure to meet the applicable threshold results in the employee being non-exempt regardless of the duties they perform.
+Employers with employees in multiple states must comply with the higher of the federal or state threshold in each jurisdiction. Failure to meet the applicable threshold generally results in the employee being non-exempt regardless of the duties they perform.
 
 ## Highly Compensated Employee Exemption
 
@@ -34,4 +35,4 @@ The current HCE threshold is $107,432 annually, and it has been subject to regul
 
 ## Salary Basis Requirements
 
-Exempt employees must be paid their full salary for any workweek in which they perform any work, with limited exceptions. Improper deductions from an exempt employee's salary can destroy the exemption for all employees in the same classification working for the same manager at the same location. Permissible deductions include absences of one or more full days for personal reasons, full-day absences for sickness under a bona fide plan, FMLA leave deductions, and disciplinary suspensions of one or more full days for workplace conduct rule violations.
+Exempt employees must be paid their full salary for any workweek in which they perform any work, with limited exceptions. Improper deductions from an exempt employee's salary can potentially destroy the exemption for all employees in the same classification working for the same manager at the same location. Permissible deductions include absences of one or more full days for personal reasons, full-day absences for sickness under a bona fide plan, FMLA leave deductions, and disciplinary suspensions of one or more full days for workplace conduct rule violations.

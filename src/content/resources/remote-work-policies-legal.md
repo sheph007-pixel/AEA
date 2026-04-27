@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2020-08-15"
 tags: ["remote work", "compliance", "wage and hour", "multi-state", "workers compensation"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:30:10.094Z"
 ---
 
 Remote work policies involve more legal complexity than many employers realize. An employee working from home in a different state or even a different city may trigger new tax obligations, change applicable employment laws, and create unexpected compliance risks. Here are the legal issues every employer should address.
@@ -25,7 +26,7 @@ The Fair Labor Standards Act (FLSA) applies fully to remote workers. For non-exe
 - California, for example, requires a 30-minute unpaid meal break for shifts over five hours and paid 10-minute rest breaks, regardless of whether the employee works in an office or at home.
 
 ### Reimbursement of expenses
-- Several states, including California, Illinois, Iowa, Montana, and the District of Columbia, require employers to reimburse employees for necessary business expenses.
+- Several states, including California, may require employers to reimburse employees for necessary business expenses. Employers should verify state-specific requirements.
 - This may include a portion of home internet costs, phone bills, and office supplies when employees are required to work remotely.
 - Even in states without mandatory reimbursement laws, failing to reimburse expenses that bring an employee's effective hourly rate below minimum wage may create an FLSA violation.
 
@@ -35,7 +36,7 @@ When employees work remotely in a state different from the employer's location:
 
 ### State income tax withholding
 - Employers generally must withhold state income tax in the state where the employee physically performs work. However, employers should consult state-specific regulations, as there may be exceptions or additional requirements.
-- Some states have reciprocal agreements that simplify withholding for cross-border workers.
+- Employers should consult state-specific tax regulations or a tax advisor regarding reciprocal agreements that may simplify withholding for cross-border workers.
 - A handful of states, such as New York and New Jersey, apply a "convenience of the employer" rule, taxing income in the employer's state even when the employee works elsewhere for their own convenience.
 
 ### State unemployment insurance
@@ -81,5 +82,3 @@ Your written policy should address:
 9. Process for modifying or revoking remote work arrangements
 
 Have employment counsel review your policy, especially if employees work across multiple states. The cost of a legal review is far less than the cost of a wage and hour class action or a multi-state tax audit.
-
----

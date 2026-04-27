@@ -4,7 +4,8 @@ description: "How to develop a business continuity plan that keeps your organiza
 category: "Operations"
 date: "2024-05-01"
 tags: ["business continuity", "disaster planning", "risk management", "operations"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:28:52.283Z"
 ---
 
 ## What Is Business Continuity Planning?

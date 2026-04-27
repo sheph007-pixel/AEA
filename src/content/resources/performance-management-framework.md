@@ -4,7 +4,8 @@ description: "How to create a performance management system that drives results 
 category: "HR"
 date: "2024-07-30"
 tags: ["performance management", "reviews", "HR management", "documentation"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:24:44.573Z"
 ---
 
 ## Purpose of Performance Management

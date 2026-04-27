@@ -5,7 +5,8 @@ category: "Hiring"
 date: "2021-04-20"
 tags: ["hiring", "labor shortage", "recruitment", "talent acquisition", "compensation"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:29:42.218Z"
 ---
 
 Labor shortages affect employers across nearly every industry and skill level. When candidates have multiple options, employers must rethink their approach to attraction, hiring speed, and total value proposition. Here are practical strategies for competing effectively in a tight labor market.

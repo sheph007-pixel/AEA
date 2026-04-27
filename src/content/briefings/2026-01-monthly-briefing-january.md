@@ -6,7 +6,8 @@ date: "2026-01-05"
 month: "2026-01"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "minimum-wage", "ACA", "federal-contractors", "AI-policy", "Q1-2026"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:25:14.954Z"
 ---
 
 # Monthly Employer Briefing: January 2026

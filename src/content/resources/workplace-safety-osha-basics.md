@@ -4,7 +4,8 @@ description: "An overview of OSHA requirements, employer responsibilities, and p
 category: "Compliance"
 date: "2024-11-05"
 tags: ["OSHA", "workplace safety", "compliance", "health and safety"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:40:53.017Z"
 ---
 
 ## OSHA Overview

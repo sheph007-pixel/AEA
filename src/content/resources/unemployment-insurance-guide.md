@@ -4,7 +4,8 @@ description: "How to respond to unemployment claims, manage your UI tax rate, an
 category: "Operations"
 date: "2024-06-01"
 tags: ["unemployment", "insurance", "claims", "taxes"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:36:59.045Z"
 ---
 
 ## How Unemployment Insurance Works
@@ -15,7 +16,7 @@ Unemployment insurance (UI) provides temporary income to workers who lose their 
 
 When you receive a notice of a UI claim:
 
-1. **Respond promptly**: Most states give you 10-14 days to respond. Missing the deadline can result in charges to your account by default.
+1. **Respond promptly**: Response deadlines vary by state, and employers should check the specific requirements for their state. Missing the deadline can result in charges to your account by default.
 2. **Provide accurate information**: Include the reason for separation, dates of employment, and wage information.
 3. **Attach documentation**: Include relevant documents such as resignation letters, termination notices, written warnings, and attendance records.
 4. **Be specific**: Vague responses like "not a good fit" are insufficient. State the specific reason for separation.
@@ -54,3 +55,5 @@ Your UI tax rate is based on your experience rating - essentially, how many clai
 - Not attending appeal hearings
 - Providing inconsistent information across multiple claims
 - Classifying a termination for misconduct when the reason was actually a layoff
+
+---

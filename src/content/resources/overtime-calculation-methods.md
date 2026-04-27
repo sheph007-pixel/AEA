@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["overtime", "FLSA", "payroll", "wage and hour"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:22:32.541Z"
 ---
 
 Overtime calculation errors are one of the most common sources of wage and hour litigation. The FLSA requires that non-exempt employees receive overtime pay at one and a half times their regular rate of pay for all hours worked over 40 in a workweek. While the concept sounds simple, the calculation of the regular rate of pay creates frequent confusion.

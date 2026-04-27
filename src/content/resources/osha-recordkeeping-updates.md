@@ -5,7 +5,8 @@ category: "Safety"
 date: "2021-11-28"
 tags: ["OSHA", "recordkeeping", "workplace safety", "reporting", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:22:20.110Z"
 ---
 
 OSHA recordkeeping requirements apply to most employers with 11 or more employees. Proper documentation of workplace injuries and illnesses is not just a compliance obligation; it provides data that drives safety improvements and protects you in the event of an OSHA inspection. Here are the current requirements and best practices.
@@ -75,13 +76,13 @@ Anything beyond this list is considered medical treatment and makes the case rec
 
 ## Electronic Reporting Requirements
 
-OSHA's electronic reporting rule requires certain employers to submit injury and illness data electronically:
+OSHA's electronic reporting rule generally requires certain employers to submit injury and illness data electronically:
 
-- **Establishments with 250+ employees** in industries covered by the recordkeeping regulation must submit Form 300A data annually through OSHA's Injury Tracking Application (ITA)
-- **Establishments with 20-249 employees** in designated high-hazard industries must also submit Form 300A data annually
-- Submissions are typically due by March 2 of the year following the calendar year covered
+- Establishments with 250 or more employees in industries covered by the recordkeeping regulation may need to submit Form 300A data annually through OSHA's Injury Tracking Application (ITA).
+- Establishments with 20-249 employees in designated high-hazard industries may also need to submit Form 300A data annually.
+- Submissions are typically due by March 2 of the year following the calendar year covered.
 
-OSHA has proposed expanding electronic reporting to include Form 300 and Form 301 data for larger establishments. Monitor rulemaking developments for changes to reporting requirements.
+OSHA has proposed expanding electronic reporting to include Form 300 and Form 301 data for larger establishments. Employers should monitor rulemaking developments for changes to reporting requirements.
 
 ## Best Practices for Recordkeeping
 

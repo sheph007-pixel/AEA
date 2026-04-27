@@ -5,7 +5,8 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["OSHA", "whistleblower", "retaliation", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:04:14.050Z"
 ---
 
 ## Scope of OSHA Whistleblower Protections

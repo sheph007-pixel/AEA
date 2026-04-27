@@ -6,7 +6,8 @@ date: "2026-02-18"
 month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["employer-questions", "OSHA", "ACA", "AI-hiring", "pay-transparency", "February-2026"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:25:23.686Z"
 ---
 
 # What Employers Are Asking: February 2026

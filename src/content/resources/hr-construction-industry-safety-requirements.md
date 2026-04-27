@@ -6,11 +6,12 @@ date: "2026-01-15"
 tags: ["construction", "OSHA", "safety", "industry-specific"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T09:52:39.054Z"
 ---
 
 ## OSHA Construction Standards Overview
 
-The construction industry is governed by OSHA's construction-specific standards found in 29 CFR Part 1926. These standards address hazards unique to construction work and impose requirements beyond the general industry standards in Part 1910. Construction consistently ranks among the industries with the highest rates of workplace fatalities, making safety compliance both a legal obligation and a moral imperative.
+The construction industry is governed by OSHA's construction-specific standards found in 29 CFR Part 1926. These standards address hazards unique to construction work and may impose requirements beyond the general industry standards in Part 1910. Construction consistently ranks among the industries with the highest rates of workplace fatalities, making safety compliance both a legal obligation and a moral imperative.
 
 Employers in construction must develop and implement safety programs that address the specific hazards present on each job site. A one-size-fits-all approach is insufficient given the dynamic nature of construction work.
 
@@ -18,15 +19,15 @@ Employers in construction must develop and implement safety programs that addres
 
 OSHA identifies four hazard categories responsible for the majority of construction fatalities: falls, struck-by incidents, electrocutions, and caught-in or caught-between incidents. Addressing these hazards is a priority for compliance.
 
-Fall protection under 29 CFR 1926 Subpart M requires employers to provide fall protection systems when employees work at heights of six feet or more above a lower level. This includes guardrails, safety nets, or personal fall arrest systems. Employers must also provide training on proper use and inspection of fall protection equipment.
+Fall protection under 29 CFR 1926 Subpart M generally requires employers to provide fall protection systems when employees work at heights that may pose a risk. This typically includes guardrails, safety nets, or personal fall arrest systems. Employers should also provide training on proper use and inspection of fall protection equipment.
 
-For struck-by hazards, employers must enforce hard hat requirements, establish traffic control plans for equipment operations, and implement procedures for securing materials and loads during hoisting operations.
+For struck-by hazards, employers should enforce hard hat requirements, establish traffic control plans for equipment operations, and implement procedures for securing materials and loads during hoisting operations.
 
 ## Training and Competent Person Requirements
 
-OSHA requires construction employers to designate a competent person for numerous safety functions, including excavation, scaffolding, and fall protection. A competent person is defined as someone capable of identifying existing and predictable hazards and authorized to take prompt corrective measures.
+OSHA generally requires construction employers to designate a competent person for various safety functions, which may include excavation, scaffolding, and fall protection. A competent person is defined as someone capable of identifying existing and predictable hazards and authorized to take prompt corrective measures.
 
-In addition to competent person designations, employers must provide hazard-specific training to employees. The OSHA 10-Hour and 30-Hour Outreach Training Programs, while voluntary at the federal level, are required by several states and many general contractors as a condition of site access.
+In addition to competent person designations, employers should provide hazard-specific training to employees. The OSHA 10-Hour and 30-Hour Outreach Training Programs, while voluntary at the federal level, are required by several states and many general contractors as a condition of site access.
 
 ## Multi-Employer Worksite Responsibilities
 

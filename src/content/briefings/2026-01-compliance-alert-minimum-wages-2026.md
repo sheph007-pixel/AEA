@@ -6,7 +6,8 @@ date: "2026-01-06"
 month: "2026-01"
 author: "AEA Editorial Team"
 tags: ["compliance-alert", "minimum-wage", "state-law", "wage-and-hour", "2026"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:25:10.669Z"
 ---
 
 # Compliance Alert: 2026 State Minimum Wage Updates

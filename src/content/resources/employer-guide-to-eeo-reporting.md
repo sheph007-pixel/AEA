@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["EEO-1", "EEOC", "reporting", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:40:09.068Z"
 ---
 
 The EEO-1 report is an annual filing required by the EEOC that collects workforce demographic data from covered employers. The data helps the EEOC and the Office of Federal Contract Compliance Programs (OFCCP) monitor employment patterns and enforce federal anti-discrimination laws. Failure to file may result in enforcement actions, which could include potential penalties or other compliance measures.
@@ -18,7 +19,7 @@ The EEO-1 report is required for:
 - Federal contractors or subcontractors with 50 or more employees and a contract of $50,000 or more
 - Financial institutions with 50 or more employees that serve as depositories for government funds or are issuing and paying agents for U.S. savings bonds
 
-Employers that meet these thresholds must file annually by the deadline specified by the EEOC, which is generally September 30 for the prior year's data.
+Employers that meet these thresholds must file annually by the deadline specified by the EEOC, which varies each year.
 
 ## What the Report Includes
 
@@ -60,5 +61,3 @@ To ensure smooth and accurate EEO-1 filing:
 - Keep copies of all filed reports and supporting documentation
 - Update your self-identification forms and processes as needed to reflect current standards
 - Monitor EEOC announcements for changes to filing requirements or deadlines
-
----

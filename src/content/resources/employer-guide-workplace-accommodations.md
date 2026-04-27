@@ -5,14 +5,15 @@ category: "Compliance"
 date: "2018-08-30"
 tags: ["ADA", "accommodations", "interactive process", "disability"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:43:43.255Z"
 ---
 
 ## The Interactive Process Requirement
 
 Under the Americans with Disabilities Act (ADA), employers with 15 or more employees must provide reasonable accommodations to qualified individuals with disabilities unless the accommodation would impose an undue hardship. The mechanism for determining the appropriate accommodation is the interactive process — a good-faith dialogue between the employer and the employee.
 
-Courts and the EEOC have made clear that the interactive process is not optional. An employer that fails to engage in the interactive process and instead denies a request outright — or ignores it — risks liability even if no effective accommodation existed.
+Courts and the EEOC have indicated that the interactive process is not optional. An employer that fails to engage in the interactive process and instead denies a request outright — or ignores it — may risk liability even if no effective accommodation is ultimately found.
 
 ## Recognizing a Request
 
@@ -31,11 +32,11 @@ Train supervisors to recognize these requests and route them to HR immediately.
 
 ### Step 1: Acknowledge the Request
 
-Respond promptly to the employee, acknowledging their request and explaining the interactive process. Do not delay — courts view delays as evidence of bad faith.
+Respond promptly to the employee, acknowledging their request and explaining the interactive process. Do not delay — courts may view delays as evidence of bad faith.
 
 ### Step 2: Gather Information
 
-You may request medical documentation from the employee's healthcare provider, but only to the extent needed to establish that the employee has a disability under the ADA and to understand the functional limitations that require accommodation. You are not entitled to the employee's complete medical records or a specific diagnosis unless the diagnosis directly affects the type of accommodation needed.
+You may request medical documentation from the employee's healthcare provider, but only to the extent needed to establish that the employee has a disability under the ADA and to understand the functional limitations that require accommodation. Generally, you are not entitled to the employee's complete medical records or a specific diagnosis unless the diagnosis directly affects the type of accommodation needed.
 
 Ask the healthcare provider:
 

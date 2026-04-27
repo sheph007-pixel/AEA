@@ -5,7 +5,8 @@ category: "HR Management"
 date: "2024-10-05"
 tags: ["offboarding", "termination", "compliance", "HR process", "exit"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:35:12.146Z"
 ---
 
 ## Why Offboarding Matters

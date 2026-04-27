@@ -4,7 +4,8 @@ description: "As seasons change, so do workplace safety risks. A review of seaso
 category: "Operations"
 date: "2024-12-10"
 tags: ["safety", "OSHA", "seasonal", "workplace"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:27:13.887Z"
 ---
 
 ## Winter Hazards

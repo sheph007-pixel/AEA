@@ -5,7 +5,8 @@ category: "Leadership"
 date: "2017-08-17"
 tags: ["conflict resolution", "management", "workplace culture", "employee relations"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:19:09.573Z"
 ---
 
 ## Why Managers Must Address Conflict

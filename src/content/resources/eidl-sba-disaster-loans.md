@@ -5,7 +5,8 @@ category: "Small Business"
 date: "2020-09-28"
 tags: ["EIDL", "SBA", "small business", "disaster loans", "COVID-19"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:33:54.692Z"
 ---
 
 The Economic Injury Disaster Loan (EIDL) program, administered by the Small Business Administration, provided critical working capital to small businesses during the COVID-19 pandemic. Unlike PPP loans, EIDLs are traditional loans that must be repaid. Understanding the terms, permitted uses, and repayment obligations is essential for employers who received these funds.
@@ -57,9 +58,9 @@ EIDL funds may not be used for:
 Borrowers agreed to specific covenants in the loan agreement that remain in effect for the life of the loan:
 
 - **No change of ownership** without SBA approval for ownership transfers exceeding specific thresholds
-- **No additional debt** secured by the same collateral without SBA consent
+- **No additional debt** secured by the same collateral may require SBA consent; employers should consult counsel
 - **Maintain hazard insurance** on business property pledged as collateral
-- **Maintain books and records** in accordance with generally accepted accounting principles
+- **Maintain books and records** accurately; while GAAP is a common standard, it is not specifically mandated
 - **Allow SBA access** to financial records and business premises for inspection
 - **No distributions** to owners beyond reasonable compensation without SBA approval while the loan is outstanding
 
@@ -90,5 +91,3 @@ The SBA may audit EIDL recipients, and borrowers who cannot document proper use 
 EIDL funds and PPP funds could not be used for the same expenses. If you received both, maintain clear records showing that each dollar of spending was allocated to only one program. The EIDL advance amounts were deducted from PPP forgiveness for borrowers who received both.
 
 Small employers who received EIDLs should treat them as any other long-term business obligation: budget for repayment, maintain compliance with loan covenants, and keep documentation organized for the life of the loan.
-
----

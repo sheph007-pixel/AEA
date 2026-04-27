@@ -5,7 +5,8 @@ category: "Safety"
 date: "2024-06-28"
 tags: ["ergonomics", "safety", "hybrid work", "remote work", "workplace injury"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:45:01.541Z"
 ---
 
 ## The Ergonomic Challenge of Hybrid Work

@@ -5,7 +5,8 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["workplace violence", "safety", "prevention", "OSHA"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:40:56.855Z"
 ---
 
 Workplace violence is a serious occupational hazard. OSHA's General Duty Clause requires employers to provide a workplace free from recognized hazards likely to cause death or serious physical harm, and workplace violence can fall under this obligation. A written prevention plan is essential for identifying risks, training employees, and responding effectively to threats.

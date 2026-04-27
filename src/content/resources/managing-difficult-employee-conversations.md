@@ -5,7 +5,8 @@ category: "Leadership"
 date: "2026-01-15"
 tags: ["difficult conversations", "management", "leadership", "employee relations"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:15:56.408Z"
 ---
 
 Difficult conversations are an unavoidable part of management. Whether addressing poor performance, delivering unwelcome news, or resolving interpersonal conflicts, how a manager handles these conversations determines the outcome. Avoidance makes problems worse. Preparation and skill make them manageable.

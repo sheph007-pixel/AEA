@@ -6,9 +6,10 @@ date: "2026-01-15"
 tags: ["wage theft", "FLSA", "payroll", "compliance"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:37:53.112Z"
 ---
 
-Wage theft is not just an intentional act. Many employers unknowingly engage in practices that constitute wage theft under federal and state law. Common forms include failing to pay for all hours worked, misclassifying employees, improperly rounding time, and not paying final wages on time. The consequences include back pay awards, penalties, legal fees, and reputational damage.
+Wage theft is not just an intentional act. Many employers unknowingly engage in practices that may constitute wage theft under federal and state law. Common forms include failing to pay for all hours worked, misclassifying employees, improperly rounding time, and not paying final wages on time. The consequences can include back pay awards, penalties, legal fees, and reputational damage.
 
 ## Common Forms of Wage Theft
 
@@ -26,7 +27,7 @@ Employers should be aware of these frequently cited violations:
 Several states have enacted specific wage theft prevention measures:
 
 - **New York**: Requires employers to provide written wage notices to new hires detailing pay rate, pay frequency, employer information, and other compensation details
-- **California**: Requires written notice of pay rates and other information at the time of hire; changes in wage information may not require a new notice unless specified by law
+- **California**: Employers should consult counsel regarding requirements for written notice of pay rates and other information at the time of hire; changes in wage information may require a new notice depending on specific legal requirements
 - **Other states**: An increasing number of jurisdictions are enacting notice and transparency requirements
 
 Even without a specific state law, clear communication about pay practices helps prevent disputes and demonstrates good faith.
@@ -63,5 +64,3 @@ If an employee files a wage claim:
 - Consider voluntary resolution if the claim has merit
 - Preserve all relevant records (destruction of evidence can result in additional penalties)
 - Address any systemic issues identified during the investigation to prevent future claims
-
----

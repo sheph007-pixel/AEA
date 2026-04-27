@@ -4,7 +4,8 @@ description: "A structured approach to employee terminations that minimizes lega
 category: "HR"
 date: "2024-09-25"
 tags: ["termination", "HR management", "employment law", "documentation"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:35:30.321Z"
 ---
 
 ## Before the Termination

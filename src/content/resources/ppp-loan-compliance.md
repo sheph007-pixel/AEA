@@ -6,6 +6,7 @@ date: "2020-05-28"
 tags: ["PPP", "CARES Act", "loan forgiveness", "small business", "COVID-19"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:26:11.805Z"
 ---
 
 The Paycheck Protection Program (PPP) provided critical funding to millions of small businesses during the COVID-19 pandemic. However, securing a loan was only the first step. Proper use of funds and thorough documentation are essential for achieving loan forgiveness and avoiding repayment obligations.
@@ -34,17 +35,17 @@ Two situations can reduce the forgivable amount:
 ### Headcount Reduction
 If your average full-time equivalent (FTE) employee count during the covered period is lower than your reference period (either February 15 to June 30, 2019, or January 1 to February 29, 2020), your forgiveness amount is reduced proportionally.
 
-**Safe harbors that eliminate this reduction:**
+**Safe harbors that may eliminate this reduction:**
 - You restored FTE levels by December 31, 2020
 - You can document that you made a good-faith written offer to rehire employees who declined
 - Employees were fired for cause, voluntarily resigned, or voluntarily requested reduced hours
 
 ### Salary and Wage Reduction
-If any employee's compensation was reduced by more than 25% compared to the most recent full quarter before the covered period, the excess reduction amount is subtracted from the forgivable total. This applies to employees who earned $100,000 or less annualized in 2019.
+If any employee's compensation was reduced by more than 25% compared to the most recent full quarter before the covered period, the excess reduction amount is subtracted from the forgivable total. This generally applies to employees who earned $100,000 or less annualized in 2019.
 
 ## Documentation Checklist
 
-Maintain the following records for at least six years after the loan is forgiven or repaid:
+Employers should consult counsel to determine the appropriate duration for maintaining the following records after the loan is forgiven or repaid:
 
 **Payroll documentation:**
 - Bank account statements showing payroll disbursements
@@ -79,7 +80,7 @@ The SBA offers three forgiveness application forms:
 
 3. **Neglecting to document good-faith rehire offers.** Verbal offers are insufficient. Send written offers and retain copies along with any employee responses.
 
-4. **Mixing PPP funds with other accounts.** While not legally required, maintaining a separate account for PPP funds dramatically simplifies documentation and audit response.
+4. **Mixing PPP funds with other accounts.** While not legally required, maintaining a separate account for PPP funds may simplify documentation and audit response.
 
 5. **Missing the forgiveness application deadline.** Loan payments begin 10 months after the end of the covered period if a forgiveness application has not been submitted. File promptly to avoid unnecessary payments.
 

@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2018-03-07"
 tags: ["classification", "audits", "independent contractors", "IRS", "DOL"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:34:36.465Z"
 ---
 
 ## What Classification Audits Examine

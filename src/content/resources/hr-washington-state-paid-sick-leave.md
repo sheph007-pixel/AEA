@@ -5,7 +5,8 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["washington", "paid sick leave", "benefits", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:12:50.376Z"
 ---
 
 ## Washington Paid Sick Leave Requirements
@@ -22,9 +23,9 @@ Additional permitted uses include absences related to domestic violence, sexual 
 
 ## Employer Administration Rules
 
-Employers must allow employees to use paid sick leave in the smallest increment their payroll system uses to track absences, not to exceed one hour. Employers may not require employees to find a replacement worker as a condition of using sick leave. For absences exceeding three consecutive days, employers may require verification that the leave was used for an authorized purpose, but they may not require disclosure of specific medical details.
+Employers may need to consult specific guidance or legal counsel regarding the increments for using paid sick leave. Employers may not require employees to find a replacement worker as a condition of using sick leave. For absences exceeding three consecutive days, employers may require verification that the leave was used for an authorized purpose, but they may not require disclosure of specific medical details.
 
-Unused paid sick leave must carry over to the following year, though employers are not required to allow use of more than 40 hours in any calendar year if they set such a cap. If an employee separates and is rehired within 12 months, previously accrued leave must be reinstated.
+Unused paid sick leave must carry over to the following year. There is no provision allowing a cap on usage at 40 hours per year. If an employee separates and is rehired within 12 months, previously accrued leave must be reinstated.
 
 ## Notice and Recordkeeping
 

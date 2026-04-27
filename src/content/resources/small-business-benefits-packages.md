@@ -6,6 +6,7 @@ date: "2021-11-10"
 tags: ["benefits", "small business", "health insurance", "PTO", "compensation"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:31:37.459Z"
 ---
 
 Small employers often assume they cannot compete with large companies on benefits. While it is true that large organizations benefit from economies of scale, small employers have advantages including flexibility, speed, and the ability to tailor offerings to their specific workforce. Here is how to build a competitive benefits package without a Fortune 500 budget.
@@ -24,7 +25,7 @@ Health insurance remains the benefit employees value most. Small employers have 
 - You pay a fixed monthly amount that covers expected claims, stop-loss insurance, and administration
 - If actual claims come in below projections, you may receive a refund
 - Offers more cost predictability than traditional self-funding with potential savings compared to fully insured plans
-- Generally available to groups as small as 10 employees
+- Availability may vary, so employers should consult with a broker to determine eligibility
 
 ### Health Reimbursement Arrangements (HRA)
 - **Individual Coverage HRA (ICHRA):** Reimburse employees for individual health insurance premiums and medical expenses. No limit on reimbursement amounts. Available to employers of any size.
@@ -49,7 +50,7 @@ Generous PTO policies cost relatively little and are highly valued:
 
 A retirement plan is a powerful differentiator for small employers:
 
-- **SIMPLE IRA:** Available to employers with 100 or fewer employees who earned at least $5,000 in the preceding calendar year. Lower administrative costs than a 401(k). Employers may either match employee contributions up to 3% of compensation or make a 2% non-elective contribution for all eligible employees. The 3% match is optional and can be reduced to 1% for two out of five years.
+- **SIMPLE IRA:** Available to employers with 100 or fewer employees who earned at least $5,000 in the preceding calendar year. Lower administrative costs than a 401(k). Employers may either match employee contributions up to 3% of compensation or make a 2% non-elective contribution for all eligible employees.
 - **SEP IRA:** Employer-funded only (no employee contributions). Contributions up to 25% of each employee's compensation. Simple to administer but less flexible than SIMPLE IRA or 401(k).
 - **Solo 401(k):** For self-employed individuals and business owners with no employees other than a spouse.
 - **Pooled Employer Plans (PEPs):** Allow multiple small employers to join a single 401(k) plan, reducing administrative burden and costs through scale.

@@ -6,19 +6,20 @@ date: "Current Year-01-02"
 tags: ["compliance", "deadlines", "Current Year", "calendar", "federal requirements"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T09:31:34.275Z"
 ---
 
 ## Staying Ahead of Deadlines
 
-Missing a compliance deadline can result in penalties, fines, and legal exposure that far exceeds the cost of timely compliance. This calendar provides a framework of key federal deadlines and recurring obligations. State and local deadlines vary and should be added to your organization's specific compliance calendar.
+Missing a compliance deadline can result in penalties, fines, and legal exposure that may exceed the cost of timely compliance. This calendar provides a framework of key federal deadlines and recurring obligations. State and local deadlines vary and should be added to your organization's specific compliance calendar.
 
 ## January
 
-- **January 1**: New state and local minimum wage rates take effect in most jurisdictions. Update payroll and workplace postings.
-- **January 1**: Updated state paid leave contribution rates take effect. Verify payroll withholding.
+- **January 1**: New state and local minimum wage rates may take effect in many jurisdictions. Update payroll and workplace postings as necessary.
+- **January 1**: Updated state paid leave contribution rates may take effect. Verify payroll withholding.
 - **January 31**: File Form 941 (quarterly employment tax return) for Q4 of the prior year, or by February 10 if all deposits were made on time.
 - **January 31**: Furnish Forms W-2 to employees.
-- **January 31**: Furnish Forms 1099-NEC to independent contractors (January 31 for paper filing; March 31 if filing electronically).
+- **January 31**: Furnish and file Forms 1099-NEC to independent contractors with the IRS.
 - **January 31**: File Forms W-2 with the Social Security Administration.
 
 ## February
@@ -32,7 +33,6 @@ Missing a compliance deadline can result in penalties, fines, and legal exposure
 - **March 1**: OSHA Form 300A annual summary must be posted in the workplace (posting period February 1 through April 30).
 - **March 2 (typically)**: Deadline to electronically submit OSHA injury and illness data (Forms 300, 300A, 301) for establishments required to report to OSHA. Note that this deadline may vary by year and should be confirmed with OSHA's announcements.
 - **March 15**: File Form 1120-S (S corporation tax return).
-- **March 31**: Deadline for electronic filing of Forms W-2 and 1099 with SSA/IRS.
 
 ## April
 
@@ -48,8 +48,8 @@ Missing a compliance deadline can result in penalties, fines, and legal exposure
 
 ## July
 
-- **July 1**: Several state minimum wage increases take effect mid-year. Update payroll.
-- **July 1**: Many state paid family and medical leave programs adjust contribution rates.
+- **July 1**: Several state minimum wage increases may take effect mid-year. Update payroll.
+- **July 1**: Many state paid family and medical leave programs may adjust contribution rates.
 - **July 31**: File Form 941 for Q2.
 - **July 31**: File Form 5500 for calendar-year retirement and welfare benefit plans (or file for extension).
 

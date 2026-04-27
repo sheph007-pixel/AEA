@@ -6,7 +6,8 @@ date: "2026-02-03"
 month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "ACA", "OSHA", "paid-leave", "non-compete", "February-2026"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:26:07.015Z"
 ---
 
 # Monthly Employer Briefing: February 2026
@@ -25,7 +26,7 @@ Common areas where errors arise include:
 - Failure to account for mid-year changes in employee status, such as transitions between full-time and part-time.
 - Inaccurate reporting of employee share of the lowest-cost self-only coverage on Line 15.
 
-Employers should verify current year deadlines with the IRS for both electronic and paper filing of Forms 1094-C and 1095-C. For the 2025 tax year, the deadlines are as follows: paper filing is due by February 28, 2026, and electronic filing is due by March 31, 2026. Electronic filing is generally required for employers filing above the applicable threshold of information returns and is strongly recommended for accuracy and receipt confirmation. Employers should check current IRS guidance on the electronic filing threshold.
+Employers should verify current year deadlines with the IRS for both electronic and paper filing of Forms 1094-C and 1095-C. Employers should consult the IRS for the most current deadlines, as they may vary. Electronic filing is generally required for employers filing above the applicable threshold of information returns and is strongly recommended for accuracy and receipt confirmation. Employers should check current IRS guidance on the electronic filing threshold.
 
 ## OSHA 300A Posting Requirements
 
@@ -70,3 +71,5 @@ March may bring ACA electronic filing deadlines, EEO-1 reporting preparation, an
 ---
 
 *This briefing is prepared by the AEA Editorial Team based on publicly available regulatory guidance, employment law developments, and employer-reported trends. Individual data from AEA members is never disclosed. All analysis reflects general observations and should not be treated as legal advice. Consult qualified counsel for guidance on specific situations.*
+
+---

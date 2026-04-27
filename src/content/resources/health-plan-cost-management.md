@@ -5,7 +5,8 @@ category: "Benefits"
 date: "2025-02-18"
 tags: ["health insurance", "cost management", "benefits", "ICHRA", "self-funding"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:48:19.775Z"
 ---
 
 ## The Cost Pressure Is Real

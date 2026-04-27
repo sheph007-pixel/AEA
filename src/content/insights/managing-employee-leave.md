@@ -4,7 +4,8 @@ description: "With leave laws expanding at the state and local level, employers 
 category: "Compliance"
 date: "2024-10-30"
 tags: ["leave", "FMLA", "paid leave", "state law"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:27:10.411Z"
 ---
 
 ## The Growing Complexity

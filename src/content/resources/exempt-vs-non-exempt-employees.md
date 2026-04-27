@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["FLSA", "exempt", "non-exempt", "overtime", "wage and hour"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:45:28.258Z"
 ---
 
 Misclassifying employees as exempt or non-exempt is one of the most common and costly compliance errors employers make. Under the Fair Labor Standards Act (FLSA), non-exempt employees must receive overtime pay at one and a half times their regular rate for hours worked beyond 40 in a workweek. Exempt employees are not entitled to overtime.

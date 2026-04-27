@@ -5,7 +5,8 @@ category: "Safety"
 date: "2015-09-30"
 tags: ["OSHA", "hazard communication", "safety data sheets", "workplace safety"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:48:17.972Z"
 ---
 
 ## What OSHA Requires

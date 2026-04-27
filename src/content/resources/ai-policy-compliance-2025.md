@@ -6,7 +6,8 @@ date: "2023-02-10"
 tags: ["AI", "compliance", "regulation", "2023", "technology policy"]
 author: "AEA Editorial Team"
 featured: false
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:27:57.396Z"
 ---
 
 ## The Regulatory Environment Has Matured

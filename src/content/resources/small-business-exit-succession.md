@@ -5,7 +5,8 @@ category: "Small Business"
 date: "2019-06-10"
 tags: ["succession planning", "small business", "leadership transition", "business continuity"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:32:15.918Z"
 ---
 
 ## Why Small Businesses Need Transition Plans

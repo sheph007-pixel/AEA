@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["FLSA", "recordkeeping", "wage and hour", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:47:43.111Z"
 ---
 
 The Fair Labor Standards Act requires employers to maintain specific records for each employee. These records must be kept for defined retention periods and made available for inspection by the Department of Labor. Failure to maintain proper records can result in penalties and shifts the burden of proof to the employer in wage disputes.
@@ -30,12 +31,7 @@ Every employer covered by the FLSA must maintain the following information for e
 
 ## Additional Records for Exempt Employees
 
-For employees claimed as exempt from overtime:
-
-- Basis on which wages are paid (salary, fee) in sufficient detail to allow calculation of the per-hour rate
-- Total wages for each pay period
-
-While the FLSA does not require employers to track hours worked by exempt employees, some employers choose to do so for internal management purposes.
+For employees claimed as exempt from overtime, employers should consult legal counsel for specific guidance, as requirements may vary. While the FLSA does not require employers to track hours worked by exempt employees, some employers choose to do so for internal management purposes.
 
 ## Retention Periods
 
@@ -51,9 +47,8 @@ The FLSA specifies two retention tiers:
 - Time cards and piece work tickets
 - Wage rate tables
 - Records of additions to and deductions from wages
-- Order, shipping, and billing records
 
-Records may be kept at the place of employment or at a central records office if they can be made available within 72 hours of a request.
+Records may generally be kept at the place of employment or at a central records office. Employers should ensure records can be made available in a timely manner upon request.
 
 ## Form and Format
 
@@ -85,3 +80,5 @@ To strengthen your recordkeeping:
 - Prohibit off-the-clock work and train managers on this requirement
 - Retain records for at least the statute of limitations period for wage claims in your state, which may exceed FLSA minimums
 - Conduct periodic audits of timekeeping practices for accuracy
+
+---

@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["prevailing wage", "Davis-Bacon", "government contracts", "compliance"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:27:56.185Z"
 ---
 
 Employers working on federally funded construction projects must comply with the Davis-Bacon Act, which requires payment of locally prevailing wages and fringe benefits to laborers and mechanics. Similar prevailing wage laws exist at the state level for state-funded projects. Non-compliance can result in contract termination, debarment, and liability for back wages.
@@ -47,7 +48,7 @@ Frequent violations include:
 - Failing to pay the required fringe benefit amount
 - Not submitting weekly certified payroll reports
 - Falsifying payroll records
-- Failing to pay overtime at the prevailing rate for hours over 40 (under the Contract Work Hours and Safety Standards Act)
+- Failing to pay overtime at the prevailing rate for hours over 40, which may be required under the Contract Work Hours and Safety Standards Act; employers should consult counsel for specific obligations
 - Not paying workers for all hours worked, including travel time when applicable
 
 ## Enforcement and Penalties
@@ -56,6 +57,8 @@ Violations can result in serious consequences:
 
 - Withholding of contract payments to cover back wages owed
 - Contract termination
-- Debarment from future federal contracts for up to three years
+- Debarment from future federal contracts may result, and employers should consult counsel for specifics regarding duration
 - Liability for back wages plus potential liquidated damages
 - Criminal prosecution for willful falsification of payroll records
+
+---

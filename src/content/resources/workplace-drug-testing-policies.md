@@ -4,7 +4,8 @@ description: "Navigating the legal landscape of workplace drug testing, includin
 category: "Compliance"
 date: "2024-05-25"
 tags: ["drug testing", "workplace policy", "compliance", "safety"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:39:41.259Z"
 ---
 
 ## Legal Framework

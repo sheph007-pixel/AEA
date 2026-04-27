@@ -5,7 +5,8 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["OSHA", "inspection", "workplace safety", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:21:23.165Z"
 ---
 
 An OSHA inspection can happen to any employer, whether triggered by a complaint, a referral, or a programmed inspection. Understanding your rights and responsibilities during an inspection helps you protect your business while demonstrating your commitment to workplace safety.

@@ -6,9 +6,10 @@ date: "2026-01-15"
 tags: ["HSA", "health savings account", "benefits", "HDHP"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T09:41:32.388Z"
 ---
 
-Health Savings Accounts (HSAs) are tax-advantaged accounts that allow employees enrolled in a High Deductible Health Plan (HDHP) to save for qualified medical expenses. For employers, HSAs can reduce health insurance premiums and provide a valuable benefit that employees retain even if they leave the company.
+Health Savings Accounts (HSAs) are tax-advantaged accounts that allow employees enrolled in a High Deductible Health Plan (HDHP) to save for qualified medical expenses. For employers, HSAs can potentially reduce health insurance premiums and provide a valuable benefit that employees retain even if they leave the company.
 
 ## HSA Eligibility Requirements
 
@@ -37,9 +38,9 @@ If you make employer contributions, be aware of the comparability rules: if you 
 Offering an HDHP with HSA contributions can benefit the organization:
 
 - HDHP premiums are typically lower than traditional plan premiums
-- Employer HSA contributions can offset the higher deductible while still reducing overall costs
-- HSA contributions are not subject to FICA, saving the employer 7.65 percent on contribution amounts
-- HSAs increase employee satisfaction and financial wellness
+- Employer HSA contributions can offset the higher deductible while still potentially reducing overall costs
+- HSA contributions are not subject to FICA, potentially saving the employer 7.65 percent on contribution amounts
+- HSAs may increase employee satisfaction and financial wellness
 - The benefit is portable, which employees value
 
 ## Employee Education
@@ -61,7 +62,9 @@ Employers offering HSAs should be aware of:
 - Annual contribution limits set by the IRS
 - The catch-up contribution allowance for employees 55 and older
 - Comparability rules for employer contributions outside a Section 125 plan
-- ERISA considerations if the employer contributes to the HSA or processes contributions through payroll
-- COBRA applicability to the HDHP (though not to the HSA itself)
+- Employers should consult legal counsel for ERISA-related compliance when contributing to HSAs or processing contributions through payroll
+- Employers should verify COBRA applicability with legal counsel or a benefits advisor
 - Nondiscrimination requirements under Section 125 if contributions are made through a cafeteria plan
-- State tax treatment of HSAs, which varies (California and New Jersey, for example, do not follow federal HSA tax treatment)
+- State tax treatment of HSAs varies, and employers should consult state-specific tax guidelines or a tax advisor for accurate information
+
+---

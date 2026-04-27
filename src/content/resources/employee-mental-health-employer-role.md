@@ -5,7 +5,8 @@ category: "Workplace Culture"
 date: "2019-11-12"
 tags: ["mental health", "ADA", "employee wellness", "EAP", "workplace culture"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:34:47.799Z"
 ---
 
 ## Why This Matters for Employers

@@ -5,7 +5,8 @@ category: "Hiring"
 date: "2023-03-15"
 tags: ["AI", "hiring", "compliance", "discrimination", "technology"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:27:53.667Z"
 ---
 
 ## The Rise of AI in Recruitment
@@ -29,7 +30,6 @@ Several jurisdictions have enacted or proposed laws specifically targeting AI in
 
 - **New York City Local Law 144** requires employers using automated employment decision tools to conduct annual bias audits. While the law mandates these audits, it does not explicitly require that they be performed by independent auditors. Employers must also notify candidates that such tools are being used.
 - **Illinois** amended its AI Video Interview Act to require employer consent disclosures before using AI to analyze video interviews. The specific consent requirements may vary based on circumstances, and employers should be aware of any exceptions that may apply.
-- **Colorado** passed legislation requiring developers and deployers of high-risk AI systems, including employment tools, to conduct impact assessments and mitigate algorithmic discrimination.
 
 Employers operating in multiple states should expect this patchwork to expand and should track legislative developments in every jurisdiction where they hire.
 

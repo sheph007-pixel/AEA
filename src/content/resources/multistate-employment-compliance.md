@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["multistate", "compliance", "remote work", "employment law"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:20:20.175Z"
 ---
 
 Having employees in multiple states, whether through remote work, satellite offices, or travel, creates a web of compliance obligations. Each state has its own employment laws, and employers must navigate these differences carefully. The consequences of non-compliance range from fines and penalties to class action litigation.
@@ -32,7 +33,7 @@ When you have employees working in a new state:
 - Comply with new hire reporting requirements in each state
 - Evaluate whether you have created "nexus" for corporate income or sales tax purposes
 
-Some states have reciprocal tax agreements that simplify withholding for employees who live in one state and work in another.
+Some states have reciprocal tax agreements that may simplify withholding for employees who live in one state and work in another.
 
 ## Workers Compensation
 
@@ -48,9 +49,9 @@ Workers compensation is generally governed by the state where the employee works
 Determining which state's law applies to a particular employment issue can be complex:
 
 - Wage and hour laws typically follow the state where the work is performed
-- Leave laws generally apply based on the employee's primary work location
-- Non-compete agreements may be governed by the state specified in the agreement, but some states will not enforce another state's law if it conflicts with their own policy
-- Anti-discrimination laws apply where the employee works and may also apply based on the employer's principal place of business
+- Leave laws may generally apply based on the employee's primary work location
+- Non-compete agreements may be governed by the state specified in the agreement, but some states may not enforce another state's law if it conflicts with their own policy
+- Anti-discrimination laws generally apply where the employee works and may also apply based on the employer's principal place of business
 
 ## Practical Compliance Strategies
 

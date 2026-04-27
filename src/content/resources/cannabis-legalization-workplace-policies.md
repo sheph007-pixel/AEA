@@ -5,7 +5,8 @@ category: "HR Management"
 date: "2022-10-25"
 tags: ["marijuana", "drug testing", "workplace policy", "legalization", "HR"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:28:53.993Z"
 ---
 
 As more states legalize recreational and medical marijuana, employers face increasing complexity in maintaining workplace drug policies. The patchwork of state laws, the disconnect between federal and state legal status, and evolving employee protections require employers to regularly review and update their approach.

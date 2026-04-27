@@ -5,7 +5,8 @@ category: "Technology"
 date: "2023-08-05"
 tags: ["cybersecurity", "small business", "data protection", "technology", "employee data"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:31:39.379Z"
 ---
 
 ## Small Businesses Are Prime Targets

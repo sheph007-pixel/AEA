@@ -5,7 +5,8 @@ category: "Small Business"
 date: "2023-08-20"
 tags: ["ERC", "tax credit", "IRS", "small business", "COVID relief"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:35:57.892Z"
 ---
 
 ## The Current State of the ERC
@@ -16,7 +17,7 @@ By 2023, the ERC has become one of the most complicated and contentious tax prov
 
 ## Eligibility Basics
 
-An employer was eligible for the ERC if, during the relevant period, it either experienced a full or partial suspension of operations due to a government order related to COVID-19, or it experienced a significant decline in gross receipts compared to the same quarter in 2019. The decline threshold was 50% for 2020 and 20% for the first two quarters of 2021, and 10% for the third and fourth quarters of 2021.
+An employer was eligible for the ERC if, during the relevant period, it either experienced a full or partial suspension of operations due to a government order related to COVID-19, or it experienced a significant decline in gross receipts compared to the same quarter in 2019. The decline threshold was 50% for 2020 and 20% for the first two quarters of 2021.
 
 The credit applies to qualified wages paid to employees. For employers with 500 or fewer full-time employees in 2019, qualified wages include wages paid to all employees during the eligible period, regardless of whether they were working. For larger employers, the credit was limited to wages paid to employees who were not providing services.
 
@@ -34,7 +35,7 @@ If you filed a claim based on a promoter's advice and are now uncertain about it
 
 ## If You Have a Pending Claim
 
-The IRS moratorium means that new claims filed after September 2023 face indefinite processing delays. Claims filed before the moratorium are being processed, but slowly, with the IRS applying additional scrutiny. If your claim is legitimate, you should retain all supporting documentation including:
+The IRS moratorium means that new claims filed after September 2023 face processing delays expected to last through at least the end of 2023. Claims filed before the moratorium are being processed, but slowly, with the IRS applying additional scrutiny. If your claim is legitimate, you should retain all supporting documentation including:
 
 - Quarterly gross receipts figures for 2019, 2020, and 2021
 - Documentation of any government orders that affected your operations

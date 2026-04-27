@@ -5,14 +5,15 @@ category: "Technology"
 date: "2026-01-15"
 tags: ["employee privacy", "monitoring", "technology", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:53:48.489Z"
 ---
 
 ## Legal Framework for Workplace Monitoring
 
 Employee monitoring has expanded dramatically with advances in technology, raising important legal and ethical questions for employers. The legal framework governing workplace monitoring draws from federal wiretapping laws, state privacy statutes, common law privacy protections, and labor relations law. While employers generally have broad rights to monitor workplace activities, these rights are not unlimited.
 
-The Electronic Communications Privacy Act (ECPA) of 1986 provides the primary federal framework regarding the interception of electronic communications. The ECPA generally prohibits intentional interception of electronic communications but includes business purpose and consent exceptions that employers commonly rely upon. The Stored Communications Act, which is separate from the ECPA, addresses the access and disclosure of stored electronic communications.
+The Electronic Communications Privacy Act (ECPA) of 1986 provides the primary federal framework regarding the interception of electronic communications. The ECPA generally prohibits intentional interception of electronic communications but includes business purpose and consent exceptions that employers commonly rely upon. The Stored Communications Act, which is part of the ECPA, addresses the access and disclosure of stored electronic communications.
 
 ## Email and Computer Monitoring
 
@@ -22,7 +23,7 @@ However, employees may retain a reasonable expectation of privacy in personal co
 
 ## Video Surveillance
 
-Employers may use video surveillance in common areas of the workplace, including entrances, parking lots, production areas, and break rooms. Recording in private areas such as restrooms, changing rooms, and private offices is generally prohibited. Audio recording adds an additional layer of legal complexity, as federal law and many state wiretap statutes require the consent of at least one party to a conversation, while some states such as California and Illinois require the consent of all parties.
+Employers may use video surveillance in common areas of the workplace, including entrances, parking lots, production areas, and break rooms. Recording in private areas such as restrooms, changing rooms, and private offices is generally prohibited. Audio recording adds an additional layer of legal complexity, as federal law and many state wiretap statutes may require the consent of at least one party to a conversation, while some states such as California and Illinois require the consent of all parties.
 
 The National Labor Relations Act also limits video surveillance in areas where employees would reasonably expect to engage in protected concerted activity, such as union organizing discussions.
 

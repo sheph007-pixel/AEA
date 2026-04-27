@@ -4,7 +4,8 @@ description: "Key policies and sections every employee handbook should include, 
 category: "HR"
 date: "2024-11-10"
 tags: ["employee handbook", "HR policies", "onboarding"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:34:45.948Z"
 ---
 
 ## Why Your Handbook Matters

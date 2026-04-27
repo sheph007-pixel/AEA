@@ -5,7 +5,8 @@ category: "Benefits"
 date: "2023-11-22"
 tags: ["benefits", "small business", "talent", "compensation", "benchmarking"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:28:49.018Z"
 ---
 
 ## The Small Employer Benefits Challenge

@@ -4,7 +4,8 @@ description: "Understanding FLSA requirements for minimum wage, overtime, exempt
 category: "Compliance"
 date: "2024-10-20"
 tags: ["FLSA", "wage and hour", "overtime", "compliance"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:37:16.273Z"
 ---
 
 ## Fair Labor Standards Act Overview

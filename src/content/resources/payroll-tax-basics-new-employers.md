@@ -5,7 +5,8 @@ category: "Small Business"
 date: "2026-01-15"
 tags: ["payroll taxes", "small business", "IRS", "new employer"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:24:39.429Z"
 ---
 
 Hiring your first employee is an exciting milestone, but it comes with significant payroll tax responsibilities. Failing to withhold, deposit, and report payroll taxes correctly can result in substantial IRS penalties. Understanding the basics is essential for every new employer.

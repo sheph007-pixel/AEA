@@ -5,12 +5,13 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["restaurants", "tip pooling", "FLSA", "wages"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:08:31.387Z"
 ---
 
 ## Federal Tip Pooling Rules Under the FLSA
 
-The Fair Labor Standards Act (FLSA) governs tip pooling for employers nationwide. Under the Consolidated Appropriations Act of 2018, which amended FLSA Section 3(m), employers are prohibited from keeping employee tips regardless of whether they take a tip credit. Managers and supervisors may not participate in tip pools under any circumstances.
+The Fair Labor Standards Act (FLSA) governs tip pooling for employers nationwide. Under the Consolidated Appropriations Act of 2018, which amended FLSA Section 3(m), employers are prohibited from keeping employee tips regardless of whether they take a tip credit. Managers and supervisors can contribute to tip pools but are prohibited from retaining tips from them.
 
 The Department of Labor's 2021 final rule clarified that employers who do not take a tip credit may include non-tipped, non-managerial employees such as cooks and dishwashers in mandatory tip pools. Employers who take a tip credit may only include traditionally tipped employees like servers and bartenders in the pool.
 
@@ -22,9 +23,9 @@ Employers who take the tip credit must ensure that the employee's tips plus the 
 
 ## State Law Variations
 
-State laws on tip pooling vary considerably and may impose stricter requirements than federal law. California and several other states prohibit employers from taking any tip credit, meaning employees must receive the full state minimum wage before tips. In these states, broader tip pooling arrangements that include back-of-house employees are generally permissible.
+State laws on tip pooling vary considerably and may impose stricter requirements than federal law. California and several other states prohibit employers from taking any tip credit, meaning employees must receive the full state minimum wage before tips. In these states, broader tip pooling arrangements that include back-of-house employees may be permissible.
 
-Some states, including Montana and Oregon, prohibit tip pooling entirely or limit the percentage of tips that may be pooled. New York has specific rules about the types of employees who can participate in tip pools and requires that tip pooling arrangements be voluntary under certain conditions.
+Montana allows voluntary tip pooling, and employers should verify Oregon's regulations as state laws can change. New York has specific rules about the types of employees who can participate in tip pools and requires that tip pooling arrangements be voluntary under certain conditions.
 
 ## Common Compliance Pitfalls
 

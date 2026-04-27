@@ -5,7 +5,8 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["exit interviews", "retention", "employee relations", "HR"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:31:36.356Z"
 ---
 
 Exit interviews are one of the most underutilized tools in HR. When conducted well, they provide honest feedback about management, culture, and operational issues that current employees may be reluctant to share. The key is creating conditions where departing employees feel safe being candid.

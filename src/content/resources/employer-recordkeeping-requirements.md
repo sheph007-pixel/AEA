@@ -5,11 +5,12 @@ category: "Compliance"
 date: "2024-07-08"
 tags: ["records", "compliance", "documentation", "retention"]
 verified: false
+factCheckedAt: "2026-04-27T09:44:51.154Z"
 ---
 
 ## Why Record-Keeping Matters
 
-Proper record-keeping protects your organization in the event of audits, lawsuits, or regulatory inquiries. Federal and state laws mandate specific retention periods for various employment records.
+Proper record-keeping protects your organization in the event of audits, lawsuits, or regulatory inquiries. Federal and state laws may mandate specific retention periods for various employment records.
 
 ## Federal Retention Requirements
 
@@ -20,8 +21,8 @@ Keep for at least 3 years:
 - Regular hourly rate, total wages, and deductions
 - Dates of payment and pay period covered
 
-### Hiring and Employment Records (Title VII, ADA, ADEA)
-Keep for at least 1 year from the date of the personnel action:
+### Hiring and Employment Records
+Employers are generally advised to keep the following records for at least 1 year from the date of the personnel action:
 - Job applications and resumes (both hired and not hired)
 - Interview notes
 - Job postings and advertisements
@@ -40,7 +41,7 @@ Keep for at least 4 years:
 - Dates and amounts of deposits
 
 ### FMLA Records
-Keep for at least 3 years:
+Employers should generally keep the following records for at least 3 years:
 - Leave requests and approvals
 - Medical certifications
 - Employer notices
@@ -51,8 +52,8 @@ Keep for at least 3 years:
 - Exposure records: 30 years
 - Medical records: Duration of employment plus 30 years
 
-### Benefits Records (ERISA)
-Keep for at least 6 years:
+### Benefits Records
+Under ERISA, employers are generally advised to keep the following records for at least 6 years:
 - Plan documents and amendments
 - Summary plan descriptions
 - Annual reports

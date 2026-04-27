@@ -5,7 +5,8 @@ category: "HR Management"
 date: "2018-05-23"
 tags: ["performance reviews", "employee development", "management", "feedback"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:31:38.015Z"
 ---
 
 ## Why Most Reviews Fall Short

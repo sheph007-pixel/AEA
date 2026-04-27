@@ -5,7 +5,8 @@ category: "Safety"
 date: "2025-03-20"
 tags: ["safety culture", "OSHA", "workplace safety", "injury prevention", "leadership"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:40:49.023Z"
 ---
 
 ## Compliance Is Not Culture

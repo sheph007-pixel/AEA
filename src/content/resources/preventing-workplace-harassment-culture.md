@@ -5,7 +5,8 @@ category: "Workplace Culture"
 date: "2018-11-22"
 tags: ["harassment prevention", "workplace culture", "compliance", "leadership"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:27:57.837Z"
 ---
 
 ## Training Is Necessary But Not Sufficient

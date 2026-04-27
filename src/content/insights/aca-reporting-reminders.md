@@ -4,7 +4,8 @@ description: "Key deadlines and requirements for Affordable Care Act reporting t
 category: "Compliance"
 date: "2024-11-28"
 tags: ["ACA", "reporting", "compliance", "health insurance"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:27:03.301Z"
 ---
 
 ## Who Must Report

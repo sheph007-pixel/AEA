@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["EEOC", "discrimination charge", "compliance", "employment law"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:40:10.916Z"
 ---
 
 Receiving a charge of discrimination from the Equal Employment Opportunity Commission can be alarming, but it does not mean you have been found guilty of anything. A charge is an allegation that triggers an investigation process. How you respond can significantly affect the outcome. Prompt, thorough, and strategic action is essential.

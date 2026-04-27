@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["FMLA", "intermittent leave", "compliance", "leave management"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:17:14.384Z"
 ---
 
 Intermittent FMLA leave is one of the most challenging aspects of leave administration. Unlike a block of continuous leave, intermittent leave is taken in separate periods of time for a single qualifying reason. Managing it requires careful tracking, clear communication, and a solid understanding of employer rights.

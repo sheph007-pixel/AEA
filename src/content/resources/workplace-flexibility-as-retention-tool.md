@@ -5,20 +5,21 @@ category: "Workplace Culture"
 date: "2019-09-16"
 tags: ["flexibility", "retention", "work-life balance", "workplace culture", "remote work"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:40:43.115Z"
 ---
 
 ## Flexibility Is No Longer a Perk
 
-Workplace flexibility has shifted from an occasional accommodation to a baseline expectation for many workers. Employees across industries and demographics increasingly prioritize the ability to control when and where they work. Employers who refuse to offer any flexibility risk losing talent to competitors who do — even when their compensation and benefits are otherwise competitive.
+Workplace flexibility has shifted from an occasional accommodation to a baseline expectation for many workers. Many employees across various industries and demographics increasingly prioritize the ability to control when and where they work. Employers who refuse to offer any flexibility may risk losing talent to competitors who do — even when their compensation and benefits are otherwise competitive.
 
 This does not mean every employer must offer unlimited remote work or four-day workweeks. It means understanding what types of flexibility your workforce values and finding ways to provide it within your operational constraints.
 
 ## The Retention Impact
 
-Replacing an employee typically costs 50 to 200 percent of their annual salary when you account for recruiting, onboarding, training, lost productivity during the transition, and the ramp-up time for the new hire. When employees cite lack of flexibility as a reason for leaving — and they increasingly do — the cost of inflexibility becomes concrete.
+Replacing an employee typically incurs significant costs when you account for recruiting, onboarding, training, lost productivity during the transition, and the ramp-up time for the new hire. When employees cite lack of flexibility as a reason for leaving — and they increasingly do — the cost of inflexibility becomes concrete.
 
-Conversely, employers who offer meaningful flexibility often find that employees stay longer, take fewer sick days, and report higher job satisfaction. Flexibility signals trust and respect, which are foundational to employee loyalty.
+Conversely, employers who offer meaningful flexibility often report that employees stay longer, take fewer sick days, and experience higher job satisfaction. Flexibility signals trust and respect, which are foundational to employee loyalty.
 
 ## Types of Flexibility That Matter
 
@@ -75,4 +76,4 @@ Track turnover data by department, role, and demographic group. Include flexibil
 
 ## The Competitive Advantage
 
-Flexibility costs relatively little — in most cases, it costs nothing — but its retention value is substantial. Employers who build a reputation for respecting employees' time and autonomy attract and retain talent that competitors lose. In a tight labor market, flexibility is not a concession. It is a strategy.
+Flexibility may cost relatively little — in most cases, it costs nothing — but its retention value can be substantial. Employers who build a reputation for respecting employees' time and autonomy may attract and retain talent that competitors lose. In a tight labor market, flexibility is not a concession. It is a strategy.

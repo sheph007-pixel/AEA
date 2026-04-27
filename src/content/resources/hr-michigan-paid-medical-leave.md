@@ -6,13 +6,14 @@ date: "2026-01-15"
 tags: ["michigan", "paid medical leave", "sick leave", "compliance"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:01:48.568Z"
 ---
 
 ## Michigan Paid Medical Leave Overview
 
 The Michigan Paid Medical Leave Act (PMLA), effective March 29, 2019, requires employers with 50 or more employees to provide paid medical leave. Eligible employees accrue one hour of paid medical leave for every 35 hours worked, up to a maximum of 40 hours per benefit year. The law replaced a citizen-initiated ballot proposal with a legislative alternative that narrowed the original measure's scope.
 
-The PMLA applies only to employees who work at least 25 hours per week on a normal basis and are not exempt under the law's various exclusions. Exempt employees include those covered by a collective bargaining agreement, variable-hour employees, and temporary employees placed by staffing agencies.
+The PMLA generally applies to employees who worked an average of at least 25 hours per week in the preceding calendar year, among other criteria. Exempt employees include those covered by a collective bargaining agreement, variable-hour employees, and temporary employees placed by staffing agencies.
 
 ## Accrual and Usage Rules
 

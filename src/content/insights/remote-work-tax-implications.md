@@ -4,7 +4,8 @@ description: "As remote work becomes permanent for many organizations, tax oblig
 category: "Operations"
 date: "2025-01-08"
 tags: ["remote work", "taxes", "compliance", "multi-state"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:27:12.129Z"
 ---
 
 ## The Problem

@@ -5,14 +5,15 @@ category: "Compliance"
 date: "2019-02-20"
 tags: ["paid sick leave", "state laws", "compliance", "benefits"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:23:31.090Z"
 ---
 
 ## The Expanding Landscape
 
 There is no federal law requiring private employers to provide paid sick leave. However, a growing number of states and municipalities have enacted their own mandates, creating a complex patchwork of requirements that multistate and even single-state employers must navigate.
 
-As of this writing, states with paid sick leave laws include Arizona, California, Connecticut, Maryland, Massachusetts, Michigan, New Jersey, Oregon, Rhode Island, Vermont, and Washington, along with the District of Columbia. Numerous cities — including Chicago, Minneapolis, New York City, Philadelphia, Pittsburgh, San Francisco, Seattle, and others — have enacted their own ordinances, some of which impose requirements beyond the state law.
+As of this writing, states with paid sick leave laws may include Arizona, California, Connecticut, Maryland, Massachusetts, Michigan, New Jersey, Oregon, Rhode Island, Vermont, and Washington, along with the District of Columbia. Numerous cities — including Chicago, Minneapolis, New York City, Philadelphia, Pittsburgh, San Francisco, Seattle, and others — have enacted their own ordinances, some of which impose requirements beyond the state law.
 
 This landscape continues to evolve. Employers must monitor developments in every jurisdiction where they have employees.
 
@@ -43,7 +44,7 @@ While many laws require unused sick leave to carry over from year to year, there
 
 ### Job Protection and Anti-Retaliation
 
-All paid sick leave laws prohibit employers from retaliating against employees who use their sick leave. This means you cannot discipline employees for using protected sick time, count protected sick leave absences under a no-fault attendance policy, or require employees to find a replacement worker as a condition of using sick leave.
+Many paid sick leave laws prohibit employers from retaliating against employees who use their sick leave. This generally means you cannot discipline employees for using protected sick time, count protected sick leave absences under a no-fault attendance policy, or require employees to find a replacement worker as a condition of using sick leave.
 
 ## Key Variations to Watch
 
@@ -53,7 +54,7 @@ Some laws have different requirements based on employer size. Connecticut's law 
 
 ### Documentation Requirements
 
-Some laws limit when employers can require medical documentation. Several jurisdictions prohibit requiring a doctor's note for absences of fewer than three consecutive days. Others impose specific limits on what type of documentation can be requested.
+Some laws limit when employers can require medical documentation. Certain jurisdictions may prohibit requiring a doctor's note for absences of fewer than three consecutive days. Others impose specific limits on what type of documentation can be requested.
 
 ### Notice Requirements
 
@@ -61,7 +62,7 @@ Laws vary on how much notice employers can require for foreseeable sick leave us
 
 ### Waiting Periods
 
-Many laws include a waiting period before new employees can begin using accrued sick leave, typically 90 days from the start of employment. Accrual may begin immediately, but usage may be delayed.
+Many laws include a waiting period before new employees can begin using accrued sick leave, which may be around 90 days from the start of employment in some jurisdictions. Accrual may begin immediately, but usage may be delayed.
 
 ## Building a Compliant Policy
 
@@ -81,5 +82,3 @@ Alternatively, if your jurisdictions have widely varying requirements, you may n
 If you already offer PTO that meets or exceeds the paid sick leave requirements in your jurisdictions — including accrual rates, permitted uses, carryover, and anti-retaliation protections — you generally do not need a separate sick leave policy. However, you must ensure your PTO policy satisfies every element of the applicable law, not just the total number of days.
 
 Review your existing policies carefully against the specific requirements, and update them where gaps exist.
-
----

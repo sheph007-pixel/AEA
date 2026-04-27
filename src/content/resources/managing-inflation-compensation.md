@@ -5,7 +5,8 @@ category: "Benefits"
 date: "2022-03-22"
 tags: ["inflation", "compensation", "salary", "cost of living", "total rewards"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:17:18.830Z"
 ---
 
 When inflation runs well above historical norms, employees feel the pinch in their daily lives and look to their employers for relief. Traditional annual raise budgets of 3-4% may fall short when the cost of living increases significantly. Employers must balance legitimate employee expectations with business financial realities.

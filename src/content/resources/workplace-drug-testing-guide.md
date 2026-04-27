@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["drug testing", "workplace policy", "DOT", "compliance"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:39:22.583Z"
 ---
 
 Workplace drug testing is regulated by a patchwork of federal, state, and local laws. While federal law does not generally require private employers to drug test (except in certain regulated industries), employers who choose to test must navigate complex legal requirements. The legalization of marijuana in many states has added another layer of complexity.
@@ -24,11 +25,11 @@ Not all types of testing are permitted in all states. Some states restrict rando
 
 ## Federal Requirements for Regulated Industries
 
-Certain industries are subject to mandatory drug and alcohol testing under federal regulations:
+Certain industries are subject to drug and alcohol testing under federal regulations:
 
 - **DOT-regulated employers**: Including trucking, aviation, rail, transit, pipeline, and maritime industries must follow DOT testing procedures under 49 CFR Part 40
 - **Federal contractors**: The Drug-Free Workplace Act requires federal contractors to maintain a drug-free workplace but does not mandate testing
-- **Nuclear Regulatory Commission licensees**: Subject to mandatory testing under NRC regulations
+- **Nuclear Regulatory Commission licensees**: May be subject to testing under NRC regulations
 
 DOT testing follows strict protocols including a specific five-panel drug test, use of certified laboratories, Medical Review Officer (MRO) review, and detailed recordkeeping requirements.
 
@@ -41,7 +42,7 @@ State laws create a complex landscape for drug testing:
 - An increasing number of states and cities prohibit adverse action based on positive marijuana tests for off-duty use
 - Some states require confirmation testing using a second method (such as GC-MS) before taking adverse action
 - Many states require that testing be performed by a certified laboratory
-- Several states require employee assistance program (EAP) referrals before or instead of termination for a positive test
+- Some states may require employee assistance program (EAP) referrals before or instead of termination for a positive test
 
 ## Developing a Drug Testing Policy
 

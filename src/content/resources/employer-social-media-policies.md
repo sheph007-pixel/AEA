@@ -5,7 +5,8 @@ category: "Technology"
 date: "2026-01-15"
 tags: ["social media", "policy", "NLRA", "technology"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:44:56.408Z"
 ---
 
 Social media policies help employers manage the intersection of personal expression and business interests. However, overly broad policies can violate the National Labor Relations Act (NLRA), which protects employees' rights to engage in concerted activity about working conditions. A well-crafted policy balances protection with legal compliance.

@@ -5,7 +5,8 @@ category: "Hiring"
 date: "2026-01-15"
 tags: ["onboarding", "new hire", "checklist", "HR"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:32:54.413Z"
 ---
 
 A structured onboarding checklist ensures nothing falls through the cracks when bringing new employees on board. Missing a step can mean compliance violations, a poor first impression, or delays in getting the new hire productive. This guide covers everything from before day one through the first 90 days.

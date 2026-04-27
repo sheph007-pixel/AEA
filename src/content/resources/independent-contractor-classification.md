@@ -4,7 +4,8 @@ description: "How to correctly classify workers as employees or independent cont
 category: "Compliance"
 date: "2024-07-22"
 tags: ["independent contractor", "classification", "IRS", "compliance"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:14:26.851Z"
 ---
 
 ## Why Classification Matters

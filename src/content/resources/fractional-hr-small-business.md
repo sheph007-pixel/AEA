@@ -5,7 +5,8 @@ category: "Small Business"
 date: "2025-02-28"
 tags: ["fractional HR", "small business", "HR strategy", "outsourcing", "staffing"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:47:48.977Z"
 ---
 
 ## What Is Fractional HR?

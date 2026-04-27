@@ -5,7 +5,8 @@ category: "Safety"
 date: "2020-08-30"
 tags: ["cleaning", "disinfection", "workplace safety", "COVID-19", "facilities"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:31:45.332Z"
 ---
 
 Maintaining a clean and disinfected workplace is essential during infectious disease outbreaks. Effective protocols require understanding the difference between routine cleaning and disinfection, targeting high-risk surfaces, and establishing sustainable procedures that protect employees without creating unnecessary disruption.

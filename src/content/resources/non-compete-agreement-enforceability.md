@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["non-compete", "restrictive covenants", "employment agreements", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:20:42.286Z"
 ---
 
 Non-compete agreements restrict former employees from working for competitors or starting competing businesses for a specified period after leaving employment. Their enforceability varies dramatically by state, and the legal landscape continues to shift. Employers must understand the current rules to create agreements that will hold up.

@@ -5,7 +5,8 @@ category: "Workplace Culture"
 date: "2017-05-22"
 tags: ["employee recognition", "engagement", "retention", "workplace culture"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:35:14.396Z"
 ---
 
 ## Why Recognition Matters

@@ -5,7 +5,8 @@ category: "Hiring"
 date: "2024-06-15"
 tags: ["AI", "hiring", "regulation", "bias audit", "state law"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:27:55.583Z"
 ---
 
 ## The Regulatory Wave Has Arrived

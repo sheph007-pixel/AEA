@@ -4,7 +4,8 @@ description: "A framework for conducting thorough, fair, and legally defensible 
 category: "HR"
 date: "2024-08-12"
 tags: ["investigations", "HR management", "complaints", "documentation"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:40:45.041Z"
 ---
 
 ## When to Investigate

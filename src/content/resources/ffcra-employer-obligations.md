@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2020-04-10"
 tags: ["FFCRA", "paid leave", "COVID-19", "compliance", "tax credits"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:45:57.798Z"
 ---
 
 The Families First Coronavirus Response Act (FFCRA), signed into law on March 18, 2020, imposed new paid leave requirements on employers with fewer than 500 employees. Understanding these obligations is essential for compliance and for accessing the corresponding tax credits.

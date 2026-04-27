@@ -4,7 +4,8 @@ description: "A practical guide to Family and Medical Leave Act obligations, inc
 category: "Compliance"
 date: "2024-11-15"
 tags: ["FMLA", "leave management", "compliance", "federal law"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:36:40.386Z"
 ---
 
 ## Overview

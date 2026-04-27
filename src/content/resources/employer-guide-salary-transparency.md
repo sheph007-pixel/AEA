@@ -5,7 +5,8 @@ category: "HR Management"
 date: "2019-07-08"
 tags: ["salary transparency", "compensation", "pay equity", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:37:19.630Z"
 ---
 
 ## The Transparency Trend

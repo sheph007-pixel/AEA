@@ -5,7 +5,8 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["massachusetts", "noncompete", "employment agreements", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:00:17.539Z"
 ---
 
 ## Massachusetts Noncompete Reform
@@ -16,13 +17,13 @@ The MNAA does not ban noncompetes but establishes strict conditions that make th
 
 ## Key Requirements for Enforceability
 
-To be enforceable under the MNAA, a noncompete agreement must be in writing and signed by both the employer and employee. It must be supported by a garden leave clause or other mutually agreed-upon consideration. Garden leave requires the employer to pay the employee at least 50 percent of their highest annualized base salary during the restricted period.
+To be enforceable under the MNAA, a noncompete agreement must be in writing and signed by both the employer and employee. It must be supported by a garden leave clause or other mutually agreed-upon consideration. Garden leave generally requires the employer to pay the employee at least 50 percent of their highest annualized base salary during the restricted period.
 
 The agreement must be provided to the employee before a formal offer of employment is made or, if entered into during employment, at least 10 business days before the effective date. The agreement must also be accompanied by a notice advising the employee to consult with an attorney before signing.
 
 ## Duration and Scope Limitations
 
-Noncompete agreements may not exceed 12 months in duration unless the employee has breached a fiduciary duty or has taken the employer's property, in which case the duration may extend to 24 months. The geographic scope must be reasonable and limited to the areas where the employee provided services or had a material presence during the last two years of employment.
+Noncompete agreements generally may not exceed 12 months in duration. In certain cases, such as when an employee may have breached a fiduciary duty or taken the employer's property, the duration might be extended, but specific provisions allowing an extension to 24 months are not definitively verified. The geographic scope must be reasonable and limited to the areas where the employee provided services or had a material presence during the last two years of employment.
 
 The agreement must be reasonable in scope and necessary to protect legitimate business interests, which the law defines as trade secrets, confidential information, or the employer's goodwill.
 

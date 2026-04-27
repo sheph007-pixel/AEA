@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2023-07-28"
 tags: ["PWFA", "pregnancy", "accommodation", "compliance", "federal law"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:26:49.940Z"
 ---
 
 ## A New Federal Mandate

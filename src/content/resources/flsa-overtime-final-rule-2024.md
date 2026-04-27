@@ -5,12 +5,13 @@ category: "Compliance"
 date: "2024-04-28"
 tags: ["FLSA", "overtime", "salary threshold", "DOL", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:46:44.123Z"
 ---
 
 ## The Final Rule
 
-The Department of Labor issued its final rule updating the salary thresholds for the FLSA's white-collar overtime exemptions, with implementation in two phases. The first increase took effect January 1, 2024, raising the standard salary level to $43,888 per year ($844 per week). The second increase was initially proposed for January 1, 2025, but due to a recent court ruling, the status of this increase is uncertain. The highly compensated employee (HCE) threshold also increased in both phases.
+The Department of Labor issued its final rule updating the salary thresholds for the FLSA's white-collar overtime exemptions, with implementation in two phases. The first increase took effect on July 1, 2024, raising the standard salary level to $43,888 per year ($844 per week). The second increase was initially proposed for January 1, 2025, but due to a recent court ruling, the status of this increase is uncertain. The highly compensated employee (HCE) threshold also increased in both phases.
 
 However, in November 2024, a federal court in Texas vacated the rule nationwide. This legal development does not mean employers should ignore the issues the rule raised. The underlying policy direction remains, and many states have their own higher thresholds. Here is what employers should know.
 
@@ -18,7 +19,7 @@ However, in November 2024, a federal court in Texas vacated the rule nationwide.
 
 The court found that the DOL may have exceeded its authority in setting salary thresholds that could be interpreted as replacing the duties test with a salary-only test. The vacatur returned the salary threshold to the pre-rule level of $35,568 per year ($684 per week).
 
-Employers who had already raised salaries to comply with the January 2024 threshold are not required to reduce them, and doing so could create morale and retention problems. Those who were planning increases for the January 2025 phase may need to reassess their plans, but should consider state requirements and competitiveness.
+Employers who had already raised salaries to comply with the July 2024 threshold are not required to reduce them, and doing so could create morale and retention problems. Those who were planning increases for the January 2025 phase may need to reassess their plans, but should consider state requirements and competitiveness.
 
 ## Why This Still Matters
 
@@ -34,7 +35,7 @@ Employers who had already raised salaries to comply with the January 2024 thresh
 
 **2. Know your state requirements.** Determine the salary threshold in every state where you have exempt employees and ensure compliance with the highest applicable standard.
 
-**3. Maintain salary adjustments already made.** If you raised salaries in response to the January 2024 threshold, keep them. Reducing salaries will damage trust and may trigger constructive discharge claims.
+**3. Maintain salary adjustments already made.** If you raised salaries in response to the July 2024 threshold, keep them. Reducing salaries will damage trust and may trigger constructive discharge claims.
 
 **4. Keep your reclassification plans ready.** The analysis you did to prepare for the rule is not wasted. When the next rule is proposed, and it will be, you will be ahead of employers who did not prepare.
 

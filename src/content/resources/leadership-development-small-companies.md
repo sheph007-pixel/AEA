@@ -5,7 +5,8 @@ category: "Leadership"
 date: "2017-06-28"
 tags: ["leadership development", "management training", "succession planning", "small business"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:15:48.249Z"
 ---
 
 ## The Leadership Gap in Smaller Organizations

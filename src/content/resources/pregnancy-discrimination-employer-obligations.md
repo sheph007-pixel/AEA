@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["pregnancy discrimination", "PWFA", "PDA", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:26:47.554Z"
 ---
 
 Pregnancy-related discrimination and accommodation obligations are governed by multiple federal laws, including the Pregnancy Discrimination Act (PDA), the Pregnant Workers Fairness Act (PWFA), and the ADA as interpreted after the PWFA's enactment. Employers with 15 or more employees must understand these overlapping requirements.

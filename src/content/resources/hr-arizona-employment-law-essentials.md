@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["arizona", "employment law", "minimum wage", "compliance"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T09:50:23.768Z"
 ---
 
 ## Arizona At-Will Employment
@@ -22,9 +23,9 @@ The same law requires all Arizona employers to provide paid sick time. Annual ac
 
 ## Workers' Compensation and Drug Testing
 
-Arizona requires most employers to carry workers' compensation insurance. Employers may obtain coverage through private carriers, through the state's Special Fund, or through self-insurance for qualifying employers. Failure to maintain coverage is a Class 6 felony.
+Arizona requires most employers to carry workers' compensation insurance. Employers may obtain coverage through private carriers, through the state's Special Fund, or through self-insurance for qualifying employers. Employers should be aware that failing to maintain coverage can result in significant penalties and legal consequences.
 
-Arizona employers have the right to implement drug testing programs and may test applicants and employees for drugs and alcohol. Employers who maintain a drug-free workplace program in compliance with ARS Section 23-493 may qualify for a five percent discount on workers' compensation premiums. The program must include a written policy, employee education, supervisor training, and access to an employee assistance program.
+Arizona employers have the right to implement drug testing programs and may test applicants and employees for drugs and alcohol. While some employers may offer incentives for maintaining a drug-free workplace, specific discounts on workers' compensation premiums should be verified with insurance providers. The program must include a written policy, employee education, supervisor training, and access to an employee assistance program.
 
 ## Discrimination and Harassment Protections
 

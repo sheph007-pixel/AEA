@@ -6,7 +6,8 @@ date: "2024-12-10"
 tags: ["small business", "compliance", "HR", "checklist", "federal law"]
 author: "AEA Editorial Team"
 featured: true
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:33:40.861Z"
 ---
 
 ## Compliance Is Not Optional for Small Employers
@@ -64,8 +65,8 @@ State requirements often exceed federal law. Common additional obligations inclu
 - **Anti-discrimination**: Many states protect additional categories and apply to smaller employers.
 - **Workplace postings**: State-required posters must be displayed in addition to federal ones.
 - **Wage theft prevention notices**: Required at hire in several states.
-- **Pay transparency**: Required in job postings in several states.
-- **Background check restrictions**: Ban-the-box and fair chance hiring laws in many jurisdictions.
+- **Pay transparency**: May be required in job postings in some states; employers should consult legal counsel for specific obligations.
+- **Background check restrictions**: Ban-the-box and fair chance hiring laws exist in various jurisdictions; employers should verify local requirements.
 
 ## Required Workplace Postings
 
@@ -75,11 +76,11 @@ Ensure you display all required federal and state workplace posters. Federal pos
 
 Maintain employment records for the legally required periods. Key minimums:
 
-- Payroll records: 3 years.
-- Tax records: 4 years.
+- Payroll records: Employers should generally retain payroll records for at least 3 years, but requirements may vary.
+- Tax records: The IRS generally recommends keeping tax records for at least 3 years, with certain situations requiring up to 7 years.
 - I-9 forms: 3 years after hire date or 1 year after separation, whichever is later.
-- Personnel records: varies by state, commonly 3-7 years after separation.
-- Job applications: 1 year (2 years for federal contractors).
+- Personnel records: Retention periods vary by state; employers should consult state-specific guidelines.
+- Job applications: Employers should generally retain job applications for at least 1 year; federal contractors may have additional requirements.
 
 ## Getting Help
 

@@ -5,7 +5,8 @@ category: "Leadership"
 date: "2024-11-02"
 tags: ["conflict resolution", "management", "leadership", "workplace culture", "HR"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:31:41.635Z"
 ---
 
 ## Conflict Is Inevitable; Mismanagement Is Not

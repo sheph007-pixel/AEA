@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["minnesota", "sick leave", "safe time", "benefits"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:02:58.767Z"
 ---
 
 ## Minnesota Earned Sick and Safe Time Overview
@@ -16,9 +17,9 @@ This statewide law replaces a patchwork of local ordinances, including those in 
 
 ## Accrual and Frontloading
 
-Employees accrue one hour of ESST for every 30 hours worked, with no cap on the total amount that can be accrued during the year. Employers may choose to frontload at least 48 hours at the beginning of each year or benefit period instead of using accrual. If using accrual, employers must allow carryover of unused hours up to a maximum of 80 hours. If frontloading, carryover is not required.
+Employees accrue one hour of ESST for every 30 hours worked, with no cap on the total amount that can be accrued during the year. Employers may be able to choose to frontload at least 48 hours at the beginning of each year or benefit period instead of using accrual. Employers should consult legal counsel to confirm this option. If using accrual, employers may need to allow carryover of unused hours up to a maximum of 80 hours. Again, consulting legal counsel is recommended to confirm requirements. If frontloading, carryover is not required.
 
-Accrual begins on the first day of employment, and employees may use accrued leave after working for their employer for at least 90 days.
+Accrual begins on the first day of employment, and employees may use earned sick and safe time as it is accrued, with no waiting period.
 
 ## Covered Uses of ESST
 

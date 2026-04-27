@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["OSHA", "emergency planning", "workplace safety", "compliance"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:40:14.666Z"
 ---
 
 OSHA requires employers covered under specific standards to have a written emergency action plan (EAP). Even if your business is not specifically required to have one, creating an EAP is a best practice that protects employees and limits liability. OSHA's EAP requirements are found in 29 CFR 1910.38.
@@ -69,6 +70,6 @@ An EAP is only effective if employees know what to do. OSHA requires that employ
 - When the plan changes
 - When employee responsibilities change
 
-Conduct evacuation drills at least annually, and more frequently for high-risk workplaces. After each drill, review what worked and what needs improvement, and update the plan accordingly.
+Employers are encouraged to conduct evacuation drills regularly, with the frequency determined by a risk assessment of the workplace. After each drill, review what worked and what needs improvement, and update the plan accordingly.
 
 Document all training sessions and drills, including dates, participants, and any corrective actions identified.

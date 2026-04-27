@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2015-05-12"
 tags: ["EEOC", "discrimination", "compliance", "employment law"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:32:52.409Z"
 ---
 
 ## Receiving the Charge
@@ -16,7 +17,7 @@ Do not panic, and do not retaliate. Receiving a charge does not mean a finding h
 
 ## Immediate Steps
 
-**Preserve all relevant documents.** The moment you receive a charge, issue a litigation hold notice to anyone who may possess relevant records. This includes emails, personnel files, performance reviews, text messages, and any electronic records. Destroying documents after receiving a charge can result in severe sanctions.
+**Preserve all relevant documents.** The moment you receive a charge, issue a litigation hold notice to anyone who may possess relevant records. This includes emails, personnel files, performance reviews, text messages, and any electronic records. Destroying documents after receiving a charge can result in sanctions, which may be severe depending on the circumstances.
 
 **Notify your insurance carrier.** Employment practices liability insurance (EPLI) may cover defense costs and settlements. Check your policy and notify the carrier promptly, as late notice can jeopardize coverage.
 

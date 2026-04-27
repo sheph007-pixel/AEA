@@ -5,7 +5,8 @@ category: "Compliance"
 date: "-03-10"
 tags: ["labor law", "compliance", "minimum wage", "employment law", "regulations"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:15:46.130Z"
 ---
 
 Employment law evolves constantly at the federal, state, and local levels. Staying current is essential for compliance. Here are the most significant labor law changes that took effect or were enacted during 2021 and their practical implications for employers.
@@ -17,8 +18,8 @@ Employment law evolves constantly at the federal, state, and local levels. Stayi
 Signed into law on March 11, 2021, ARPA included several employer-relevant provisions:
 
 - **COBRA subsidy:** From April 1 through September 30, 2021, eligible individuals who lost group health coverage due to an involuntary termination or reduction in hours received a 100% COBRA premium subsidy. Employers were reimbursed through a tax credit against Medicare taxes.
-- **FFCRA leave credits extended:** While FFCRA mandatory paid leave expired December 31, 2020, ARPA extended the voluntary tax credits through September 30, 2021. The qualifying reasons for leave were expanded to include vaccination and recovery from vaccination side effects.
-- **Employee Retention Credit expansion:** The ERC was extended through December 31, 2021 (later terminated retroactively as of September 30 for most employers by the Infrastructure Investment and Jobs Act). The credit rate increased to 70% of qualified wages up to $10,000 per employee per quarter.
+- **FFCRA leave credits extended:** While FFCRA mandatory paid leave expired December 31, 2020, ARPA reportedly extended the voluntary tax credits through September 30, 2021. The qualifying reasons for leave were expanded to include vaccination and recovery from vaccination side effects.
+- **Employee Retention Credit expansion:** The ERC was reportedly extended through December 31, 2021 (later terminated retroactively as of September 30 for most employers by the Infrastructure Investment and Jobs Act). The credit rate increased to 70% of qualified wages up to $10,000 per employee per quarter.
 
 ### OSHA COVID-19 Enforcement
 
@@ -51,9 +52,9 @@ Several states expanded or enacted new paid leave requirements:
 
 The trend toward limiting non-compete agreements continued:
 
-- The District of Columbia enacted one of the broadest non-compete bans in the nation, prohibiting non-compete agreements for nearly all employees.
+- The District of Columbia reportedly enacted one of the broadest non-compete bans in the nation, prohibiting non-compete agreements for nearly all employees.
 - Several states increased the minimum salary thresholds below which non-compete agreements are unenforceable.
-- Oregon limited non-compete agreements to 12 months and restricted them to employees earning above a specified income threshold.
+- Oregon reportedly limited non-compete agreements to 12 months and restricted them to employees earning above a specified income threshold.
 
 **Action step:** Review your non-compete and restrictive covenant agreements against current law in each state where you use them.
 

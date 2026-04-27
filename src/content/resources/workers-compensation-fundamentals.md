@@ -4,7 +4,8 @@ description: "A guide to workers' compensation obligations, claim management, an
 category: "Compliance"
 date: "2024-10-08"
 tags: ["workers compensation", "insurance", "claims management"]
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:37:58.685Z"
 ---
 
 ## What Is Workers' Compensation?

@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2022-01-18"
 tags: ["pay transparency", "compensation", "compliance", "salary disclosure", "hiring"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:24:11.162Z"
 ---
 
 Pay transparency legislation is expanding rapidly across the United States. These laws, which generally require employers to disclose salary ranges in job postings or upon request, represent a significant shift in how compensation information is shared. Employers who prepare now will be ahead of the curve as more jurisdictions adopt similar requirements.
@@ -15,19 +16,19 @@ Pay transparency legislation is expanding rapidly across the United States. Thes
 Pay transparency laws vary significantly by jurisdiction but generally fall into several categories:
 
 ### Salary range in job postings
-Several states and municipalities require employers to include a salary range or wage scale in job postings for positions that can or will be performed in their respective jurisdictions:
+Several states and municipalities may require employers to include a salary range or wage scale in job postings for positions that can or will be performed in their respective jurisdictions:
 
 - **Colorado:** The Equal Pay for Equal Work Act, effective January 1, 2021, was among the first to require salary ranges in job postings for positions that could be performed in Colorado.
 - **New York City:** Local Law 32 of 2021, effective November 1, 2022, requires employers with four or more employees to include a minimum and maximum salary in job advertisements specifically for positions that can or will be performed in New York City.
-- **Washington State:** Effective January 1, 2023, employers with 15 or more employees must include salary ranges and a general description of benefits in job postings for positions that can be performed in Washington State.
-- **California:** Effective January 1, 2023, employers with 15 or more employees must include pay scales in job postings for positions that can be performed in California.
+- **Washington State:** Effective January 1, 2023, employers with 15 or more employees may be required to include salary ranges and a general description of benefits in job postings for positions that can be performed in Washington State. Employers should verify the current requirements.
+- **California:** Effective January 1, 2023, employers with 15 or more employees may need to include pay scales in job postings for positions that can be performed in California. Employers should verify the current requirements.
 
 Additional states and cities continue to introduce similar legislation.
 
 ### Salary range upon request
-Some jurisdictions require employers to provide salary range information to applicants upon request, at certain stages of the hiring process, or to current employees:
+Some jurisdictions may require employers to provide salary range information to applicants upon request, at certain stages of the hiring process, or to current employees:
 
-- **Connecticut:** Employers must provide the wage range for a position upon request or at the time of an offer, whichever comes first.
+- **Connecticut:** Employers may be required to provide the wage range for a position upon request or at the time of an offer, whichever comes first. Employers should verify the current requirements.
 - **Nevada:** Employers must provide the salary range to applicants who have completed an interview.
 - **Rhode Island:** Employers must provide salary range information to applicants and current employees upon request.
 

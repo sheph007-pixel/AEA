@@ -6,6 +6,7 @@ date: "2016-06-20"
 tags: ["ACA", "healthcare", "benefits", "IRS reporting"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T09:37:11.828Z"
 ---
 
 ## Who Must Report
@@ -48,7 +49,7 @@ Each ALE member must furnish a Form 1095-C to every full-time employee. The form
 
 Forms 1095-C must be furnished to employees by the IRS-established deadline, which may vary each year. Employers should check the IRS website for the most current deadline. The transmittal forms (1094-C) and copies of all 1095-C forms must be filed with the IRS by the applicable deadline, with a later date allowed for electronic filing. Always check the current year's deadlines, as the IRS has granted extensions in the past.
 
-Electronic filing is generally mandatory for employers filing 250 or more forms, although there may be exceptions or waivers for smaller employers.
+Electronic filing is generally mandatory for employers filing 10 or more forms, although there may be exceptions or waivers for smaller employers.
 
 ## Practical Steps
 

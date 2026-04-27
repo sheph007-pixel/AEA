@@ -6,11 +6,12 @@ date: "2026-01-15"
 tags: ["workplace violence", "safety", "prevention", "California"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:13:26.833Z"
 ---
 
 ## The Growing Focus on Workplace Violence Prevention
 
-Workplace violence remains a critical safety concern, with the Bureau of Labor Statistics reporting hundreds of workplace homicides and tens of thousands of nonfatal workplace violence injuries annually. California became the first state to require nearly all employers to maintain a written Workplace Violence Prevention Plan under SB 553, effective January 1, 2024. This trend is expected to spread to other states.
+Workplace violence remains a critical safety concern, with the Bureau of Labor Statistics reporting hundreds of workplace homicides and tens of thousands of nonfatal workplace violence injuries annually. California became the first state to require nearly all employers to maintain a written Workplace Violence Prevention Plan under SB 553, effective July 1, 2024. This trend may spread to other states.
 
 OSHA has long addressed workplace violence through the General Duty Clause, Section 5(a)(1) of the Occupational Safety and Health Act, which requires employers to provide a workplace free from recognized hazards. However, it is important to note that OSHA does not have a specific standard regulating workplace violence. A proactive prevention program may help employers meet their obligations under this clause.
 
@@ -18,7 +19,7 @@ OSHA has long addressed workplace violence through the General Duty Clause, Sect
 
 An effective workplace violence prevention plan should include a written policy statement, procedures for identifying and evaluating workplace violence hazards, methods for correcting identified hazards, procedures for responding to and investigating workplace violence incidents, and training requirements for employees and supervisors.
 
-The plan should designate responsible persons for implementation, establish clear reporting procedures, and include provisions for protecting employees who report threats or violent behavior. Under California's SB 553, the plan must be specific to each work location and must be developed with employee involvement.
+The plan should designate responsible persons for implementation, establish clear reporting procedures, and include provisions for protecting employees who report threats or violent behavior. Under California's SB 553, the plan must be specific to each work location and should be developed with employee involvement.
 
 ## Risk Assessment and Hazard Identification
 
@@ -28,7 +29,7 @@ The assessment should examine physical security measures such as lighting, acces
 
 ## Training Requirements
 
-Training should cover how to recognize warning signs of potential violence, de-escalation techniques, reporting procedures, emergency response protocols, and the employer's zero-tolerance policy. California's SB 553 requires initial training when the plan is established and annually thereafter, with additional training when a new hazard is identified or when the plan is updated.
+Training should cover how to recognize warning signs of potential violence, de-escalation techniques, reporting procedures, emergency response protocols, and the employer's zero-tolerance policy. While California's SB 553 suggests training requirements, the specific obligations are not fully detailed in available sources. Employers should consult the official legislation or legal counsel for precise obligations.
 
 Supervisors should receive additional training on their responsibilities for maintaining a safe workplace, responding to employee reports of threats, and conducting preliminary assessments of potentially dangerous situations.
 

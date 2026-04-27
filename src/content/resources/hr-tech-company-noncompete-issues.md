@@ -5,7 +5,8 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["technology", "noncompete", "employment agreements", "retention"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:08:38.870Z"
 ---
 
 ## The Shifting Noncompete Landscape

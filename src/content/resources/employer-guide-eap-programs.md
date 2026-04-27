@@ -5,7 +5,8 @@ category: "Benefits"
 date: "2019-05-15"
 tags: ["EAP", "employee assistance", "mental health", "benefits"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:37:13.676Z"
 ---
 
 ## What an EAP Provides

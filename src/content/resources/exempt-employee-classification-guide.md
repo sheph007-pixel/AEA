@@ -5,7 +5,8 @@ category: "Compliance"
 date: "2025-01-22"
 tags: ["FLSA", "exempt classification", "overtime", "duties test", "compliance"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T09:45:24.083Z"
 ---
 
 ## The Duties Test Is Where Classification Goes Wrong

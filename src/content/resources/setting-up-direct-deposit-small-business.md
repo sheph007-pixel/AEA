@@ -5,7 +5,8 @@ category: "Small Business"
 date: "2026-01-15"
 tags: ["payroll", "direct deposit", "small business", "operations"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:30:26.248Z"
 ---
 
 Direct deposit is the most common method of paying employees in the United States, and for good reason. It reduces administrative costs, eliminates lost or stolen checks, and gives employees faster access to their wages. Setting it up is straightforward, even for the smallest employers.

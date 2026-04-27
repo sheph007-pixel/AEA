@@ -6,9 +6,10 @@ date: "2026-01-15"
 tags: ["tipped employees", "FLSA", "payroll", "tip credit"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:18:46.007Z"
 ---
 
-Paying tipped employees correctly is one of the most error-prone areas of wage and hour law. The FLSA allows employers to take a tip credit against the minimum wage obligation, but the rules are detailed and the penalties for violations are significant. Several states have eliminated or modified the tip credit, adding another layer of complexity.
+Paying tipped employees correctly is one of the most error-prone areas of wage and hour law. The FLSA allows employers to take a tip credit against the minimum wage obligation, but the rules are detailed and the penalties for violations can be significant. Several states have eliminated or modified the tip credit, adding another layer of complexity.
 
 ## Understanding the Tip Credit
 
@@ -45,10 +46,10 @@ Tip pooling is legal under certain conditions:
 
 Calculating overtime for tipped employees requires special attention:
 
-- The regular rate for overtime purposes is the full minimum wage, not the reduced direct cash wage
-- Overtime must be paid at 1.5 times the full minimum wage
+- The regular rate for overtime purposes includes both the direct cash wage and the tip credit
+- Overtime must be paid at 1.5 times the regular rate of pay
 - The employer may continue to apply the tip credit during overtime hours
-- The overtime rate for a tipped employee is calculated as: (full minimum wage x 1.5) minus tip credit
+- The overtime rate for a tipped employee is calculated as: (regular rate of pay x 1.5)
 
 ## Dual Jobs
 

@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["401k", "retirement", "benefits", "ERISA"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T09:38:23.275Z"
 ---
 
 A 401(k) plan is one of the most valued employee benefits and can be a powerful recruiting and retention tool. However, establishing and maintaining a plan involves significant legal and administrative responsibilities under ERISA, the Internal Revenue Code, and Department of Labor regulations.
@@ -37,7 +38,7 @@ The process of establishing a 401(k) involves several steps:
 Once the plan is established, the employer has ongoing duties:
 
 - **Fiduciary duty**: Plan fiduciaries must act solely in the interest of plan participants, with the care, skill, prudence, and diligence of a prudent person.
-- **Timely deposit of contributions**: Employee deferrals must be deposited as soon as they can be reasonably segregated from the employer's general assets, in accordance with Department of Labor guidelines. For small plans, this should generally occur no later than the 15th business day of the following month, while larger plans are expected to deposit contributions within a few days.
+- **Timely deposit of contributions**: Employee deferrals must be deposited as soon as they can be reasonably segregated from the employer's general assets, in accordance with Department of Labor guidelines. For small plans (fewer than 100 participants), there is a 7-business-day safe harbor for depositing contributions. The 15th business day of the following month is the maximum deadline for all plans, but larger plans are expected to deposit contributions within a few days.
 - **Annual testing**: Unless operating a Safe Harbor plan, annual nondiscrimination testing (ADP/ACP tests) is required.
 - **Form 5500 filing**: Annual return filed with the DOL reporting plan financial information, generally due seven months after the plan year ends. Plans may apply for an extension to this deadline.
 - **Summary Annual Report**: Must be distributed to participants annually.
@@ -66,5 +67,3 @@ As a plan fiduciary, you have a duty to prudently select and monitor investment 
 - Consider including target-date funds as a default investment option.
 - Document your selection and monitoring process.
 - Consider using an independent investment advisor to support fiduciary decisions.
-
----

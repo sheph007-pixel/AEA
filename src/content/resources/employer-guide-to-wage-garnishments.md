@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["wage garnishment", "payroll", "compliance", "CCPA"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T09:43:18.589Z"
 ---
 
 Wage garnishments are court-ordered or government-ordered deductions from an employee's pay to satisfy a debt. Employers are legally required to comply with garnishment orders and can face penalties for failing to do so. Understanding the process and limits protects your organization from liability.
@@ -14,8 +15,8 @@ Wage garnishments are court-ordered or government-ordered deductions from an emp
 
 The most common types of wage garnishments employers encounter include:
 
-- **Child support orders**: Issued by state agencies or courts, these take priority over most other garnishments.
-- **Federal tax levies**: Issued by the IRS for unpaid federal taxes.
+- **Child support orders**: Issued by state agencies or courts, these generally take priority over most other garnishments.
+- **Federal tax levies**: Issued by the IRS for unpaid federal taxes, these generally take precedence over most other types of wage garnishments, except for existing child or spousal support orders and bankruptcy orders.
 - **State tax levies**: Issued by state tax agencies.
 - **Creditor garnishments**: Court orders for unpaid debts such as credit cards, medical bills, or loans.
 - **Federal student loan garnishments**: Administrative wage garnishment by the Department of Education or its servicers.
@@ -50,7 +51,7 @@ When you receive a garnishment order:
 When an employee has multiple garnishments, priority rules apply:
 
 - Child support generally takes first priority.
-- Federal tax levies typically take second priority.
+- Federal tax levies generally take precedence over most other types of wage garnishments, except for existing child or spousal support orders and bankruptcy orders.
 - State tax levies and other creditor garnishments follow.
 - The total garnishment must comply with CCPA limits, and while child support has priority, it must still adhere to these limits. Employers should consult the specific legal text for clarification.
 
@@ -66,5 +67,3 @@ Key legal protections and obligations for employers:
 - Failure to withhold can make you liable for the amount you should have withheld.
 - Keep records of all garnishment orders, calculations, and payments.
 - Respond to interrogatories or information requests promptly.
-
----

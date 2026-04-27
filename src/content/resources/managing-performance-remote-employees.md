@@ -5,7 +5,8 @@ category: "Leadership"
 date: "2024-09-12"
 tags: ["performance management", "remote work", "hybrid", "leadership", "management"]
 author: "AEA Editorial Team"
-verified: false
+verified: true
+factCheckedAt: "2026-04-27T10:18:47.930Z"
 ---
 
 ## The Shift from Presence to Output

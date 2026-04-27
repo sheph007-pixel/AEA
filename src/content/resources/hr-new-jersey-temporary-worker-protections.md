@@ -6,6 +6,7 @@ date: "2026-01-15"
 tags: ["new jersey", "temporary workers", "staffing", "compliance"]
 author: "AEA Editorial Team"
 verified: false
+factCheckedAt: "2026-04-27T10:03:29.960Z"
 ---
 
 ## Overview of the Temporary Workers' Bill of Rights
@@ -36,4 +37,4 @@ The New Jersey Department of Labor and Workforce Development enforces the law an
 
 Client employers who use temporary staffing services should review their agreements with staffing agencies to ensure compliance with the equal pay and disclosure requirements. Companies should provide staffing agencies with the information needed to calculate equivalent pay rates and benefits. Auditing temporary worker placements to verify compliance with wage parity requirements helps prevent liability.
 
-Staffing agencies should develop compliant disclosure templates and train staff on notification requirements. Both agencies and client employers should maintain records demonstrating compliance for at least six years as required by the law.
+Staffing agencies should develop compliant disclosure templates and train staff on notification requirements. Staffing agencies are required to maintain records demonstrating compliance for at least six years. Client employers should consult legal counsel to determine their specific record-keeping obligations.
