@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-04-27T10:41:50.298Z",
-  "totalFiles": 319,
-  "totalVerified": 287,
-  "newChecked": 289,
-  "cached": 30,
-  "totalChecked": 319,
-  "passed": 287,
-  "flagged": 28,
-  "failed": 4,
+  "lastChecked": "2026-04-28T08:02:52.422Z",
+  "totalFiles": 30,
+  "totalVerified": 29,
+  "newChecked": 5,
+  "cached": 25,
+  "totalChecked": 30,
+  "passed": 29,
+  "flagged": 1,
+  "failed": 0,
   "status": "issues-found"
 }
