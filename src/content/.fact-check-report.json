@@ -1,74 +1,4 @@
 {
-  "2026-04-19-exploring-the-expansion-of-employee-benefits-lifelong-learni-4.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-19-exploring-the-expansion-of-employee-benefits-lifelong-learni-4.md",
-    "hash": "cb049bc6bce3a7e68e436f6df90b4258",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-19T07:05:13.878Z"
-  },
-  "2026-04-19-new-osha-regulations-on-heat-stress-what-employers-must-know-2.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-19-new-osha-regulations-on-heat-stress-what-employers-must-know-2.md",
-    "hash": "d7fc19e1a6a6688ba71950f69927bbf5",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-19T07:05:15.755Z"
-  },
-  "2026-04-19-the-growing-importance-of-employee-experience-in-talent-rete-1.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-19-the-growing-importance-of-employee-experience-in-talent-rete-1.md",
-    "hash": "f068ad0865cde6c1115d0597700e03e4",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-19T07:05:17.943Z"
-  },
-  "2026-04-19-the-rise-of-automation-in-small-to-mid-sized-enterprises-3.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-19-the-rise-of-automation-in-small-to-mid-sized-enterprises-3.md",
-    "hash": "22dcb687a80802de159ab68cb61413a2",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-19T07:05:20.206Z"
-  },
-  "2026-04-19-understanding-the-recent-changes-to-non-compete-agreements-0.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-19-understanding-the-recent-changes-to-non-compete-agreements-0.md",
-    "hash": "6add6693a611d3e8bed18801805a7e49",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-19T07:05:22.237Z"
-  },
   "2026-04-20-navigating-the-new-federal-standards-for-employee-classifica-2.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -381,49 +311,18 @@
     "checkedAt": "2026-04-28T08:01:42.823Z"
   },
   "2026-04-28-navigating-the-shift-to-remote-work-tax-regulations-1.md": {
-    "status": "flag",
+    "status": "pass",
     "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "While this decision primarily influenced sales tax collection, its direct impact on state income tax policies for remote workers is not clearly established.",
-        "issue": "The article implies a connection between the Wayfair decision and state income tax policies for remote workers without providing evidence or hedging language.",
-        "suggestion": "Add hedging language to clarify that the impact on state income tax policies is speculative or not directly established.",
-        "source": null
-      },
-      {
-        "severity": "medium",
-        "text": "States may require employers to withhold income taxes based on the employee's work location, which can differ from the company's headquarters.",
-        "issue": "The statement is presented as a definitive fact but may vary significantly by state and lacks hedging language.",
-        "suggestion": "Use hedging language such as 'may' or 'generally' to indicate that requirements can vary by state.",
-        "source": null
-      },
-      {
-        "severity": "medium",
-        "text": "Employers should assess whether having remote employees creates a taxable nexus in other states.",
-        "issue": "The statement is presented as a definitive requirement but may not apply universally.",
-        "suggestion": "Include hedging language to indicate that this is a consideration rather than a definitive requirement.",
-        "source": null
-      }
-    ],
-    "confirmed_claims": 1,
-    "unverified_claims": 3,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
     "false_claims": 0,
-    "summary": "The article contains several claims that are not fully verified or are presented without necessary hedging language, leading to a flag status.",
-    "claims_extracted": 1,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "U.S. Supreme Court's decision in South Dakota v. Wayfair, Inc. (2018)",
-        "verdict": "confirmed",
-        "source": "https://supreme.justia.com/cases/federal/us/585/17-494/",
-        "explanation": "The U.S. Supreme Court decided South Dakota v. Wayfair, Inc. in 2018, ruling that states can require out-of-state sellers to collect and remit sales tax on goods shipped to the state, even if the seller has no physical presence there."
-      }
-    ],
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
     "file": "2026-04-28-navigating-the-shift-to-remote-work-tax-regulations-1.md",
-    "hash": "45caa8f9946ce77c5420160cd477a002",
+    "hash": "23396cd0197f9bc69a2be14023307f0d",
     "dir": "src/content/news",
-    "checkedAt": "2026-04-28T08:02:26.201Z",
+    "checkedAt": "2026-04-29T07:55:42.066Z",
     "autoFixed": true
   },
   "2026-04-28-new-developments-in-employee-surveillance-laws-what-employer-0.md": {
@@ -490,5 +389,98 @@
     "hash": "6e34ee1471ba88048ea043eac5c1fcdd",
     "dir": "src/content/news",
     "checkedAt": "2026-04-28T08:02:51.420Z"
+  },
+  "2026-04-29-embracing-sustainable-business-practices-a-path-forward-for--3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-embracing-sustainable-business-practices-a-path-forward-for--3.md",
+    "hash": "e64017d94afa844114a99cdf34959c25",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-29T07:55:44.393Z"
+  },
+  "2026-04-29-navigating-the-rise-of-employee-ownership-plans-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-navigating-the-rise-of-employee-ownership-plans-1.md",
+    "hash": "e30216f9c3e791aaac545c52e9f3b1c4",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-29T07:55:46.385Z"
+  },
+  "2026-04-29-supreme-court-decision-on-affirmative-action-implications-fo-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-supreme-court-decision-on-affirmative-action-implications-fo-0.md",
+    "hash": "fae5736a955bcdab70854471ced932d1",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-29T07:55:48.282Z"
+  },
+  "2026-04-29-understanding-the-impact-of-new-paid-family-leave-legislatio-4.md": {
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "confirmed_claims": 3,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "summary": "All claims in the article are confirmed by credible sources, and the article is accurate and well-supported.",
+    "claims_extracted": 3,
+    "verification_details": [
+      {
+        "claim_number": 1,
+        "claim": "In 2023, several states including California, New Jersey, and New York have expanded their paid family leave programs to increase the duration of leave available and the percentage of wages covered during this time.",
+        "verdict": "confirmed",
+        "source": "https://www.dfs.ny.gov/consumers/health_insurance/Paid-Family-Leave",
+        "explanation": "In 2023, New York expanded its Paid Family Leave program to include siblings as eligible family members, allowing employees to take leave to care for them. New Jersey increased the maximum weekly benefit for Family Leave Insurance claims to $1,025, up from $993. California's paid family leave program offers up to 8 weeks of benefits, up from 6 weeks."
+      },
+      {
+        "claim_number": 2,
+        "claim": "California's paid family leave now offers 8 weeks of benefits, up from 6.",
+        "verdict": "confirmed",
+        "source": "https://www.edd.ca.gov/disability/paid-family-leave/",
+        "explanation": "California's Paid Family Leave program provides up to 8 weeks of benefits, an increase from the previous 6 weeks."
+      },
+      {
+        "claim_number": 3,
+        "claim": "New Jersey has introduced a phased increase in the wage replacement rate, aiming to offer up to 85% of an employee's average weekly wage.",
+        "verdict": "confirmed",
+        "source": "https://www.nj.gov/labor/myleavebenefits/worker/fli",
+        "explanation": "New Jersey's Family Leave Insurance program provides up to 85% of an employee's average weekly wage, with a maximum weekly benefit of $1,025 as of 2023."
+      }
+    ],
+    "file": "2026-04-29-understanding-the-impact-of-new-paid-family-leave-legislatio-4.md",
+    "hash": "2576e9930d9edf75b98001fc62fdd9cd",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-29T07:55:58.266Z"
+  },
+  "2026-04-29-understanding-the-new-osha-heat-illness-prevention-standards-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-understanding-the-new-osha-heat-illness-prevention-standards-2.md",
+    "hash": "84266fc21a1e3d1b488d949d688bd981",
+    "dir": "src/content/news",
+    "checkedAt": "2026-04-29T07:56:00.693Z"
   }
 }

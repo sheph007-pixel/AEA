@@ -4,15 +4,15 @@ description: "Employers must understand new tax implications as remote work beco
 category: "HR Trends"
 date: "2026-04-28"
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-28T08:02:26.201Z"
+verified: true
+factCheckedAt: "2026-04-29T07:55:42.066Z"
 ---
 
 ## First Section
 
 As remote work continues to solidify its place in the employment landscape, recent developments in tax regulations are posing new challenges for employers across the United States. With many employees opting for remote work, either full-time or hybrid arrangements, HR professionals and business owners must navigate the complexities of state and local tax laws that govern remote work.
 
-A pivotal change came with the U.S. Supreme Court's decision in *South Dakota v. Wayfair, Inc.* (2018), which allowed states to collect sales tax from businesses without a physical presence in the state. While this decision primarily influenced sales tax collection, its direct impact on state income tax policies for remote workers is not clearly established.
+A pivotal change came with the U.S. Supreme Court's decision in *South Dakota v. Wayfair, Inc.* (2018), which allowed states to collect sales tax from businesses without a physical presence in the state. This decision specifically pertains to sales tax and does not directly affect state income tax policies for remote workers.
 
 ### What Employers Need to Know
 
