@@ -6,8 +6,8 @@ date: "2026-01-05"
 month: "2026-01"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "minimum-wage", "ACA", "federal-contractors", "AI-policy", "Q1-2026"]
-verified: true
-factCheckedAt: "2026-04-27T09:25:14.954Z"
+verified: false
+factCheckedAt: "2026-05-01T09:47:54.265Z"
 ---
 
 # Monthly Employer Briefing: January 2026
@@ -37,7 +37,7 @@ The Affordable Care Act reporting season is upon us. Applicable large employers 
 For the 2025 tax year, employers should adhere to the following deadlines:
 
 - **Furnishing to employees:** Employers must furnish Form 1095-C to employees by March 2, 2026.
-- **Filing with the IRS:** Employers must file Forms 1094-C and 1095-C with the IRS by May 31, 2026, if filing electronically, or by February 28, 2026, if filing by paper.
+- **Filing with the IRS:** Employers must file Forms 1094-C and 1095-C with the IRS by March 2, 2026, if filing by paper, or by March 31, 2026, if filing electronically.
 
 Employers who have not yet selected a reporting vendor or begun data compilation should treat this as an urgent priority. Errors and late filings may result in penalties under the Internal Revenue Code.
 
@@ -71,3 +71,5 @@ January sets the tone for the compliance year. Employers who invest time now in 
 ---
 
 *This briefing is prepared by the AEA Editorial Team based on publicly available regulatory guidance, employment law developments, and employer-reported trends. Individual data from AEA members is never disclosed. All analysis reflects general observations and should not be treated as legal advice. Consult qualified counsel for guidance on specific situations.*
+
+---

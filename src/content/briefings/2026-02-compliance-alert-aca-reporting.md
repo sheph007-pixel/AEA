@@ -7,7 +7,7 @@ month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["compliance-alert", "ACA", "1095-C", "1094-C", "IRS", "reporting", "2026"]
 verified: true
-factCheckedAt: "2026-04-27T09:25:21.590Z"
+factCheckedAt: "2026-05-01T09:48:35.254Z"
 ---
 
 # Compliance Alert: ACA Reporting Requirements for 2026
@@ -24,7 +24,7 @@ Self-insured employers that are not ALEs have separate reporting obligations und
 
 **Furnishing to employees:** Form 1095-C must be provided to each full-time employee. The IRS has in some years adjusted the furnishing deadline, so employers should verify current year deadlines with the IRS by checking the IRS website or consulting their tax advisor for the most current deadline applicable to the 2025 tax year. For the 2025 tax year, the deadline for furnishing Form 1095-C to employees is expected to be March 2, 2026, but employers should confirm this date.
 
-**Filing with the IRS (electronic):** Employers should verify current year deadlines with the IRS for electronic filing of Forms 1094-C and 1095-C. Electronic filing is generally required for employers filing above the applicable threshold of information returns during the calendar year, which may encompass most ALEs. Employers should check current IRS guidance on the electronic filing threshold. The deadline for electronic filing is typically April 1, 2026, but this should also be confirmed.
+**Filing with the IRS (electronic):** Employers should verify current year deadlines with the IRS for electronic filing of Forms 1094-C and 1095-C. Electronic filing is generally required for employers filing above the applicable threshold of information returns during the calendar year, which may encompass most ALEs. Employers should check current IRS guidance on the electronic filing threshold. The deadline for electronic filing is generally March 31, 2026, but this should also be confirmed.
 
 **Filing with the IRS (paper):** Employers eligible to file on paper generally face an earlier deadline than electronic filers. Given the threshold for mandatory electronic filing, most ALEs will likely be filing electronically. Employers should verify current year deadlines with the IRS. The paper filing deadline is usually February 28, 2026.
 
@@ -67,3 +67,5 @@ ACA reporting is a recurring annual obligation with meaningful penalty exposure.
 ---
 
 *This briefing is prepared by the AEA Editorial Team based on publicly available regulatory guidance, employment law developments, and employer-reported trends. Individual data from AEA members is never disclosed. All analysis reflects general observations and should not be treated as legal advice. Consult qualified counsel for guidance on specific situations.*
+
+---

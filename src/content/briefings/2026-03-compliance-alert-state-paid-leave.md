@@ -7,7 +7,7 @@ month: "2026-03"
 author: "AEA Editorial Team"
 tags: ["compliance-alert", "paid-leave", "state-law", "FMLA", "family-leave", "medical-leave", "2026"]
 verified: true
-factCheckedAt: "2026-04-27T09:26:39.013Z"
+factCheckedAt: "2026-05-01T09:49:41.151Z"
 ---
 
 # Compliance Alert: State Paid Leave Programs Expanding in 2026

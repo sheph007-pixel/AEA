@@ -6,8 +6,8 @@ date: "2026-03-02"
 month: "2026-03"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "hiring", "EEO-1", "state-legislation", "workplace-safety", "Q2-planning", "March-2026"]
-verified: true
-factCheckedAt: "2026-04-27T09:26:43.124Z"
+verified: false
+factCheckedAt: "2026-05-01T09:51:07.604Z"
 ---
 
 # Monthly Employer Briefing: March 2026
@@ -43,7 +43,7 @@ Key preparation steps include:
 State legislatures across the country are in active session, and employment-related legislation is a prominent feature on many agendas. Among the most common themes in 2026 state legislative activity:
 
 - **Paid leave expansion.** Several states are considering new paid family and medical leave programs or expanding the scope and benefits of existing programs.
-- **Pay transparency.** Several states are considering bills that may require salary range disclosure in job postings, wage data reporting, and pay equity audits.
+- **Pay transparency.** Some states are considering bills that may require salary range disclosure in job postings, wage data reporting, and pay equity audits. Employers should consult legal counsel to stay informed about developments in their specific states.
 - **AI regulation.** Several states are considering bills that would regulate the use of artificial intelligence in employment decisions, potentially including requirements for bias audits, impact assessments, and candidate notification.
 - **Non-compete restrictions.** Several states are considering bills to limit or ban non-compete agreements, continuing a broader legislative trend in this area.
 - **Heat illness and outdoor worker protections.** Several states are considering workplace heat safety standards, which may include required rest breaks, access to water and shade, and acclimatization protocols.

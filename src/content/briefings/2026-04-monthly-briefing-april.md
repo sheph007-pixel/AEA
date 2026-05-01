@@ -7,7 +7,7 @@ month: "2026-04"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "compliance", "workplace-safety", "benefits", "state-legislation", "immigration", "April-2026"]
 verified: true
-factCheckedAt: "2026-04-27T09:26:47.195Z"
+factCheckedAt: "2026-05-01T09:51:11.359Z"
 ---
 
 # Monthly Employer Briefing: April 2026

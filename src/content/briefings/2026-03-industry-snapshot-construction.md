@@ -7,12 +7,12 @@ month: "2026-03"
 author: "AEA Editorial Team"
 tags: ["industry-snapshot", "construction", "OSHA", "prevailing-wage", "I-9", "safety-training", "2026"]
 verified: true
-factCheckedAt: "2026-04-27T09:26:41.140Z"
+factCheckedAt: "2026-05-01T09:50:23.586Z"
 ---
 
 # Industry Snapshot: Construction Industry Employer Compliance
 
-The construction industry operates under one of the most demanding regulatory frameworks of any sector. In 2026, construction employers face a convergence of heightened OSHA enforcement, evolving prevailing wage requirements, increased immigration and I-9 scrutiny, and ongoing safety training obligations. Employers who do not actively manage these compliance areas face significant financial and legal exposure.
+The construction industry operates under one of the most demanding regulatory frameworks of any sector. In 2026, construction employers may face a convergence of heightened OSHA enforcement, evolving prevailing wage requirements, increased immigration and I-9 scrutiny, and ongoing safety training obligations. Employers who do not actively manage these compliance areas face significant financial and legal exposure.
 
 ## OSHA Enforcement in Construction
 
@@ -62,4 +62,4 @@ Construction employers face extensive safety training requirements under both fe
 - **OSHA 10-hour and 30-hour courses.** While not universally mandated by federal OSHA, many states, municipalities, and project owners require construction workers to hold OSHA 10-hour or 30-hour training cards. Employers should verify the training requirements applicable to each project and jurisdiction.
 - **Hazard-specific training.** OSHA requires training on specific hazards including fall protection, scaffolding, electrical safety, hazard communication, confined space entry, respiratory protection, and crane operations. Training must be provided in a language and manner the worker can understand.
 - **Competent person designations.** Many OSHA construction standards require a competent person — someone capable of identifying hazards and authorized to take corrective action — to be designated for specific activities such as excavation, scaffolding erection, and fall protection.
-- **Documentation.** Employers must maintain records of all safety training, including the date, topic, trainer, and attendees. These records are essential evidence of
+- **Documentation.** Employers must maintain records of all safety training, including the date, topic, trainer, and attendees. These records are essential evidence of compliance.
