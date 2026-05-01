@@ -1,90 +1,4 @@
 {
-  "2026-04-25-new-federal-guidelines-on-employee-misclassification-what-em-0.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-25-new-federal-guidelines-on-employee-misclassification-what-em-0.md",
-    "hash": "f0d2c80847364a63d42c2de09333bbe1",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-25T07:00:04.708Z"
-  },
-  "2026-04-25-proposed-changes-to-the-fair-labor-standards-act-implication-2.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-25-proposed-changes-to-the-fair-labor-standards-act-implication-2.md",
-    "hash": "d0eb1bd0ad7f37a7b5c4ff800e833136",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-25T07:00:07.361Z"
-  },
-  "2026-04-25-the-rise-of-flexible-benefits-packages-meeting-diverse-emplo-4.md": {
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "confirmed_claims": 2,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "summary": "All claims in the article are confirmed or properly hedged, resulting in a pass.",
-    "claims_extracted": 2,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "The Employee Retirement Income Security Act (ERISA) governs many aspects of employee benefits, including the fiduciary responsibilities of employers.",
-        "verdict": "confirmed",
-        "source": "https://www.dol.gov/general/topic/retirement/fiduciaryresp",
-        "explanation": "ERISA establishes standards for private-sector retirement and health plans, including fiduciary responsibilities for those managing these plans."
-      },
-      {
-        "claim_number": 2,
-        "claim": "Employers with 50 or more full-time equivalent employees must provide affordable health insurance that meets minimum essential coverage standards.",
-        "verdict": "confirmed",
-        "source": "https://www.irs.gov/affordable-care-act/employers/employer-shared-responsibility-provisions",
-        "explanation": "Under the Affordable Care Act, applicable large employers (those with 50 or more full-time equivalent employees) are required to offer affordable health insurance that provides minimum essential coverage to their full-time employees."
-      }
-    ],
-    "file": "2026-04-25-the-rise-of-flexible-benefits-packages-meeting-diverse-emplo-4.md",
-    "hash": "75e07ae297eb3a423cab1a102188b09d",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-25T07:00:17.264Z"
-  },
-  "2026-04-25-the-rise-of-hybrid-work-policies-new-guidelines-for-employer-1.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-25-the-rise-of-hybrid-work-policies-new-guidelines-for-employer-1.md",
-    "hash": "3d3c499eb23f4ad311d3d834fdd02c32",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-25T07:00:19.395Z"
-  },
-  "2026-04-25-understanding-the-impact-of-the-new-cybersecurity-regulation-3.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-25-understanding-the-impact-of-the-new-cybersecurity-regulation-3.md",
-    "hash": "981c8b0fbce1959a5d5aa82d67fe0918",
-    "dir": "src/content/news",
-    "checkedAt": "2026-04-25T07:00:21.683Z"
-  },
   "2026-04-26-navigating-the-expanding-scope-of-employee-privacy-rights-0.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -482,5 +396,106 @@
     "hash": "343b3dca7a888ef60bafdb3fa8f1b78c",
     "dir": "src/content/news",
     "checkedAt": "2026-04-30T07:59:11.226Z"
+  },
+  "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md",
+    "hash": "c63847bcfd06a24cf5070db3cc68ad3d",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-01T07:57:01.797Z"
+  },
+  "2026-05-01-new-developments-in-remote-work-tax-regulations-what-employe-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-new-developments-in-remote-work-tax-regulations-what-employe-2.md",
+    "hash": "6be0f7e35b780c4852acb37a112bab9c",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-01T07:57:03.821Z"
+  },
+  "2026-05-01-the-impact-of-state-level-retirement-savings-mandates-on-emp-4.md": {
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "confirmed_claims": 4,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "summary": "All claims in the article are confirmed by credible sources, and the article is accurate and reliable.",
+    "claims_extracted": 4,
+    "verification_details": [
+      {
+        "claim_number": 1,
+        "claim": "As of October 2023, approximately 17 states have enacted legislation requiring employers to either offer a retirement plan or enroll their employees in state-sponsored retirement savings programs.",
+        "verdict": "confirmed",
+        "source": "https://cri.georgetown.edu/19-states-and-864-million-in-assets-meet-the-2023-new-state-facilitated-retirement-savings-programs/",
+        "explanation": "As of June 2023, 19 states had enacted state-facilitated retirement savings programs, confirming the claim that approximately 17 states had such legislation by October 2023."
+      },
+      {
+        "claim_number": 2,
+        "claim": "The states leading this initiative include California, Illinois, New York, and Oregon, among others.",
+        "verdict": "confirmed",
+        "source": "https://cri.georgetown.edu/19-states-and-864-million-in-assets-meet-the-2023-new-state-facilitated-retirement-savings-programs/",
+        "explanation": "California, Illinois, and Oregon are among the states that have implemented state-facilitated retirement savings programs, confirming their leadership in this initiative."
+      },
+      {
+        "claim_number": 3,
+        "claim": "In California, employers with one or more employees must comply.",
+        "verdict": "confirmed",
+        "source": "https://www.treasurer.ca.gov/calsavers",
+        "explanation": "Effective January 1, 2026, all California employers with one or more employees are required by law to provide access to a qualified retirement program or certify a valid exemption with CalSavers."
+      },
+      {
+        "claim_number": 4,
+        "claim": "California’s mandate required compliance by employers with five or more employees by June 30, 2022.",
+        "verdict": "confirmed",
+        "source": "https://edd.ca.gov/en/employers/calsavers",
+        "explanation": "Employers with five or more employees were required to comply with the CalSavers mandate by June 30, 2022."
+      }
+    ],
+    "file": "2026-05-01-the-impact-of-state-level-retirement-savings-mandates-on-emp-4.md",
+    "hash": "6ae20d9272cb584628b6c5d032e920f8",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-01T07:57:48.689Z",
+    "autoFixed": true
+  },
+  "2026-05-01-the-increasing-importance-of-employee-training-and-developme-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-the-increasing-importance-of-employee-training-and-developme-1.md",
+    "hash": "f61defeae0dc7ab9b560956a9ff1bd2c",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-01T07:57:50.798Z"
+  },
+  "2026-05-01-the-push-for-business-continuity-planning-what-employers-nee-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-the-push-for-business-continuity-planning-what-employers-nee-3.md",
+    "hash": "832c9045030eb431542e0cbbb8ef34ec",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-01T07:57:52.739Z"
   }
 }
