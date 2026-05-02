@@ -5,7 +5,7 @@ category: "Employment Law"
 date: "2023-10-29"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-29T07:55:48.282Z"
+factCheckedAt: "2026-05-02T07:17:44.977Z"
 ---
 
 ## First Section

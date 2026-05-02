@@ -5,7 +5,7 @@ category: "Employment Law"
 date: "2026-04-27"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T08:01:33.559Z"
+factCheckedAt: "2026-05-02T07:17:09.088Z"
 ---
 
 ## Understanding State-Level Wage Transparency Laws

@@ -5,7 +5,7 @@ category: "Employment Law"
 date: "2026-04-28"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-28T08:02:28.811Z"
+factCheckedAt: "2026-05-02T07:17:36.326Z"
 ---
 
 ## New Developments in Employee Surveillance Laws: What Employers Should Know

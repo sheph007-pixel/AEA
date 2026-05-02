@@ -5,16 +5,16 @@ category: "Benefits & Compensation"
 date: "2023-10-30"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-05-01T07:57:48.689Z"
+factCheckedAt: "2026-05-02T07:18:31.522Z"
 ---
 
 ## Understanding State-Level Retirement Savings Mandates
 
-In recent years, a growing number of states have implemented mandated retirement savings programs aimed at increasing retirement savings among private sector employees. As of October 2023, approximately 17 states have enacted legislation requiring employers to either offer a retirement plan or enroll their employees in state-sponsored retirement savings programs. This trend reflects a broader effort to address the retirement savings crisis impacting millions of Americans.
+In recent years, a growing number of states have implemented mandated retirement savings programs aimed at increasing retirement savings among private sector employees. As of October 2023, approximately 17 states may have enacted legislation requiring employers to either offer a retirement plan or enroll their employees in state-sponsored retirement savings programs. This trend reflects a broader effort to address the retirement savings crisis impacting millions of Americans.
 
 ### What Employers Need to Know
 
-These mandates vary significantly by state, but they typically require employers to either establish a qualified retirement plan, such as a 401(k), or participate in a state-run program that provides a Roth IRA for employees who do not have access to an employer-sponsored plan. The states leading this initiative include California, Illinois, New York, and Oregon, among others. Failure to comply with these regulations can result in penalties, making it crucial for employers to stay informed about the specific requirements in their state.
+These mandates vary significantly by state, but they typically require employers to either establish a qualified retirement plan, such as a 401(k), or participate in a state-run program that provides a Roth IRA for employees who do not have access to an employer-sponsored plan. States such as California and Illinois are known to be leading this initiative. Failure to comply with these regulations can result in penalties, making it crucial for employers to stay informed about the specific requirements in their state.
 
 Employers with fewer than five employees may be exempt in some states, but those with more employees generally must comply. For instance, in California, employers with one or more employees must comply. This includes offering a retirement plan or enrolling in the state program, which typically allows employees to contribute a percentage of their wages through payroll deductions, with automatic enrollment features to simplify participation.
 

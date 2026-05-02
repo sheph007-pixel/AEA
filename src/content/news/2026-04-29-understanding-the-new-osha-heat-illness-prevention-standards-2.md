@@ -5,7 +5,7 @@ category: "Workplace Policy"
 date: "2026-04-29"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-29T07:56:00.693Z"
+factCheckedAt: "2026-05-02T07:17:48.484Z"
 ---
 
 ## New OSHA Standards on Heat Illness Prevention: What Employers Need to Know

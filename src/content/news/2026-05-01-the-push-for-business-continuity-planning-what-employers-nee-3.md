@@ -5,7 +5,7 @@ category: "Business Operations"
 date: "2023-10-30"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-05-01T07:57:52.739Z"
+factCheckedAt: "2026-05-02T07:18:34.936Z"
 ---
 
 ## Understanding the Importance of Business Continuity Planning

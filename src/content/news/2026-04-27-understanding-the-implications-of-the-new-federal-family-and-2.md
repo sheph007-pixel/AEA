@@ -5,7 +5,7 @@ category: "Workplace Policy"
 date: "2026-04-27"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T08:01:41.931Z"
+factCheckedAt: "2026-05-02T07:17:16.372Z"
 ---
 
 ## First Section

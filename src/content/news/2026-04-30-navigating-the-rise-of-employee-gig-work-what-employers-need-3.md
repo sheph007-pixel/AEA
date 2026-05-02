@@ -5,7 +5,7 @@ category: "Business Operations"
 date: "2023-10-30"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-30T07:59:04.021Z"
+factCheckedAt: "2026-05-02T07:17:51.909Z"
 ---
 
 ## Understanding the Gig Economy's Impact on Employers

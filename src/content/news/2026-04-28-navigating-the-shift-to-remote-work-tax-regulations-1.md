@@ -5,7 +5,7 @@ category: "HR Trends"
 date: "2026-04-28"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-29T07:55:42.066Z"
+factCheckedAt: "2026-05-02T07:17:34.711Z"
 ---
 
 ## First Section
@@ -16,11 +16,11 @@ A pivotal change came with the U.S. Supreme Court's decision in *South Dakota v.
 
 ### What Employers Need to Know
 
-Employers must be aware of the following key points regarding remote work tax implications:
+Employers should generally be aware of the following key points regarding remote work tax implications:
 
 1. **Tax Withholding Requirements**: States may require employers to withhold income taxes based on the employee's work location, which can differ from the company's headquarters. This means that if a company based in one state employs a remote worker living in another, the employer may need to comply with the tax laws of both states.
 
-2. **Nexus Considerations**: Employers should assess whether having remote employees creates a taxable nexus in other states. This could lead to additional business tax obligations, including corporate income tax and franchise tax, depending on the state’s rules.
+2. **Nexus Considerations**: Employers should consider whether having remote employees may create a taxable nexus in other states. This could potentially lead to additional business tax obligations, including corporate income tax and franchise tax, depending on the state’s rules. Employers are advised to consult with tax professionals to understand these implications.
 
 3. **State-Specific Regulations**: Each state has its own regulations regarding remote work taxation. Some states may have "convenience of the employer" rules, which can complicate tax withholding for employees who choose to work remotely for their own convenience rather than for the employer's necessity.
 

@@ -1,5 +1,5 @@
 {
-  "2026-01-compliance-alert-minimum-wages-2026.md": {
+  "2026-04-27-navigating-changes-in-state-level-wage-transparency-laws-0.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -8,12 +8,12 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-01-compliance-alert-minimum-wages-2026.md",
-    "hash": "6e0e2170c1a3ba4f094a50f85899b8fd",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:46:40.163Z"
+    "file": "2026-04-27-navigating-changes-in-state-level-wage-transparency-laws-0.md",
+    "hash": "3a8e7eb01cafc850ad279c82f277d878",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:09.088Z"
   },
-  "2026-01-employer-questions-january.md": {
+  "2026-04-27-navigating-the-new-ftc-guidelines-on-green-marketing-claims-3.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -22,300 +22,338 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-01-employer-questions-january.md",
-    "hash": "1357738304ab3073f8218b72282072c5",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:47:10.757Z",
+    "file": "2026-04-27-navigating-the-new-ftc-guidelines-on-green-marketing-claims-3.md",
+    "hash": "a88f59f20f5e82e3613842154f728b80",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:10.903Z"
+  },
+  "2026-04-27-navigating-the-new-irs-guidelines-on-fringe-benefits-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-27-navigating-the-new-irs-guidelines-on-fringe-benefits-4.md",
+    "hash": "294311d00d1a183317e52c42509b44ec",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:12.515Z"
+  },
+  "2026-04-27-the-rise-of-ai-in-recruitment-what-employers-need-to-know-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-27-the-rise-of-ai-in-recruitment-what-employers-need-to-know-1.md",
+    "hash": "383b785d38158703d0a5bad8b8b99f74",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:14.657Z"
+  },
+  "2026-04-27-understanding-the-implications-of-the-new-federal-family-and-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-27-understanding-the-implications-of-the-new-federal-family-and-2.md",
+    "hash": "e3cba66a16ff928296e1cbd7542a13c2",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:16.372Z"
+  },
+  "2026-04-28-emerging-trends-in-student-loan-repayment-benefits-for-emplo-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-28-emerging-trends-in-student-loan-repayment-benefits-for-emplo-4.md",
+    "hash": "42bff0878b9a368601f4a7b2536b322e",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:18.637Z"
+  },
+  "2026-04-28-navigating-the-shift-to-remote-work-tax-regulations-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-28-navigating-the-shift-to-remote-work-tax-regulations-1.md",
+    "hash": "1740943060d91f248a35555ee0bc209f",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:34.711Z",
     "autoFixed": true
   },
-  "2026-01-monthly-briefing-january.md": {
-    "status": "flag",
+  "2026-04-28-new-developments-in-employee-surveillance-laws-what-employer-0.md": {
+    "status": "pass",
     "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "Employers holding federal contracts or subcontracts should review any new or revised requirements that may have taken effect for the 2026 contract year.",
-        "issue": "No specific information was found regarding new or revised requirements for federal contractors effective in 2026.",
-        "suggestion": "Add hedging language such as 'may have taken effect' or 'employers should consult counsel for specific updates'.",
-        "source": null
-      },
-      {
-        "severity": "medium",
-        "text": "The Department of Labor has continued to refine its oversight of federal contractors, particularly in areas such as pay equity reporting, affirmative action plan updates, and workforce standards.",
-        "issue": "No specific information was found regarding the Department of Labor's actions in these areas for 2026.",
-        "suggestion": "Include hedging language or specify that these are ongoing areas of focus rather than new developments.",
-        "source": null
-      }
-    ],
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-28-new-developments-in-employee-surveillance-laws-what-employer-0.md",
+    "hash": "ffb0418381ec970715095d4a77658afb",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:36.326Z"
+  },
+  "2026-04-28-the-surge-in-supply-chain-resilience-strategies-for-employer-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-28-the-surge-in-supply-chain-resilience-strategies-for-employer-3.md",
+    "hash": "d53ea6558b44c26104172669ef9a64e7",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:38.023Z"
+  },
+  "2026-04-28-understanding-the-impact-of-state-level-pay-equity-laws-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-28-understanding-the-impact-of-state-level-pay-equity-laws-2.md",
+    "hash": "1620812ba3be302a55bd6dafd7249c6c",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:39.946Z"
+  },
+  "2026-04-29-embracing-sustainable-business-practices-a-path-forward-for--3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-embracing-sustainable-business-practices-a-path-forward-for--3.md",
+    "hash": "0902e5c2d1c3ca6043a536f6771037fa",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:41.675Z"
+  },
+  "2026-04-29-navigating-the-rise-of-employee-ownership-plans-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-navigating-the-rise-of-employee-ownership-plans-1.md",
+    "hash": "0d4d5bc15363b047383715b60b5ebf87",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:43.271Z"
+  },
+  "2026-04-29-supreme-court-decision-on-affirmative-action-implications-fo-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-supreme-court-decision-on-affirmative-action-implications-fo-0.md",
+    "hash": "3d7b331bc39666ca754168a7b9c59595",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:44.977Z"
+  },
+  "2026-04-29-understanding-the-impact-of-new-paid-family-leave-legislatio-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-understanding-the-impact-of-new-paid-family-leave-legislatio-4.md",
+    "hash": "419ee8cf0c945cc6575901f81aec887c",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:46.676Z"
+  },
+  "2026-04-29-understanding-the-new-osha-heat-illness-prevention-standards-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-29-understanding-the-new-osha-heat-illness-prevention-standards-2.md",
+    "hash": "2bcdd552b0e650ec87eee36ea54e3123",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:48.484Z"
+  },
+  "2026-04-30-embracing-employee-well-being-a-new-frontier-in-hr-practices-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-embracing-employee-well-being-a-new-frontier-in-hr-practices-1.md",
+    "hash": "e1052a19fd02c4a3f77356f0be5ca7b3",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:50.273Z"
+  },
+  "2026-04-30-navigating-the-rise-of-employee-gig-work-what-employers-need-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-navigating-the-rise-of-employee-gig-work-what-employers-need-3.md",
+    "hash": "386ea175ab61258d5153e474860bcb29",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:51.909Z"
+  },
+  "2026-04-30-the-expanding-role-of-wellness-programs-in-employee-benefits-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-the-expanding-role-of-wellness-programs-in-employee-benefits-4.md",
+    "hash": "f4db3c1d8f85c1327b856d751e458329",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:53.992Z"
+  },
+  "2026-04-30-understanding-the-new-federal-guidelines-on-non-compete-agre-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-understanding-the-new-federal-guidelines-on-non-compete-agre-0.md",
+    "hash": "35dd4112555ea2b40d97f516fa1cec8e",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:55.781Z"
+  },
+  "2026-04-30-updates-on-labor-relations-key-changes-affecting-private-sec-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-updates-on-labor-relations-key-changes-affecting-private-sec-2.md",
+    "hash": "4447c293899b41e82245cec1ef6e6ab4",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:57.621Z"
+  },
+  "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md",
+    "hash": "02821a07bef56bb4be26c00ca6527b6d",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:59.701Z"
+  },
+  "2026-05-01-new-developments-in-remote-work-tax-regulations-what-employe-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-new-developments-in-remote-work-tax-regulations-what-employe-2.md",
+    "hash": "f8715422c90dec55cef83b1defbf6958",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:01.239Z"
+  },
+  "2026-05-01-the-impact-of-state-level-retirement-savings-mandates-on-emp-4.md": {
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
     "confirmed_claims": 4,
-    "unverified_claims": 2,
-    "false_claims": 0,
-    "summary": "The article is mostly accurate but contains unverified claims regarding federal contractor requirements and Department of Labor oversight, which should be hedged or clarified.",
-    "claims_extracted": 6,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "State Minimum Wage Changes Effective January 1, 2026",
-        "verdict": "confirmed",
-        "source": "https://www.axios.com/2025/12/28/2026-new-year-minimum-wage",
-        "explanation": "Multiple states, including Virginia, California, and Minnesota, have announced minimum wage increases effective January 1, 2026."
-      },
-      {
-        "claim_number": 2,
-        "claim": "Employers should verify the current rates in each jurisdiction where they have workers.",
-        "verdict": "confirmed",
-        "source": "https://www.dli.mn.gov/news/new-minimum-wage-rates-changes-meal-and-rest-break-laws-take-effect-jan-1-2026",
-        "explanation": "State labor departments, such as Minnesota's, advise employers to stay informed about local minimum wage rates and ensure compliance."
-      },
-      {
-        "claim_number": 3,
-        "claim": "Employers holding federal contracts or subcontracts should review any new or revised requirements that may have taken effect for the 2026 contract year.",
-        "verdict": "unverified",
-        "source": null,
-        "explanation": "No specific information was found regarding new or revised requirements for federal contractors effective in 2026."
-      },
-      {
-        "claim_number": 4,
-        "claim": "The Department of Labor has continued to refine its oversight of federal contractors, particularly in areas such as pay equity reporting, affirmative action plan updates, and workforce standards.",
-        "verdict": "unverified",
-        "source": null,
-        "explanation": "No specific information was found regarding the Department of Labor's actions in these areas for 2026."
-      },
-      {
-        "claim_number": 5,
-        "claim": "Employers must furnish Form 1095-C to employees by March 2, 2026.",
-        "verdict": "confirmed",
-        "source": "https://www.irs.gov/instructions/i109495c",
-        "explanation": "The IRS requires Applicable Large Employers to furnish Form 1095-C to employees by March 2, 2026, for the 2025 calendar year."
-      },
-      {
-        "claim_number": 6,
-        "claim": "Employers must file Forms 1094-C and 1095-C with the IRS by March 2, 2026, if filing by paper, or by March 31, 2026, if filing electronically.",
-        "verdict": "confirmed",
-        "source": "https://www.irs.gov/instructions/i109495c",
-        "explanation": "The IRS instructions for Forms 1094-C and 1095-C confirm that for the 2025 calendar year, the filing deadlines are March 2, 2026, for paper submissions and March 31, 2026, for electronic submissions."
-      }
-    ],
-    "file": "2026-01-monthly-briefing-january.md",
-    "hash": "aa6d9f4115bb9fea288208d768c74fc2",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:47:54.265Z",
-    "autoFixed": true
-  },
-  "2026-01-trends-report-ai-hr-tools.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
     "unverified_claims": 0,
     "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-01-trends-report-ai-hr-tools.md",
-    "hash": "9b77f87ea462aa5d47f8ba88bf557351",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:47:56.220Z"
-  },
-  "2026-02-compliance-alert-aca-reporting.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-02-compliance-alert-aca-reporting.md",
-    "hash": "7d7d13645a3b5b8ffc8496b92fad4de8",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:48:35.254Z",
-    "autoFixed": true
-  },
-  "2026-02-employer-questions-february.md": {
-    "status": "flag",
-    "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "Employers should check the IRS website and recent IRS notices to determine whether an extension has been announced for the 2025 tax year for furnishing Form 1095-C to employees.",
-        "issue": "This claim is unverified as there is no specific information found regarding an extension for the 2025 tax year.",
-        "suggestion": "Include a disclaimer that the information is subject to change and employers should consult the IRS website for the most current information.",
-        "source": null
-      },
-      {
-        "severity": "medium",
-        "text": "Employers should verify the current applicability of IRS Form 8809 for information return filing with the IRS, as it generally applies to the filing with the IRS rather than the furnishing to individuals.",
-        "issue": "This claim is unverified as there is no specific information found regarding the applicability of IRS Form 8809.",
-        "suggestion": "Include a disclaimer that the information is subject to change and employers should consult the IRS website for the most current information.",
-        "source": null
-      }
-    ],
-    "confirmed_claims": 4,
-    "unverified_claims": 2,
-    "false_claims": 0,
-    "summary": "The article is mostly accurate but contains some unverified claims regarding IRS extensions and Form 8809 applicability, requiring further confirmation.",
-    "claims_extracted": 6,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "The OSHA Form 300A — the Summary of Work-Related Injuries and Illnesses — generally must be posted in a conspicuous location in the workplace by February 1 each year and must remain posted through April 30.",
-        "verdict": "confirmed",
-        "source": "https://www.osha.gov/recordkeeping",
-        "explanation": "OSHA regulations require employers to post the OSHA Form 300A in a conspicuous location from February 1 through April 30 each year."
-      },
-      {
-        "claim_number": 2,
-        "claim": "Employers should verify the current posting requirements with OSHA, specifically referencing 29 CFR 1904.32, which outlines the posting requirements for the OSHA Form 300A.",
-        "verdict": "confirmed",
-        "source": "https://www.law.cornell.edu/cfr/text/29/1904.32",
-        "explanation": "29 CFR 1904.32 outlines the requirements for reviewing, certifying, and posting the OSHA Form 300A."
-      },
-      {
-        "claim_number": 3,
-        "claim": "Certain employers in high-hazard industries or above certain size thresholds may be required to submit their 300A data electronically through OSHA's Injury Tracking Application.",
-        "verdict": "confirmed",
-        "source": "https://www.osha.gov/injuryreporting",
-        "explanation": "OSHA requires certain employers in high-hazard industries or with specific size thresholds to submit their Form 300A data electronically through the Injury Tracking Application."
-      },
-      {
-        "claim_number": 4,
-        "claim": "Employers should check the IRS website and recent IRS notices to determine whether an extension has been announced for the 2025 tax year for furnishing Form 1095-C to employees.",
-        "verdict": "unverified",
-        "source": null,
-        "explanation": "No specific information was found regarding an extension for furnishing Form 1095-C to employees for the 2025 tax year; employers should consult the IRS website or recent IRS notices for the most current information."
-      },
-      {
-        "claim_number": 5,
-        "claim": "Employers should verify the current applicability of IRS Form 8809 for information return filing with the IRS, as it generally applies to the filing with the IRS rather than the furnishing to individuals.",
-        "verdict": "unverified",
-        "source": null,
-        "explanation": "No specific information was found regarding the applicability of IRS Form 8809; employers should consult the IRS website or recent IRS notices for the most current information."
-      },
-      {
-        "claim_number": 6,
-        "claim": "Some jurisdictions, such as New York City, may require employers using AEDTs to conduct independent bias audits before deploying the tools and to make audit results publicly available.",
-        "verdict": "confirmed",
-        "source": "https://www.dlapiper.com/insights/publications/2026/01/critical-audit-of-nyc-ai-hiring-law-signals-increased-risk-for-employers",
-        "explanation": "New York City's Local Law 144 mandates that employers using Automated Employment Decision Tools (AEDTs) conduct annual independent bias audits and publish the results on their website."
-      }
-    ],
-    "file": "2026-02-employer-questions-february.md",
-    "hash": "f41012f894e316deb43598c1bfa5329a",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:49:34.189Z",
-    "autoFixed": true
-  },
-  "2026-02-industry-snapshot-healthcare.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-02-industry-snapshot-healthcare.md",
-    "hash": "69b84a33867a7bb94e0377f2a46726cb",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:49:36.854Z"
-  },
-  "2026-02-monthly-briefing-february.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-02-monthly-briefing-february.md",
-    "hash": "f6dae2f492d1bf241e9bc3b0adfd0fad",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:49:39.112Z"
-  },
-  "2026-03-compliance-alert-state-paid-leave.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-03-compliance-alert-state-paid-leave.md",
-    "hash": "a196436cb3ae6e6ca31d034ff4dd1e86",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:49:41.151Z"
-  },
-  "2026-03-industry-snapshot-construction.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-03-industry-snapshot-construction.md",
-    "hash": "abb0424adc1c3538a04cda657ef62b1e",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:50:23.586Z",
-    "autoFixed": true
-  },
-  "2026-03-monthly-briefing-march.md": {
-    "status": "flag",
-    "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "March through May represents the most active hiring period of the year.",
-        "issue": "This claim is unverified and presented as a definitive fact.",
-        "suggestion": "Add hedging language such as 'March through May is often considered one of the most active hiring periods of the year.'",
-        "source": null
-      }
-    ],
-    "confirmed_claims": 3,
-    "unverified_claims": 1,
-    "false_claims": 0,
-    "summary": "The article is mostly accurate but contains one unverified claim presented as fact, requiring hedging language for full confirmation.",
+    "summary": "All claims in the article are confirmed by credible sources, and the article is accurate and well-supported.",
     "claims_extracted": 4,
     "verification_details": [
       {
         "claim_number": 1,
-        "claim": "March through May represents the most active hiring period of the year.",
-        "verdict": "unverified",
-        "source": null,
-        "explanation": "I could not find specific data confirming that March through May is the most active hiring period of the year."
+        "claim": "As of October 2023, approximately 17 states may have enacted legislation requiring employers to either offer a retirement plan or enroll their employees in state-sponsored retirement savings programs.",
+        "verdict": "confirmed",
+        "source": "https://www.betterment.com/work/resources/guide-to-state-mandated-retirement-plans",
+        "explanation": "As of October 2023, multiple states have enacted legislation requiring employers to offer retirement plans or enroll employees in state-sponsored programs. The exact number of states varies by source, but the claim is generally supported."
       },
       {
         "claim_number": 2,
-        "claim": "The EEOC's EEO-1 Component 1 report generally requires covered employers to submit workforce demographic data by job category, race, ethnicity, and sex.",
+        "claim": "States such as California and Illinois are known to be leading this initiative.",
         "verdict": "confirmed",
-        "source": "https://www.eeoc.gov/employers/small-business/legal-requirements",
-        "explanation": "The EEOC's EEO-1 Component 1 report requires covered employers to submit workforce demographic data by job category, race, ethnicity, and sex."
+        "source": "https://www.betterment.com/work/resources/guide-to-state-mandated-retirement-plans",
+        "explanation": "California and Illinois have implemented state-mandated retirement savings programs, positioning them as leaders in this initiative."
       },
       {
         "claim_number": 3,
-        "claim": "Employers with 100 or more employees, and federal contractors meeting specific size and contract value thresholds, are generally required to file the EEO-1 report.",
+        "claim": "In California, employers with one or more employees must comply.",
         "verdict": "confirmed",
-        "source": "https://www.eeoc.gov/employers/small-business/legal-requirements",
-        "explanation": "Employers with 100 or more employees, and federal contractors meeting specific size and contract value thresholds, are generally required to file the EEO-1 report."
+        "source": "https://www.calsavers.com/home/frequently-asked-questions.html",
+        "explanation": "California's CalSavers program requires employers with one or more employees to comply, with deadlines varying based on employer size."
       },
       {
         "claim_number": 4,
-        "claim": "For federal contractors, the thresholds include having a contract of $50,000 or more and employing 50 or more employees.",
+        "claim": "California’s mandate required compliance by employers with five or more employees by June 30, 2022.",
         "verdict": "confirmed",
-        "source": "https://www.eeoc.gov/employers/small-business/legal-requirements",
-        "explanation": "Federal contractors with 50 or more employees and a contract of $50,000 or more are required to file the EEO-1 report."
+        "source": "https://www.calsavers.com/home/frequently-asked-questions.html",
+        "explanation": "Employers with five or more employees were required to comply with California's CalSavers program by June 30, 2022."
       }
     ],
-    "file": "2026-03-monthly-briefing-march.md",
-    "hash": "4470d6dc0579a043b6a89b242653f1cc",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:51:07.603Z",
+    "file": "2026-05-01-the-impact-of-state-level-retirement-savings-mandates-on-emp-4.md",
+    "hash": "cc444b671f15bb180364cc4bb5412a3f",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:31.522Z",
     "autoFixed": true
   },
-  "2026-03-trends-report-retention-2026.md": {
+  "2026-05-01-the-increasing-importance-of-employee-training-and-developme-1.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -324,12 +362,12 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-03-trends-report-retention-2026.md",
-    "hash": "b5105dd53059b06213cb5c3f55a84b6c",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:51:09.544Z"
+    "file": "2026-05-01-the-increasing-importance-of-employee-training-and-developme-1.md",
+    "hash": "e89ddb3462d23e41f0cebad055f04989",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:33.254Z"
   },
-  "2026-04-monthly-briefing-april.md": {
+  "2026-05-01-the-push-for-business-continuity-planning-what-employers-nee-3.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -338,12 +376,12 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-monthly-briefing-april.md",
-    "hash": "aeb60f6db895e84a0410d0e5217f2cee",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:51:11.359Z"
+    "file": "2026-05-01-the-push-for-business-continuity-planning-what-employers-nee-3.md",
+    "hash": "45d1ff9e18da955eae167e2a7a41525b",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:34.935Z"
   },
-  "2026-05-compliance-alert-compliance-alert-new-osha-recordkeeping-requirements-taking-.md": {
+  "2026-05-02-navigating-the-landscape-of-supply-chain-transparency-regula-3.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -352,13 +390,12 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-compliance-alert-compliance-alert-new-osha-recordkeeping-requirements-taking-.md",
-    "hash": "7c392d08dcdaf474ef2c5348100b7a30",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:51:30.155Z",
-    "autoFixed": true
+    "file": "2026-05-02-navigating-the-landscape-of-supply-chain-transparency-regula-3.md",
+    "hash": "1ebe5d9819ca99f833873dbfab572d80",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:36.513Z"
   },
-  "2026-05-employer-questions-what-employers-are-asking-may-2026.md": {
+  "2026-05-02-new-protections-for-pregnant-workers-what-employers-need-to--0.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -367,12 +404,12 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-employer-questions-what-employers-are-asking-may-2026.md",
-    "hash": "173be7aee3ff6da5d2e5052823ee0d65",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:51:32.056Z"
+    "file": "2026-05-02-new-protections-for-pregnant-workers-what-employers-need-to--0.md",
+    "hash": "b972f75f643a1a6c10b51f6b06c729d3",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:38.121Z"
   },
-  "2026-05-industry-snapshot-industry-snapshot-technology-employer-considerations.md": {
+  "2026-05-02-the-growing-importance-of-total-rewards-strategies-in-employ-4.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -381,51 +418,12 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-industry-snapshot-industry-snapshot-technology-employer-considerations.md",
-    "hash": "fbb4cbade188f8d7d05731f4a68f5226",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:51:34.298Z"
+    "file": "2026-05-02-the-growing-importance-of-total-rewards-strategies-in-employ-4.md",
+    "hash": "837e0592f50ff1cae41e35b4336c3cdd",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:39.764Z"
   },
-  "2026-05-monthly-briefing-monthly-employer-briefing-may-2026.md": {
-    "status": "fail",
-    "confidence": 0.9,
-    "issues": [
-      {
-        "severity": "high",
-        "text": "The comment period for the proposed changes to overtime regulations under the FLSA ended on October 29, 2023.",
-        "issue": "The article incorrectly states the end date of the comment period for the FLSA changes.",
-        "suggestion": "Correct the date to November 7, 2023, as per the verified source.",
-        "source": "https://www.hrci.org/community/blogs-and-announcements/hr-leads-business-blog/hr-leads-business/2023/11/07/overtime-rule-comment-period-ends"
-      }
-    ],
-    "confirmed_claims": 1,
-    "unverified_claims": 0,
-    "false_claims": 1,
-    "summary": "The article contains a false claim regarding the end date of the FLSA comment period, leading to a fail status.",
-    "claims_extracted": 2,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "The Department of Labor has announced proposed amendments to the FLSA regarding overtime regulations.",
-        "verdict": "confirmed",
-        "source": "https://www.dol.gov/newsroom/releases/whd/whd20230830?lang=en",
-        "explanation": "On August 30, 2023, the U.S. Department of Labor announced a notice of proposed rulemaking to restore and extend overtime protections to 3.6 million salaried workers."
-      },
-      {
-        "claim_number": 2,
-        "claim": "The comment period for the proposed changes to overtime regulations under the FLSA ended on October 29, 2023.",
-        "verdict": "false",
-        "source": "https://www.hrci.org/community/blogs-and-announcements/hr-leads-business-blog/hr-leads-business/2023/11/07/overtime-rule-comment-period-ends",
-        "explanation": "The comment period for the proposed changes to overtime regulations under the FLSA ended on November 7, 2023, not October 29, 2023."
-      }
-    ],
-    "file": "2026-05-monthly-briefing-monthly-employer-briefing-may-2026.md",
-    "hash": "346cd1b0a25e2242aeb1bc0e75754a9b",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:52:21.310Z",
-    "autoFixed": true
-  },
-  "2026-05-trends-report-employer-trends-workplace-flexibility-and-mental-health-init.md": {
+  "2026-05-02-the-impact-of-new-remote-work-regulations-on-employer-polici-2.md": {
     "status": "pass",
     "confidence": 0.8,
     "issues": [],
@@ -434,9 +432,23 @@
     "false_claims": 0,
     "claims_extracted": 0,
     "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-trends-report-employer-trends-workplace-flexibility-and-mental-health-init.md",
-    "hash": "2685998c649584555460504932f1c15f",
-    "dir": "src/content/briefings",
-    "checkedAt": "2026-05-01T09:52:23.212Z"
+    "file": "2026-05-02-the-impact-of-new-remote-work-regulations-on-employer-polici-2.md",
+    "hash": "bbd6eb91f55d3a2e19f9f4572aa0a063",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:41.448Z"
+  },
+  "2026-05-02-the-rise-of-hybrid-work-policies-best-practices-for-employer-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-02-the-rise-of-hybrid-work-policies-best-practices-for-employer-1.md",
+    "hash": "9901ed2a3d04799697f70eb95231a00e",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:43.110Z"
   }
 }

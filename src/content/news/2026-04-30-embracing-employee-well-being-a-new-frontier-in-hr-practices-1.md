@@ -5,7 +5,7 @@ category: "HR Trends"
 date: "2026-04-30"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-30T07:59:01.341Z"
+factCheckedAt: "2026-05-02T07:17:50.273Z"
 ---
 
 ## First Section

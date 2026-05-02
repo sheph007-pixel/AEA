@@ -5,7 +5,7 @@ category: "Benefits & Compensation"
 date: "2023-10-30"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-30T07:59:06.359Z"
+factCheckedAt: "2026-05-02T07:17:53.992Z"
 ---
 
 ## The Expanding Role of Wellness Programs in Employee Benefits

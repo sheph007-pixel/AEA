@@ -5,7 +5,7 @@ category: "HR Trends"
 date: "2023-10-18"
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T08:01:40.044Z"
+factCheckedAt: "2026-05-02T07:17:14.657Z"
 ---
 
 ## The Growing Influence of AI in Recruitment
