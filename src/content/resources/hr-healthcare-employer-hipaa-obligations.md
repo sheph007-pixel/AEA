@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["healthcare", "HIPAA", "privacy", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:56:40.746Z"
+factCheckedAt: "2026-05-04T10:06:59.690Z"
 ---
 
 ## HIPAA's Dual Impact on Healthcare Employers

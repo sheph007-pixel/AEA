@@ -7,12 +7,12 @@ month: "2026-01"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "minimum-wage", "ACA", "federal-contractors", "AI-policy", "Q1-2026"]
 verified: false
-factCheckedAt: "2026-05-01T09:47:54.265Z"
+factCheckedAt: "2026-05-04T09:27:23.427Z"
 ---
 
 # Monthly Employer Briefing: January 2026
 
-The start of a new year brings a wave of regulatory changes that employers need to address promptly. January 2026 is no exception. From new minimum wage rates in multiple states and localities to evolving federal contractor obligations and an increasingly active regulatory posture on artificial intelligence in the workplace, employers have a full plate as they enter Q1.
+The start of a new year brings a wave of regulatory changes that employers need to address promptly. January 2026 is no exception. From new minimum wage rates in multiple states and localities to evolving federal contractor obligations and an active regulatory posture on artificial intelligence in the workplace, employers have a full plate as they enter Q1.
 
 ## State Minimum Wage Changes Effective January 1, 2026
 
@@ -24,7 +24,7 @@ For a detailed breakdown, see our separate Compliance Alert on 2026 minimum wage
 
 ## Updated Federal Contractor Requirements
 
-Employers holding federal contracts or subcontracts should review any new or revised requirements that may have taken effect for the 2026 contract year. The Department of Labor has continued to refine its oversight of federal contractors, particularly in areas such as pay equity reporting, affirmative action plan updates, and workforce standards.
+Employers holding federal contracts or subcontracts should review any new or revised requirements that may have taken effect for the 2026 contract year. The Department of Labor has continued to refine its oversight of federal contractors, particularly in areas such as pay equity reporting, affirmative action plan updates, and workforce standards. Specific details on these changes can vary, so employers should consult the latest guidance from the Department of Labor or legal counsel to ensure compliance.
 
 Contractors should ensure their affirmative action plans are current and that any required annual reports have been filed or are scheduled. Additionally, employers with contracts subject to prevailing wage requirements should verify that the applicable wage determinations reflect the most recent updates from the Wage and Hour Division.
 
@@ -54,7 +54,7 @@ Beyond the immediate compliance deadlines, Q1 is a natural time for employers to
 
 Artificial intelligence continues to reshape the workplace at a rapid pace, and regulators are paying close attention. Some jurisdictions have enacted or are considering laws governing the use of AI tools in hiring, performance management, and employee monitoring. Employers using AI-powered applicant tracking systems, resume screening tools, chatbots in the hiring process, or productivity monitoring software should evaluate whether these tools may be subject to disclosure, bias audit, or impact assessment requirements in the jurisdictions where they operate.
 
-At the federal level, the Equal Employment Opportunity Commission has continued to issue guidance on how existing antidiscrimination laws may apply to employer use of AI and algorithmic decision-making. The core message from the EEOC remains consistent: employers are generally responsible for the outcomes produced by the tools they use, even when those tools are developed or operated by third-party vendors.
+At the federal level, the Equal Employment Opportunity Commission has issued guidance on how existing antidiscrimination laws may apply to employer use of AI and algorithmic decision-making. The core message from the EEOC remains consistent: employers are generally responsible for the outcomes produced by the tools they use, even when those tools are developed or operated by third-party vendors.
 
 Employers adopting AI tools in 2026 should consider the following steps:
 

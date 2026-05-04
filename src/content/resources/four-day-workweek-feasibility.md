@@ -6,7 +6,7 @@ date: "2022-07-05"
 tags: ["four-day workweek", "productivity", "flexibility", "work-life balance", "operations"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:47:47.068Z"
+factCheckedAt: "2026-05-04T09:57:13.625Z"
 ---
 
 The four-day workweek has moved from radical concept to serious consideration for many employers. High-profile trials and growing employee demand have put the idea on leadership agendas across industries. Before committing to or dismissing the concept, employers should understand the different models, weigh the practical challenges, and consider a structured approach to evaluation.

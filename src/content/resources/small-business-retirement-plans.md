@@ -5,7 +5,7 @@ category: "Operations"
 date: "2024-06-10"
 tags: ["retirement", "401k", "SIMPLE IRA", "benefits"]
 verified: true
-factCheckedAt: "2026-04-27T10:35:07.402Z"
+factCheckedAt: "2026-05-04T10:40:01.949Z"
 ---
 
 ## Why Offer a Retirement Plan?

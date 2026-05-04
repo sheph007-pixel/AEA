@@ -6,7 +6,7 @@ date: "2020-07-10"
 tags: ["mental health", "employee wellness", "EAP", "workplace culture", "COVID-19"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:34:50.918Z"
+factCheckedAt: "2026-05-04T09:41:47.115Z"
 ---
 
 Periods of uncertainty take a measurable toll on employee mental health. Anxiety, burnout, isolation, and grief affect productivity, engagement, and retention. Employers who proactively address mental health create more resilient organizations and demonstrate genuine care for their workforce.

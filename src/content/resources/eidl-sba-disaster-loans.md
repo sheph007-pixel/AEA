@@ -6,7 +6,7 @@ date: "2020-09-28"
 tags: ["EIDL", "SBA", "small business", "disaster loans", "COVID-19"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:33:54.692Z"
+factCheckedAt: "2026-05-04T09:40:42.790Z"
 ---
 
 The Economic Injury Disaster Loan (EIDL) program, administered by the Small Business Administration, provided critical working capital to small businesses during the COVID-19 pandemic. Unlike PPP loans, EIDLs are traditional loans that must be repaid. Understanding the terms, permitted uses, and repayment obligations is essential for employers who received these funds.

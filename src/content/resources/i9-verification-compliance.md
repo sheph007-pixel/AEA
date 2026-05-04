@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["I-9", "employment verification", "compliance", "hiring"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:14:24.293Z"
+factCheckedAt: "2026-05-04T10:21:25.763Z"
 ---
 
 Every employer in the United States must verify the identity and employment authorization of each person they hire by completing Form I-9. Errors in I-9 completion are common and can result in fines. Understanding the requirements helps employers stay compliant.

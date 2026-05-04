@@ -5,8 +5,8 @@ category: "Operations"
 date: "2026-01-15"
 tags: ["drug testing", "workplace policy", "DOT", "compliance"]
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-27T10:39:22.583Z"
+verified: true
+factCheckedAt: "2026-05-04T10:43:50.201Z"
 ---
 
 Workplace drug testing is regulated by a patchwork of federal, state, and local laws. While federal law does not generally require private employers to drug test (except in certain regulated industries), employers who choose to test must navigate complex legal requirements. The legalization of marijuana in many states has added another layer of complexity.

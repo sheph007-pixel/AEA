@@ -6,14 +6,14 @@ date: "2018-08-30"
 tags: ["ADA", "accommodations", "interactive process", "disability"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:43:43.255Z"
+factCheckedAt: "2026-05-04T09:53:22.832Z"
 ---
 
 ## The Interactive Process Requirement
 
 Under the Americans with Disabilities Act (ADA), employers with 15 or more employees must provide reasonable accommodations to qualified individuals with disabilities unless the accommodation would impose an undue hardship. The mechanism for determining the appropriate accommodation is the interactive process — a good-faith dialogue between the employer and the employee.
 
-Courts and the EEOC have indicated that the interactive process is not optional. An employer that fails to engage in the interactive process and instead denies a request outright — or ignores it — may risk liability even if no effective accommodation is ultimately found.
+Courts and the EEOC have indicated that the interactive process is not optional. An employer that fails to engage in the interactive process and instead denies a request outright — or ignores it — may risk liability depending on the circumstances, even if no effective accommodation is ultimately found.
 
 ## Recognizing a Request
 
@@ -32,7 +32,7 @@ Train supervisors to recognize these requests and route them to HR immediately.
 
 ### Step 1: Acknowledge the Request
 
-Respond promptly to the employee, acknowledging their request and explaining the interactive process. Do not delay — courts may view delays as evidence of bad faith.
+Respond promptly to the employee, acknowledging their request and explaining the interactive process. Do not delay — courts may sometimes view delays as evidence of bad faith, depending on the context.
 
 ### Step 2: Gather Information
 

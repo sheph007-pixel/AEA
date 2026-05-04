@@ -6,7 +6,7 @@ date: "2020-07-28"
 tags: ["furloughs", "layoffs", "WARN Act", "workforce reduction", "HR"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:17:16.951Z"
+factCheckedAt: "2026-05-04T10:27:11.814Z"
 ---
 
 Workforce reductions are among the most difficult decisions an employer faces. Whether implementing furloughs, temporary layoffs, or permanent reductions in force, employers must navigate legal requirements carefully while treating affected employees with dignity.

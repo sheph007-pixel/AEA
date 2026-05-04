@@ -5,8 +5,8 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["HSA", "health savings account", "benefits", "HDHP"]
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-27T09:41:32.388Z"
+verified: true
+factCheckedAt: "2026-05-04T09:51:31.472Z"
 ---
 
 Health Savings Accounts (HSAs) are tax-advantaged accounts that allow employees enrolled in a High Deductible Health Plan (HDHP) to save for qualified medical expenses. For employers, HSAs can potentially reduce health insurance premiums and provide a valuable benefit that employees retain even if they leave the company.
@@ -31,7 +31,7 @@ Employers may contribute to employees' HSAs, which provides several advantages:
 - Contributions are tax-deductible as a business expense
 - Employer contributions count toward the annual HSA contribution limit
 
-If you make employer contributions, be aware of the comparability rules: if you contribute to any employee's HSA, you must make comparable contributions (same dollar amount or same percentage of the HDHP deductible) to all eligible employees in the same category. Categories include full-time, part-time, and former employees. Alternatively, you can make contributions through a Section 125 cafeteria plan, which allows different contribution amounts.
+If you make employer contributions, be aware of the comparability rules: if you contribute to any employee's HSA, you must make comparable contributions (same dollar amount or same percentage of the HDHP deductible) to all eligible employees in the same category. Employers should consult legal counsel to determine appropriate employee categories for HSA contributions. Alternatively, you can make contributions through a Section 125 cafeteria plan, which allows different contribution amounts.
 
 ## Advantages for Employers
 
@@ -53,7 +53,7 @@ HSAs are often underutilized because employees do not understand them. Effective
 - The triple tax advantage: contributions are pre-tax, growth is tax-free, and withdrawals for qualified expenses are tax-free
 - The ability to invest HSA funds and use the account as a long-term savings vehicle
 - The importance of keeping receipts for qualified medical expenses
-- Penalty-free withdrawals for any purpose after age 65 (though income tax applies to non-qualified withdrawals)
+- Employees should consult a tax advisor for details on HSA withdrawals after age 65, as penalty-free withdrawals for any purpose may be available, though income tax applies to non-qualified withdrawals
 
 ## Compliance Considerations
 
@@ -66,5 +66,3 @@ Employers offering HSAs should be aware of:
 - Employers should verify COBRA applicability with legal counsel or a benefits advisor
 - Nondiscrimination requirements under Section 125 if contributions are made through a cafeteria plan
 - State tax treatment of HSAs varies, and employers should consult state-specific tax guidelines or a tax advisor for accurate information
-
----

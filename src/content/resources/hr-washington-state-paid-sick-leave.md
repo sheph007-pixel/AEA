@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["washington", "paid sick leave", "benefits", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:12:50.376Z"
+factCheckedAt: "2026-05-04T10:20:50.344Z"
 ---
 
 ## Washington Paid Sick Leave Requirements
@@ -29,9 +29,9 @@ Unused paid sick leave must carry over to the following year. There is no provis
 
 ## Notice and Recordkeeping
 
-Employers must provide written or electronic notice to employees at the time of hire explaining their sick leave rights. This notice must include the rate of accrual, authorized uses, and the prohibition against retaliation. Employers must maintain accurate records of hours worked and sick leave accrued and used for each employee for three years.
+Employers may be required to provide written or electronic notice to employees at the time of hire explaining their sick leave rights. This notice should include the rate of accrual, authorized uses, and the prohibition against retaliation. Employers may need to maintain records of hours worked and sick leave accrued and used for each employee for three years.
 
-Washington's Department of Labor and Industries (L&I) enforces the law and may investigate complaints. Penalties for violations include payment of withheld wages plus interest and potential civil penalties.
+Washington's Department of Labor and Industries (L&I) enforces the law and may investigate complaints. Penalties for violations may include payment of withheld wages plus interest and potential civil penalties.
 
 ## Local Ordinance Coordination
 

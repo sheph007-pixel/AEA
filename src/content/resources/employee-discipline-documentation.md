@@ -5,7 +5,7 @@ category: "HR"
 date: "2024-05-18"
 tags: ["discipline", "documentation", "HR management", "performance"]
 verified: true
-factCheckedAt: "2026-04-27T09:34:38.062Z"
+factCheckedAt: "2026-05-04T09:41:36.950Z"
 ---
 
 ## Why Documentation Matters

@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["pennsylvania", "employment law", "wages", "compliance"]
 author: "AEA Editorial Team"
 verified: false
-factCheckedAt: "2026-04-27T10:05:46.566Z"
+factCheckedAt: "2026-05-04T10:13:41.123Z"
 ---
 
 ## Pennsylvania Employment Law Overview
@@ -23,9 +23,9 @@ Pennsylvania's overtime rule largely mirrors the federal FLSA, requiring overtim
 
 ## Philadelphia-Specific Requirements
 
-Philadelphia has enacted several employment laws that may exceed state requirements. The Fair Practices Ordinance may include prohibitions on discrimination based on additional factors such as sexual orientation, gender identity, and domestic partner status. The Ban-the-Box law generally prohibits employers from inquiring about criminal history until after a conditional offer of employment. Philadelphia may have enacted a predictive scheduling law for certain large retail, food service, and hospitality employers.
+Philadelphia has enacted several employment laws that may exceed state requirements. The Fair Practices Ordinance may include prohibitions on discrimination based on factors such as sexual orientation, gender identity, and domestic partner status. Employers should verify the specific protections included in the ordinance. The Ban-the-Box law generally limits employers from inquiring about criminal history until after a conditional offer of employment. Employers should confirm the details of this law to ensure compliance. Philadelphia may have enacted a predictive scheduling law for certain large retail, food service, and hospitality employers.
 
-The Philadelphia Wage Theft Ordinance strengthens enforcement of wage payment obligations and imposes additional penalties on employers who fail to pay wages. Employers with Philadelphia-based employees must comply with these local requirements in addition to state and federal law.
+The Philadelphia Wage Theft Ordinance aims to strengthen enforcement of wage payment obligations and may impose additional penalties on employers who fail to pay wages. Employers with Philadelphia-based employees must comply with these local requirements in addition to state and federal law.
 
 ## Workers' Compensation
 
@@ -35,4 +35,6 @@ Pennsylvania may impose penalties on employers who fail to maintain coverage, in
 
 ## Additional Compliance Considerations
 
-Pennsylvania generally requires employers to provide reasonable accommodations for pregnancy-related conditions under the Pennsylvania Human Relations Act. Employers with employees who work in Pennsylvania but reside in other states must address state income tax withholding reciprocity agreements. The state's Medical Marijuana Act prohibits employers from discriminating against employees solely based on their status as certified medical marijuana users, though employers may still enforce drug-free workplace policies for safety-sensitive positions.
+Employers in Pennsylvania should be aware of the need to provide reasonable accommodations for pregnancy-related conditions, though specific requirements may vary. Employers with employees who work in Pennsylvania but reside in other states must address state income tax withholding reciprocity agreements. The state's Medical Marijuana Act prohibits employers from discriminating against employees solely based on their status as certified medical marijuana users, though employers may still enforce drug-free workplace policies for safety-sensitive positions.
+
+---

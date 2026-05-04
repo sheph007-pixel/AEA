@@ -6,10 +6,10 @@ date: "2026-01-15"
 tags: ["employee handbook", "policies", "compliance", "HR"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:32:11.477Z"
+factCheckedAt: "2026-05-04T09:39:25.884Z"
 ---
 
-An employee handbook is one of the most important documents a business can create. It sets expectations, communicates policies, and provides legal protection when disputes arise. While the specific contents will vary by industry and state, certain policies belong in every handbook.
+An employee handbook is one of the most important documents a business can create. It sets expectations, communicates policies, and provides legal protection when disputes arise. While the specific contents will vary by industry and state, certain policies generally belong in every handbook.
 
 ## Employment Fundamentals
 
@@ -35,12 +35,12 @@ Employees need clear information about pay and schedules:
 
 Address all types of leave your organization offers:
 
-- **FMLA leave**: If you have 50 or more employees, describe eligibility, the process for requesting leave, and return-to-work requirements
-- **Paid time off or vacation**: Explain accrual rates, usage rules, and whether unused time is paid out at separation
-- **Sick leave**: Many states and municipalities now mandate paid sick leave
-- **Military leave**: USERRA requires employers to provide leave and reemployment rights for military service
-- **Bereavement leave**: Define eligible relationships and available time off
-- **Jury duty**: Most states prohibit penalizing employees for jury service
+- **FMLA leave**: Employers with 50 or more employees should describe eligibility, the process for requesting leave, and return-to-work requirements, as outlined by the Family and Medical Leave Act.
+- **Paid time off or vacation**: Explain accrual rates, usage rules, and whether unused time is paid out at separation.
+- **Sick leave**: Many states and municipalities now mandate paid sick leave.
+- **Military leave**: Employers should be aware of USERRA, which may require providing leave and reemployment rights for military service.
+- **Bereavement leave**: Define eligible relationships and available time off.
+- **Jury duty**: Many states have laws that prohibit penalizing employees for jury service; employers should consult state-specific regulations.
 
 ## Workplace Conduct
 

@@ -5,7 +5,7 @@ category: "HR"
 date: "2024-08-12"
 tags: ["investigations", "HR management", "complaints", "documentation"]
 verified: true
-factCheckedAt: "2026-04-27T10:40:45.041Z"
+factCheckedAt: "2026-05-04T10:44:35.328Z"
 ---
 
 ## When to Investigate

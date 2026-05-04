@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-12-20"
 tags: ["non-compete", "employment agreements", "state law"]
 verified: true
-factCheckedAt: "2026-04-27T09:27:07.076Z"
+factCheckedAt: "2026-05-04T09:31:08.485Z"
 ---
 
 ## Current Landscape

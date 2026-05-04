@@ -6,7 +6,7 @@ date: "2024-03-05"
 tags: ["skills-based hiring", "degree requirements", "talent acquisition", "hiring practices"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:30:32.456Z"
+factCheckedAt: "2026-05-04T10:39:10.468Z"
 ---
 
 ## The Shift Away from Degrees

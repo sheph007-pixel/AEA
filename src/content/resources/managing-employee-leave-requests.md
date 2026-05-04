@@ -6,7 +6,7 @@ date: "2016-10-03"
 tags: ["FMLA", "ADA", "leave management", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:16:54.125Z"
+factCheckedAt: "2026-05-04T10:25:56.313Z"
 ---
 
 ## The Complexity of Leave Management

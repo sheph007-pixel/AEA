@@ -5,7 +5,7 @@ category: "Operations"
 date: "2024-06-25"
 tags: ["health insurance", "benefits", "cost management", "plans"]
 verified: true
-factCheckedAt: "2026-04-27T09:37:15.402Z"
+factCheckedAt: "2026-05-04T09:45:14.795Z"
 ---
 
 ## Health Plan Structures

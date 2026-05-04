@@ -7,30 +7,30 @@ tags: ["AI", "compliance", "regulation", "2023", "technology policy"]
 author: "AEA Editorial Team"
 featured: false
 verified: true
-factCheckedAt: "2026-04-27T09:27:57.396Z"
+factCheckedAt: "2026-05-04T09:33:49.602Z"
 ---
 
 ## The Regulatory Environment Has Matured
 
-Two years ago, AI workplace regulation was mostly theoretical. By 2023, it is operational. Multiple states have enacted laws governing AI in employment, the EEOC has issued enforcement guidance, and employers face real compliance obligations for their use of automated decision-making tools. This article provides an updated view of the regulatory landscape and what employers should be doing now.
+Two years ago, AI workplace regulation was mostly theoretical. By 2023, regulations have become more concrete. Multiple states have enacted laws governing AI in employment, the EEOC has issued enforcement guidance, and employers face compliance obligations for their use of automated decision-making tools. This article provides an updated view of the regulatory landscape and what employers should be doing now.
 
 ## Federal Developments
 
 ### EEOC Enforcement
 
-The EEOC has continued to make AI a strategic enforcement priority. The commission has pursued investigations and enforcement actions focused on AI tools that produce disparate impact in hiring and promotion. The legal theory is straightforward: Title VII prohibits employment practices with discriminatory effects regardless of whether the discrimination was intentional, and this applies equally to decisions made by algorithms.
+The EEOC has continued to prioritize AI as a strategic enforcement area. The commission has pursued investigations and enforcement actions focused on AI tools that may produce disparate impact in hiring and promotion. The legal theory is that Title VII prohibits employment practices with discriminatory effects, regardless of intent, and this applies to decisions made by algorithms.
 
-The EEOC's technical assistance documents provide specific guidance on how AI tools can violate Title VII and the ADA, including tools that screen out applicants with disabilities by relying on assessments that measure characteristics unrelated to job performance.
+The EEOC's technical assistance documents offer guidance on how AI tools can potentially violate Title VII and the ADA, including tools that might screen out applicants with disabilities by relying on assessments unrelated to job performance.
 
 ### Executive Actions
 
-Federal executive orders have established frameworks for AI safety and accountability, including provisions affecting federal procurement and encouraging private-sector adoption of responsible AI practices. While not directly creating private employer mandates, these actions signal the direction of federal policy and may influence future legislation.
+Federal executive orders have established frameworks for AI safety and accountability, including provisions affecting federal procurement and encouraging private-sector adoption of responsible AI practices. While not directly creating private employer mandates, these actions indicate the direction of federal policy and may influence future legislation.
 
 ## State Laws in Effect
 
 ### Colorado AI Act
 
-Colorado's law requires deployers of high-risk AI systems, including employment tools, to implement comprehensive risk management policies and conduct detailed impact assessments. Employers must disclose to individuals when AI is used in consequential decisions and provide information about how to contest adverse decisions. The law includes specific requirements for documentation, notification, and remediation, which employers should carefully review to ensure compliance.
+Colorado's law requires deployers of high-risk AI systems, including employment tools, to implement risk management policies and conduct impact assessments. Employers must disclose to individuals when AI is used in consequential decisions and provide information about how to contest adverse decisions. The law includes requirements for documentation, notification, and remediation, which employers should review to ensure compliance.
 
 ### Illinois
 
@@ -38,11 +38,11 @@ Illinois requires consent and disclosure for AI analysis of video interviews and
 
 ### New York City
 
-Local Law 144 continues to require annual independent bias audits and candidate notification for automated employment decision tools. Enforcement activity has increased, with fines being assessed against non-compliant employers.
+New York City's Local Law 144 requires independent bias audits and candidate notification for automated employment decision tools. Employers should consult legal counsel to confirm compliance with this law.
 
 ### Other States
 
-Maryland prohibits the use of facial recognition technology in job interviews without consent. Several other states have introduced comprehensive AI employment bills, and the legislative pipeline suggests additional state laws will take effect in 2023 and 2026.
+Maryland may have regulations regarding the use of facial recognition technology in job interviews, and employers should verify current state requirements. Several other states have introduced AI employment bills, and the legislative pipeline suggests additional state laws may take effect in the coming years.
 
 ## What Employers Should Do Now
 
@@ -79,4 +79,4 @@ Monitor legislative developments in every state where you hire or employ workers
 
 Your AI vendors bear significant responsibility for the tools they sell, but the legal liability for employment decisions remains with the employer. Hold your vendors accountable by requiring contractual commitments to bias testing, data privacy, and compliance cooperation. Conduct independent verification rather than relying solely on vendor representations.
 
-The employers who will navigate this landscape most successfully are those who treat AI governance as an ongoing discipline rather than a one-time project. The tools are powerful, the risks are real, and the regulatory requirements will only increase.
+The employers who will navigate this landscape most successfully are those who treat AI governance as an ongoing discipline rather than a one-time project. The tools are powerful, the risks are real, and the regulatory requirements will likely increase.

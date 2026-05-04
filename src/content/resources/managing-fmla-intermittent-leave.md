@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["FMLA", "intermittent leave", "compliance", "leave management"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:17:14.384Z"
+factCheckedAt: "2026-05-04T10:27:09.999Z"
 ---
 
 Intermittent FMLA leave is one of the most challenging aspects of leave administration. Unlike a block of continuous leave, intermittent leave is taken in separate periods of time for a single qualifying reason. Managing it requires careful tracking, clear communication, and a solid understanding of employer rights.
@@ -26,16 +26,16 @@ Intermittent leave for the birth or placement of a child may be requested by emp
 Employers have several tools to manage intermittent leave effectively:
 
 - **Medical certification**: You may require a complete and sufficient medical certification from the employee's healthcare provider, including the expected frequency and duration of episodes.
-- **Recertification**: You may request recertification every 30 days if leave is being taken. If the employee has not taken leave during the previous six months, you may request recertification at that time.
+- **Recertification**: You may request recertification every 30 days if leave is being taken in connection with an absence.
 - **Second and third opinions**: If you have reason to doubt the certification, you may require a second opinion at your expense. If the first and second opinions conflict, a third opinion from a mutually agreed-upon provider is final and binding.
-- **Temporary transfer**: You may temporarily transfer an employee to an equivalent position that better accommodates intermittent leave.
+- **Temporary transfer**: Employers may consider temporary transfers, but should consult legal counsel to ensure compliance with FMLA regulations.
 - **Fitness-for-duty certification**: You may require a fitness-for-duty certificate each time the employee returns from intermittent leave if you have a uniformly applied policy.
 
 ## Tracking and Documentation
 
 Accurate tracking is essential for managing intermittent leave:
 
-- Track all FMLA leave usage against the employee's 12-week (or 26-week for military caregiver leave) entitlement.
+- Employers should generally track FMLA leave usage against entitlements, but should verify specific requirements with legal counsel.
 - Record leave in increments no greater than the shortest period of time your payroll system uses to account for absences, provided it is one hour or less.
 - Maintain records of all certifications, recertifications, and correspondence.
 - Document any pattern of leave that raises concerns about potential abuse.
@@ -63,5 +63,3 @@ If you suspect an employee is abusing intermittent leave, there are proper and i
 - Communicate regularly with employees on intermittent leave about their remaining entitlement.
 - Train supervisors on FMLA basics so they do not inadvertently interfere with leave rights.
 - Review your FMLA policy and procedures annually.
-
----

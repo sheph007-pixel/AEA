@@ -6,7 +6,7 @@ date: "2021-05-18"
 tags: ["hybrid work", "remote work", "workplace policy", "flexibility", "HR"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:13:28.773Z"
+factCheckedAt: "2026-05-04T10:20:54.031Z"
 ---
 
 Hybrid work, where employees split time between the office and remote locations, has become the dominant model for knowledge-work organizations. Designing a hybrid policy that balances productivity, collaboration, equity, and employee satisfaction requires intentional planning rather than simply letting patterns emerge.

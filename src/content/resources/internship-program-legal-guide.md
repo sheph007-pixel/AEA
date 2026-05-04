@@ -6,7 +6,7 @@ date: "2019-11-25"
 tags: ["internships", "FLSA", "hiring", "compliance", "workforce development"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:14:50.755Z"
+factCheckedAt: "2026-05-04T10:22:11.615Z"
 ---
 
 ## The Paid vs. Unpaid Question

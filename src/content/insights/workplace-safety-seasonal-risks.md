@@ -5,7 +5,7 @@ category: "Operations"
 date: "2024-12-10"
 tags: ["safety", "OSHA", "seasonal", "workplace"]
 verified: true
-factCheckedAt: "2026-04-27T09:27:13.887Z"
+factCheckedAt: "2026-05-04T09:31:52.275Z"
 ---
 
 ## Winter Hazards

@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["trucking", "DOT", "drug testing", "FMCSA"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:10:27.351Z"
+factCheckedAt: "2026-05-04T10:19:10.791Z"
 ---
 
 ## DOT Drug Testing Framework

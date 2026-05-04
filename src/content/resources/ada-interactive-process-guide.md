@@ -6,10 +6,10 @@ date: "2026-01-15"
 tags: ["ADA", "disability accommodation", "interactive process", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:27:17.886Z"
+factCheckedAt: "2026-05-04T09:32:41.171Z"
 ---
 
-The Americans with Disabilities Act (ADA) generally requires employers with 15 or more employees to provide reasonable accommodations to qualified individuals with disabilities, unless doing so would cause undue hardship. A qualified individual is typically defined as someone who meets the skill, experience, education, and other job-related requirements of the position held or desired, and who can perform the essential functions of the job with or without reasonable accommodation. The interactive process is the collaborative dialogue between employer and employee that determines appropriate accommodations. Failure to engage in this process in good faith may lead to legal challenges, but it must be shown that the employer acted in bad faith.
+The Americans with Disabilities Act (ADA) generally requires employers with 15 or more employees to provide reasonable accommodations to qualified individuals with disabilities, unless doing so would cause undue hardship. A qualified individual is typically defined as someone who meets the skill, experience, education, and other job-related requirements of the position held or desired, and who can perform the essential functions of the job with or without reasonable accommodation. The interactive process is the collaborative dialogue between employer and employee that determines appropriate accommodations. Engaging in this process in good faith is important, and employers should consult legal counsel to understand potential legal challenges.
 
 ## Recognizing an Accommodation Request
 

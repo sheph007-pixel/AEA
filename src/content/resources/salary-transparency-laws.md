@@ -5,8 +5,8 @@ category: "Compliance"
 date: "2023-09-05"
 tags: ["pay transparency", "salary ranges", "job postings", "state law", "compliance"]
 author: "AEA Editorial Team"
-verified: true
-factCheckedAt: "2026-04-27T10:30:23.990Z"
+verified: false
+factCheckedAt: "2026-05-04T10:38:18.046Z"
 ---
 
 ## The Pay Transparency Movement
@@ -37,7 +37,7 @@ While each jurisdiction's law is different, most pay transparency laws share sev
 
 **Washington** requires employers with 15 or more employees to include salary ranges and a description of benefits and other compensation in job postings.
 
-**New York State** enacted a statewide law effective September 17, 2023, extending transparency requirements beyond New York City.
+**New York State** may be considering extending transparency requirements beyond New York City, but as of now, no statewide law has been confirmed.
 
 ## Practical Compliance Steps
 
@@ -55,6 +55,6 @@ While each jurisdiction's law is different, most pay transparency laws share sev
 
 ## The Ripple Effect
 
-Even if your employees are in states without transparency laws, the cultural shift is real. Candidates increasingly expect salary information upfront, and job postings without ranges receive fewer applications in competitive markets. Many employers are adopting transparency voluntarily as a recruiting advantage.
+Even if your employees are in states without transparency laws, the cultural shift is real. Candidates increasingly expect salary information upfront, and job postings without ranges may receive fewer applications in competitive markets. Many employers are adopting transparency voluntarily as a recruiting advantage.
 
 Pay transparency is not going away. Employers who embrace it thoughtfully, with well-defined ranges built on solid compensation data, will find it easier to recruit, retain, and maintain internal equity.

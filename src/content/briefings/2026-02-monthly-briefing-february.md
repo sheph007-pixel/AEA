@@ -7,7 +7,7 @@ month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "ACA", "OSHA", "paid-leave", "non-compete", "February-2026"]
 verified: true
-factCheckedAt: "2026-05-01T09:49:39.112Z"
+factCheckedAt: "2026-05-04T09:28:40.088Z"
 ---
 
 # Monthly Employer Briefing: February 2026
@@ -18,7 +18,7 @@ February is a pivotal compliance month for employers. Several critical deadlines
 
 Applicable large employers (ALEs) are in the final stretch of preparing and distributing ACA Form 1095-C to employees for the 2025 tax year. This form reports the health insurance coverage offered to each full-time employee during the prior calendar year.
 
-Employers should confirm whether the IRS has issued any deadline extension for the employee furnishing requirement. In several prior years, the IRS granted automatic extensions. Regardless of any extension, employers should not delay preparation. Forms should be reviewed for accuracy, printed or prepared for electronic delivery, and distributed as promptly as possible.
+Employers should confirm whether the IRS has issued any deadline extension for the employee furnishing requirement. As of the publication date, no specific extension for 2026 has been confirmed. Regardless of any extension, employers should not delay preparation. Forms should be reviewed for accuracy, printed or prepared for electronic delivery, and distributed as promptly as possible.
 
 Common areas where errors arise include:
 
@@ -26,7 +26,7 @@ Common areas where errors arise include:
 - Failure to account for mid-year changes in employee status, such as transitions between full-time and part-time.
 - Inaccurate reporting of employee share of the lowest-cost self-only coverage on Line 15.
 
-Employers should verify current year deadlines with the IRS for both electronic and paper filing of Forms 1094-C and 1095-C. Employers should consult the IRS for the most current deadlines, as they may vary. Electronic filing is generally required for employers filing above the applicable threshold of information returns and is strongly recommended for accuracy and receipt confirmation. Employers should check current IRS guidance on the electronic filing threshold.
+Employers should verify current year deadlines with the IRS for both electronic and paper filing of Forms 1094-C and 1095-C. Specific deadlines for 2026 are not yet available, so employers should consult the IRS for the most current deadlines, as they may vary. Electronic filing is generally required for employers filing above the applicable threshold of information returns and is strongly recommended for accuracy and receipt confirmation. Employers should check current IRS guidance on the electronic filing threshold.
 
 ## OSHA 300A Posting Requirements
 
@@ -44,7 +44,7 @@ The state paid leave landscape continues to evolve. Several states that enacted 
 
 Employers should be particularly attentive to:
 
-- **Newly effective programs.** States that launched paid leave benefit payments recently may still be refining their administrative processes, claim procedures, and employer reporting requirements. Employers in those states should stay engaged with the administering agencies for updated guidance.
+- **Newly effective programs.** Some states that launched paid leave benefit payments recently may still be refining their administrative processes, claim procedures, and employer reporting requirements. Employers in those states should stay engaged with the administering agencies for updated guidance.
 - **Contribution rate changes.** States with existing programs may have adjusted employer and employee contribution rates for 2026. Employers should verify that payroll deductions and employer contributions reflect the current rates.
 - **Interaction with employer-provided leave.** Many state programs may allow employers to apply for private plan exemptions if their employer-provided leave benefits meet or exceed the state program's standards. Employers with robust leave policies should evaluate whether applying for an exemption is advantageous.
 - **Multi-state complexity.** Employers with employees in multiple states must navigate differing eligibility criteria, benefit amounts, leave durations, and contribution structures. There is no federal standard that harmonizes these programs. Requirements vary by state.

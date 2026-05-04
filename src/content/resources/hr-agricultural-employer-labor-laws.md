@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["agriculture", "labor law", "H-2A", "FLSA"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:49:33.246Z"
+factCheckedAt: "2026-05-04T10:00:04.461Z"
 ---
 
 ## FLSA Agricultural Exemptions

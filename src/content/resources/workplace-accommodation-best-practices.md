@@ -6,7 +6,7 @@ date: "2024-07-12"
 tags: ["accommodation", "ADA", "neurodiversity", "remote work", "HR"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:38:02.428Z"
+factCheckedAt: "2026-05-04T10:43:22.561Z"
 ---
 
 ## The Accommodation Landscape Is Expanding

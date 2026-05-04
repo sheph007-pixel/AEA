@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-07-08"
 tags: ["records", "compliance", "documentation", "retention"]
 verified: false
-factCheckedAt: "2026-04-27T09:44:51.154Z"
+factCheckedAt: "2026-05-04T09:54:11.702Z"
 ---
 
 ## Why Record-Keeping Matters
@@ -53,7 +53,7 @@ Employers should generally keep the following records for at least 3 years:
 - Medical records: Duration of employment plus 30 years
 
 ### Benefits Records
-Under ERISA, employers are generally advised to keep the following records for at least 6 years:
+Employers are generally advised to keep the following records for at least 6 years:
 - Plan documents and amendments
 - Summary plan descriptions
 - Annual reports

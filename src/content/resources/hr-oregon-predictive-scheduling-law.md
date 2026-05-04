@@ -5,8 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["oregon", "predictive scheduling", "fair workweek", "compliance"]
 author: "AEA Editorial Team"
-verified: true
-factCheckedAt: "2026-04-27T10:04:12.213Z"
+verified: false
+factCheckedAt: "2026-05-04T10:12:13.294Z"
 ---
 
 ## Oregon's Fair Work Week Act
@@ -19,7 +19,7 @@ The law was designed to address the negative effects of unpredictable work sched
 
 Covered employers must provide new employees with a good faith estimate of their work schedule at the time of hire. Employers must post work schedules at least 14 days in advance. Schedules must be posted in a conspicuous and accessible location in the workplace and provided to employees in writing.
 
-When an employer changes the schedule after the 14-day advance notice period, compensation is required depending on the nature of the change. This compensation ranges from one hour of pay for changes made between 14 and one day before the shift to full shift pay for changes made within 24 hours.
+When an employer changes the schedule after the 14-day advance notice period, compensation is required depending on the nature of the change. This compensation generally involves an extra hour of pay at the regular rate for certain changes, and one-half of the regular rate of pay per hour for each scheduled hour not worked due to specific changes.
 
 ## Schedule Change Premium Pay
 
@@ -35,4 +35,6 @@ This provision prevents the practice of "clopening," where an employee closes a 
 
 ## Compliance Recommendations
 
-Employers should invest in scheduling software capable of tracking the 14-day notice requirement, calculating premium pay automatically, and documenting employee schedule preferences and consents. Training managers responsible for scheduling on the law's requirements is essential. Maintaining records of all schedules, changes, employee consents, and premium payments for at least three years supports defense against complaints filed with the Oregon Bureau of Labor and Industries.
+Employers should invest in scheduling software capable of tracking the 14-day notice requirement, calculating premium pay automatically, and documenting employee schedule preferences and consents. Training managers responsible for scheduling on the law's requirements is essential. Maintaining records of all schedules, changes, employee consents, and premium payments for a significant period may support defense against complaints filed with the Oregon Bureau of Labor and Industries.
+
+---

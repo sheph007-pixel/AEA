@@ -6,7 +6,7 @@ date: "2019-03-18"
 tags: ["remote work", "telecommuting", "workplace flexibility", "policy"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:30:12.135Z"
+factCheckedAt: "2026-05-04T10:37:25.150Z"
 ---
 
 ## Remote Work Is an Operational Decision

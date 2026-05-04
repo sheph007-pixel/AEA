@@ -5,21 +5,21 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["ergonomics", "workplace safety", "OSHA", "injury prevention"]
 author: "AEA Editorial Team"
-verified: true
-factCheckedAt: "2026-04-27T10:40:16.660Z"
+verified: false
+factCheckedAt: "2026-05-04T10:44:31.827Z"
 ---
 
-Musculoskeletal disorders (MSDs) are among the most frequently reported causes of lost work time. They include conditions such as carpal tunnel syndrome, tendinitis, rotator cuff injuries, and lower back pain. An effective ergonomics program identifies and mitigates the risk factors that contribute to these injuries, reducing both human suffering and employer costs.
+Musculoskeletal disorders (MSDs) are among the most frequently reported causes of lost work time. They include conditions such as carpal tunnel syndrome, tendinitis, rotator cuff injuries, and lower back pain. An effective ergonomics program identifies and mitigates the risk factors that contribute to these injuries, potentially reducing both human suffering and employer costs.
 
 ## Why Ergonomics Matters
 
 The business case for ergonomics is compelling:
 
-- MSDs account for a significant portion of all workplace injuries and illnesses
-- Workers compensation costs for ergonomic injuries are substantial
+- MSDs may account for a significant portion of workplace injuries and illnesses
+- Workers compensation costs for ergonomic injuries can be substantial
 - Lost productivity from absenteeism and reduced performance adds to the financial impact
-- Ergonomic improvements often increase productivity by making work easier and more efficient
-- Employees who work in comfortable, well-designed environments report higher job satisfaction
+- Ergonomic improvements may increase productivity by making work easier and more efficient
+- Employees who work in comfortable, well-designed environments may report higher job satisfaction
 
 While OSHA does not have a specific ergonomics standard, it can cite employers under the General Duty Clause for ergonomic hazards that are recognized and likely to cause serious harm.
 
@@ -78,3 +78,5 @@ An ergonomics program requires ongoing attention:
 - Train new employees on ergonomic practices during onboarding
 - Encourage a culture of early reporting so problems can be addressed before injuries occur
 - Document program activities and improvements for accountability
+
+---

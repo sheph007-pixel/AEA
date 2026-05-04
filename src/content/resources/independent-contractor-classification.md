@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-07-22"
 tags: ["independent contractor", "classification", "IRS", "compliance"]
 verified: true
-factCheckedAt: "2026-04-27T10:14:26.851Z"
+factCheckedAt: "2026-05-04T10:21:27.795Z"
 ---
 
 ## Why Classification Matters

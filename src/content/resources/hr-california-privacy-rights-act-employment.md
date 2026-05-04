@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["california", "CPRA", "data privacy", "employment"]
 author: "AEA Editorial Team"
 verified: false
-factCheckedAt: "2026-04-27T09:51:41.366Z"
+factCheckedAt: "2026-05-04T10:02:28.214Z"
 ---
 
 ## CPRA Employment Data Provisions
@@ -25,16 +25,14 @@ Employers collect extensive personal information about employees, including Soci
 
 Employers must provide employees with a notice at collection that identifies the categories of personal information collected and the purposes for collection. This notice should be provided at or before the point of collection. Employers should also maintain an updated privacy policy that describes their data handling practices.
 
-When employees exercise their rights, employers generally should respond within a reasonable timeframe, often suggested as 45 days, with an option to extend by an additional 45 days with notice. However, employers should consult counsel as these requirements may vary. Employers may not retaliate against employees for exercising their privacy rights. However, employers are not required to comply with requests that would interfere with legal obligations, such as maintaining records required by employment law.
+When employees exercise their rights, employers generally should respond within a reasonable timeframe. Employers should consult legal counsel for specific response timeframes under the CPRA, as these requirements may vary. Employers may not retaliate against employees for exercising their privacy rights. However, employers are not required to comply with requests that would interfere with legal obligations, such as maintaining records required by employment law.
 
 ## Data Minimization and Security
 
 The CPRA introduced data minimization principles requiring employers to limit the collection, use, and retention of employee personal information to what is reasonably necessary and proportionate to the purposes for which it was collected. Employers must also implement reasonable security measures to protect employee data from unauthorized access, destruction, or disclosure.
 
-The California Privacy Protection Agency (CPPA) enforces the CPRA and has authority to impose administrative fines of up to $2,500 per violation and $7,500 per intentional violation. Private lawsuits may also be possible for data breaches resulting from the employer's failure to implement reasonable security measures.
+The California Privacy Protection Agency (CPPA) enforces the CPRA and has authority to impose administrative fines. Private lawsuits may also be possible for data breaches resulting from the employer's failure to implement reasonable security measures.
 
 ## Compliance Steps for Employers
 
 Employers should conduct a data mapping exercise to identify all employee personal information collected, used, and stored. They should update privacy notices and policies to include employment-specific disclosures, establish processes for receiving and responding to employee data rights requests, implement data retention schedules that comply with both employment recordkeeping laws and CPRA data minimization principles, and train HR and IT staff on CPRA obligations.
-
----

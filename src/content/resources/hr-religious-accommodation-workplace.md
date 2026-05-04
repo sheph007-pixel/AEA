@@ -1,25 +1,23 @@
 ---
 title: "Religious Accommodation in the Workplace"
-description: "Employer obligations for religious accommodations under Title VII, including the expanded undue hardship standard after Groff v. DeJoy."
+description: "Employer obligations for religious accommodations under Title VII."
 category: "HR Management"
 date: "2026-01-15"
 tags: ["religious accommodation", "Title VII", "diversity", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:06:53.861Z"
+factCheckedAt: "2026-05-04T10:14:52.832Z"
 ---
 
 ## Title VII Religious Accommodation Requirements
 
 Title VII of the Civil Rights Act of 1964 prohibits employment discrimination based on religion and requires employers to reasonably accommodate employees' sincerely held religious beliefs, practices, and observances unless doing so would impose an undue hardship on the business. This accommodation obligation applies to all aspects of employment, including hiring, scheduling, dress codes, and grooming policies.
 
-The Supreme Court's 2023 decision in Groff v. DeJoy significantly changed the undue hardship analysis, making it more difficult for employers to deny accommodation requests. This decision affects how all employers must evaluate and respond to religious accommodation requests.
+Employers must carefully evaluate and respond to religious accommodation requests, considering the potential impact on their operations and the needs of the employee.
 
-## The Groff v. DeJoy Standard
+## Understanding Undue Hardship
 
-Before Groff, many courts applied the standard from Trans World Airlines v. Hardison (1977), which interpreted undue hardship to mean anything more than a de minimis cost. The Groff decision unanimously held that this interpretation was incorrect and established that an employer must show that granting the accommodation would result in substantial increased costs in relation to the conduct of the employer's particular business.
-
-This higher standard means employers must provide more detailed justifications for denying religious accommodations. A showing of minor inconvenience, modest costs, or general disruption to coworker morale is no longer sufficient. Employers must demonstrate that the specific accommodation requested would impose genuine, quantifiable burdens on business operations.
+Many courts have historically applied the standard from Trans World Airlines v. Hardison (1977), which interpreted undue hardship to mean anything more than a de minimis cost. Employers should be aware that interpretations of undue hardship can vary, and they may need to provide detailed justifications for denying religious accommodations. A showing of minor inconvenience, modest costs, or general disruption to coworker morale may not be sufficient in some cases. Employers should consult legal counsel to understand the specific requirements applicable to their situation.
 
 ## Common Accommodation Requests
 
@@ -35,4 +33,6 @@ Documentation of the interactive process, including the employee's explanation o
 
 ## Practical Accommodation Strategies
 
-Employers should develop a formal process for receiving and evaluating religious accommodation requests, train managers on the interactive process and the new Groff standard, document all steps taken during the accommodation process, and consider creative solutions such as voluntary shift swaps, flexible scheduling, and modified dress code policies. Proactive policies that build flexibility into scheduling and workplace rules reduce the frequency of accommodation conflicts and demonstrate good faith.
+Employers should develop a formal process for receiving and evaluating religious accommodation requests, train managers on the interactive process, document all steps taken during the accommodation process, and consider creative solutions such as voluntary shift swaps, flexible scheduling, and modified dress code policies. Proactive policies that build flexibility into scheduling and workplace rules reduce the frequency of accommodation conflicts and demonstrate good faith.
+
+---

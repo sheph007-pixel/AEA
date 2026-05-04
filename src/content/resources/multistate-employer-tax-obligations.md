@@ -6,7 +6,7 @@ date: "2016-12-08"
 tags: ["multistate", "tax compliance", "payroll", "withholding"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:19:18.390Z"
+factCheckedAt: "2026-05-04T10:28:07.471Z"
 ---
 
 ## When Multistate Obligations Arise

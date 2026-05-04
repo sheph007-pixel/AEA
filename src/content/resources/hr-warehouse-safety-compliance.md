@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["warehouse", "safety", "OSHA", "operations"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:11:38.035Z"
+factCheckedAt: "2026-05-04T10:20:02.891Z"
 ---
 
 ## Warehouse Safety Overview
@@ -17,7 +17,7 @@ OSHA does not have a single warehouse-specific standard but applies multiple gen
 
 ## Forklift Safety Requirements
 
-Powered industrial truck (forklift) safety under 29 CFR 1910.178 is often considered one of OSHA's frequently cited standards in warehouse operations. Only trained and evaluated operators may use forklifts. Training must include formal instruction, practical training, and evaluation in the workplace. Operators must be evaluated at least once every three years and receive refresher training when observed operating unsafely, involved in an accident, or when workplace conditions change.
+Powered industrial truck (forklift) safety under 29 CFR 1910.178 may be considered one of OSHA's frequently cited standards in warehouse operations. Only trained and evaluated operators may use forklifts. Training must include formal instruction, practical training, and evaluation in the workplace. Operators must be evaluated at least once every three years and receive refresher training when observed operating unsafely, involved in an accident, or when workplace conditions change.
 
 Pre-shift inspections of forklifts are required, and defective equipment must be taken out of service until repaired. Speed limits, pedestrian traffic management, and load capacity compliance are essential elements of a forklift safety program.
 
@@ -25,7 +25,7 @@ Pre-shift inspections of forklifts are required, and defective equipment must be
 
 Proper material storage prevents struck-by and crushing injuries. Stacked materials must be stable, self-supporting, and within the rated capacity of the storage system. Pallet racking must be properly installed, regularly inspected for damage, and have load capacity ratings posted. Damaged racking should be immediately unloaded and repaired or replaced.
 
-Aisles and passageways must be kept clear and adequately lit. Emergency exits must never be blocked. Regular housekeeping prevents slip, trip, and fall hazards. Spills must be cleaned immediately, and walking surfaces must be maintained in a dry, clean condition.
+Aisles and passageways should be kept clear and adequately lit according to best practices. Emergency exits should never be blocked according to best practices. Regular housekeeping prevents slip, trip, and fall hazards. Spills must be cleaned immediately, and walking surfaces should be maintained in a dry, clean condition.
 
 ## Ergonomic Considerations
 
@@ -35,4 +35,4 @@ Employers should implement ergonomic controls such as adjustable workstations, m
 
 ## Emergency Preparedness
 
-Warehouse employers must maintain emergency action plans under 29 CFR 1910.38 that address fires, severe weather, chemical spills, and other emergencies. Fire extinguishers must be properly placed, maintained, and inspected monthly. Employees must be trained on evacuation routes, assembly points, and emergency procedures. Warehouses storing hazardous materials must comply with additional OSHA standards including the Hazard Communication Standard and, where applicable, the Process Safety Management standard.
+Warehouse employers must maintain emergency action plans under 29 CFR 1910.38 that address fires, severe weather, chemical spills, and other emergencies. Fire extinguishers should be properly placed, maintained, and inspected regularly according to best practices. Employees must be trained on evacuation routes, assembly points, and emergency procedures. Warehouses storing hazardous materials must comply with additional OSHA standards including the Hazard Communication Standard and, where applicable, the Process Safety Management standard.

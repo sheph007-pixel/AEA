@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["colorado", "pay equity", "pay transparency", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:52:13.403Z"
+factCheckedAt: "2026-05-04T10:02:39.565Z"
 ---
 
 ## Overview of the Colorado Equal Pay Act

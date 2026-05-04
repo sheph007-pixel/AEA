@@ -6,7 +6,7 @@ date: "2024-04-28"
 tags: ["FLSA", "overtime", "salary threshold", "DOL", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:46:44.123Z"
+factCheckedAt: "2026-05-04T09:56:45.804Z"
 ---
 
 ## The Final Rule

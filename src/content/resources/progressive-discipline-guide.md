@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["progressive discipline", "employee relations", "HR", "termination"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:28:20.419Z"
+factCheckedAt: "2026-05-04T10:35:38.531Z"
 ---
 
 Progressive discipline is a structured approach to correcting employee behavior and performance issues through escalating steps. While at-will employment allows termination for any legal reason, a progressive discipline policy demonstrates fairness, provides documentation, and reduces the risk of wrongful termination claims.

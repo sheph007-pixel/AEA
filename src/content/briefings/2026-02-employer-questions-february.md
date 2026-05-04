@@ -6,8 +6,8 @@ date: "2026-02-18"
 month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["employer-questions", "OSHA", "ACA", "AI-hiring", "pay-transparency", "February-2026"]
-verified: false
-factCheckedAt: "2026-05-01T09:49:34.189Z"
+verified: true
+factCheckedAt: "2026-05-04T09:28:05.829Z"
 ---
 
 # What Employers Are Asking: February 2026
@@ -24,7 +24,7 @@ In addition to posting the physical form, certain employers in high-hazard indus
 
 ## 2. Can I get an extension for ACA 1095-C distribution to employees?
 
-Employers should check the IRS website and recent IRS notices to determine whether an extension has been announced for the 2025 tax year for furnishing Form 1095-C to employees. Even when extensions are available, they may not apply to the IRS filing deadline for Forms 1094-C and 1095-C. Employers should verify current year deadlines with the IRS.
+Employers should regularly check the IRS website and recent IRS notices for any announcements regarding extensions for furnishing Form 1095-C for the 2025 tax year. Even when extensions are available, they may not apply to the IRS filing deadline for Forms 1094-C and 1095-C. Employers should verify current year deadlines with the IRS.
 
 Employers who cannot meet the furnishing deadline — even with any available extension — may wish to explore whether a formal extension request is available. Employers should verify the current applicability of IRS Form 8809 for information return filing with the IRS, as it generally applies to the filing with the IRS rather than the furnishing to individuals. The IRS may address furnishing deadline extensions through administrative relief announcements if it chooses to extend that deadline.
 

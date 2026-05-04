@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["data breach", "cybersecurity", "privacy", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:44:54.674Z"
+factCheckedAt: "2026-05-04T09:54:35.991Z"
 ---
 
 Employers hold vast amounts of sensitive employee data including Social Security numbers, bank account information, medical records, and tax documents. When a data breach occurs, employers must act quickly to comply with notification laws, minimize damage, and maintain employee trust.
@@ -26,7 +26,7 @@ When you discover or suspect a data breach:
 
 All 50 states, the District of Columbia, and most U.S. territories have data breach notification laws:
 
-- Notification timelines vary by state, ranging from 30 to 90 days after discovery
+- Notification timelines vary by state, generally ranging from 30 to 90 days after discovery
 - Most states require notification to affected individuals and to the state attorney general
 - Some states require notification to consumer reporting agencies when the breach exceeds a certain number of individuals
 - The specific information required in the notice varies by state
@@ -43,7 +43,7 @@ Your breach notification to employees should include:
 - Steps the company is taking to address the breach
 - Steps employees can take to protect themselves
 - Contact information for questions
-- Information about credit monitoring or identity theft protection services you are offering
+- Information about any credit monitoring or identity theft protection services you may be offering
 
 Be clear, honest, and timely. Delayed or evasive notifications increase distrust and potential legal exposure.
 
@@ -51,7 +51,7 @@ Be clear, honest, and timely. Delayed or evasive notifications increase distrust
 
 Help affected employees protect themselves:
 
-- Offer free credit monitoring and identity theft protection services for at least 12 months
+- Consider offering free credit monitoring and identity theft protection services, as some states may require this
 - Provide instructions for placing fraud alerts or credit freezes
 - Set up a dedicated helpline or point of contact for employee questions
 - Monitor for signs of misuse of the compromised data
@@ -68,3 +68,5 @@ After addressing the immediate crisis, strengthen your defenses:
 - Implement multi-factor authentication for systems containing personal data
 - Develop or update your incident response plan
 - Consider cyber liability insurance if you do not already have it
+
+---

@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["workers compensation", "insurance", "audits", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:37:56.057Z"
+factCheckedAt: "2026-05-04T10:43:08.912Z"
 ---
 
 Workers compensation premium audits are a routine part of carrying a workers comp policy. At the end of each policy period, your insurance carrier will audit your payroll records to determine whether you owe additional premium or are entitled to a refund. Understanding this process helps you avoid surprises and potential overcharges.

@@ -5,8 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["tipped employees", "FLSA", "payroll", "tip credit"]
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-27T10:18:46.007Z"
+verified: true
+factCheckedAt: "2026-05-04T10:27:38.863Z"
 ---
 
 Paying tipped employees correctly is one of the most error-prone areas of wage and hour law. The FLSA allows employers to take a tip credit against the minimum wage obligation, but the rules are detailed and the penalties for violations can be significant. Several states have eliminated or modified the tip credit, adding another layer of complexity.

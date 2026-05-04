@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["leave of absence", "FMLA", "ADA", "state leave laws"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:17:09.992Z"
+factCheckedAt: "2026-05-04T10:26:12.542Z"
 ---
 
 Not every leave of absence is covered by the FMLA. Employers regularly encounter situations where an employee needs time off but does not qualify for FMLA leave, has exhausted their FMLA entitlement, or is requesting leave under a different legal framework. Managing these situations requires understanding multiple overlapping laws.

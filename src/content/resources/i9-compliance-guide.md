@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-09-18"
 tags: ["I-9", "employment verification", "immigration", "compliance"]
 verified: true
-factCheckedAt: "2026-04-27T10:13:31.491Z"
+factCheckedAt: "2026-05-04T10:21:09.968Z"
 ---
 
 ## Form I-9 Basics

@@ -5,8 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["new york", "paid family leave", "benefits", "compliance"]
 author: "AEA Editorial Team"
-verified: true
-factCheckedAt: "2026-04-27T10:03:32.459Z"
+verified: false
+factCheckedAt: "2026-05-04T10:10:57.899Z"
 ---
 
 ## Understanding New York Paid Family Leave
@@ -29,9 +29,9 @@ The contribution rate is set annually by the New York Department of Financial Se
 
 ## Employer Obligations and Compliance
 
-Employers must obtain PFL coverage through a disability insurance carrier or through a self-insured plan approved by the New York State Department of Financial Services. The Workers' Compensation Board does not oversee PFL coverage. Failure to maintain coverage can result in penalties of one-half of one percent of the employer's payroll for the period of non-compliance.
+Employers must obtain PFL coverage through a disability insurance carrier or through a self-insured plan approved by the New York State Department of Financial Services. The Workers' Compensation Board does not oversee PFL coverage. Failure to maintain coverage can result in penalties, and employers should confirm the specific penalties with the New York State Department of Financial Services.
 
-When an employee requests PFL, the employer must provide the employee with the Request for Paid Family Leave (Form PFL-1) within five business days. Employers may not retaliate against employees who request or use PFL benefits, and employees are entitled to be restored to their same or comparable position upon return.
+When an employee requests PFL, employers should consult the New York State Department of Financial Services for specific timelines regarding providing the Request for Paid Family Leave (Form PFL-1). Employers may not retaliate against employees who request or use PFL benefits, and employees are entitled to be restored to their same or comparable position upon return.
 
 ## Coordination With Other Leave Laws
 

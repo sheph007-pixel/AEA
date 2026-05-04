@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2025-01-15"
 tags: ["minimum wage", "state law", "compliance"]
 verified: true
-factCheckedAt: "2026-04-27T09:26:49.034Z"
+factCheckedAt: "2026-05-04T09:30:19.210Z"
 ---
 
 ## Overview

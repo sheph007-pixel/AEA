@@ -6,7 +6,7 @@ date: "2020-06-22"
 tags: ["hiring", "interviews", "virtual", "video conferencing", "recruitment"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:37:10.645Z"
+factCheckedAt: "2026-05-04T10:42:53.628Z"
 ---
 
 Virtual interviews have become a standard part of the hiring process. When conducted well, they are nearly as effective as in-person meetings for evaluating candidates and significantly more efficient in terms of scheduling and logistics. Here is how to run a virtual interview process that is professional, fair, and productive.

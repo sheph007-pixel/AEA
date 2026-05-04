@@ -5,7 +5,7 @@ category: "HR"
 date: "2024-07-01"
 tags: ["retention", "turnover", "employee engagement", "HR strategy"]
 verified: true
-factCheckedAt: "2026-04-27T10:28:26.727Z"
+factCheckedAt: "2026-05-04T10:35:43.532Z"
 ---
 
 ## Understanding Turnover

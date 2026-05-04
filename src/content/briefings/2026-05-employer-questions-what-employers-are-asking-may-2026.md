@@ -7,7 +7,7 @@ month: "2026-05"
 author: "AEA Editorial Team"
 tags: ["employer questions", "FAQ"]
 verified: true
-factCheckedAt: "2026-05-01T09:51:32.056Z"
+factCheckedAt: "2026-05-04T09:29:38.570Z"
 ---
 
 ## Q: What are the key considerations for managing employee leave during the summer months?

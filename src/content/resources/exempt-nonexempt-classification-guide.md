@@ -6,7 +6,7 @@ date: "2015-07-22"
 tags: ["FLSA", "classification", "overtime", "exempt employees"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:45:26.278Z"
+factCheckedAt: "2026-05-04T09:55:19.276Z"
 ---
 
 ## Why Classification Matters

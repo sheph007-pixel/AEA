@@ -5,8 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["multistate", "compliance", "remote work", "employment law"]
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-27T10:20:20.175Z"
+verified: true
+factCheckedAt: "2026-05-04T10:28:09.509Z"
 ---
 
 Having employees in multiple states, whether through remote work, satellite offices, or travel, creates a web of compliance obligations. Each state has its own employment laws, and employers must navigate these differences carefully. The consequences of non-compliance range from fines and penalties to class action litigation.

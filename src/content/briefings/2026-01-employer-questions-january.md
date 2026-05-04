@@ -7,7 +7,7 @@ month: "2026-01"
 author: "AEA Editorial Team"
 tags: ["employer-questions", "compliance", "AI-policy", "wage-thresholds", "remote-work", "taxes", "Q1-2026"]
 verified: true
-factCheckedAt: "2026-05-01T09:47:10.757Z"
+factCheckedAt: "2026-05-04T09:26:36.573Z"
 ---
 
 # What Employers Are Asking: January 2026

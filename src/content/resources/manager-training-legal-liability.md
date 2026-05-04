@@ -6,7 +6,7 @@ date: "2023-11-08"
 tags: ["manager training", "leadership", "legal liability", "discrimination", "retaliation"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:15:55.036Z"
+factCheckedAt: "2026-05-04T10:25:33.899Z"
 ---
 
 ## Managers Are Your Biggest Risk and Your Best Asset

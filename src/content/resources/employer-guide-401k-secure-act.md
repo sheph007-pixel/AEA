@@ -6,18 +6,18 @@ date: "2024-02-22"
 tags: ["SECURE 2.0", "401k", "retirement", "benefits", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:36:07.976Z"
+factCheckedAt: "2026-05-04T09:43:58.345Z"
 ---
 
 ## Overview of SECURE 2.0
 
-The SECURE 2.0 Act, signed into law in December 2022, contains over 90 provisions affecting retirement plans. Many provisions phase in over several years, with key deadlines in 2024 and 2025. Employers who sponsor 401(k), 403(b), or SIMPLE IRA plans must understand which provisions apply to them and when action is required.
+The SECURE 2.0 Act, signed into law in December 2022, contains numerous provisions affecting retirement plans. Many provisions phase in over several years, with key deadlines in 2024 and 2025. Employers who sponsor 401(k), 403(b), or SIMPLE IRA plans should understand which provisions may apply to them and when action is required.
 
 ## Key Provisions Affecting Employers
 
 ### Automatic Enrollment (Effective for New Plans After December 29, 2022)
 
-New 401(k) and 403(b) plans established after December 29, 2022 must include automatic enrollment at a contribution rate of at least 3% but not more than 10% of compensation, with automatic annual escalation of 1% per year up to at least 10% but not more than 15%. Employees can opt out.
+New 401(k) and 403(b) plans established after December 29, 2022, must include automatic enrollment at a contribution rate of at least 3% but not more than 10% of compensation, with automatic annual escalation of 1% per year up to at least 10% but not more than 15%. Employees can opt out.
 
 Existing plans are not required to add automatic enrollment, but it remains a best practice for increasing participation.
 
@@ -27,7 +27,7 @@ Existing plans are not required to add automatic enrollment, but it remains a be
 
 Starting in 2025, employees aged 60 through 63 can make enhanced catch-up contributions above the standard catch-up limit. For 401(k) plans, the enhanced limit is the greater of $10,000 or 150% of the standard catch-up contribution limit.
 
-Additionally, catch-up contributions for participants earning over $145,000 must be designated as Roth contributions. This Roth catch-up requirement applies to contributions made in 2024 and beyond, as per IRS guidance.
+Additionally, catch-up contributions for participants earning over $145,000 must be designated as Roth contributions. This Roth catch-up requirement applies to contributions made starting January 1, 2026.
 
 ### Small Employer Tax Credits
 
@@ -36,11 +36,11 @@ SECURE 2.0 significantly enhanced tax credits for small employers starting new r
 - **Startup credit**: Up to 100% of administrative costs (capped at $5,000 per year) for employers with up to 50 employees. Employers with 51-100 employees can receive up to 50% of costs.
 - **Employer contribution credit**: A new credit for employer contributions to a new plan, up to $1,000 per employee, available for the first five years of the plan. This phases down for employers with 51-100 employees.
 
-These credits make offering a retirement plan significantly more affordable for small employers.
+These credits may make offering a retirement plan more affordable for small employers.
 
 ### Student Loan Matching
 
-Employers may now treat employee student loan payments as elective deferrals for purposes of matching contributions. This means an employee who cannot afford to contribute to the 401(k) because of student loan payments can still receive the employer match based on their qualifying student loan payments. This provision is optional but can be a compelling benefit for younger workers.
+Employers may treat employee student loan payments as elective deferrals for purposes of matching contributions. This means an employee who cannot afford to contribute to the 401(k) because of student loan payments can still receive the employer match based on their qualifying student loan payments. This provision is optional but can be a compelling benefit for younger workers.
 
 ### Emergency Savings Accounts
 
@@ -66,4 +66,4 @@ Long-term part-time employees who work at least 500 hours per year for two conse
 
 **5. Claim available tax credits.** If you are a small employer starting a new plan or recently started one, ensure you are claiming the full credits available under SECURE 2.0.
 
-SECURE 2.0 is the most significant retirement legislation in decades. Employers who engage proactively with its provisions can both strengthen compliance and enhance the value of their retirement benefits.
+SECURE 2.0 is a significant piece of retirement legislation. Employers who engage proactively with its provisions can both strengthen compliance and enhance the value of their retirement benefits.

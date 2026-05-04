@@ -5,7 +5,7 @@ category: "Operations"
 date: "2024-05-10"
 tags: ["social media", "NLRA", "policies", "employer liability"]
 verified: true
-factCheckedAt: "2026-04-27T09:43:53.128Z"
+factCheckedAt: "2026-05-04T09:53:24.722Z"
 ---
 
 ## The Landscape

@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["leave management", "FMLA", "ADA", "HR management"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:58:34.771Z"
+factCheckedAt: "2026-05-04T10:07:58.078Z"
 ---
 
 ## The Leave Abuse Challenge

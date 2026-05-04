@@ -6,7 +6,7 @@ date: "2015-05-12"
 tags: ["EEOC", "discrimination", "compliance", "employment law"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:32:52.409Z"
+factCheckedAt: "2026-05-04T09:40:04.132Z"
 ---
 
 ## Receiving the Charge

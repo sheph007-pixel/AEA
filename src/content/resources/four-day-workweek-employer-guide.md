@@ -6,7 +6,7 @@ date: "2024-04-10"
 tags: ["four-day workweek", "productivity", "operations", "retention", "flexibility"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:47:45.445Z"
+factCheckedAt: "2026-05-04T09:57:11.995Z"
 ---
 
 ## Beyond the Headlines

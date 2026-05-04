@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["manufacturing", "lockout tagout", "OSHA", "safety"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:59:03.661Z"
+factCheckedAt: "2026-05-04T10:07:59.921Z"
 ---
 
 ## Understanding Lockout/Tagout Requirements

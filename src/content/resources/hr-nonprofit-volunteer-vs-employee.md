@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["nonprofit", "volunteers", "employee classification", "FLSA"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:04:09.950Z"
+factCheckedAt: "2026-05-04T10:11:27.512Z"
 ---
 
 ## The Volunteer Classification Challenge
@@ -25,11 +25,11 @@ The Department of Labor considers whether the volunteer received anything of val
 
 Courts may consider the totality of circumstances when determining volunteer status. Relevant factors can include the degree of control the organization exercises over the individual, whether the individual has the ability to decline assignments without consequence, whether the individual receives regular compensation or only nominal perquisites, and whether the individual's participation is truly voluntary.
 
-Stipends present particular challenges. While small stipends intended to cover incidental expenses generally do not convert a volunteer into an employee, stipends that approximate what the individual would earn as an employee may suggest an employment relationship. The DOL does not establish a specific percentage threshold universally recognized for stipends, and the determination may be based on the totality of circumstances.
+Stipends present particular challenges. While small stipends intended to cover incidental expenses generally do not convert a volunteer into an employee, stipends that approximate what the individual would earn as an employee may suggest an employment relationship. The Department of Labor uses a 20 percent benchmark for evaluating whether a stipend is nominal.
 
 ## State Law Considerations
 
-State wage and hour laws may impose additional restrictions on volunteer arrangements. Some states define employees more broadly than the FLSA, potentially capturing individuals who would qualify as volunteers under federal law. California, for example, applies the ABC test for worker classification under specific statutes, which may not apply universally to all volunteer classifications and can be difficult for volunteer arrangements to satisfy.
+State wage and hour laws may impose additional restrictions on volunteer arrangements. Some states define employees more broadly than the FLSA, potentially capturing individuals who would qualify as volunteers under federal law. The application of California's ABC test to volunteer classifications is not well-documented and may vary by case.
 
 Nonprofit employers should research the specific volunteer laws in each state where they operate, as state laws may require additional protections such as workers' compensation coverage for volunteers or limits on volunteer working hours.
 
@@ -38,5 +38,3 @@ Nonprofit employers should research the specific volunteer laws in each state wh
 Nonprofits should maintain clear written volunteer agreements that describe the voluntary nature of the relationship, the services to be performed, and any nominal benefits or reimbursements provided. Organizations should avoid scheduling volunteers for mandatory shifts, imposing discipline for missed commitments, or providing compensation that could be characterized as wages.
 
 Tracking volunteer hours separately from employee hours and ensuring that paid staff members do not volunteer for their same employer performing the same duties are essential compliance practices. Regular audits of volunteer programs can help identify arrangements that may have evolved into employment relationships over time.
-
----

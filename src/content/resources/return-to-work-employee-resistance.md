@@ -6,7 +6,7 @@ date: "2021-07-12"
 tags: ["return to work", "leadership", "employee relations", "change management", "workplace"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:30:20.244Z"
+factCheckedAt: "2026-05-04T10:37:33.034Z"
 ---
 
 As employers implement return-to-work mandates, many face significant employee resistance. Some employees prefer remote work for lifestyle reasons, others have legitimate safety or health concerns, and some have restructured their lives around remote arrangements. Effective leaders address this resistance with a combination of empathy, clarity, and consistency.

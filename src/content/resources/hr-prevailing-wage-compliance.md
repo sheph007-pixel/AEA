@@ -6,14 +6,14 @@ date: "2026-01-15"
 tags: ["prevailing wage", "Davis-Bacon", "government contracts", "compliance"]
 author: "AEA Editorial Team"
 verified: false
-factCheckedAt: "2026-04-27T10:06:41.697Z"
+factCheckedAt: "2026-05-04T10:14:22.153Z"
 ---
 
 ## Federal Prevailing Wage Requirements
 
 The Davis-Bacon Act of 1931 requires contractors and subcontractors performing work on federal government construction contracts exceeding $2,000 to pay workers no less than the locally prevailing wages and fringe benefits for corresponding work on similar projects in the area. The Department of Labor's Wage and Hour Division determines prevailing wage rates through surveys of wages paid on similar construction projects in each geographic area.
 
-In 2023, the DOL reportedly issued a final rule updating Davis-Bacon regulations for the first time in over 40 years, which may have included changes to wage determination methodology, enforcement procedures, and the definition of prevailing wage. Employers performing federal construction work should be aware of these potential updates.
+In 2023, the DOL reportedly issued a final rule updating Davis-Bacon regulations for the first time in over 40 years, which may have included changes to wage determination methodology, enforcement procedures, and the definition of prevailing wage. Employers performing federal construction work should be aware of these potential updates and consult official DOL announcements for confirmation.
 
 ## Wage Determination and Classification
 
@@ -25,7 +25,7 @@ Workers must be classified according to the actual work they perform, not their 
 
 Contractors must submit weekly certified payroll reports using DOL Form WH-347 for each week in which contract work is performed. The certified payroll must list each employee's name, address, classification, hourly rate, daily and weekly hours, deductions, and net pay. The contractor or an authorized officer must sign the Statement of Compliance certifying the accuracy of the information.
 
-Records are generally recommended to be maintained for three years after completion of the project, though requirements may vary. Falsification of certified payroll records can result in civil penalties, contract termination, debarment from future federal contracts, and criminal prosecution under the False Claims Act.
+It is generally recommended that records be maintained for three years after completion of the project, though requirements may vary by jurisdiction. Falsification of certified payroll records can result in civil penalties, contract termination, debarment from future federal contracts, and criminal prosecution under the False Claims Act.
 
 ## State Prevailing Wage Laws
 

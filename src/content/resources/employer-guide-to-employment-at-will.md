@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["at-will employment", "wrongful termination", "employment law", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:40:31.203Z"
+factCheckedAt: "2026-05-04T09:50:19.688Z"
 ---
 
 Employment at-will is the default rule in every U.S. state except Montana. Under this doctrine, either the employer or the employee may end the employment relationship at any time, for any reason, with or without notice. However, the at-will doctrine has exceptions that employers should understand to avoid wrongful termination claims.
@@ -30,7 +30,7 @@ Federal and state laws create many exceptions to at-will employment:
 - **Retaliation prohibitions**: You cannot terminate an employee for filing a workers comp claim, reporting safety violations, filing an EEOC charge, taking FMLA leave, whistleblowing, or engaging in other legally protected activity
 - **WARN Act**: Employers with 100 or more full-time employees must provide 60 days' notice before mass layoffs or plant closings. The counting of employees may include part-time employees under certain conditions.
 - **Jury duty and voting leave**: Most states prohibit termination for exercising these civic duties
-- **Military service**: USERRA protects employees from termination based on military service obligations
+- **Military service**: USERRA may protect employees from termination based on military service obligations, but employers should consult legal counsel to understand specific protections
 
 ## Common Law Exceptions
 

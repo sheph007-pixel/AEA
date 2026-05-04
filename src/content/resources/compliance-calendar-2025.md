@@ -6,7 +6,7 @@ date: "Current Year-01-02"
 tags: ["compliance", "deadlines", "Current Year", "calendar", "federal requirements"]
 author: "AEA Editorial Team"
 verified: false
-factCheckedAt: "2026-04-27T09:31:34.275Z"
+factCheckedAt: "2026-05-04T09:37:41.132Z"
 ---
 
 ## Staying Ahead of Deadlines
@@ -30,7 +30,7 @@ Missing a compliance deadline can result in penalties, fines, and legal exposure
 
 ## March
 
-- **March 1**: OSHA Form 300A annual summary must be posted in the workplace (posting period February 1 through April 30).
+- **February 1 through April 30**: OSHA Form 300A annual summary must be posted in the workplace.
 - **March 2 (typically)**: Deadline to electronically submit OSHA injury and illness data (Forms 300, 300A, 301) for establishments required to report to OSHA. Note that this deadline may vary by year and should be confirmed with OSHA's announcements.
 - **March 15**: File Form 1120-S (S corporation tax return).
 

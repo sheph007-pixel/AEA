@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["constructive dismissal", "termination", "employment law", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:35:34.502Z"
+factCheckedAt: "2026-05-04T10:41:05.893Z"
 ---
 
 Constructive dismissal occurs when an employer makes working conditions so intolerable that a reasonable employee would feel compelled to resign. Although the employee technically quits, the law treats it as an involuntary termination, potentially entitling the employee to the same remedies as if they were fired. Understanding this concept is critical for preventing costly legal claims.

@@ -6,22 +6,22 @@ date: "2024-06-28"
 tags: ["ergonomics", "safety", "hybrid work", "remote work", "workplace injury"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:45:01.541Z"
+factCheckedAt: "2026-05-04T09:55:12.248Z"
 ---
 
 ## The Ergonomic Challenge of Hybrid Work
 
-When employees split their time between office and home, ergonomic risks increase. Home workspaces are often improvised, with employees working from kitchen tables, couches, or beds. Even employees with dedicated home offices may lack proper equipment. Musculoskeletal disorders from poor ergonomics, including back pain, carpal tunnel syndrome, and neck strain, are among the most common workplace injuries and can result in workers' compensation claims regardless of where the injury occurs.
+When employees split their time between office and home, ergonomic risks may increase. Home workspaces are often improvised, with employees working from kitchen tables, couches, or beds. Even employees with dedicated home offices may lack proper equipment. Musculoskeletal disorders from poor ergonomics, including back pain, carpal tunnel syndrome, and neck strain, are among the most common workplace injuries and can result in workers' compensation claims regardless of where the injury occurs.
 
 Employers have a responsibility to address ergonomic risks for their hybrid workforce, both for compliance reasons and to protect productivity.
 
 ## Legal Framework
 
-OSHA's General Duty Clause requires employers to provide a workplace free from recognized hazards. While OSHA has indicated that this obligation may extend to home offices for telecommuting employees, it does not specifically enforce ergonomic standards in these settings. OSHA has also stated that it will not conduct inspections of home offices and will not hold employers liable for home office conditions they did not create. This creates a gray area that employers should navigate proactively.
+OSHA's General Duty Clause requires employers to provide a workplace free from recognized hazards. While OSHA may extend this obligation to home offices for telecommuting employees, specific enforcement of ergonomic standards in these settings is not confirmed. OSHA has generally not conducted inspections of home offices, but specific policies on liability for conditions are not confirmed. This creates a gray area that employers should navigate proactively.
 
 Workers' compensation is clearer: injuries that occur while performing work duties are generally compensable regardless of location. An employee who develops carpal tunnel syndrome from typing at an improper workstation at home can file a workers' compensation claim, and in most cases, it will be covered.
 
-State-specific requirements vary. California's Cal/OSHA has specific ergonomic standards that generally apply to workplaces, including remote workspaces. Employers should familiarize themselves with these standards, which may include guidelines on workstation setup and equipment to minimize ergonomic risks.
+State-specific requirements vary. California's Cal/OSHA has specific ergonomic standards that generally apply to workplaces, but their application to remote workspaces is not explicitly confirmed. Employers should familiarize themselves with these standards, which may include guidelines on workstation setup and equipment to minimize ergonomic risks.
 
 ## Practical Steps for Employers
 

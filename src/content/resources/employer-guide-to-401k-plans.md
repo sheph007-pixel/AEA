@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["401k", "retirement", "benefits", "ERISA"]
 author: "AEA Editorial Team"
 verified: false
-factCheckedAt: "2026-04-27T09:38:23.275Z"
+factCheckedAt: "2026-05-04T09:46:59.486Z"
 ---
 
 A 401(k) plan is one of the most valued employee benefits and can be a powerful recruiting and retention tool. However, establishing and maintaining a plan involves significant legal and administrative responsibilities under ERISA, the Internal Revenue Code, and Department of Labor regulations.
@@ -20,7 +20,7 @@ Several 401(k) plan designs are available:
 - **SIMPLE 401(k)**: Available to employers with 100 or fewer employees, with simplified administration and required employer contributions.
 - **Roth 401(k)**: A feature that can be added to any plan type, allowing employees to make after-tax contributions that grow tax-free.
 
-Safe Harbor plans are popular because they eliminate the risk of failing nondiscrimination tests, which can require returning contributions to highly compensated employees.
+Safe Harbor plans are popular because they may eliminate the risk of failing nondiscrimination tests, which can require returning contributions to highly compensated employees.
 
 ## Setting Up the Plan
 
@@ -55,7 +55,7 @@ Frequent 401(k) compliance problems include:
 - Inadequate monitoring of investment options and plan fees.
 - Failing to update the plan document for required law changes.
 
-The IRS Employee Plans Compliance Resolution System (EPCRS) provides methods for correcting many common errors. Voluntary correction is generally less expensive and disruptive than correction after an audit.
+The IRS Employee Plans Compliance Resolution System (EPCRS) may provide methods for correcting many common errors. Employers should consult counsel to determine the best course of action, as voluntary correction is generally less expensive and disruptive than correction after an audit.
 
 ## Selecting and Monitoring Investments
 

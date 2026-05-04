@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-08-05"
 tags: ["COBRA", "health benefits", "compliance", "administration"]
 verified: true
-factCheckedAt: "2026-04-27T09:29:40.494Z"
+factCheckedAt: "2026-05-04T09:35:20.138Z"
 ---
 
 ## What Is COBRA?

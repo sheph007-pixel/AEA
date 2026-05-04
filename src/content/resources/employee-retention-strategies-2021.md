@@ -6,7 +6,7 @@ date: "2021-06-15"
 tags: ["retention", "employee engagement", "turnover", "compensation", "career development"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:36:00.357Z"
+factCheckedAt: "2026-05-04T09:42:55.255Z"
 ---
 
 Employee retention has become a top business priority as voluntary turnover rates climb across industries. Replacing an employee typically costs between six months and two years of that employee's salary when accounting for recruiting, onboarding, lost productivity, and institutional knowledge loss. Proactive retention strategies are far more cost-effective than reactive replacement.

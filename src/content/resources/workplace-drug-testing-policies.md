@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-05-25"
 tags: ["drug testing", "workplace policy", "compliance", "safety"]
 verified: true
-factCheckedAt: "2026-04-27T10:39:41.259Z"
+factCheckedAt: "2026-05-04T10:43:52.122Z"
 ---
 
 ## Legal Framework

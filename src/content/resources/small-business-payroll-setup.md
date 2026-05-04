@@ -6,7 +6,7 @@ date: "2018-10-11"
 tags: ["payroll", "small business", "tax compliance", "new business"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:34:36.868Z"
+factCheckedAt: "2026-05-04T10:39:57.044Z"
 ---
 
 ## Before Your First Payroll

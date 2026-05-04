@@ -6,7 +6,7 @@ date: "2023-11-15"
 tags: ["ban the box", "fair chance hiring", "background checks", "criminal history", "state law"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:28:18.972Z"
+factCheckedAt: "2026-05-04T09:33:53.264Z"
 ---
 
 ## The Fair Chance Hiring Movement

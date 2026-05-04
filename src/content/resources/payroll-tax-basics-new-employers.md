@@ -5,8 +5,8 @@ category: "Small Business"
 date: "2026-01-15"
 tags: ["payroll taxes", "small business", "IRS", "new employer"]
 author: "AEA Editorial Team"
-verified: true
-factCheckedAt: "2026-04-27T10:24:39.429Z"
+verified: false
+factCheckedAt: "2026-05-04T10:31:49.588Z"
 ---
 
 Hiring your first employee is an exciting milestone, but it comes with significant payroll tax responsibilities. Failing to withhold, deposit, and report payroll taxes correctly can result in substantial IRS penalties. Understanding the basics is essential for every new employer.
@@ -18,7 +18,7 @@ As an employer, you are responsible for several federal payroll taxes:
 - **Federal income tax withholding**: Based on the employee's W-4 form and IRS withholding tables
 - **Social Security tax**: 6.2 percent of wages up to the annual wage base, matched by the employer
 - **Medicare tax**: 1.45 percent of all wages, matched by the employer (employees earning above $200,000 pay an additional 0.9 percent, which the employer does not match)
-- **Federal unemployment tax (FUTA)**: 6.0 percent on the first $7,000 of each employee's wages, with a credit of up to 5.4 percent for state unemployment taxes paid
+- **Federal unemployment tax (FUTA)**: Typically, 6.0 percent on the first $7,000 of each employee's wages, with a credit of up to 5.4 percent for state unemployment taxes paid. Employers should consult current IRS guidelines as rates and credits may vary.
 
 You must also obtain an Employer Identification Number (EIN) from the IRS by filing Form SS-4 before making your first payroll tax deposit.
 
@@ -63,5 +63,3 @@ New employers frequently make these payroll tax errors:
 - Using payroll tax funds for other business expenses (this is a trust fund obligation, and the IRS can hold business owners personally liable for unpaid trust fund taxes under the Trust Fund Recovery Penalty)
 
 Consider using a reputable payroll service to handle calculations, deposits, and filings, especially when starting out. The cost is modest compared to the potential penalties for errors.
-
----

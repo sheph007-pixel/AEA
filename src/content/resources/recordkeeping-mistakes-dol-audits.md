@@ -6,7 +6,7 @@ date: "2018-01-16"
 tags: ["recordkeeping", "DOL", "FLSA", "audits", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:28:24.581Z"
+factCheckedAt: "2026-05-04T10:35:41.875Z"
 ---
 
 ## Why Recordkeeping Triggers Audits

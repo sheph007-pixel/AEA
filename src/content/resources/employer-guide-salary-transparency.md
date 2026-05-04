@@ -6,7 +6,7 @@ date: "2019-07-08"
 tags: ["salary transparency", "compensation", "pay equity", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:37:19.630Z"
+factCheckedAt: "2026-05-04T09:45:58.183Z"
 ---
 
 ## The Transparency Trend

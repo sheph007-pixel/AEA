@@ -5,7 +5,7 @@ category: "Operations"
 date: "2024-09-05"
 tags: ["payroll", "taxes", "FICA", "operations"]
 verified: true
-factCheckedAt: "2026-04-27T10:24:42.763Z"
+factCheckedAt: "2026-05-04T10:32:52.688Z"
 ---
 
 ## Federal Payroll Tax Obligations
@@ -20,11 +20,11 @@ Employers must withhold and match:
 Employers must withhold federal income tax based on the employee's W-4 form. Use the IRS withholding tables or the percentage method to calculate the correct amount.
 
 ### FUTA
-The Federal Unemployment Tax Act (FUTA) tax is 6.0% on the first $7,000 of each employee's wages. Most employers receive a credit of up to 5.4% for state unemployment taxes paid, reducing the effective FUTA rate to 0.6%.
+The Federal Unemployment Tax Act (FUTA) tax is 6.0% on the first $7,000 of each employee's wages. Most employers may receive a credit of up to 5.4% for state unemployment taxes paid, potentially reducing the effective FUTA rate to 0.6%.
 
 ## Deposit and Filing Requirements
 
-- **Semi-weekly depositors**: Must deposit employment taxes by the following Wednesday (for Saturday through Tuesday paydays) or Friday (for Wednesday through Friday paydays)
+- **Semi-weekly depositors**: For paydays on Wednesday, Thursday, and/or Friday, deposit by the following Wednesday; for paydays on Saturday, Sunday, Monday, and/or Tuesday, deposit by the following Friday.
 - **Monthly depositors**: Must deposit by the 15th of the following month
 - **Form 941**: Filed quarterly to report income taxes, Social Security, and Medicare
 - **Form 940**: Filed annually to report FUTA tax
@@ -39,7 +39,7 @@ Each state has its own requirements for:
 
 ## Common Errors
 
-1. Missing deposit deadlines (penalties accumulate quickly)
+1. Missing deposit deadlines (penalties may accumulate quickly)
 2. Misclassifying employees as independent contractors
 3. Failing to withhold taxes on fringe benefits
 4. Not adjusting withholding when employees move to different states
@@ -51,3 +51,5 @@ Each state has its own requirements for:
 - File W-2 copies with the Social Security Administration by January 31
 - Issue 1099 forms to independent contractors by January 31
 - Reconcile quarterly filings with annual totals
+
+---

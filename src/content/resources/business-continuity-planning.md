@@ -5,7 +5,7 @@ category: "Operations"
 date: "2024-05-01"
 tags: ["business continuity", "disaster planning", "risk management", "operations"]
 verified: true
-factCheckedAt: "2026-04-27T09:28:52.283Z"
+factCheckedAt: "2026-05-04T09:34:57.653Z"
 ---
 
 ## What Is Business Continuity Planning?

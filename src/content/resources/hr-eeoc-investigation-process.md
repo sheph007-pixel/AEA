@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["EEOC", "discrimination", "investigation", "compliance"]
 author: "AEA Editorial Team"
 verified: false
-factCheckedAt: "2026-04-27T09:53:05.650Z"
+factCheckedAt: "2026-05-04T10:03:26.468Z"
 ---
 
 ## Receiving an EEOC Charge
@@ -23,13 +23,13 @@ The statement should be factual and professional, avoiding personal attacks on t
 
 ## The Investigation Process
 
-EEOC investigations may involve requests for additional information, witness interviews, on-site visits, and review of employer records. Employers are generally required to cooperate with EEOC investigations, and failure to do so may result in a subpoena or adverse inference.
+EEOC investigations may involve requests for additional information, witness interviews, on-site visits, and review of employer records. Employers are generally required to cooperate with EEOC investigations, and failure to do so could result in a subpoena or adverse inference.
 
 During the investigation, the EEOC may request comparative data about how the employer treated other employees in similar situations. Having organized personnel files and consistent documentation practices greatly facilitates this process. Employers should designate a single point of contact for EEOC communications, typically the HR director or outside counsel.
 
 ## Mediation and Settlement
 
-The EEOC offers mediation as an alternative to investigation. Mediation is voluntary, confidential, and generally can resolve charges more quickly and less expensively than a full investigation. Employers should seriously consider mediation, particularly when the facts are unfavorable or the cost of defense would exceed a reasonable settlement.
+The EEOC offers mediation as an alternative to investigation. Mediation is voluntary, confidential, and may resolve charges more quickly and less expensively than a full investigation. Employers should seriously consider mediation, particularly when the facts are unfavorable or the cost of defense would exceed a reasonable settlement.
 
 If mediation is unsuccessful or declined, the investigation continues. The EEOC will issue a determination of either reasonable cause or no reasonable cause. A no-cause finding effectively ends the EEOC process, though the charging party retains the right to file a private lawsuit. A cause finding leads to conciliation efforts between the EEOC and the employer.
 

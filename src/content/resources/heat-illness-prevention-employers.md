@@ -6,7 +6,7 @@ date: "2023-06-30"
 tags: ["heat illness", "OSHA", "safety", "outdoor workers", "workplace safety"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:48:21.654Z"
+factCheckedAt: "2026-05-04T09:57:54.102Z"
 ---
 
 ## An Evolving Regulatory Landscape

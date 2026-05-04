@@ -5,11 +5,11 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["independent contractors", "employee classification", "IRS", "compliance"]
 author: "AEA Editorial Team"
-verified: true
-factCheckedAt: "2026-04-27T10:14:48.473Z"
+verified: false
+factCheckedAt: "2026-05-04T10:22:09.821Z"
 ---
 
-Misclassifying workers as independent contractors when they should be employees is one of the most heavily penalized employment law violations. The consequences include back taxes, penalties, unpaid benefits, and potential liability under wage and hour, workers compensation, and unemployment insurance laws.
+Misclassifying workers as independent contractors when they should be employees can lead to significant penalties. The consequences may include back taxes, penalties, unpaid benefits, and potential liability under wage and hour, workers' compensation, and unemployment insurance laws.
 
 ## Why Classification Matters
 
@@ -18,7 +18,7 @@ The distinction between employee and independent contractor affects:
 - Federal and state income tax withholding
 - Social Security and Medicare tax obligations
 - Unemployment insurance contributions
-- Workers compensation coverage requirements
+- Workers' compensation coverage requirements
 - Eligibility for employee benefits
 - Overtime and minimum wage protections under the FLSA
 - Protections under anti-discrimination laws
@@ -62,13 +62,13 @@ The Department of Labor uses the economic reality test for FLSA purposes, which 
 
 ## State Law Variations
 
-Many states have their own classification tests, and some are stricter than the federal standards:
+Many states have their own classification tests, and some may be stricter than the federal standards:
 
-- Several states use the ABC test, which presumes a worker is an employee unless the employer can prove all three parts of the test
-- State tests may apply differently for different purposes (tax, unemployment, workers comp)
+- Some states use the ABC test, which presumes a worker is an employee unless the employer can prove all three parts of the test
+- State tests may apply differently for different purposes (tax, unemployment, workers' comp)
 - Some states have enacted specific legislation targeting certain industries
 
-Always check the applicable state laws where the worker performs services.
+Employers should always check the applicable state laws where the worker performs services.
 
 ## Protecting Your Business
 
@@ -80,3 +80,5 @@ To reduce misclassification risk:
 - Allow genuine contractors to control how they complete their work
 - Avoid providing contractors with company equipment, email addresses, or business cards
 - File IRS Form SS-8 if you are uncertain about a worker's status
+
+---

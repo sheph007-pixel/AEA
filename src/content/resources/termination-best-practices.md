@@ -5,7 +5,7 @@ category: "HR"
 date: "2024-09-25"
 tags: ["termination", "HR management", "employment law", "documentation"]
 verified: true
-factCheckedAt: "2026-04-27T10:35:30.321Z"
+factCheckedAt: "2026-05-04T10:40:55.653Z"
 ---
 
 ## Before the Termination

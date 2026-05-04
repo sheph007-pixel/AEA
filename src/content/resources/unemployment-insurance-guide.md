@@ -5,12 +5,12 @@ category: "Operations"
 date: "2024-06-01"
 tags: ["unemployment", "insurance", "claims", "taxes"]
 verified: true
-factCheckedAt: "2026-04-27T10:36:59.045Z"
+factCheckedAt: "2026-05-04T10:42:48.029Z"
 ---
 
 ## How Unemployment Insurance Works
 
-Unemployment insurance (UI) provides temporary income to workers who lose their jobs through no fault of their own. Employers fund UI through payroll taxes, and your tax rate is directly influenced by the number and cost of claims against your account.
+Unemployment insurance (UI) provides temporary income to workers who lose their jobs through no fault of their own. Employers fund UI through payroll taxes, and your tax rate is influenced by several factors, including the number and cost of claims against your account, the size of your payroll, and state-specific calculations.
 
 ## Responding to Claims
 
@@ -36,11 +36,11 @@ If an initial determination is unfavorable:
 2. Prepare your case with documentation and witnesses
 3. Attend the hearing (usually by phone)
 4. Present your evidence clearly and concisely
-5. Further appeals may be available through a review board or court
+5. The availability of further appeals depends on state-specific laws and procedures
 
 ## Managing Your Tax Rate
 
-Your UI tax rate is based on your experience rating - essentially, how many claims have been filed against your account. To keep your rate low:
+Your UI tax rate is influenced by your experience rating, which includes factors such as the number of claims filed against your account, the size of your payroll, and state-specific calculations. To keep your rate low:
 
 - Respond to all claims promptly and thoroughly
 - Contest claims when appropriate
@@ -55,5 +55,3 @@ Your UI tax rate is based on your experience rating - essentially, how many clai
 - Not attending appeal hearings
 - Providing inconsistent information across multiple claims
 - Classifying a termination for misconduct when the reason was actually a layoff
-
----

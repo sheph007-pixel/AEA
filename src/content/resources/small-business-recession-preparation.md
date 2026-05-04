@@ -6,7 +6,7 @@ date: "2022-12-05"
 tags: ["recession", "small business", "financial planning", "workforce", "cost management"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:34:39.760Z"
+factCheckedAt: "2026-05-04T10:39:59.758Z"
 ---
 
 Economic uncertainty creates anxiety for small business owners, but proactive preparation significantly reduces the impact of a downturn. The employers who survive and even thrive during recessions are those who plan ahead, manage costs intelligently, and retain their core team.

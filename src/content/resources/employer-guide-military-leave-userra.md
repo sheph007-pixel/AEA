@@ -6,7 +6,7 @@ date: "2019-12-16"
 tags: ["USERRA", "military leave", "compliance", "veterans"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:37:17.522Z"
+factCheckedAt: "2026-05-04T09:45:56.110Z"
 ---
 
 ## What USERRA Covers

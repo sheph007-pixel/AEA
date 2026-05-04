@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["EEO-1", "EEOC", "reporting", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:40:09.068Z"
+factCheckedAt: "2026-05-04T09:48:56.897Z"
 ---
 
 The EEO-1 report is an annual filing required by the EEOC that collects workforce demographic data from covered employers. The data helps the EEOC and the Office of Federal Contract Compliance Programs (OFCCP) monitor employment patterns and enforce federal anti-discrimination laws. Failure to file may result in enforcement actions, which could include potential penalties or other compliance measures.

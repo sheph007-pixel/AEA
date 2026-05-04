@@ -5,22 +5,22 @@ category: "Hiring"
 date: "2023-03-15"
 tags: ["AI", "hiring", "compliance", "discrimination", "technology"]
 author: "AEA Editorial Team"
-verified: true
-factCheckedAt: "2026-04-27T09:27:53.667Z"
+verified: false
+factCheckedAt: "2026-05-04T09:33:17.764Z"
 ---
 
 ## The Rise of AI in Recruitment
 
-Employers across every industry are adopting artificial intelligence tools to screen resumes, conduct video interview assessments, administer skills tests, and rank candidates. These tools promise efficiency gains, but they also carry significant legal risk. Federal, state, and local regulators are increasingly scrutinizing how automated decision-making tools affect protected classes of workers.
+Employers across every industry are adopting artificial intelligence tools to screen resumes, conduct video interview assessments, administer skills tests, and rank candidates. These tools promise efficiency gains, but they also carry potential legal risks. Federal, state, and local regulators are increasingly scrutinizing how automated decision-making tools may affect protected classes of workers.
 
-If your organization uses any automated tool in the hiring process, you need to understand the current legal framework and take concrete steps to reduce your exposure.
+If your organization uses any automated tool in the hiring process, you need to understand the current legal framework and consider steps to reduce your exposure.
 
 ## Federal Law Still Applies
 
-The Equal Employment Opportunity Commission (EEOC) has made clear that Title VII of the Civil Rights Act and the Americans with Disabilities Act apply to AI-driven hiring decisions just as they do to human ones. In 2023, the EEOC issued updated technical assistance emphasizing two key points:
+The Equal Employment Opportunity Commission (EEOC) has made clear that Title VII of the Civil Rights Act and the Americans with Disabilities Act apply to AI-driven hiring decisions just as they do to human ones. In 2023, the EEOC issued updated technical assistance that highlighted issues such as:
 
-- **Disparate impact liability**: If an AI screening tool disproportionately filters out candidates of a particular race, sex, age, or other protected characteristic, the employer can be liable even if the tool was designed without discriminatory intent. The employer bears the burden of demonstrating that the tool is job-related and consistent with business necessity.
-- **Disability discrimination**: AI tools that assess facial expressions, speech patterns, or other behavioral cues during video interviews may screen out individuals with disabilities. Under the ADA, employers must provide reasonable accommodations, which may mean offering alternative assessment methods.
+- **Disparate impact liability**: If an AI screening tool disproportionately filters out candidates of a particular race, sex, age, or other protected characteristic, the employer may be liable even if the tool was designed without discriminatory intent. The employer bears the burden of demonstrating that the tool is job-related and consistent with business necessity.
+- **Disability discrimination**: AI tools that assess facial expressions, speech patterns, or other behavioral cues during video interviews may inadvertently screen out individuals with disabilities. Under the ADA, employers must provide reasonable accommodations, which may mean offering alternative assessment methods.
 
 The key takeaway is that the employer, not the vendor, is ultimately responsible for the lawfulness of hiring decisions made with AI assistance.
 
@@ -29,7 +29,7 @@ The key takeaway is that the employer, not the vendor, is ultimately responsible
 Several jurisdictions have enacted or proposed laws specifically targeting AI in employment:
 
 - **New York City Local Law 144** requires employers using automated employment decision tools to conduct annual bias audits. While the law mandates these audits, it does not explicitly require that they be performed by independent auditors. Employers must also notify candidates that such tools are being used.
-- **Illinois** amended its AI Video Interview Act to require employer consent disclosures before using AI to analyze video interviews. The specific consent requirements may vary based on circumstances, and employers should be aware of any exceptions that may apply.
+- **Illinois** amended its AI Video Interview Act to require employer consent disclosures before using AI to analyze video interviews. The specific consent requirements may vary, and employers should be aware of any exceptions that may apply.
 
 Employers operating in multiple states should expect this patchwork to expand and should track legislative developments in every jurisdiction where they hire.
 
@@ -49,6 +49,6 @@ Employers operating in multiple states should expect this patchwork to expand an
 
 ## Looking Ahead
 
-Federal legislation on AI in hiring remains in discussion but has not yet been enacted. However, the direction of regulatory activity is clear: greater transparency, mandatory testing, and employer accountability. Employers who get ahead of these requirements now will be better positioned when broader mandates arrive.
+Federal legislation on AI in hiring remains in discussion but has not yet been enacted. However, the direction of regulatory activity suggests a trend towards greater transparency, mandatory testing, and employer accountability. Employers who get ahead of these potential requirements now may be better positioned when broader mandates arrive.
 
 The bottom line is straightforward. AI tools can add genuine value to your hiring process, but they do not relieve you of your obligations under employment law. Treat every automated decision the same way you would treat a human one: with scrutiny, documentation, and a commitment to fairness.

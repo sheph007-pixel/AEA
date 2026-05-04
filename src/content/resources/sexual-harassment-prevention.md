@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-09-10"
 tags: ["harassment", "compliance", "training", "workplace culture"]
 verified: true
-factCheckedAt: "2026-04-27T10:30:30.592Z"
+factCheckedAt: "2026-05-04T10:39:08.748Z"
 ---
 
 ## Legal Framework

@@ -4,8 +4,8 @@ description: "An overview of employer obligations under ERISA for managing emplo
 category: "Compliance"
 date: "2024-04-22"
 tags: ["ERISA", "benefits", "fiduciary", "compliance"]
-verified: false
-factCheckedAt: "2026-04-27T10:36:23.729Z"
+verified: true
+factCheckedAt: "2026-05-04T10:41:27.689Z"
 ---
 
 ## What Is ERISA?

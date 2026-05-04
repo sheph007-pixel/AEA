@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["arizona", "employment law", "minimum wage", "compliance"]
 author: "AEA Editorial Team"
 verified: false
-factCheckedAt: "2026-04-27T09:50:23.768Z"
+factCheckedAt: "2026-05-04T10:00:53.258Z"
 ---
 
 ## Arizona At-Will Employment
@@ -29,10 +29,10 @@ Arizona employers have the right to implement drug testing programs and may test
 
 ## Discrimination and Harassment Protections
 
-The Arizona Civil Rights Act (ACRA) prohibits employment discrimination based on race, color, religion, sex, age, disability, national origin, and genetic information. Unlike federal Title VII, the ACRA applies to employers with 15 or more employees. While Arizona does not currently have a statewide law prohibiting discrimination based on sexual orientation or gender identity, several municipalities, including Phoenix, Tucson, and Flagstaff, have enacted local non-discrimination ordinances covering these categories.
+The Arizona Civil Rights Act (ACRA) prohibits employment discrimination based on race, color, religion, sex, age, disability, national origin, and genetic information. Unlike federal Title VII, the ACRA's applicability may vary, and employers should consult legal counsel to determine their obligations. While Arizona does not currently have a statewide law prohibiting discrimination based on sexual orientation or gender identity, several municipalities, including Phoenix, Tucson, and Flagstaff, have enacted local non-discrimination ordinances covering these categories.
 
-Employers should also be aware that Arizona law requires employers to verify the employment eligibility of new hires through E-Verify, making Arizona one of the few states with a mandatory E-Verify requirement for all employers.
+Employers should also be aware that Arizona law may require employers to verify the employment eligibility of new hires through E-Verify. Employers should consult legal counsel to confirm their obligations regarding E-Verify requirements.
 
 ## Key Compliance Considerations
 
-Arizona employers should maintain current employee handbooks with at-will disclaimers, implement compliant paid sick leave policies, ensure timely workers' compensation coverage, and verify E-Verify enrollment. Staying current on annual minimum wage adjustments and monitoring local ordinances in cities where employees work are essential ongoing compliance activities.
+Arizona employers should maintain current employee handbooks with at-will disclaimers, implement compliant paid sick leave policies, ensure timely workers' compensation coverage, and verify E-Verify enrollment as applicable. Staying current on annual minimum wage adjustments and monitoring local ordinances in cities where employees work are essential ongoing compliance activities.

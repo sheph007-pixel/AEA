@@ -5,7 +5,7 @@ category: "HR"
 date: "2024-07-30"
 tags: ["performance management", "reviews", "HR management", "documentation"]
 verified: true
-factCheckedAt: "2026-04-27T10:24:44.573Z"
+factCheckedAt: "2026-05-04T10:32:54.351Z"
 ---
 
 ## Purpose of Performance Management

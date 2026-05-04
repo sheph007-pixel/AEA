@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["texas", "workers compensation", "insurance", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:09:47.084Z"
+factCheckedAt: "2026-05-04T10:18:36.959Z"
 ---
 
 ## Texas Workers' Compensation System
@@ -19,7 +19,7 @@ This voluntary system creates important strategic and legal considerations for T
 
 Subscribing employers obtain workers' compensation coverage from licensed insurance companies. In exchange, they receive protection from most employee lawsuits related to workplace injuries. Injured employees receive medical benefits and income replacement without needing to prove employer fault.
 
-Non-subscribing employers forfeit several common-law defenses if sued by an injured employee, including contributory negligence, assumption of risk, and the fellow-servant doctrine. This means non-subscribers face significantly greater litigation risk when employees are injured on the job.
+Non-subscribing employers may forfeit several common-law defenses if sued by an injured employee, including contributory negligence, assumption of risk, and the fellow-servant doctrine. This generally means non-subscribers face greater litigation risk when employees are injured on the job.
 
 ## Notification Requirements
 

@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["massachusetts", "noncompete", "employment agreements", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:00:17.539Z"
+factCheckedAt: "2026-05-04T10:08:14.981Z"
 ---
 
 ## Massachusetts Noncompete Reform

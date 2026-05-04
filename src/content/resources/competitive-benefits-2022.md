@@ -6,7 +6,7 @@ date: "-05-10"
 tags: ["benefits", "compensation", "employee expectations", "retention", "hiring"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:29:43.935Z"
+factCheckedAt: "2026-05-04T09:35:23.637Z"
 ---
 
 Employee benefits expectations have shifted dramatically. What was considered generous in 2019 may now be table stakes. To compete for talent and retain your workforce, you need to understand which benefits actually influence employee decisions and prioritize accordingly.

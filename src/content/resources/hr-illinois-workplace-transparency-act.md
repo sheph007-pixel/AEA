@@ -5,8 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["illinois", "workplace transparency", "arbitration", "compliance"]
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-27T09:58:28.147Z"
+verified: true
+factCheckedAt: "2026-05-04T10:07:52.706Z"
 ---
 
 ## Overview of the Workplace Transparency Act

@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["auto dealership", "sales", "commissions", "FLSA"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:50:52.488Z"
+factCheckedAt: "2026-05-04T10:01:27.640Z"
 ---
 
 ## FLSA Auto Dealership Exemptions
@@ -19,7 +19,7 @@ To qualify, the employee must be primarily engaged in the selling or servicing f
 
 Dealership commission pay structures vary widely but typically include draw-against-commission arrangements, flat-per-unit commissions, percentage-of-gross-profit commissions, or hybrid plans combining a base salary with commission. Each structure creates specific compliance obligations under the FLSA and state wage and hour laws.
 
-Under a draw-against-commission arrangement, the draw is an advance against future commissions. Employers must ensure that employees earn at least the applicable minimum wage for all hours worked in each pay period, based on both federal and state laws. If commissions are insufficient to meet minimum wage after the draw is deducted, the employer must make up the difference. In some states, employers may be restricted from carrying forward negative commission balances beyond the pay period; employers should verify specific state requirements.
+Under a draw-against-commission arrangement, the draw is an advance against future commissions. Employers must generally ensure that employees earn at least the applicable minimum wage for all hours worked in each pay period, based on both federal and state laws. Employers should consult specific state laws and legal counsel to ensure compliance with minimum wage requirements under different commission structures. If commissions are insufficient to meet minimum wage after the draw is deducted, the employer must make up the difference. In some states, employers may be restricted from carrying forward negative commission balances beyond the pay period; employers should verify specific state requirements by consulting state-specific legal resources.
 
 ## State Commission Payment Laws
 

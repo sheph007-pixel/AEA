@@ -5,15 +5,13 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["FLSA", "exempt employees", "salary threshold", "overtime"]
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-27T09:54:25.445Z"
+verified: true
+factCheckedAt: "2026-05-04T10:04:17.537Z"
 ---
 
 ## Federal Salary Threshold Overview
 
-The Fair Labor Standards Act requires that employees classified as exempt from overtime under the executive, administrative, and professional (EAP) exemptions must be paid on a salary basis at or above a minimum threshold established by the Department of Labor. The salary threshold has been the subject of significant regulatory activity in recent years.
-
-Employers must monitor DOL rulemaking on salary thresholds, as changes can affect the exempt status of large numbers of employees. When thresholds increase, employers must either raise salaries to meet the new minimum or reclassify affected employees as non-exempt and pay them overtime.
+The Fair Labor Standards Act requires that employees classified as exempt from overtime under the executive, administrative, and professional (EAP) exemptions must be paid on a salary basis at or above a minimum threshold established by the Department of Labor. Employers may need to monitor DOL rulemaking on salary thresholds, as changes can affect the exempt status of employees. When thresholds increase, employers must either raise salaries to meet the new minimum or reclassify affected employees as non-exempt and pay them overtime.
 
 ## Duties Tests for Exemption
 
@@ -31,7 +29,7 @@ Employers with employees in multiple states must comply with the higher of the f
 
 The FLSA provides a streamlined duties test for highly compensated employees (HCEs) who earn above a higher annual compensation threshold. HCEs need only customarily and regularly perform at least one of the exempt duties of an executive, administrative, or professional employee to qualify for exemption, rather than satisfying the full standard duties test.
 
-The current HCE threshold is $107,432 annually, and it has been subject to regulatory changes in recent years. Employers should verify the current HCE threshold and ensure that employees classified under this exemption meet both the compensation and minimal duties requirements.
+The current HCE threshold is $107,432 annually. Employers should verify the current HCE threshold and ensure that employees classified under this exemption meet both the compensation and minimal duties requirements.
 
 ## Salary Basis Requirements
 

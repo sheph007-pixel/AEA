@@ -4,8 +4,8 @@ description: "With leave laws expanding at the state and local level, employers 
 category: "Compliance"
 date: "2024-10-30"
 tags: ["leave", "FMLA", "paid leave", "state law"]
-verified: true
-factCheckedAt: "2026-04-27T09:27:10.411Z"
+verified: false
+factCheckedAt: "2026-05-04T09:31:37.096Z"
 ---
 
 ## The Growing Complexity
@@ -20,13 +20,13 @@ Employee leave is no longer just about FMLA and your company's PTO policy. The p
 - Jury duty protections
 
 ### State-Mandated Paid Leave
-A growing number of states require:
+Many states require:
 - Paid sick leave
 - Paid family and medical leave
 - Paid safe/domestic violence leave
 
 ### State-Mandated Unpaid Leave
-Many states provide additional unpaid leave beyond FMLA for:
+Certain states may provide additional unpaid leave beyond FMLA for:
 - Family care
 - Domestic violence situations
 - School activities
@@ -34,7 +34,7 @@ Many states provide additional unpaid leave beyond FMLA for:
 - Voting
 
 ### Local Leave Laws
-Some cities and counties have their own leave requirements that may be more generous than state law.
+Some cities and counties may have their own leave requirements that can be more generous than state law.
 
 ## Coordination Challenges
 
@@ -54,3 +54,5 @@ When multiple leave laws apply to the same absence:
 5. **Document thoroughly**: Maintain records of all leave requests, approvals, and communications
 6. **Update regularly**: Review your leave obligations at least annually as laws change
 7. **Seek guidance**: Complex leave situations often require legal counsel
+
+---

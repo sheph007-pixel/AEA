@@ -6,7 +6,7 @@ date: "2023-05-25"
 tags: ["return to office", "hybrid work", "remote work", "retention", "operations"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:30:18.190Z"
+factCheckedAt: "2026-05-04T10:37:30.907Z"
 ---
 
 ## The Return-to-Office Dilemma

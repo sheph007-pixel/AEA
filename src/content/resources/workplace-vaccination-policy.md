@@ -6,7 +6,7 @@ date: "2021-02-15"
 tags: ["vaccination", "workplace policy", "ADA", "Title VII", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:40:54.899Z"
+factCheckedAt: "2026-05-04T10:45:25.595Z"
 ---
 
 Employers who choose to implement vaccination policies must navigate a complex intersection of employment law, public health guidance, and employee relations. Whether you mandate vaccination, incentivize it, or simply encourage it, a well-structured policy protects both your organization and your workforce.
@@ -41,7 +41,7 @@ The EEOC confirmed that employers can generally require COVID-19 vaccination, su
 - Employees with sincerely held religious beliefs that prevent vaccination are entitled to accommodation under Title VII
 - The standard for "sincerely held" is broad and includes beliefs that are not part of an organized religion
 - Employers may ask for additional information if they have a genuine basis to question sincerity, but should be cautious about interrogating religious beliefs
-- The accommodation standard for religious objections is "de minimis cost," which is a lower threshold than ADA's "undue hardship"
+- The accommodation standard for religious objections requires showing that the accommodation would pose an "undue hardship," which means a substantial burden on the employer's operations
 
 ### State law variations
 - Some states have enacted laws limiting employer vaccination mandates or expanding exemption categories

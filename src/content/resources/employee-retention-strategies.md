@@ -6,10 +6,10 @@ date: "2026-01-15"
 tags: ["retention", "employee engagement", "small business", "turnover"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:36:01.977Z"
+factCheckedAt: "2026-05-04T09:43:10.858Z"
 ---
 
-Employee turnover is expensive. The cost of replacing an employee typically ranges from one-half to two times the employee's annual salary when you account for recruiting, hiring, training, and lost productivity. For small businesses operating on tight margins, retention is not just an HR issue but a financial imperative.
+Employee turnover is expensive. The cost of replacing an employee can range from one-half to two times the employee's annual salary when you account for recruiting, hiring, training, and lost productivity. For small businesses operating on tight margins, retention is not just an HR issue but a financial imperative.
 
 ## Understanding Why Employees Leave
 
@@ -37,7 +37,7 @@ While money is not the only factor, it matters:
 
 ## Investing in Management Quality
 
-The relationship between an employee and their direct manager is the single most influential factor in retention:
+The relationship between an employee and their direct manager is often a significant factor in retention:
 
 - Train managers in effective communication, coaching, and feedback skills
 - Hold managers accountable for team engagement and retention metrics

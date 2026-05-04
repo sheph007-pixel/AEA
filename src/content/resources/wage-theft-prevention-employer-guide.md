@@ -5,8 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["wage theft", "FLSA", "payroll", "compliance"]
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-27T10:37:53.112Z"
+verified: true
+factCheckedAt: "2026-05-04T10:43:06.936Z"
 ---
 
 Wage theft is not just an intentional act. Many employers unknowingly engage in practices that may constitute wage theft under federal and state law. Common forms include failing to pay for all hours worked, misclassifying employees, improperly rounding time, and not paying final wages on time. The consequences can include back pay awards, penalties, legal fees, and reputational damage.

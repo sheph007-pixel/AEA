@@ -6,7 +6,7 @@ date: "2026-01-15"
 tags: ["wage garnishment", "payroll", "compliance", "CCPA"]
 author: "AEA Editorial Team"
 verified: false
-factCheckedAt: "2026-04-27T09:43:18.589Z"
+factCheckedAt: "2026-05-04T09:53:02.924Z"
 ---
 
 Wage garnishments are court-ordered or government-ordered deductions from an employee's pay to satisfy a debt. Employers are legally required to comply with garnishment orders and can face penalties for failing to do so. Understanding the process and limits protects your organization from liability.
@@ -19,7 +19,7 @@ The most common types of wage garnishments employers encounter include:
 - **Federal tax levies**: Issued by the IRS for unpaid federal taxes, these generally take precedence over most other types of wage garnishments, except for existing child or spousal support orders and bankruptcy orders.
 - **State tax levies**: Issued by state tax agencies.
 - **Creditor garnishments**: Court orders for unpaid debts such as credit cards, medical bills, or loans.
-- **Federal student loan garnishments**: Administrative wage garnishment by the Department of Education or its servicers.
+- **Federal student loan garnishments**: Typically administrative wage garnishments by the Department of Education or its servicers.
 - **Bankruptcy orders**: Court orders related to bankruptcy proceedings.
 
 ## Federal Limits on Garnishment

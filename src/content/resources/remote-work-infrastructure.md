@@ -6,7 +6,7 @@ date: "2020-04-25"
 tags: ["remote work", "technology", "small business", "infrastructure", "budget"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:29:26.761Z"
+factCheckedAt: "2026-05-04T10:36:22.281Z"
 ---
 
 The rapid shift to remote work caught many small businesses off guard. Building a functional remote work infrastructure does not require an enterprise-level budget, but it does require thoughtful planning. Here is how to get your team working productively from home without overspending.

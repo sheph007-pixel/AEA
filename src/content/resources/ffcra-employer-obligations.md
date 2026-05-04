@@ -6,7 +6,7 @@ date: "2020-04-10"
 tags: ["FFCRA", "paid leave", "COVID-19", "compliance", "tax credits"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T09:45:57.798Z"
+factCheckedAt: "2026-05-04T09:56:24.155Z"
 ---
 
 The Families First Coronavirus Response Act (FFCRA), signed into law on March 18, 2020, imposed new paid leave requirements on employers with fewer than 500 employees. Understanding these obligations is essential for compliance and for accessing the corresponding tax credits.
@@ -24,7 +24,7 @@ All employees, regardless of tenure, are entitled to up to 80 hours of paid sick
 
 ### Emergency Family and Medical Leave Expansion Act (EFMLEA)
 
-Employees who have been on payroll for at least 30 days are entitled to up to 12 weeks of leave to care for a child whose school or place of care is closed due to COVID-19:
+Employees who have been on payroll for at least 30 days may be eligible for up to 10 additional weeks of paid expanded family and medical leave to care for a child whose school or place of care is closed due to COVID-19:
 
 - The first 10 days may be unpaid (though employees can use EPSLA or accrued leave)
 - The remaining 10 weeks must be paid at two-thirds of the employee's regular rate, capped at $200 per day and $10,000 in total
@@ -55,7 +55,7 @@ Employers should collect and retain the following from employees requesting FFCR
 
 ## Practical Steps for Compliance
 
-1. **Post the required notice.** The Department of Labor published a model notice that must be displayed in a conspicuous place. For remote workers, distribute it electronically.
+1. **Post the required notice.** Employers should consult the Department of Labor for guidance on any model notices that may need to be displayed in a conspicuous place. For remote workers, distribute it electronically.
 
 2. **Update your payroll system.** FFCRA leave must be tracked separately from existing PTO and FMLA leave. Work with your payroll provider to create distinct pay codes.
 

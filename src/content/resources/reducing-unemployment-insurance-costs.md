@@ -5,20 +5,20 @@ category: "Operations"
 date: "2026-01-15"
 tags: ["unemployment insurance", "cost reduction", "operations", "HR"]
 author: "AEA Editorial Team"
-verified: true
-factCheckedAt: "2026-04-27T10:28:29.095Z"
+verified: false
+factCheckedAt: "2026-05-04T10:36:18.481Z"
 ---
 
 Unemployment insurance (UI) is a significant payroll expense, and your tax rate is directly affected by your claims history. Employers who actively manage their UI costs can achieve meaningful savings. Understanding the experience rating system and taking proactive steps to reduce claims is essential.
 
 ## How Experience Rating Works
 
-Most states use an experience rating system to determine each employer's UI tax rate:
+Many states use an experience rating system to determine each employer's UI tax rate:
 
-- New employers receive a standard rate, which varies by state and sometimes by industry.
+- New employers may receive a standard rate, which can vary by state and sometimes by industry.
 - Over time, your rate adjusts based on the amount of UI benefits charged to your account relative to your taxable payroll.
 - More claims may lead to a higher tax rate; fewer claims may result in a lower rate.
-- Rates are generally recalculated annually based on a multi-year lookback period.
+- Rates are often recalculated annually, and employers should consult their state's guidelines to understand the specific lookback period used.
 - The rate includes a taxable wage base, which varies significantly by state.
 
 Understanding your state's specific formula helps you calculate the financial impact of each UI claim.
@@ -65,5 +65,3 @@ Additional strategies for managing UI costs over time:
 - Monitor your benefit ratio and take steps to improve it before your rate increases.
 - Consider voluntary contributions in some states where they can reduce your rate.
 - Work with your payroll provider to ensure accurate and timely UI tax reporting.
-
----

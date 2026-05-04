@@ -7,7 +7,7 @@ tags: ["minimum wage", "state law", "compliance", "Current Year", "payroll"]
 author: "AEA Editorial Team"
 featured: false
 verified: true
-factCheckedAt: "2026-04-27T10:35:09.764Z"
+factCheckedAt: "2026-05-04T10:40:33.353Z"
 ---
 
 ## The Current Year Minimum Wage Landscape

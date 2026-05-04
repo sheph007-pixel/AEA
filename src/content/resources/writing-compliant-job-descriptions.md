@@ -6,12 +6,12 @@ date: "2017-03-14"
 tags: ["job descriptions", "ADA", "hiring", "essential functions"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:41:47.539Z"
+factCheckedAt: "2026-05-04T10:46:15.666Z"
 ---
 
 ## Why Job Descriptions Matter Legally
 
-A well-written job description is not just a recruiting tool — it is a legal document that can protect or expose your organization. Under the Americans with Disabilities Act (ADA), a written job description prepared before advertising or interviewing is considered evidence of the essential functions of the position. It is also a key reference point for FLSA exemption determinations, performance management, and workers' compensation claims.
+A well-written job description is not just a recruiting tool — it is a document that can protect or expose your organization. Under the Americans with Disabilities Act (ADA), a written job description prepared before advertising or interviewing may be considered evidence of the essential functions of the position. It may also be used as a reference point for FLSA exemption determinations, performance management, and workers' compensation claims.
 
 ## Defining Essential Functions
 
@@ -41,7 +41,7 @@ List the primary duties, starting with the most important. Use action verbs and 
 - Write: "Prepares monthly financial statements, reconciles general ledger accounts, and processes accounts payable and receivable"
 
 ### Physical Requirements
-Describe the physical demands honestly and specifically. This section is critical for ADA compliance and workers' compensation management. Include:
+Describe the physical demands honestly and specifically. This section is important for ADA compliance and workers' compensation management. Include:
 
 - Lifting requirements (specify weight and frequency)
 - Standing, sitting, or walking requirements
@@ -59,7 +59,7 @@ Describe the work environment, schedule expectations, and travel requirements.
 
 ## Common Mistakes
 
-**Listing every possible task.** A job description that lists 40 duties buries the essential functions and becomes useless as a legal document. Focus on the core functions and add a catch-all statement like "performs other duties as assigned."
+**Listing every possible task.** A job description that lists 40 duties buries the essential functions and becomes less useful as a document. Focus on the core functions and add a catch-all statement like "performs other duties as assigned."
 
 **Using vague language.** "Handles customer issues" does not tell anyone what the job actually involves. Specify the type and volume of customer interactions.
 

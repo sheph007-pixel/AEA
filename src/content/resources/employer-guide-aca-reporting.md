@@ -5,8 +5,8 @@ category: "Benefits"
 date: "2016-06-20"
 tags: ["ACA", "healthcare", "benefits", "IRS reporting"]
 author: "AEA Editorial Team"
-verified: false
-factCheckedAt: "2026-04-27T09:37:11.828Z"
+verified: true
+factCheckedAt: "2026-05-04T09:45:10.904Z"
 ---
 
 ## Who Must Report
@@ -43,7 +43,7 @@ Each ALE member must furnish a Form 1095-C to every full-time employee. The form
 
 **Wrong affordability safe harbor.** The IRS provides three affordability safe harbors: the W-2 safe harbor, the rate of pay safe harbor, and the federal poverty line safe harbor. Make sure you apply the correct one consistently and that it is reflected in the line 16 codes.
 
-**Missing or incorrect Social Security numbers.** The IRS requires SSNs for all covered individuals. If an SSN is unavailable, you must make a reasonable effort to obtain it, documented by at least two solicitations.
+**Missing or incorrect Social Security numbers.** The IRS requires a Taxpayer Identification Number (TIN), such as an SSN, for all covered individuals. If a TIN is unavailable, the date of birth may be used, provided reasonable efforts to obtain the TIN have been documented.
 
 ## Filing Deadlines
 
@@ -57,7 +57,7 @@ Electronic filing is generally mandatory for employers filing 10 or more forms, 
 2. **Identify your full-time employees each month** using either the monthly measurement method or the look-back measurement method.
 3. **Choose an affordability safe harbor** and apply it consistently.
 4. **Reconcile your data** before filing — cross-check enrollment records against payroll records and carrier reports.
-5. **Retain copies** of all filed forms and supporting data for at least four years.
+5. **Retain copies** of all filed forms and supporting data. Employers should consult with legal or tax professionals regarding specific record retention requirements.
 6. **Work with your benefits administrator or payroll provider** to ensure the forms are generated accurately. Many reporting errors originate from incomplete or inconsistent data feeds.
 
 ACA reporting carries penalties for both failure to file and filing incorrect information. Investing in data quality and process controls on the front end is far less costly than responding to IRS penalty notices after the fact.

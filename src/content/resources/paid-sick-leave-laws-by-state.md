@@ -6,7 +6,7 @@ date: "2019-02-20"
 tags: ["paid sick leave", "state laws", "compliance", "benefits"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:23:31.090Z"
+factCheckedAt: "2026-05-04T10:29:48.395Z"
 ---
 
 ## The Expanding Landscape

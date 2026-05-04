@@ -7,7 +7,7 @@ month: "2026-05"
 author: "AEA Editorial Team"
 tags: ["trends", "workforce"]
 verified: true
-factCheckedAt: "2026-05-01T09:52:23.212Z"
+factCheckedAt: "2026-05-04T09:30:17.405Z"
 ---
 
 ## Introduction

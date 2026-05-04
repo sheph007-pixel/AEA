@@ -4,8 +4,8 @@ description: "Key deadlines and requirements for Affordable Care Act reporting t
 category: "Compliance"
 date: "2024-11-28"
 tags: ["ACA", "reporting", "compliance", "health insurance"]
-verified: true
-factCheckedAt: "2026-04-27T09:27:03.301Z"
+verified: false
+factCheckedAt: "2026-05-04T09:31:04.482Z"
 ---
 
 ## Who Must Report
@@ -26,15 +26,15 @@ This is the transmittal form filed with the IRS along with all 1095-C forms. It 
 ## Key Deadlines
 
 - **Employee copies**: Must be furnished by March 1 (or the next business day)
-- **IRS filing (paper)**: Due by February 28
-- **IRS filing (electronic)**: Due by March 31 (electronic filing required for 250+ forms)
+- **IRS filing (paper)**: Due by March 2, 2026
+- **IRS filing (electronic)**: Due by March 31 (electronic filing required for 10 or more returns)
 
 ## Common Compliance Issues
 
 1. **Incorrect employee counts**: Misidentifying full-time status by not including all hours worked
 2. **Incorrect coding**: Using wrong indicator codes on Line 14, 15, or 16
 3. **Missing employees**: Failing to report on all full-time employees for every month
-4. **Late filings**: Missing deadlines triggers penalties per form
+4. **Late filings**: Missing deadlines may trigger penalties per form
 5. **Inconsistent data**: Information on 1095-C not matching what was reported to employees or on other tax forms
 
 ## Avoiding Penalties
@@ -52,4 +52,4 @@ Penalties for non-compliance can be significant:
 - Failure to furnish correct payee statements to employees
 - Penalty amounts are adjusted annually for inflation
 
-The IRS has shown willingness to enforce these penalties. Take reporting obligations seriously and allocate adequate resources to ensure compliance.
+The IRS has shown willingness to enforce these penalties. Employers should take reporting obligations seriously and allocate adequate resources to ensure compliance.

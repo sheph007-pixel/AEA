@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-11-15"
 tags: ["FMLA", "leave management", "compliance", "federal law"]
 verified: true
-factCheckedAt: "2026-04-27T10:36:40.386Z"
+factCheckedAt: "2026-05-04T10:42:28.464Z"
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ The Family and Medical Leave Act (FMLA) provides eligible employees with up to 1
 
 ## Who Must Comply
 
-FMLA applies to all public agencies, public and private elementary and secondary schools, and companies with 50 or more employees within a 75-mile radius. Even if your total headcount exceeds 50, if employees are spread across locations with fewer than 50 within 75 miles, certain locations may be exempt.
+FMLA applies to all public agencies, public and private elementary and secondary schools, and companies with 50 or more employees. The 75-mile radius criterion is relevant for determining employee eligibility rather than employer coverage. Even if your total headcount exceeds 50, if employees are spread across locations with fewer than 50 within 75 miles, certain employees may not be eligible.
 
 ## Employee Eligibility
 
@@ -40,7 +40,7 @@ Employees may take FMLA leave for:
 Employers must post FMLA notices in the workplace and include FMLA information in employee handbooks. When an employee requests leave or you learn that leave may be FMLA-qualifying, you must provide eligibility and rights notices within five business days.
 
 ### Documentation
-You may require medical certification to support a request for leave due to a serious health condition. The certification should be requested within five business days and the employee should be given at least 15 calendar days to provide it.
+You may require medical certification to support a request for leave due to a serious health condition. The certification should be requested within five business days, and the employee should be given at least 15 calendar days to provide it.
 
 ### Job Restoration
 Upon return from FMLA leave, an employee must be restored to the same job or an equivalent position with equivalent pay, benefits, and terms of employment.
@@ -58,3 +58,5 @@ Upon return from FMLA leave, an employee must be restored to the same job or an 
 3. Use standardized forms for all FMLA notices and certifications
 4. Track leave usage carefully and consistently
 5. Consult legal counsel for complex situations
+
+---

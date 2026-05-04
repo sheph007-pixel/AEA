@@ -5,7 +5,7 @@ category: "Compliance"
 date: "2024-10-01"
 tags: ["ADA", "disability", "accommodation", "compliance"]
 verified: true
-factCheckedAt: "2026-04-27T09:27:15.644Z"
+factCheckedAt: "2026-05-04T09:31:53.958Z"
 ---
 
 ## ADA Basics

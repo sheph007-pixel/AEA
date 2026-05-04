@@ -6,7 +6,7 @@ date: "2024-01-25"
 tags: ["independent contractor", "classification", "DOL", "FLSA", "compliance"]
 author: "AEA Editorial Team"
 verified: true
-factCheckedAt: "2026-04-27T10:14:46.704Z"
+factCheckedAt: "2026-05-04T10:21:42.884Z"
 ---
 
 ## The 2024 Rule Change
