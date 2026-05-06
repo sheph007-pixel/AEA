@@ -95,7 +95,20 @@ async function generate(type, prompt, { month, ym, date }) {
   const content = await callOpenAI(prompt);
   const titleMatch = content.match(/title:\s*"([^"]+)"/);
   const title = titleMatch ? titleMatch[1] : `${type} - ${month}`;
-  const slug = `${ym}-${type}-${slugify(title)}`;
+
+  // Build clean slug: ${ym}-${type}-${variableTitlePart}
+  // The AI's title typically begins with a fixed prefix that matches the type
+  // (e.g. "Monthly Employer Briefing: May 2026"). Strip that prefix so the
+  // slug is "2026-05-monthly-briefing" not "2026-05-monthly-briefing-monthly-employer-briefing-may-2026".
+  // We strip everything before/including the first colon, then slugify the remainder.
+  const variablePart = title.includes(':') ? title.split(':').slice(1).join(':').trim() : '';
+  const variableSlug = slugify(variablePart);
+  // For monthly-briefing / employer-questions where the title is just "X: {Month Year}",
+  // the variable part is just the month — drop it since ${ym} already encodes the month.
+  const monthSlug = slugify(month); // e.g. "may-2026"
+  const dropVariable = !variableSlug || variableSlug === monthSlug;
+  const slug = dropVariable ? `${ym}-${type}` : `${ym}-${type}-${variableSlug}`;
+
   const filePath = path.join(BRIEFINGS_DIR, `${slug}.md`);
   fs.writeFileSync(filePath, content.trim() + EDITORIAL_NOTE);
   console.log(`  Created: ${slug}.md`);
@@ -109,8 +122,26 @@ async function main() {
   const ctx = getMonthYear();
   const industry = INDUSTRIES[new Date().getMonth() % INDUSTRIES.length];
 
+  const SHARED_SOURCING_RULES = `
+SOURCING REQUIREMENTS (critical - this is for an employer association, not a blog):
+- Cite real, named regulations, statutes, or agency announcements (FLSA, FMLA, ADA, OSHA, ERISA, ACA, COBRA, USERRA, NLRB, EEOC, DOL, IRS, FTC, etc.).
+- When you cite a deadline, give a specific calendar date that occurs in or near ${ctx.month}.
+- When you cite a state law, name the state and the actual statute or bill number where one exists.
+- Do NOT invent court cases, agency announcements, comment periods, or rule effective dates.
+- Do NOT reference comment periods or proposed rules from prior years as if they are current news.
+- The 2024 FLSA overtime rule was vacated by a Texas federal court in November 2024; the standard salary threshold reverted to $684/week / $35,568/year. Do not state the 2024 rule as if it is in effect.
+- The FTC noncompete rule (final April 2024) was struck down by a Texas federal court in August 2024 and never took effect.
+- If you do not have a verifiable, current item to include, omit that section rather than fill it with vague hedged language.
+
+QUALITY BAR:
+- Every "Key Development" or "Compliance Deadline" must include either (a) a specific calendar date, (b) a named statute / regulation / form number, or (c) a named agency action. Items that are pure generality ("employers should stay informed about evolving FMLA interpretations") are NOT acceptable - drop them.
+- Action items must be concrete steps an employer can take this month, not generic encouragement.
+`;
+
   // 1. Monthly Employer Briefing
   await generate('monthly-briefing', `Write the Monthly Employer Briefing for ${ctx.month}. Cover 3-5 key developments employers should know about this month: regulatory changes, compliance deadlines, workforce trends, and practical action items.
+
+${SHARED_SOURCING_RULES}
 
 Output in this exact format:
 ---
@@ -124,16 +155,18 @@ tags: ["monthly briefing", "compliance", "employer update"]
 ---
 
 ## Key Developments This Month
-...
+(only include items that pass the QUALITY BAR above)
 ## Compliance Deadlines
-...
+(specific dates only - skip if you do not have a verifiable deadline this month)
 ## Employer Action Items
-...
+(concrete, actionable steps tied to the items above)
 ## Looking Ahead
-...`, ctx);
+(real upcoming dates / known rulemakings - skip if nothing concrete)`, ctx);
 
   // 2. Compliance Alert
-  await generate('compliance-alert', `Write a Compliance Alert about a specific, real regulatory requirement or deadline relevant to employers this month (${ctx.month}). Focus on one topic: a filing deadline, a new state law taking effect, an OSHA requirement, ACA reporting, or similar.
+  await generate('compliance-alert', `Write a Compliance Alert about a specific, real regulatory requirement or deadline relevant to employers this month (${ctx.month}). Focus on ONE topic: a filing deadline, a new state law taking effect this month, an OSHA requirement, ACA reporting, or similar. The topic must have a specific calendar date in or near ${ctx.month}.
+
+${SHARED_SOURCING_RULES}
 
 Output format:
 ---
@@ -147,16 +180,14 @@ tags: ["compliance", "alert"]
 ---
 
 ## What Changed
-...
 ## Who Is Affected
-...
 ## What Employers Should Do
-...
-## Key Deadlines
-...`, ctx);
+## Key Deadlines`, ctx);
 
   // 3. Trends Report
   await generate('trends-report', `Write an Employer Trends Report for ${ctx.month}. Cover 2-3 workplace or employment trends that employers with 2-500 employees should be aware of. Use general industry observations, NOT AEA member data.
+
+${SHARED_SOURCING_RULES}
 
 Output format:
 ---
@@ -169,10 +200,12 @@ author: "AEA Editorial Team"
 tags: ["trends", "workforce"]
 ---
 
-Content with ## headings...`, ctx);
+Content with ## headings.`, ctx);
 
   // 4. Industry Snapshot
   await generate('industry-snapshot', `Write an Industry Snapshot focused on the ${industry} industry for ${ctx.month}. Cover employment challenges, compliance considerations, and practical guidance specific to ${industry} employers with 2-500 employees. Use only publicly available information.
+
+${SHARED_SOURCING_RULES}
 
 Output format:
 ---
@@ -185,10 +218,12 @@ author: "AEA Editorial Team"
 tags: ["industry", "${industry.toLowerCase()}"]
 ---
 
-Content with ## headings...`, ctx);
+Content with ## headings.`, ctx);
 
   // 5. What Employers Are Asking
-  await generate('employer-questions', `Write "What Employers Are Asking: ${ctx.month}" — 4-5 common questions that employers with 2-500 employees typically face this time of year, with brief practical answers. Frame as "common questions employers face" NOT "questions our members asked."
+  await generate('employer-questions', `Write "What Employers Are Asking: ${ctx.month}" - 4-5 common questions that employers with 2-500 employees typically face this time of year, with brief practical answers. Frame as "common questions employers face" NOT "questions our members asked."
+
+${SHARED_SOURCING_RULES}
 
 Output format:
 ---

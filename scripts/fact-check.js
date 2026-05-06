@@ -137,10 +137,29 @@ Respond ONLY with the JSON object, nothing else.`;
   }
 }
 
+// Splits a markdown file into [frontmatter, body]. Frontmatter is the YAML block
+// fenced by --- at the very top. Body is everything after the closing fence.
+// If there is no frontmatter, returns ['', content].
+function splitFrontmatter(content) {
+  if (!content.startsWith('---')) return ['', content];
+  const end = content.indexOf('\n---', 3);
+  if (end === -1) return ['', content];
+  const fmEnd = content.indexOf('\n', end + 4);
+  const frontmatter = content.substring(0, fmEnd === -1 ? content.length : fmEnd + 1);
+  const body = fmEnd === -1 ? '' : content.substring(fmEnd + 1);
+  return [frontmatter, body];
+}
+
 async function autoFixContent(filePath, content, issues) {
   const issueList = issues.map((i, idx) => `${idx + 1}. [${i.severity}] "${i.text}" - Issue: ${i.issue} - Fix: ${i.suggestion}`).join('\n');
 
-  const prompt = `You are a senior editorial fact-checker for the American Employers Alliance, a national employer association. An article has been flagged for accuracy issues. Rewrite the ENTIRE article with corrections applied.
+  // Send only the body to the model. We splice the original frontmatter back in
+  // ourselves so the model cannot mutate it (in practice, prompts asking the
+  // model "do not change the frontmatter" are routinely ignored).
+  const [frontmatter, body] = splitFrontmatter(content);
+  if (!frontmatter) return null; // Refuse to auto-fix files without frontmatter.
+
+  const prompt = `You are a senior editorial fact-checker for the American Employers Alliance, a national employer association. An article body has been flagged for accuracy issues. Rewrite the body with corrections applied.
 
 ISSUES FOUND:
 ${issueList}
@@ -150,26 +169,30 @@ RULES FOR THE REWRITE:
 - Remove or soften any claims that cannot be verified
 - Use hedging language: "may," "generally," "employers should consult counsel," "requirements vary by state"
 - Do NOT invent new statistics, data, or specific numbers
-- Do NOT change the YAML frontmatter at the top (between the --- markers)
 - Keep the same structure, headings, and overall content
 - Keep the same length (do not shorten significantly)
 - Preserve the editorial disclaimer at the bottom if one exists
 - Make corrections conservative - when in doubt, remove the claim rather than guess
+- Return ONLY the body. Do NOT include any YAML frontmatter or --- fence markers.
 
-ORIGINAL ARTICLE:
----
-${content}
----
+ORIGINAL BODY:
+${body}
 
-Return the COMPLETE corrected article including the YAML frontmatter. Return ONLY the article, nothing else.`;
+Return ONLY the corrected body. No frontmatter, no fence markers, no commentary.`;
 
   try {
-    const fixed = await callOpenAI(prompt);
-    // Verify it still has frontmatter
-    if (fixed.includes('---') && fixed.length > 200) {
-      return fixed.trim();
+    const fixedBody = await callOpenAI(prompt);
+    if (!fixedBody || fixedBody.length < 100) return null;
+    // Strip any leading frontmatter the model included despite instructions.
+    let cleanBody = fixedBody.trim();
+    if (cleanBody.startsWith('---')) {
+      const stripIdx = cleanBody.indexOf('\n---', 3);
+      if (stripIdx !== -1) {
+        const after = cleanBody.indexOf('\n', stripIdx + 4);
+        cleanBody = (after === -1 ? '' : cleanBody.substring(after + 1)).trim();
+      }
     }
-    return null; // Rewrite failed validation
+    return frontmatter + cleanBody + '\n';
   } catch {
     return null;
   }
@@ -279,24 +302,47 @@ async function main() {
 
   console.log(`\n  ${skippedCount} files already verified (cached), ${checkedCount} files checked this run.`);
 
-  // Save report
-  const report = {};
+  // Save report. When called with a directory arg (daily news run, monthly
+  // briefings run), merge into the existing report instead of rewriting it -
+  // otherwise we would clobber entries from directories outside this run's
+  // scope. When called with no arg (weekly full audit), rebuild from scratch.
+  const isScopedRun = !!process.argv[2];
+  const report = isScopedRun ? { ...existingReport } : {};
+  // When merging, drop stale entries whose source file no longer exists in the
+  // current scope (a deleted/renamed file in the scoped dir should disappear
+  // from the report). Only drop entries whose dir matches the scoped dir.
+  if (isScopedRun) {
+    const scopedDir = process.argv[2];
+    const liveFilesInScope = new Set(allFiles.map(f => f.file));
+    for (const fname of Object.keys(report)) {
+      if (report[fname]?.dir === scopedDir && !liveFilesInScope.has(fname)) {
+        delete report[fname];
+      }
+    }
+  }
   for (const r of results) { report[r.file] = r; }
   fs.writeFileSync(REPORT_PATH, JSON.stringify(report, null, 2));
 
-  // Write verification status file (read by the site to show badge)
+  // Write verification status file (read by the site to show badge). Compute
+  // from the full merged report so a scoped run does not understate site-wide
+  // counts.
   const VERIFICATION_PATH = path.join(__dirname, '..', 'src', 'content', 'verification.json');
+  const reportEntries = Object.values(report);
+  const totalPass = reportEntries.filter(e => e.status === 'pass').length;
+  const totalFlag = reportEntries.filter(e => e.status === 'flag').length;
+  const totalFail = reportEntries.filter(e => e.status === 'fail').length;
+  const totalError = reportEntries.filter(e => e.status === 'error').length;
   fs.writeFileSync(VERIFICATION_PATH, JSON.stringify({
     lastChecked: new Date().toISOString(),
-    totalFiles: allFiles.length,
-    totalVerified: passCount,
+    totalFiles: reportEntries.length,
+    totalVerified: totalPass,
     newChecked: checkedCount,
     cached: skippedCount,
-    totalChecked: passCount + flagCount + failCount + errorCount,
-    passed: passCount,
-    flagged: flagCount,
-    failed: failCount,
-    status: (failCount === 0 || results.every(r => r.status === 'pass' || r.autoFixed)) ? 'verified' : 'issues-found',
+    totalChecked: totalPass + totalFlag + totalFail + totalError,
+    passed: totalPass,
+    flagged: totalFlag,
+    failed: totalFail,
+    status: (totalFail === 0 && totalFlag === 0) ? 'verified' : 'issues-found',
   }, null, 2));
 
   // Console summary
