@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 Washington's Paid Sick Leave law, codified at RCW 49.46.200 and RCW 49.46.210, requires employers to provide paid sick leave to all employees, including part-time and temporary workers. The law took effect on January 1, 2018, and applies to nearly all employers in the state, with limited exceptions for federal employees and certain tribal employers.
 
-Employees accrue at least one hour of paid sick leave for every 40 hours worked. There is no waiting period before employees can begin using accrued leave. Employers may frontload the annual leave amount at the beginning of the year rather than using accrual.
+Employees accrue at least one hour of paid sick leave for every 40 hours worked, beginning on their first day of employment. Employers may impose a waiting period of up to 90 calendar days from the employee's start date before accrued sick leave can be used; after that period, employees may use leave as it accrues. Employers may frontload the annual leave amount at the beginning of the year rather than using accrual.
 
 ## Permitted Uses of Paid Sick Leave
 

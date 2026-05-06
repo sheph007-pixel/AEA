@@ -12,7 +12,7 @@ Workers' compensation is a state-mandated insurance program that provides benefi
 
 ## Employer Obligations
 
-Almost all states require employers to carry workers' compensation insurance. The specifics vary by state, but generally you must:
+Almost all states require employers to carry workers' compensation insurance. Texas is the lone exception, allowing private employers to opt out (becoming "non-subscribers"), though non-subscribers must give employees notice of non-coverage and file an annual notice with the Texas Department of Insurance. In four monopolistic-fund states — North Dakota, Ohio, Washington, and Wyoming — employers must purchase workers' compensation coverage from a state-administered fund rather than from private insurers. The specifics vary by state, but generally you must:
 
 - Obtain coverage before hiring your first employee
 - Post required notices in the workplace

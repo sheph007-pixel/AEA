@@ -24,10 +24,10 @@ The most common types of wage garnishments employers encounter include:
 
 The Consumer Credit Protection Act (CCPA) limits the amount that can be garnished from an employee's disposable earnings. The specific limits vary by garnishment type:
 
-- **Ordinary creditor garnishments**: Limited to the lesser of a percentage of disposable earnings or the amount by which disposable earnings exceed a multiple of the federal minimum wage per week. Check the current CCPA limits and federal minimum wage to calculate the applicable thresholds.
-- **Child support and alimony**: Higher percentages are allowed than for ordinary creditors, with the exact limit depending on whether the employee supports another spouse or child and whether payments are in arrears. Consult the current CCPA provisions for specific percentages.
-- **Federal tax levies**: Follow the IRS exempt amount tables (currently published in IRS Publication 1494), which consider filing status and exemptions
-- **Federal student loans**: Subject to a separate percentage cap on disposable earnings. Verify the current limit with the Department of Education.
+- **Ordinary creditor garnishments**: Limited to the lesser of (a) 25% of weekly disposable earnings, or (b) the amount by which weekly disposable earnings exceed 30 times the federal minimum wage ($7.25 x 30 = $217.50). State law may impose lower limits.
+- **Child support and alimony**: Up to 50% of disposable earnings if the employee supports another spouse or child, or 60% if not; an additional 5% may be added when payments are more than 12 weeks in arrears.
+- **Federal tax levies**: Follow the IRS exempt amount tables (published annually in IRS Publication 1494), which consider filing status and dependents
+- **Federal student loans**: Capped at 15% of disposable pay under the Higher Education Act, and the employee must retain at least 30 times the federal minimum wage per week.
 
 Disposable earnings are what remains after legally required deductions such as taxes and Social Security.
 

@@ -2,7 +2,7 @@
 title: "Setting Up a Hazard Communication Program for Your Workplace"
 description: "How employers can comply with OSHA's Hazard Communication Standard by implementing a written program, training employees, and managing safety data sheets."
 category: "Safety"
-date: "2015-09-30"
+date: "2026-02-19"
 tags: ["OSHA", "hazard communication", "safety data sheets", "workplace safety"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "Ban-the-Box and Fair Chance Hiring: Employer Compliance Guide"
 description: "Navigating ban-the-box laws and fair chance hiring requirements across states and cities."
 category: "Hiring"
-date: "2023-11-15"
+date: "2026-02-21"
 tags: ["ban the box", "fair chance hiring", "background checks", "criminal history", "state law"]
 author: "AEA Editorial Team"
 ---

@@ -1,15 +1,15 @@
 ---
-title: "Employee Data Privacy: What Employers Must Protect in 2024"
+title: "Employee Data Privacy: What Employers Must Protect"
 description: "A guide to employer obligations under state data privacy laws for handling employee personal information."
 category: "Technology"
-date: "2024-09-28"
+date: "2026-02-20"
 tags: ["data privacy", "employee records", "state law", "compliance", "cybersecurity"]
 author: "AEA Editorial Team"
 ---
 
 ## The Privacy Landscape for Employee Data
 
-State comprehensive data privacy laws have proliferated rapidly. California, Colorado, Connecticut, Virginia, Utah, Texas, Oregon, Montana, and other states have enacted consumer privacy laws. While many of these laws initially exempted employee data, the exemptions are expiring or narrowing. California's CCPA already applies to employee personal information, and other states are following.
+State comprehensive data privacy laws have proliferated rapidly. California, Colorado, Connecticut, Virginia, Utah, Texas, Oregon, Montana, Iowa, Tennessee, Indiana, Delaware, New Jersey, New Hampshire, Maryland, Minnesota, Rhode Island, and other states have enacted consumer privacy laws, with additional state laws taking effect through 2026. While many of these laws initially exempted employee data, the exemptions are expiring or narrowing. California's CCPA (as amended by the CPRA) already applies to employee personal information, and other states are following.
 
 Employers collect and maintain vast amounts of sensitive personal information: Social Security numbers, banking details, health records, background check results, performance evaluations, and more. Protecting this data is both a legal obligation and a business imperative.
 

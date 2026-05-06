@@ -2,14 +2,14 @@
 title: "Heat Illness Prevention: Employer Obligations and Best Practices"
 description: "A practical guide to protecting outdoor and indoor workers from heat-related illness as federal and state standards evolve."
 category: "Safety"
-date: "2023-06-30"
+date: "2026-04-22"
 tags: ["heat illness", "OSHA", "safety", "outdoor workers", "workplace safety"]
 author: "AEA Editorial Team"
 ---
 
 ## An Evolving Regulatory Landscape
 
-Heat-related illness kills dozens of workers annually and sickens thousands more. OSHA has been developing a federal heat illness prevention standard, and in the interim has launched a National Emphasis Program targeting heat-related hazards. Several states, including California, Washington, Oregon, Colorado, and Minnesota, already have specific heat illness prevention standards.
+Heat-related illness kills dozens of workers annually and sickens thousands more. OSHA published a notice of proposed rulemaking on heat injury and illness prevention on August 30, 2024, with initial and high-heat trigger thresholds at heat indexes of 80 and 90 degrees Fahrenheit. As of 2026 the rule has not been finalized; the post-hearing comment period closed October 30, 2025 and the rulemaking has effectively stalled. OSHA renewed and updated its Heat-Related Hazards National Emphasis Program in April 2026, so enforcement under the General Duty Clause continues. Several states, including California, Washington, Oregon, Colorado, Nevada, Maryland, and Minnesota, already have specific heat illness prevention standards.
 
 Employers in construction, agriculture, landscaping, warehousing, manufacturing, and any industry with significant heat exposure must take this issue seriously. Even office-based employers can face exposure when HVAC systems fail or employees work in non-climate-controlled spaces.
 
@@ -67,6 +67,6 @@ Heat illness is not limited to outdoor work. Warehouses, kitchens, laundries, fo
 
 ## Enforcement Activity
 
-OSHA's National Emphasis Program means inspectors are actively looking for heat-related hazards. Even without a specific federal standard, OSHA can and does cite employers under the General Duty Clause for failing to protect workers from recognized heat hazards. State-plan states with specific heat standards conduct even more targeted enforcement.
+OSHA's renewed Heat National Emphasis Program (effective April 2026 for five years) means inspectors are actively looking for heat-related hazards. Even without a finalized federal standard, OSHA can and does cite employers under the General Duty Clause (Section 5(a)(1)) for failing to protect workers from recognized heat hazards. State-plan states with specific heat standards conduct even more targeted enforcement.
 
 Do not wait for a federal standard to act. The tools for preventing heat illness are straightforward, and the cost of a comprehensive prevention program is far less than the cost of a worker's serious illness or death.

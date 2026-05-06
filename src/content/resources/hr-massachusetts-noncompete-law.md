@@ -15,7 +15,7 @@ The MNAA does not ban noncompetes but establishes strict conditions that make th
 
 ## Key Requirements for Enforceability
 
-To be enforceable under the MNAA, a noncompete agreement must be in writing and signed by both the employer and employee. It must be supported by a garden leave clause or other mutually agreed-upon consideration. Garden leave requires the employer to pay the employee at least 50 percent of their highest annualized base salary during the restricted period.
+To be enforceable under the MNAA, a noncompete agreement must be in writing and signed by both the employer and employee. It must be supported by a garden leave clause or other mutually agreed-upon consideration specified in the agreement. A qualifying garden leave clause requires the employer to pay the employee, on a pro-rata basis during the entirety of the restricted period, at least 50 percent of the employee's highest annualized base salary paid by the employer within the two years preceding termination.
 
 The agreement must be provided to the employee before a formal offer of employment is made or, if entered into during employment, at least 10 business days before the effective date. The agreement must also be accompanied by a notice advising the employee to consult with an attorney before signing.
 

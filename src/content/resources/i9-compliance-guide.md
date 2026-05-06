@@ -20,14 +20,14 @@ The employee must complete Section 1 no later than the first day of employment. 
 
 ### Section 2: Employer
 The employer must complete Section 2 within three business days of the employee's start date. You must:
-- Physically examine original documents presented by the employee
+- Examine original documents presented by the employee, either in physical presence or, for qualified E-Verify employers in good standing, through the DHS-authorized remote verification alternative
 - Accept any documents from the Lists of Acceptable Documents
 - Not specify which documents the employee must present
 - Record document information accurately
 - Sign and date the certification
 
-### Section 3: Reverification
-Use Section 3 when:
+### Supplement B: Reverification and Rehire
+On the current Form I-9 (08/01/23 edition), reverification and rehire are documented on Supplement B, which replaced the prior Section 3. Use Supplement B when:
 - An employee's work authorization expires
 - An employee is rehired within three years of the original I-9
 

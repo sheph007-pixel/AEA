@@ -2,7 +2,7 @@
 title: "A Manager's Guide to Handling Workplace Conflict"
 description: "Practical strategies for managers to address interpersonal conflicts between employees before they escalate into legal or performance issues."
 category: "Leadership"
-date: "2017-08-17"
+date: "2026-02-21"
 tags: ["conflict resolution", "management", "workplace culture", "employee relations"]
 author: "AEA Editorial Team"
 ---

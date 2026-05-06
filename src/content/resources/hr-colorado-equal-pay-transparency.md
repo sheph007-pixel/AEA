@@ -21,9 +21,9 @@ The 2024 amendments clarified that employers with fewer than 15 employees who ar
 
 ## Internal Promotion and Transfer Notices
 
-Employers must make reasonable efforts to announce all promotion opportunities and job openings to current employees before making a decision. The notice must include the pay rate or pay range, benefits, and other compensation for the position. This requirement ensures that existing employees have the opportunity to apply for advancement.
+Employers must make reasonable efforts to announce all job opportunities to current Colorado employees on the same day they are posted externally and before making a hiring or promotion decision. The notice must include the pay rate or pay range, a general description of benefits and other compensation, and the application deadline.
 
-If an employer selects a candidate for a promotion without posting the opportunity, the employer must notify all employees of the selected candidate within 30 calendar days after the decision, including the criteria used and how the selected candidate met those criteria.
+Within 30 calendar days after a candidate begins working in a position, the employer must make reasonable efforts to inform Colorado employees who will regularly work with the selected candidate of the candidate's name, former job title (if the hire was internal), new job title, and information about how the employer's employees may demonstrate interest in similar future opportunities. This post-selection notice requirement was added by amendments effective January 1, 2024.
 
 ## Recordkeeping and Anti-Retaliation
 

@@ -13,9 +13,9 @@ The SECURE 2.0 Act, signed into law in December 2022, contains over 90 provision
 
 ## Key Provisions Affecting Employers
 
-### Automatic Enrollment (Effective for New Plans After December 29, 2022)
+### Automatic Enrollment (Operational for 2025 Plan Years)
 
-New 401(k) and 403(b) plans established after December 29, 2022 must include automatic enrollment at a contribution rate of at least 3% but not more than 10% of compensation, with automatic annual escalation of 1% per year up to at least 10% but not more than 15%. Employees can opt out.
+401(k) and 403(b) plans established after December 29, 2022 must include automatic enrollment, with the requirement first taking effect for plan years beginning after December 31, 2024. Auto-enrollment must be at an initial contribution rate of at least 3% but not more than 10% of compensation, with automatic annual escalation of 1% per year up to at least 10% but not more than 15%. Employees can opt out.
 
 Existing plans are not required to add automatic enrollment, but it remains a best practice for increasing participation.
 

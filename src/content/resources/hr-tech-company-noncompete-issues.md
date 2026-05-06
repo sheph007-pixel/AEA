@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 Technology companies have historically relied on noncompete agreements to protect proprietary information and retain talent. However, the legal landscape has shifted dramatically in recent years. Several states have enacted laws restricting or banning noncompete agreements, and federal regulatory efforts have added further uncertainty.
 
-California has long prohibited noncompete agreements under Business and Professions Code Section 16600, making them void and unenforceable with very limited exceptions. Other states including Oklahoma, North Dakota, Colorado, Minnesota, and Washington have enacted significant restrictions. Oregon limits noncompetes to employees earning above a specified income threshold and restricts their duration to 18 months.
+California has long prohibited noncompete agreements under Business and Professions Code Section 16600, making them void and unenforceable with very limited exceptions. Other states including Oklahoma, North Dakota, Colorado, Minnesota, and Washington have enacted significant restrictions. Oregon limits noncompetes to salaried exempt employees earning above an annually adjusted income threshold and, for agreements entered on or after January 1, 2022, restricts their duration to 12 months.
 
 ## State-by-State Restrictions
 

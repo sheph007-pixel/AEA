@@ -18,7 +18,7 @@ To contribute to an HSA, an individual must:
 - Not be claimed as a dependent on another person's tax return
 - Not be covered under any other health plan that is not an HDHP (including a spouse's non-HDHP plan or a general-purpose health FSA)
 
-The IRS sets annual limits on HDHP deductible minimums, out-of-pocket maximums, and HSA contribution limits. These figures are adjusted annually for inflation.
+The IRS sets annual limits on HDHP deductible minimums, out-of-pocket maximums, and HSA contribution limits. These figures are adjusted annually for inflation. For 2026, the HSA contribution limit is $4,400 for self-only coverage and $8,750 for family coverage; an additional $1,000 catch-up contribution is allowed for account holders age 55 and older. The 2026 HDHP minimum deductible is $1,700 (self-only) / $3,400 (family), and the out-of-pocket maximum is $8,500 (self-only) / $17,000 (family). Confirm current figures in the IRS revenue procedure each year before open enrollment.
 
 ## Employer Contributions
 

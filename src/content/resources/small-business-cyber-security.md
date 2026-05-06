@@ -2,7 +2,7 @@
 title: "Cybersecurity Essentials for Small Employers"
 description: "Practical cybersecurity measures every small business should implement to protect employee data and business operations."
 category: "Technology"
-date: "2023-08-05"
+date: "2026-02-20"
 tags: ["cybersecurity", "small business", "data protection", "technology", "employee data"]
 author: "AEA Editorial Team"
 ---

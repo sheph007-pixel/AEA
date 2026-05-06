@@ -9,7 +9,7 @@ author: "AEA Editorial Team"
 
 ## A Rapidly Expanding Landscape
 
-The number of states with mandatory paid family and medical leave (PFML) programs has grown significantly in recent years. As of 2023, thirteen states and the District of Columbia have enacted some form of paid family leave program, and more states introduce legislation each session. For employers with workers in multiple states, compliance has become a serious operational challenge.
+The number of states with mandatory paid family and medical leave (PFML) programs has grown significantly in recent years. More than a dozen states and the District of Columbia have enacted some form of paid family leave program, and more states introduce legislation each session. For employers with workers in multiple states, compliance has become a serious operational challenge.
 
 This guide covers the key differences between state programs and outlines practical steps to manage compliance across jurisdictions.
 
@@ -27,7 +27,7 @@ State PFML programs vary widely on several dimensions:
 
 ## States with Active Programs
 
-As of 2023, states with operational or imminent PFML programs include California, Colorado, Connecticut, Delaware, Maine, Maryland, Massachusetts, Minnesota, New Jersey, New York, Oregon, Rhode Island, and Washington, plus the District of Columbia. Several of these programs are phased in over multiple years, with contribution requirements starting before benefits become available.
+States with operational or enacted PFML programs include California, Colorado, Connecticut, Delaware, Maine, Maryland, Massachusetts, Minnesota, New Jersey, New York, Oregon, Rhode Island, and Washington, plus the District of Columbia. Several of these programs were phased in over multiple years, with contribution requirements starting before benefits become available. Confirm the current status of each program with the administering state agency, as effective dates and benefit availability continue to evolve.
 
 Employers should note that some states allow private plan alternatives. If your company offers a benefit that meets or exceeds the state program, you may be able to opt out of the state system, but this typically requires an application and approval process.
 

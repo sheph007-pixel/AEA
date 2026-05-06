@@ -78,9 +78,10 @@ OSHA's electronic reporting rule requires certain employers to submit injury and
 
 - **Establishments with 250+ employees** in industries covered by the recordkeeping regulation must submit Form 300A data annually through OSHA's Injury Tracking Application (ITA)
 - **Establishments with 20-249 employees** in designated high-hazard industries must also submit Form 300A data annually
-- Submissions are typically due by March 2 of the year following the calendar year covered
+- **Establishments with 100+ employees** in certain high-hazard industries listed in Appendix B to Subpart E of 29 CFR Part 1904 must, under OSHA's expanded rule effective January 1, 2024, also electronically submit detailed Form 300 and Form 301 data annually
+- Submissions are due by March 2 of the year following the calendar year covered
 
-OSHA has proposed expanding electronic reporting to include Form 300 and Form 301 data for larger establishments. Monitor rulemaking developments for changes to reporting requirements.
+Employers must also include their legal company name when making electronic submissions to OSHA.
 
 ## Best Practices for Recordkeeping
 

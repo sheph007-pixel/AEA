@@ -13,11 +13,13 @@ Proper record-keeping protects your organization in the event of audits, lawsuit
 ## Federal Retention Requirements
 
 ### Payroll Records (FLSA)
-Keep for at least 3 years:
+Keep core payroll records for at least 3 years:
 - Employee name, address, date of birth, sex, and occupation
 - Hours worked each day and each workweek
 - Regular hourly rate, total wages, and deductions
 - Dates of payment and pay period covered
+
+Keep supplementary records (time cards, wage rate tables, work and time schedules, and records of additions to or deductions from wages) for at least 2 years.
 
 ### Hiring and Employment Records (Title VII, ADA, ADEA)
 Keep for at least 1 year from the date of the personnel action:

@@ -9,7 +9,7 @@ author: "AEA Editorial Team"
 
 ## The Pay Transparency Movement
 
-Pay transparency laws requiring employers to disclose salary ranges in job postings have moved from a niche concept to a mainstream compliance obligation. As of 2023, Colorado, California, Washington, New York City, and several other jurisdictions require some form of salary disclosure. More states and cities are actively considering similar legislation.
+Pay transparency laws requiring employers to disclose salary ranges in job postings have moved from a niche concept to a mainstream compliance obligation. A growing list of jurisdictions, including Colorado, California, Washington, New York State, Illinois, Minnesota, the District of Columbia, and several major cities, require some form of salary disclosure in postings. More states and cities continue to enact similar legislation.
 
 These laws aim to reduce pay gaps by giving candidates and employees access to compensation information. For employers, they require a fundamental shift in how compensation is communicated externally and, often, internally.
 

@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 There is no federal law requiring private employers to provide paid sick leave. However, a growing number of states and municipalities have enacted their own mandates, creating a complex patchwork of requirements that multistate and even single-state employers must navigate.
 
-As of this writing, states with paid sick leave laws include Arizona, California, Connecticut, Maryland, Massachusetts, Michigan, New Jersey, Oregon, Rhode Island, Vermont, and Washington, along with the District of Columbia. Numerous cities — including Chicago, Minneapolis, New York City, Philadelphia, Pittsburgh, San Francisco, Seattle, and others — have enacted their own ordinances, some of which impose requirements beyond the state law.
+A growing list of states have paid sick leave laws, including Arizona, California, Colorado, Connecticut, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, and Washington, along with the District of Columbia. Numerous cities — including Chicago, Minneapolis, New York City, Philadelphia, Pittsburgh, San Francisco, Seattle, and others — have enacted their own ordinances, some of which impose requirements beyond the state law. Verify the current status in each jurisdiction where you have employees, as the list continues to expand.
 
 This landscape continues to evolve. Employers must monitor developments in every jurisdiction where they have employees.
 

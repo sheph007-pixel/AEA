@@ -35,7 +35,7 @@ Before implementing solutions, understand what is driving your costs:
 
 ### Alternative Funding Arrangements
 
-**Self-funding.** Employers with 50 or more employees may benefit from self-funding (self-insurance), where the employer pays claims directly rather than paying a fixed premium to an insurer. Self-funded plans offer greater flexibility in plan design, access to claims data, and potential savings by eliminating insurer profit margins. Stop-loss insurance limits the employer's exposure to catastrophic claims.
+**Self-funding.** Mid-size and larger employers (typically those with at least 100 employees, though smaller groups increasingly participate via level-funded structures) may benefit from self-funding (self-insurance), where the employer pays claims directly rather than paying a fixed premium to an insurer. Self-funded plans offer greater flexibility in plan design, access to claims data, and potential savings by eliminating insurer profit margins. Stop-loss insurance limits the employer's exposure to catastrophic claims.
 
 **Level-funded plans.** A hybrid between fully insured and self-funded, level-funded plans provide monthly fixed costs with the possibility of refunds if claims are lower than expected. These are increasingly popular among employers with 25-100 employees.
 

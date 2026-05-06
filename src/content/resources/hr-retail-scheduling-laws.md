@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 Predictive scheduling laws, also called fair workweek laws, require employers to provide workers with advance notice of their schedules and compensate them for last-minute changes. These laws have emerged in response to the practice of on-call scheduling and unpredictable shift assignments common in the retail industry.
 
-As of 2025, predictive scheduling requirements exist in Oregon (statewide), and in cities including New York City, San Francisco, Seattle, Chicago, Philadelphia, and Los Angeles. Each jurisdiction has its own specific requirements, thresholds, and penalties.
+Predictive scheduling requirements currently exist in Oregon (statewide), and in cities including New York City, San Francisco, Seattle, Chicago, Philadelphia, and Los Angeles, with additional jurisdictions enacting similar laws. Each jurisdiction has its own specific requirements, thresholds, and penalties.
 
 ## Common Requirements Across Jurisdictions
 
