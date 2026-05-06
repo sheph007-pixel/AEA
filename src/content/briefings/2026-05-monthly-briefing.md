@@ -6,8 +6,6 @@ date: "2026-05-01"
 month: "2026-05"
 author: "AEA Editorial Team"
 tags: ["monthly briefing", "compliance", "employer update"]
-verified: false
-factCheckedAt: "2026-05-04T09:30:15.065Z"
 ---
 
 ## Key Developments This Month

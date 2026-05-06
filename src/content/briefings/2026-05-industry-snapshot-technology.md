@@ -6,8 +6,6 @@ date: "2026-05-01"
 month: "2026-05"
 author: "AEA Editorial Team"
 tags: ["industry", "technology"]
-verified: true
-factCheckedAt: "2026-05-04T09:29:40.548Z"
 ---
 
 ## Employment Challenges in the Technology Sector
