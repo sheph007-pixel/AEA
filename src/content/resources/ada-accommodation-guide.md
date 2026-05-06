@@ -4,6 +4,8 @@ description: "How to navigate reasonable accommodation requests under the Americ
 category: "Compliance"
 date: "2024-10-01"
 tags: ["ADA", "disability", "accommodation", "compliance"]
+verified: true
+factCheckedAt: "2026-05-04T09:31:53.958Z"
 ---
 
 ## ADA Basics

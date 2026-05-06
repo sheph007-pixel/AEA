@@ -5,6 +5,8 @@ category: "HR Management"
 date: "2026-02-22"
 tags: ["workers compensation", "return to work", "light duty", "disability management"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:37:34.767Z"
 ---
 
 ## Why Return-to-Work Programs Matter
@@ -49,7 +51,7 @@ Document your return-to-work program in a written policy that covers:
 - The company's commitment to returning injured employees to work
 - The process for reporting injuries and initiating the return-to-work process
 - How transitional duty assignments are identified and offered
-- The expected duration of transitional duty (typically capped at a defined period, such as 90 days)
+- The expected duration of transitional duty, which may vary by state law and should be confirmed with local regulations
 - Roles and responsibilities of the employee, supervisor, HR, and the workers' compensation carrier
 
 ### Supervisor Training
@@ -74,3 +76,5 @@ Ensure your program is applied consistently to all injured employees. Offering t
 ## Measuring Success
 
 Track the key metrics that demonstrate your program's effectiveness: average days away from work before return, transitional duty acceptance rates, workers' compensation claim costs, and the percentage of employees who successfully return to full duty. Use this data to refine your program continuously.
+
+---

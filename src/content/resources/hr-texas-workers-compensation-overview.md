@@ -5,6 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["texas", "workers compensation", "insurance", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:18:36.959Z"
 ---
 
 ## Texas Workers' Compensation System
@@ -15,19 +17,19 @@ This voluntary system creates important strategic and legal considerations for T
 
 ## Subscriber vs. Non-Subscriber Status
 
-Subscribing employers obtain workers' compensation coverage through the Texas Department of Insurance, Division of Workers' Compensation (DWC). In exchange, they receive protection from most employee lawsuits related to workplace injuries. Injured employees receive medical benefits and income replacement without needing to prove employer fault.
+Subscribing employers obtain workers' compensation coverage from licensed insurance companies. In exchange, they receive protection from most employee lawsuits related to workplace injuries. Injured employees receive medical benefits and income replacement without needing to prove employer fault.
 
-Non-subscribing employers forfeit several common-law defenses if sued by an injured employee, including contributory negligence, assumption of risk, and the fellow-servant doctrine. This means non-subscribers face significantly greater litigation risk when employees are injured on the job.
+Non-subscribing employers may forfeit several common-law defenses if sued by an injured employee, including contributory negligence, assumption of risk, and the fellow-servant doctrine. This generally means non-subscribers face greater litigation risk when employees are injured on the job.
 
 ## Notification Requirements
 
 Regardless of subscription status, Texas employers must notify the DWC and their employees of their coverage decision. Subscribers must post notice of coverage in the workplace and file proof of coverage with the DWC. Non-subscribers must file Form DWC-005 with the DWC and provide written notice to employees that the employer does not carry workers' compensation coverage.
 
-These notifications must be provided annually and to each new hire. Failure to provide required notices can result in administrative penalties.
+These notifications must be provided annually and to each new hire. Failure to provide required notices may result in administrative penalties.
 
 ## Non-Subscriber Alternative Plans
 
-Many non-subscribing employers establish occupational injury benefit plans, sometimes called Texas Non-Subscriber Plans, to provide benefits to injured employees. These plans are not regulated by the DWC and vary widely in design. They typically include medical expense coverage and wage replacement benefits.
+Some non-subscribing employers may establish occupational injury benefit plans, sometimes called Texas Non-Subscriber Plans, to provide benefits to injured employees. These plans are not regulated by the DWC and vary widely in design. They typically include medical expense coverage and wage replacement benefits.
 
 However, these alternative plans may include provisions that would not be permissible under the workers' compensation system, such as mandatory arbitration clauses, shorter filing deadlines, and limitations on covered injuries. Employers must ensure their plans comply with ERISA requirements if they constitute employee welfare benefit plans.
 

@@ -5,6 +5,8 @@ category: "HR Management"
 date: "2025-01-28"
 tags: ["employee handbook", "multi-state", "compliance", "policy", "HR"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:28:05.443Z"
 ---
 
 ## The Multi-State Handbook Challenge

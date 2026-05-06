@@ -5,22 +5,24 @@ category: "Hiring"
 date: "2026-01-15"
 tags: ["background checks", "FCRA", "hiring", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:34:51.028Z"
 ---
 
 Employment background checks are a valuable tool for making informed hiring decisions, but they are heavily regulated. The Fair Credit Reporting Act (FCRA) and numerous state and local laws impose specific requirements that employers must follow. Non-compliance can result in class action lawsuits and significant statutory damages.
 
 ## FCRA Requirements
 
-When using a consumer reporting agency (CRA) to conduct background checks, the FCRA requires:
+When using a consumer reporting agency (CRA) to conduct background checks, the FCRA generally requires:
 
 **Before the background check:**
 - Provide the applicant or employee with a clear, standalone written disclosure that a background check may be obtained (not buried in the application)
 - Obtain written authorization from the individual before requesting the report
-- Certify to the CRA that you have complied with disclosure and authorization requirements
+- Employers may need to certify to the CRA that they have complied with disclosure and authorization requirements; consult legal counsel to ensure compliance
 
 **Before taking adverse action based on the report:**
 - Provide the individual with a pre-adverse action notice that includes a copy of the report and a summary of rights under the FCRA
-- Allow a reasonable period (typically five business days) for the individual to dispute the report before making a final decision
+- Allow a reasonable period for the individual to dispute the report before making a final decision; this time frame may vary
 
 **After taking adverse action:**
 - Provide an adverse action notice identifying the CRA that provided the report
@@ -31,6 +33,7 @@ When using a consumer reporting agency (CRA) to conduct background checks, the F
 
 Many states and municipalities have enacted ban-the-box laws that restrict when and how employers can inquire about criminal history:
 
+- The applicability of these laws varies by jurisdiction, and not all states have enacted such laws
 - Some laws prohibit asking about criminal history on the initial job application
 - Others delay criminal history inquiries until after a conditional offer of employment
 - Many require individualized assessment of criminal records rather than blanket exclusions
@@ -70,3 +73,5 @@ To maintain a compliant and effective background check program:
 - Develop written criteria for evaluating criminal records that are job-related and consistent with business necessity
 - Document individualized assessments when criminal records are a factor
 - Keep background check reports confidential and store them separately from personnel files
+
+---

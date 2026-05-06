@@ -6,6 +6,8 @@ date: "2026-01-15"
 month: "2026-01"
 author: "AEA Editorial Team"
 tags: ["employer-questions", "compliance", "AI-policy", "wage-thresholds", "remote-work", "taxes", "Q1-2026"]
+verified: true
+factCheckedAt: "2026-05-04T09:26:36.573Z"
 ---
 
 # What Employers Are Asking: January 2026
@@ -16,9 +18,9 @@ Each month, AEA compiles the most frequently raised questions from employers nav
 
 The first quarter of the year is packed with recurring compliance obligations. Among the most critical for employers:
 
-- **W-2 and quarterly tax filings:** Employers should check current IRS guidance for deadlines related to furnishing W-2 forms to employees, filing W-2s with the Social Security Administration, and filing Form 940 (federal unemployment tax) and Form 941 (employer's quarterly tax return). These deadlines generally fall in late January, but employers should verify the exact dates for the current filing year.
+- **W-2 and quarterly tax filings:** Employers should check current IRS guidance for deadlines related to furnishing W-2 forms to employees, filing W-2s with the Social Security Administration, and filing Form 940 (federal unemployment tax) and Form 941 (employer's quarterly tax return). For 2026, the deadline to furnish W-2 forms to employees is February 2, due to January 31 falling on a Saturday, and the deadline for filing W-2s with the Social Security Administration is also February 2. Employers should verify the exact dates for the current filing year.
 - **OSHA Form 300A posting:** The Summary of Work-Related Injuries and Illnesses generally must be posted in the workplace beginning February 1 and remain posted through April 30. Employers should confirm current OSHA guidance.
-- **ACA Form 1095-C furnishing:** Employers should check IRS guidance for the current deadline to furnish ACA Form 1095-C to employees, as the IRS has in some years adjusted this date.
+- **ACA Form 1095-C furnishing:** Employers should check IRS guidance for the current deadline to furnish ACA Form 1095-C to employees, as the IRS has in some years adjusted this date. Employers should verify the deadline with the IRS.
 - **ACA electronic filing with the IRS:** Check IRS guidance for current deadlines for electronic filing of Forms 1094-C and 1095-C.
 - **Ongoing:** State-specific deadlines for new hire reporting, unemployment tax filings, and paid leave program contributions vary by jurisdiction.
 
@@ -26,7 +28,7 @@ Employers should maintain a compliance calendar tailored to every state and loca
 
 ## 2. Do I need a formal AI policy for my workplace now?
 
-The short answer is: increasingly, it may be advisable. While there is no single federal law mandating that all employers adopt an AI workplace policy, the regulatory direction suggests growing expectations. The EEOC has issued guidance emphasizing employer responsibility for AI-driven employment decisions. Some jurisdictions have enacted or are considering laws that may require employers to disclose AI use in hiring, conduct bias audits, or obtain consent before using automated decision-making tools. Requirements vary by state and locality.
+The short answer is: increasingly, it may be advisable. While there is no single federal law mandating that all employers adopt an AI workplace policy, the regulatory direction suggests growing expectations. Employers should consult the EEOC's official communications for the most current guidance on AI-driven employment decisions. Some jurisdictions have enacted or are considering laws that may require employers to disclose AI use in hiring, conduct bias audits, or obtain consent before using automated decision-making tools. Requirements vary by state and locality.
 
 Even where not strictly required by law, a formal AI use policy is becoming a best practice. A strong policy may address:
 
@@ -40,7 +42,7 @@ Employers do not need to ban AI — but they should consider governing it. A cle
 
 ## 3. Have salary thresholds for overtime exemptions changed for 2026?
 
-Employers should review the current status of federal and state salary thresholds for white-collar overtime exemptions. At the federal level, the Department of Labor's rulemaking on salary thresholds has been the subject of significant activity and litigation in recent years. Employers should check current requirements, as rules and court orders may have altered the applicable thresholds.
+Employers should review the current status of federal and state salary thresholds for white-collar overtime exemptions. At the federal level, the Department of Labor's rulemaking on salary thresholds has been the subject of significant activity and litigation in recent years. Employers should check current requirements regarding salary thresholds, as rules and court orders may have altered the applicable thresholds.
 
 Regardless of the federal landscape, many states maintain their own salary thresholds for overtime exemptions that may exceed the federal level. Requirements vary by state, and employers must generally meet the highest applicable threshold — federal, state, or local.
 
@@ -70,3 +72,5 @@ Employers offering remote or hybrid arrangements should review their policies at
 ---
 
 *This briefing is prepared by the AEA Editorial Team based on publicly available regulatory guidance, employment law developments, and employer-reported trends. Individual data from AEA members is never disclosed. All analysis reflects general observations and should not be treated as legal advice. Consult qualified counsel for guidance on specific situations.*
+
+---

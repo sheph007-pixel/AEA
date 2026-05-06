@@ -5,6 +5,8 @@ category: "Operations"
 date: "2026-02-22"
 tags: ["supply chain", "workforce planning", "operations", "business continuity", "staffing"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:40:54.003Z"
 ---
 
 Supply chain disruptions affect workforce planning in ways that extend far beyond procurement. Material shortages, shipping delays, and demand volatility create ripple effects on staffing levels, production schedules, and employee morale. Employers who build adaptive workforce strategies are better positioned to maintain operations through periods of instability.

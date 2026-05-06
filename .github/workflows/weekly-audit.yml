@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 7 * * 1'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fact-check.js'
+      - 'src/content/.fact-check-report.json'
 
 permissions:
   contents: write
@@ -22,11 +27,24 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Full content audit
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Full content audit (multi-pass with web search)
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: node scripts/fact-check.js
+
+      - name: Determine verification status
+        id: verify-status
+        run: |
+          if [ -f src/content/verification.json ]; then
+            STATUS=$(node -e "console.log(JSON.parse(require('fs').readFileSync('src/content/verification.json','utf8')).status)")
+            echo "status=$STATUS" >> $GITHUB_OUTPUT
+          else
+            echo "status=unknown" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit verification status
         run: |
@@ -36,6 +54,10 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to verification status"
           else
-            git commit -m "Weekly content audit: $(date +%Y-%m-%d) [verified]"
+            if [ "${{ steps.verify-status.outputs.status }}" = "verified" ]; then
+              git commit -m "Weekly content audit: $(date +%Y-%m-%d) [all verified]"
+            else
+              git commit -m "Weekly content audit: $(date +%Y-%m-%d) [issues found]"
+            fi
             git push origin main
           fi

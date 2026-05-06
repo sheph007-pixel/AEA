@@ -31,5 +31,14 @@ export async function GET() {
     source: 'News',
   }));
 
-  return NextResponse.json([...briefings, ...news, ...resources]);
+  // Dedupe by href to prevent the same content appearing multiple times
+  const all = [...briefings, ...news, ...resources];
+  const seen = new Set<string>();
+  const deduped = all.filter((item) => {
+    if (seen.has(item.href)) return false;
+    seen.add(item.href);
+    return true;
+  });
+
+  return NextResponse.json(deduped);
 }

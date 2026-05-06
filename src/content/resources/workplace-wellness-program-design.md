@@ -5,6 +5,8 @@ category: "Benefits"
 date: "2019-08-05"
 tags: ["wellness programs", "ADA", "HIPAA", "employee health", "benefits"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:45:55.076Z"
 ---
 
 ## The Compliance Framework
@@ -12,7 +14,7 @@ author: "AEA Editorial Team"
 Workplace wellness programs can improve employee health and reduce healthcare costs, but they must be designed within a framework of federal laws that protect employee privacy and prohibit discrimination. The primary laws governing wellness programs are:
 
 - **The Americans with Disabilities Act (ADA)**: Restricts employer inquiries into employee health and medical examinations, but allows voluntary wellness programs.
-- **The Genetic Information Nondiscrimination Act (GINA)**: Prohibits employers from requesting, requiring, or purchasing genetic information, including family medical history.
+- **The Genetic Information Nondiscrimination Act (GINA)**: Restricts the use of genetic information, including family medical history, in a way that prevents discrimination.
 - **HIPAA**: Sets nondiscrimination rules for group health plans and establishes privacy protections for health information.
 - **The Affordable Care Act (ACA)**: Permits incentives for wellness programs that meet certain standards.
 
@@ -30,7 +32,7 @@ Participatory programs face fewer regulatory restrictions and must simply be ava
 
 These programs tie rewards or penalties to achieving a specific health outcome — meeting a cholesterol target, reaching a BMI threshold, or maintaining blood pressure within a certain range. Health-contingent programs must meet additional requirements:
 
-- The reward or penalty cannot exceed 30 percent of the cost of employee-only coverage (50 percent for tobacco-related programs).
+- The reward or penalty cannot exceed 30 percent of the cost of employee-only coverage; for tobacco-related programs, the threshold may vary based on specific plan designs.
 - A reasonable alternative standard or waiver must be available for individuals who cannot meet the health standard due to a medical condition.
 - The program must be reasonably designed to promote health and must not be a subterfuge for discrimination.
 - Employees must be given notice of the availability of a reasonable alternative standard.
@@ -39,15 +41,15 @@ These programs tie rewards or penalties to achieving a specific health outcome �
 
 The ADA requires that employee health inquiries and medical examinations conducted as part of a wellness program be voluntary. This means:
 
-- Employees cannot be required to participate as a condition of employment
-- Employees cannot be denied health coverage or face retaliation for declining to participate
-- The confidentiality of health information collected through the program must be maintained
+- Employees cannot be required to participate as a condition of employment.
+- Employees cannot be denied health coverage or face retaliation for declining to participate.
+- The confidentiality of health information collected through the program must be maintained.
 
-The definition of "voluntary" in the context of financial incentives has been the subject of ongoing legal developments. The EEOC has proposed and revised rules on this point. Employers should consult current guidance and consider limiting incentives to modest amounts to minimize legal risk.
+The definition of "voluntary" in the context of financial incentives has been the subject of ongoing legal developments. The EEOC has provided guidance on this matter, and employers should consult current guidance to ensure compliance. It may be prudent to consider limiting incentives to modest amounts to minimize legal risk.
 
 ## GINA Restrictions
 
-GINA prohibits wellness programs from asking employees about family medical history. If your health risk assessment includes questions about whether the employee's parents had heart disease, diabetes, or cancer, that violates GINA.
+GINA restricts the use of genetic information, including family medical history, in wellness programs. Wellness programs can request family medical history as part of health risk assessments, provided participation is voluntary and the information is not used for discriminatory purposes.
 
 The exception: a wellness program can offer inducements to an employee's spouse who completes a health risk assessment that includes family medical history, provided the spouse's participation is voluntary.
 
@@ -59,10 +61,10 @@ Design programs that are accessible to employees with varying health conditions,
 
 ### Protect Privacy
 
-- Use a third-party vendor to collect and manage health data — do not allow managers or HR staff to see individual results
-- Aggregate data for reporting purposes so individual employees cannot be identified
-- Store health information separately from personnel files
-- Communicate clearly to employees about who will see their data and how it will be used
+- Use a third-party vendor to collect and manage health data — do not allow managers or HR staff to see individual results.
+- Aggregate data for reporting purposes so individual employees cannot be identified.
+- Store health information separately from personnel files.
+- Communicate clearly to employees about who will see their data and how it will be used.
 
 ### Measure What Matters
 
@@ -72,18 +74,18 @@ Rather than focusing solely on individual health metrics, track program particip
 
 The most effective wellness programs address the practical barriers to health:
 
-- **On-site or subsidized flu shots** and health screenings
-- **Healthy food options** in vending machines and cafeterias
-- **Flexible break time** for physical activity
-- **Mental health resources** through EAP and other channels
-- **Financial wellness** education and tools
+- **On-site or subsidized flu shots** and health screenings.
+- **Healthy food options** in vending machines and cafeterias.
+- **Flexible break time** for physical activity.
+- **Mental health resources** through EAP and other channels.
+- **Financial wellness** education and tools.
 
 ## Common Pitfalls
 
-- Using health data for employment decisions (prohibited under ADA and GINA)
-- Incentives so large that participation is effectively coerced
-- Programs that penalize employees for failing to meet health standards without providing reasonable alternatives
-- Collecting genetic or family medical history information
-- Failing to provide HIPAA-required notices about health information use
+- Using health data for employment decisions (prohibited under ADA and GINA).
+- Incentives so large that participation is effectively coerced.
+- Programs that penalize employees for failing to meet health standards without providing reasonable alternatives.
+- Collecting genetic or family medical history information without proper safeguards.
+- Failing to provide HIPAA-required notices about health information use.
 
 A well-designed wellness program supports employee health while respecting autonomy and privacy. The key is designing the program with the legal framework in mind from the start, not retrofitting compliance after launch.

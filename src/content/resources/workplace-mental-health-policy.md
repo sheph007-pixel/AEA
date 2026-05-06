@@ -5,6 +5,8 @@ category: "Workplace Culture"
 date: "2023-05-10"
 tags: ["mental health", "workplace culture", "policy", "employee wellness", "EAP"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:44:37.110Z"
 ---
 
 ## Why Employers Need a Mental Health Policy

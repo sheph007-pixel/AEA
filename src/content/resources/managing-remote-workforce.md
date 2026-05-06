@@ -4,6 +4,8 @@ description: "Practical guidance on remote work policies, tax implications, equi
 category: "Operations"
 date: "2024-10-15"
 tags: ["remote work", "telecommuting", "operations", "policies"]
+verified: true
+factCheckedAt: "2026-05-04T10:27:43.895Z"
 ---
 
 ## Building a Remote Work Policy

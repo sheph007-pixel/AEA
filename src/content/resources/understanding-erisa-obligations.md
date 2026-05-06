@@ -4,11 +4,13 @@ description: "An overview of employer obligations under ERISA for managing emplo
 category: "Compliance"
 date: "2024-04-22"
 tags: ["ERISA", "benefits", "fiduciary", "compliance"]
+verified: true
+factCheckedAt: "2026-05-04T10:41:27.689Z"
 ---
 
 ## What Is ERISA?
 
-The Employee Retirement Income Security Act (ERISA) sets standards for most voluntarily established employee benefit plans in the private sector. It applies to both pension/retirement plans and welfare benefit plans (health, disability, life insurance, etc.).
+The Employee Retirement Income Security Act (ERISA) sets standards for most voluntarily established employee benefit plans in the private sector. It applies to both pension/retirement plans and welfare benefit plans, such as health, disability, and life insurance.
 
 ## Plans Covered by ERISA
 
@@ -36,7 +38,7 @@ Every ERISA plan must have a written plan document that describes:
 - Amendment and termination procedures
 
 ### Summary Plan Description (SPD)
-You must provide participants with an SPD that explains plan terms in plain language:
+Employers must provide participants with an SPD that explains plan terms in plain language:
 - Within 90 days of becoming a participant
 - Updated when material modifications are made
 - Must include specific information required by ERISA
@@ -64,10 +66,10 @@ ERISA requires:
 
 ## Penalties for Non-Compliance
 
-- Failure to file Form 5500: Daily penalties that can be substantial (check current DOL and IRS penalty schedules, as amounts are adjusted periodically)
-- Failure to provide SPD: Daily penalties per participant (verify current amounts with DOL)
+- Failure to file Form 5500: Daily penalties that can be substantial (employers should check current DOL and IRS penalty schedules, as amounts are adjusted periodically)
+- Failure to provide SPD: Daily penalties per participant (employers should verify current amounts with the Department of Labor)
 - Fiduciary breaches: Personal liability for losses to the plan
-- DOL investigations and enforcement actions
+- Potential DOL investigations and enforcement actions
 
 ## Best Practices
 

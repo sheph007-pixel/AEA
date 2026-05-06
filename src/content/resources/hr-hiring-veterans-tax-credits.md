@@ -5,19 +5,21 @@ category: "Hiring"
 date: "2026-01-15"
 tags: ["veterans", "tax credits", "hiring", "WOTC"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:07:16.463Z"
 ---
 
 ## Work Opportunity Tax Credit for Veteran Hires
 
 The Work Opportunity Tax Credit (WOTC) provides significant federal tax incentives for employers who hire veterans from specified target groups. The credit amount varies based on the veteran's circumstances and ranges from $2,400 to $9,600 per qualified veteran hired. Veterans who are members of families receiving SNAP benefits, who have service-connected disabilities, or who have been unemployed for extended periods qualify for higher credit amounts.
 
-To claim the WOTC, employers must submit IRS Form 8850 to their State Workforce Agency within 28 calendar days of the employee's start date. The employee must also be certified as a member of a target group before the credit can be claimed on the employer's tax return.
+To claim the WOTC, employers must submit IRS Form 8850 to their State Workforce Agency within 28 calendar days of the employee's start date, specifically if the employer wishes to claim the credit for that hire. The employee must also be certified as a member of a target group before the credit can be claimed on the employer's tax return.
 
 ## USERRA Compliance for All Employers
 
 The Uniformed Services Employment and Reemployment Rights Act (USERRA) applies to all employers regardless of size and protects the civilian employment rights of service members, veterans, and members of the Reserve and National Guard. USERRA prohibits discrimination in employment based on military service and requires employers to reemploy returning service members in the position they would have held had they not been absent for military service.
 
-Returning service members must be reemployed promptly, with specific timelines based on the length of military service. Employers may not require returning employees to use vacation time for military service and must continue health insurance coverage for up to 24 months during military leave.
+Returning service members must be reemployed promptly, with specific timelines based on the length of military service. Employers may not require returning employees to use vacation time for military service and must comply with COBRA provisions, allowing service members to elect to continue their health insurance coverage for up to 24 months after military service.
 
 ## Veteran Recruitment Strategies
 

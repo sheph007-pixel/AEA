@@ -5,9 +5,11 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["sexual harassment", "investigation", "Title VII", "compliance"]
 author: "AEA Editorial Team"
+verified: false
+factCheckedAt: "2026-05-04T10:39:07.168Z"
 ---
 
-Receiving a sexual harassment complaint creates an immediate obligation to investigate. Under Title VII and the framework established by the Supreme Court, an employer's prompt and thorough response to harassment complaints is critical to both stopping the behavior and establishing a legal defense. A botched investigation can be more damaging than the underlying conduct.
+Receiving a sexual harassment complaint generally creates an obligation to investigate. Under Title VII and the framework established by the Supreme Court, an employer's prompt and thorough response to harassment complaints is critical to both stopping the behavior and establishing a legal defense. A poorly handled investigation can be more damaging than the underlying conduct.
 
 ## Immediate Steps Upon Receiving a Complaint
 
@@ -17,7 +19,7 @@ Act quickly when a harassment complaint comes in:
 - Document the initial report in detail, including the date, the identity of the complainant, and the nature of the allegations
 - Determine whether interim measures are needed to protect the complainant during the investigation, such as temporary reassignment, schedule changes, or placing the accused on administrative leave
 - Explain the process to the complainant and assure them that retaliation will not be tolerated
-- Do not promise confidentiality, but commit to limiting disclosure to those with a need to know
+- It is generally advisable not to promise confidentiality, but commit to limiting disclosure to those with a need to know. Employers should consult legal counsel for specific guidance.
 
 ## Selecting the Investigator
 

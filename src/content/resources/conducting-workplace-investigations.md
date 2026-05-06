@@ -5,6 +5,8 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["workplace investigation", "HR", "complaints", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:37:46.247Z"
 ---
 
 When an employee raises a complaint about harassment, discrimination, theft, policy violations, or other workplace misconduct, a prompt and thorough investigation is not just good practice. It is often a legal obligation. A properly conducted investigation protects the organization, demonstrates good faith, and can be a critical defense in litigation.

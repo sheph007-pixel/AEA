@@ -4,11 +4,13 @@ description: "How to properly administer COBRA continuation coverage, including 
 category: "Compliance"
 date: "2024-08-05"
 tags: ["COBRA", "health benefits", "compliance", "administration"]
+verified: true
+factCheckedAt: "2026-05-04T09:35:20.138Z"
 ---
 
 ## What Is COBRA?
 
-The Consolidated Omnibus Budget Reconciliation Act (COBRA) requires employers with 20 or more employees who sponsor group health plans to offer continuation coverage to employees and their dependents who lose coverage due to certain qualifying events.
+The Consolidated Omnibus Budget Reconciliation Act (COBRA) generally requires employers with 20 or more employees who sponsor group health plans to offer continuation coverage to employees and their dependents who lose coverage due to certain qualifying events.
 
 ## Qualifying Events
 
@@ -37,7 +39,7 @@ Provide to all new plan participants within 90 days of coverage beginning. This 
 Must be provided within 14 days after the plan administrator receives notice of a qualifying event. The qualified beneficiary then has 60 days to elect COBRA coverage.
 
 ### Notice of Unavailability
-If a qualifying event does not trigger COBRA rights, notify the individual within 14 days.
+If a qualifying event does not trigger COBRA rights, it is a best practice to notify the individual promptly, although there is no specific legal requirement for a 14-day notification period in this scenario.
 
 ### Notice of Early Termination
 If COBRA coverage will end before the maximum period, provide notice as soon as practicable.
@@ -65,7 +67,9 @@ If COBRA coverage will end before the maximum period, provide notice as soon as 
 ## Penalties
 
 Failure to comply with COBRA can result in:
-- Excise tax penalties per day per affected individual (check current IRS penalty amounts)
+- Excise tax penalties per day per affected individual (employers should consult current IRS penalty amounts)
 - Lawsuits from qualified beneficiaries
 - IRS penalties
 - Department of Labor enforcement actions
+
+---

@@ -5,11 +5,13 @@ category: "Small Business"
 date: "2018-10-11"
 tags: ["payroll", "small business", "tax compliance", "new business"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:39:57.044Z"
 ---
 
 ## Before Your First Payroll
 
-Setting up payroll for the first time involves more than picking a pay date and writing checks. You need tax identification numbers, proper employee documentation, a compliant pay structure, and a system to process it all accurately. Getting this right from the start prevents costly corrections later.
+Setting up payroll for the first time involves more than picking a pay date and writing checks. You need tax identification numbers, proper employee documentation, a compliant pay structure, and a system to process it all accurately. Getting this right from the start may help prevent costly corrections later.
 
 ## Step 1: Obtain Your Employer Identification Number
 
@@ -57,7 +59,7 @@ Small businesses generally choose between three options:
 
 **Do it yourself with payroll software.** Desktop or cloud-based payroll software calculates wages, withholdings, and deductions and generates pay stubs and tax forms. You remain responsible for making tax deposits and filings on time.
 
-**Use a payroll service provider.** A payroll service processes payroll for you, calculates and deposits taxes, and files quarterly and annual returns. This is the most common choice for small businesses. Costs typically run from $20 to $100 per month plus a per-employee fee.
+**Use a payroll service provider.** A payroll service processes payroll for you, calculates and deposits taxes, and files quarterly and annual returns. This is the most common choice for small businesses. Costs may typically range from $20 to $100 per month plus a per-employee fee, depending on the provider and services offered.
 
 **Hire an accountant or bookkeeper.** Some small employers have their accountant handle payroll as part of a broader bookkeeping engagement.
 
@@ -75,10 +77,10 @@ As an employer, you are responsible for:
 - **Filing Form 940 (Annual Federal Unemployment Tax Return)** annually
 - **Issuing Form W-2** to each employee and filing copies with the Social Security Administration by the annual deadline
 
-State requirements mirror many of these obligations and add their own.
+State requirements generally mirror many of these obligations and may add their own.
 
 ## Step 7: Establish Record-Keeping Practices
 
 From day one, maintain organized records of all payroll data, tax filings, deposit receipts, employee W-4s and I-9s, and time records. Retain payroll records for at least four years and I-9 forms for three years after hire or one year after separation, whichever is later.
 
-Getting payroll right from the start is one of the most important things a new employer can do. Errors compound quickly, and catching up with the IRS or state agencies is always more expensive than getting it right the first time.
+Getting payroll right from the start is one of the most important things a new employer can do. Errors can compound quickly, and catching up with the IRS or state agencies is often more expensive than getting it right the first time.

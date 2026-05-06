@@ -5,6 +5,8 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["dental", "healthcare", "employment law", "small business"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:03:02.676Z"
 ---
 
 ## Employment Structure in Dental Practices
@@ -15,9 +17,9 @@ One of the most common issues is the classification of associate dentists. While
 
 ## Dental Hygienist Classification
 
-The classification of dental hygienists varies by state. Most states require hygienists to work under the supervision of a licensed dentist, which strongly suggests employee status. Some states have expanded scope-of-practice laws allowing hygienists to practice more independently, but the classification analysis remains fact-specific.
+The classification of dental hygienists varies by state. In many cases, states require hygienists to work under the supervision of a licensed dentist, which generally suggests employee status. Some states have expanded scope-of-practice laws allowing hygienists to practice more independently, but the classification analysis remains fact-specific.
 
-Dental practice owners should ensure that hygienists are properly classified as W-2 employees when the practice controls the manner and means of their work. Misclassifying hygienists as independent contractors can result in liability for unpaid employment taxes, wage and hour violations, and penalties from the IRS and state agencies.
+Dental practice owners should ensure that hygienists are properly classified as W-2 employees when the practice controls the manner and means of their work. Misclassifying hygienists as independent contractors may result in liability for unpaid employment taxes, wage and hour violations, and penalties from the IRS and state agencies. Employers should consult legal counsel to ensure compliance with specific state laws and IRS guidelines.
 
 ## OSHA Compliance for Dental Offices
 

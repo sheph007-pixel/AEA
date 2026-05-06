@@ -5,6 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["wage deductions", "FLSA", "payroll", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:25:31.880Z"
 ---
 
 Docking an employee's pay is one of the most legally sensitive actions an employer can take. The rules differ depending on whether the employee is exempt or non-exempt, what the deduction is for, and which state the employee works in. Getting it wrong can lead to wage claims, penalties, and even loss of the FLSA overtime exemption.
@@ -21,7 +23,7 @@ Common permissible deductions for non-exempt employees include:
 - Cash register shortages or damaged equipment (in some states)
 - Overpayment recovery
 
-However, many states impose stricter rules. Some states prohibit deductions for cash shortages, breakage, or lost equipment entirely. Others require written authorization for any deduction beyond taxes and garnishments.
+However, many states impose stricter rules. Some states may prohibit deductions for cash shortages, breakage, or lost equipment entirely. Others require written authorization for any deduction beyond taxes and garnishments.
 
 ## Rules for Exempt Employees
 
@@ -49,7 +51,7 @@ State wage deduction laws frequently impose additional restrictions:
 
 - Some states require separate written consent for each specific deduction
 - Several states limit the total amount that can be deducted per pay period
-- A few states prohibit deductions for employer-provided tools, uniforms, or equipment entirely
+- Some states reportedly prohibit deductions for employer-provided tools, uniforms, or equipment
 - Many states require advance written notice before making any deduction
 
 Always check your state's wage payment and deduction statutes before implementing any payroll deduction.

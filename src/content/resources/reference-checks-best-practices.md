@@ -5,6 +5,8 @@ category: "Hiring"
 date: "2026-02-21"
 tags: ["reference checks", "hiring", "recruitment", "due diligence"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:36:20.281Z"
 ---
 
 ## Why Reference Checks Still Matter

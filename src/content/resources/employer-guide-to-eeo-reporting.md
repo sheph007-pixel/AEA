@@ -5,9 +5,11 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["EEO-1", "EEOC", "reporting", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:48:56.897Z"
 ---
 
-The EEO-1 report is an annual filing required by the EEOC that collects workforce demographic data from covered employers. The data helps the EEOC and the Office of Federal Contract Compliance Programs (OFCCP) monitor employment patterns and enforce federal anti-discrimination laws. Failure to file can result in enforcement actions.
+The EEO-1 report is an annual filing required by the EEOC that collects workforce demographic data from covered employers. The data helps the EEOC and the Office of Federal Contract Compliance Programs (OFCCP) monitor employment patterns and enforce federal anti-discrimination laws. Failure to file may result in enforcement actions, which could include potential penalties or other compliance measures.
 
 ## Who Must File
 
@@ -17,7 +19,7 @@ The EEO-1 report is required for:
 - Federal contractors or subcontractors with 50 or more employees and a contract of $50,000 or more
 - Financial institutions with 50 or more employees that serve as depositories for government funds or are issuing and paying agents for U.S. savings bonds
 
-Employers that meet these thresholds must file annually by the deadline specified by the EEOC, typically in the spring for the prior year's data.
+Employers that meet these thresholds must file annually by the deadline specified by the EEOC, which varies each year.
 
 ## What the Report Includes
 
@@ -33,9 +35,9 @@ The EEO-1 report, formally known as the Component 1 report, collects:
 Employers must collect race, ethnicity, and sex data for reporting purposes:
 
 - Self-identification is the preferred method. Provide employees with a voluntary self-identification form.
-- If an employee declines to self-identify, the employer may use employment records or visual observation to determine the information
-- Maintain the data confidentially and use it only for reporting and compliance purposes
-- Make clear to employees that providing the information is voluntary and will not affect their employment
+- If an employee declines to self-identify, the employer may use employment records or visual observation to determine the information.
+- Maintain the data confidentially and use it only for reporting and compliance purposes.
+- Make clear to employees that providing the information is voluntary and will not affect their employment.
 
 ## Common Filing Mistakes
 

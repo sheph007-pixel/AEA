@@ -6,6 +6,8 @@ date: "2024-11-15"
 tags: ["leave management", "multi-state", "FMLA", "compliance", "operations"]
 author: "AEA Editorial Team"
 featured: true
+verified: true
+factCheckedAt: "2026-05-04T10:24:25.851Z"
 ---
 
 ## The Complexity Problem
@@ -66,11 +68,11 @@ Managers should not be administering leave. Their role is limited but critical:
 
 The most complex aspect of multi-state leave management is determining which leaves run concurrently and which stack on top of each other. Key principles:
 
-**FMLA and state PFML generally run concurrently** when both apply to the same absence. However, the eligibility thresholds differ, so an employee may qualify under one but not the other.
+**FMLA and state PFML generally run concurrently** when both apply to the same absence. However, while many states have similar eligibility thresholds to FMLA, there can be variations, and employers should verify specific state laws.
 
 **Paid and unpaid leave.** Under FMLA, employers can generally require employees to substitute available paid leave for unpaid FMLA leave. State PFML programs may have different substitution rules.
 
-**ADA leave is separate.** Leave as a reasonable accommodation under the ADA does not run concurrently with FMLA and may be required even after FMLA leave is exhausted. Treat each as an independent entitlement.
+**ADA leave may vary.** Leave as a reasonable accommodation under the ADA does not always run concurrently with FMLA and may be required even after FMLA leave is exhausted. The interaction between ADA leave and FMLA leave can vary based on individual circumstances and legal interpretations.
 
 **Employer PTO.** Whether your own PTO runs concurrently with statutory leave depends on your policy and applicable law. Design your PTO policy with leave law interaction in mind.
 

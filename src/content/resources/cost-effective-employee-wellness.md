@@ -5,6 +5,8 @@ category: "Benefits"
 date: "2024-08-05"
 tags: ["wellness", "benefits", "small business", "employee health", "engagement"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:37:49.785Z"
 ---
 
 ## Wellness Without the Big Budget

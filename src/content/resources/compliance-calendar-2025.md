@@ -5,19 +5,21 @@ category: "Compliance"
 date: "2026-01-02"
 tags: ["compliance", "deadlines", "2026", "calendar", "federal requirements"]
 author: "AEA Editorial Team"
+verified: false
+factCheckedAt: "2026-05-04T09:37:41.132Z"
 ---
 
 ## Staying Ahead of Deadlines
 
-Missing a compliance deadline can result in penalties, fines, and legal exposure that far exceeds the cost of timely compliance. This calendar provides a framework of key federal deadlines and recurring obligations. State and local deadlines vary and should be added to your organization's specific compliance calendar.
+Missing a compliance deadline can result in penalties, fines, and legal exposure that may exceed the cost of timely compliance. This calendar provides a framework of key federal deadlines and recurring obligations. State and local deadlines vary and should be added to your organization's specific compliance calendar.
 
 ## January
 
-- **January 1**: New state and local minimum wage rates take effect in most jurisdictions. Update payroll and workplace postings.
-- **January 1**: Updated state paid leave contribution rates take effect. Verify payroll withholding.
+- **January 1**: New state and local minimum wage rates may take effect in many jurisdictions. Update payroll and workplace postings as necessary.
+- **January 1**: Updated state paid leave contribution rates may take effect. Verify payroll withholding.
 - **January 31**: File Form 941 (quarterly employment tax return) for Q4 of the prior year, or by February 10 if all deposits were made on time.
 - **January 31**: Furnish Forms W-2 to employees.
-- **January 31**: Furnish Forms 1099-NEC to independent contractors.
+- **January 31**: Furnish and file Forms 1099-NEC to independent contractors with the IRS.
 - **January 31**: File Forms W-2 with the Social Security Administration.
 
 ## February
@@ -28,10 +30,9 @@ Missing a compliance deadline can result in penalties, fines, and legal exposure
 
 ## March
 
-- **March 1**: OSHA Form 300A annual summary must be posted in the workplace (posting period February 1 through April 30).
-- **March 2 (typically)**: Deadline to electronically submit OSHA injury and illness data (Forms 300, 300A, 301) for establishments required to report to OSHA.
+- **February 1 through April 30**: OSHA Form 300A annual summary must be posted in the workplace.
+- **March 2 (typically)**: Deadline to electronically submit OSHA injury and illness data (Forms 300, 300A, 301) for establishments required to report to OSHA. Note that this deadline may vary by year and should be confirmed with OSHA's announcements.
 - **March 15**: File Form 1120-S (S corporation tax return).
-- **March 31**: Deadline for electronic filing of Forms W-2 and 1099 with SSA/IRS.
 
 ## April
 
@@ -47,8 +48,8 @@ Missing a compliance deadline can result in penalties, fines, and legal exposure
 
 ## July
 
-- **July 1**: Several state minimum wage increases take effect mid-year. Update payroll.
-- **July 1**: Many state paid family and medical leave programs adjust contribution rates.
+- **July 1**: Several state minimum wage increases may take effect mid-year. Update payroll.
+- **July 1**: Many state paid family and medical leave programs may adjust contribution rates.
 - **July 31**: File Form 941 for Q2.
 - **July 31**: File Form 5500 for calendar-year retirement and welfare benefit plans (or file for extension).
 
@@ -56,7 +57,7 @@ Missing a compliance deadline can result in penalties, fines, and legal exposure
 
 - **Ongoing**: Prepare for open enrollment. Negotiate health plan renewals. Update benefits communications.
 - **September 15**: Extended deadline for filing S corporation and partnership tax returns.
-- **September 30**: Submit annual EEO-1 report (deadline may vary; check EEOC announcements).
+- **September 30**: Submit annual EEO-1 report (deadline may vary; check EEOC announcements for specific dates).
 
 ## October
 
@@ -69,16 +70,16 @@ Missing a compliance deadline can result in penalties, fines, and legal exposure
 
 - **November**: Finalize open enrollment. Process benefit elections for the new plan year.
 - **December 1**: Deadline for distributing Medicare Part D creditable coverage notices (prior to open enrollment for Medicare-eligible individuals).
-- **December 2 (typically)**: ACA reporting: Begin preparing Forms 1095-C (applicable large employers) and 1095-B (self-insured plans) for distribution and filing.
+- **December 2 (typically)**: ACA reporting: Begin preparing Forms 1095-C (applicable large employers) and 1095-B (self-insured plans) for distribution and filing. Note that the specific deadlines for distribution and filing should be confirmed.
 - **December 31**: Review and update workplace posters for the new year.
 - **December 31**: Confirm minimum wage rates and employment law changes effective January 1 of the new year. Update payroll systems.
 
 ## Recurring Monthly and Quarterly Obligations
 
-- **Monthly**: Deposit withheld federal income taxes and FICA taxes (schedule depends on deposit frequency classification)
-- **Quarterly**: File Form 941 or 944 (annual filer)
-- **Quarterly**: File state unemployment tax returns
-- **Quarterly**: Review and update required workplace postings as needed
+- **Monthly**: Deposit withheld federal income taxes and FICA taxes (schedule depends on deposit frequency classification).
+- **Quarterly**: File Form 941 or 944 (annual filer).
+- **Quarterly**: File state unemployment tax returns.
+- **Quarterly**: Review and update required workplace postings as needed.
 
 ## Building Your Custom Calendar
 

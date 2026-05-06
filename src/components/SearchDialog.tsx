@@ -98,7 +98,7 @@ export default function SearchDialog({ onClose }: { onClose: () => void }) {
 
           {results.map((item) => (
             <button
-              key={item.href}
+              key={`${item.source}-${item.slug}`}
               onClick={() => handleSelect(item.href)}
               className="w-full text-left px-4 py-3 hover:bg-ink-50 transition-colors border-b border-ink-50 last:border-0"
             >

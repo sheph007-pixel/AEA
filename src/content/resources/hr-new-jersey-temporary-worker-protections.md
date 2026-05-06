@@ -5,19 +5,21 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["new jersey", "temporary workers", "staffing", "compliance"]
 author: "AEA Editorial Team"
+verified: false
+factCheckedAt: "2026-05-04T10:10:04.678Z"
 ---
 
 ## Overview of the Temporary Workers' Bill of Rights
 
-New Jersey's Temporary Workers' Bill of Rights, signed into law in February 2023 with key provisions effective August 5, 2023, provides significant protections for temporary workers placed by staffing agencies. The law applies to temporary help service firms and their third-party clients in designated industries, initially covering specified occupational classifications.
+New Jersey's Temporary Workers' Bill of Rights, signed into law in February 2023 with key provisions effective August 5, 2023, aims to provide significant protections for temporary workers placed by staffing agencies. The law applies to temporary help service firms and their third-party clients in designated industries, initially covering specified occupational classifications.
 
 Both staffing agencies and client companies share compliance responsibilities under the law, making it essential for employers who use temporary staffing services to understand their obligations.
 
 ## Equal Pay and Benefit Requirements
 
-The law requires that temporary workers be paid at least the same average rate of pay and equivalent benefits as permanent employees of the client company performing the same or substantially similar work. If equivalent benefits are not provided, the temporary worker must receive a cash equivalent added to their hourly rate.
+The law may require that temporary workers be paid at least the same average rate of pay and equivalent benefits as permanent employees of the client company performing the same or substantially similar work. If equivalent benefits are not provided, temporary workers may need to receive a cash equivalent added to their hourly rate.
 
-This equal pay requirement represents a significant shift from the common practice of paying temporary workers at lower rates than permanent employees. Both the staffing agency and client employer can be held jointly and severally liable for violations.
+This potential equal pay requirement represents a shift from the common practice of paying temporary workers at lower rates than permanent employees. Both the staffing agency and client employer may be held liable for violations, though specific liability can vary.
 
 ## Disclosure and Transparency Obligations
 
@@ -29,10 +31,12 @@ The notice must be provided in English and, if requested, in the temporary worke
 
 Employers may not retaliate against temporary workers who exercise their rights under the law, file complaints, or participate in investigations. Retaliation includes discharge, demotion, suspension, reduction in hours, and any other adverse employment action.
 
-The New Jersey Department of Labor and Workforce Development enforces the law and may investigate complaints, issue citations, and impose penalties. Violations can result in per-violation penalties that escalate for repeat offenses, plus potential liability for back pay, liquidated damages, and attorneys' fees. Verify current penalty amounts with the New Jersey Department of Labor.
+The New Jersey Department of Labor and Workforce Development enforces the law and may investigate complaints, issue citations, and impose penalties. Violations can result in per-violation penalties that escalate for repeat offenses, plus potential liability for back pay, liquidated damages, and attorneys' fees. Employers should verify current penalty amounts with the New Jersey Department of Labor.
 
 ## Practical Steps for Compliance
 
-Client employers who use temporary staffing services should review their agreements with staffing agencies to ensure compliance with the equal pay and disclosure requirements. Companies should provide staffing agencies with the information needed to calculate equivalent pay rates and benefits. Auditing temporary worker placements to verify compliance with wage parity requirements helps prevent liability.
+Client employers who use temporary staffing services should review their agreements with staffing agencies to ensure compliance with any applicable equal pay and disclosure requirements. Companies should provide staffing agencies with the information needed to calculate equivalent pay rates and benefits. Auditing temporary worker placements to verify compliance with wage parity requirements helps prevent liability.
 
-Staffing agencies should develop compliant disclosure templates and train staff on notification requirements. Both agencies and client employers should maintain records demonstrating compliance for at least six years as required by the law.
+Staffing agencies should develop compliant disclosure templates and train staff on notification requirements. Staffing agencies are required to maintain records demonstrating compliance for at least six years. Client employers should consult legal counsel to determine their specific record-keeping obligations.
+
+---

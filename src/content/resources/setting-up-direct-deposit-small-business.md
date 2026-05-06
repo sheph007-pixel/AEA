@@ -5,6 +5,8 @@ category: "Small Business"
 date: "2026-01-15"
 tags: ["payroll", "direct deposit", "small business", "operations"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:38:38.819Z"
 ---
 
 Direct deposit is the most common method of paying employees in the United States, and for good reason. It reduces administrative costs, eliminates lost or stolen checks, and gives employees faster access to their wages. Setting it up is straightforward, even for the smallest employers.
@@ -23,10 +25,10 @@ When evaluating providers, compare per-transaction fees, monthly minimums, setup
 
 Before implementing direct deposit, be aware of the legal landscape:
 
-- **Federal law** does not require employers to offer direct deposit, but it does not prohibit mandatory direct deposit either
-- **State laws vary significantly**: Some states require employers to offer an alternative payment method, while others allow mandatory direct deposit
-- **The Electronic Fund Transfer Act** requires that direct deposit participation be voluntary for federal government payments, but this does not apply to private employers
-- You must comply with all applicable wage payment laws in your state
+- **Federal law** does not require employers to offer direct deposit, and while it does not prohibit mandatory direct deposit, state laws may impose restrictions on making it mandatory.
+- **State laws vary significantly**: Some states require employers to offer an alternative payment method, while others allow mandatory direct deposit.
+- **Federal government payments** are generally required to be electronic, with exceptions only under specific circumstances. While this primarily applies to federal payments, private employers should be aware of any relevant state laws that may influence their practices.
+- You must comply with all applicable wage payment laws in your state.
 
 Always check your state's specific rules before making direct deposit mandatory.
 
@@ -42,7 +44,7 @@ Follow these steps to get direct deposit running:
 6. Run a pre-notification (zero-dollar test transaction) to verify account details
 7. Process your first live direct deposit payroll
 
-The pre-notification step typically takes two to three business days and helps catch errors before real money moves.
+The pre-notification step may take two to three business days and can help catch errors before real money moves. Employers should verify this with their provider.
 
 ## Employee Authorization Forms
 

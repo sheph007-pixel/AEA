@@ -5,11 +5,13 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["auto dealership", "sales", "commissions", "FLSA"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:01:27.640Z"
 ---
 
 ## FLSA Auto Dealership Exemptions
 
-Auto dealerships benefit from specific FLSA exemptions that differ from those available to most employers. Section 13(b)(10) of the FLSA exempts from overtime requirements any salesperson, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements at a dealership that is non-manufacturing. This exemption applies regardless of the employee's salary level.
+Auto dealerships may benefit from specific FLSA exemptions that differ from those available to most employers. Section 13(b)(10) of the FLSA exempts from overtime requirements any salesperson, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements at a dealership that is non-manufacturing. This exemption applies regardless of the employee's salary level.
 
 To qualify, the employee must be primarily engaged in the selling or servicing function, and the employer must be a non-manufacturing establishment primarily engaged in selling vehicles to ultimate purchasers. The exemption does not extend to all dealership employees, and those in administrative, clerical, or non-sales roles remain subject to standard FLSA overtime requirements.
 
@@ -17,13 +19,13 @@ To qualify, the employee must be primarily engaged in the selling or servicing f
 
 Dealership commission pay structures vary widely but typically include draw-against-commission arrangements, flat-per-unit commissions, percentage-of-gross-profit commissions, or hybrid plans combining a base salary with commission. Each structure creates specific compliance obligations under the FLSA and state wage and hour laws.
 
-Under a draw-against-commission arrangement, the draw is an advance against future commissions. Employers must ensure that employees earn at least minimum wage for all hours worked in each pay period. If commissions are insufficient to meet minimum wage after the draw is deducted, the employer must make up the difference. Some states, including California, prohibit employers from carrying forward negative commission balances beyond the pay period.
+Under a draw-against-commission arrangement, the draw is an advance against future commissions. Employers must generally ensure that employees earn at least the applicable minimum wage for all hours worked in each pay period, based on both federal and state laws. Employers should consult specific state laws and legal counsel to ensure compliance with minimum wage requirements under different commission structures. If commissions are insufficient to meet minimum wage after the draw is deducted, the employer must make up the difference. In some states, employers may be restricted from carrying forward negative commission balances beyond the pay period; employers should verify specific state requirements by consulting state-specific legal resources.
 
 ## State Commission Payment Laws
 
 State laws governing commission payment vary significantly. Many states require employers to have written commission agreements that specify how commissions are calculated, when they are earned, and under what circumstances they may be forfeited or charged back. California Labor Code Section 2751 requires a written commission agreement signed by the employee.
 
-Several states require payment of earned commissions upon termination regardless of whether the employee is still employed when the deal closes. Others allow forfeiture of commissions on deals not yet finalized at the time of separation. Understanding the specific commission payment laws in each state where the dealership operates is critical.
+Some states require payment of earned commissions upon termination, regardless of whether the employee is still employed when the deal closes. Employers should consult legal counsel to understand the specific commission payment laws in each state where the dealership operates.
 
 ## Technician Classification and Pay
 

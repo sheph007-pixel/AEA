@@ -5,6 +5,8 @@ category: "Operations"
 date: "2026-01-15"
 tags: ["drug testing", "workplace policy", "DOT", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:43:50.201Z"
 ---
 
 Workplace drug testing is regulated by a patchwork of federal, state, and local laws. While federal law does not generally require private employers to drug test (except in certain regulated industries), employers who choose to test must navigate complex legal requirements. The legalization of marijuana in many states has added another layer of complexity.
@@ -23,11 +25,11 @@ Not all types of testing are permitted in all states. Some states restrict rando
 
 ## Federal Requirements for Regulated Industries
 
-Certain industries are subject to mandatory drug and alcohol testing under federal regulations:
+Certain industries are subject to drug and alcohol testing under federal regulations:
 
 - **DOT-regulated employers**: Including trucking, aviation, rail, transit, pipeline, and maritime industries must follow DOT testing procedures under 49 CFR Part 40
 - **Federal contractors**: The Drug-Free Workplace Act requires federal contractors to maintain a drug-free workplace but does not mandate testing
-- **Nuclear Regulatory Commission licensees**: Subject to mandatory testing under NRC regulations
+- **Nuclear Regulatory Commission licensees**: May be subject to testing under NRC regulations
 
 DOT testing follows strict protocols including a specific five-panel drug test, use of certified laboratories, Medical Review Officer (MRO) review, and detailed recordkeeping requirements.
 
@@ -40,7 +42,7 @@ State laws create a complex landscape for drug testing:
 - An increasing number of states and cities prohibit adverse action based on positive marijuana tests for off-duty use
 - Some states require confirmation testing using a second method (such as GC-MS) before taking adverse action
 - Many states require that testing be performed by a certified laboratory
-- Several states require employee assistance program (EAP) referrals before or instead of termination for a positive test
+- Some states may require employee assistance program (EAP) referrals before or instead of termination for a positive test
 
 ## Developing a Drug Testing Policy
 
@@ -63,5 +65,7 @@ Marijuana legalization creates unique challenges for employers:
 - DOT-regulated employers must continue to treat marijuana as a prohibited substance regardless of state law
 - Non-regulated employers should review state and local laws before taking adverse action based on marijuana test results
 - Many states protect employees from adverse action for lawful off-duty marijuana use
-- No state requires employers to permit marijuana use or impairment in the workplace
+- While no state requires employers to permit marijuana use or impairment in the workplace, many states have specific regulations regarding marijuana testing and adverse actions
 - Consider whether your drug testing program should focus on impairment rather than presence of metabolites
+
+---

@@ -5,6 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["EEOC", "discrimination charge", "compliance", "employment law"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:49:48.141Z"
 ---
 
 Receiving a charge of discrimination from the Equal Employment Opportunity Commission can be alarming, but it does not mean you have been found guilty of anything. A charge is an allegation that triggers an investigation process. How you respond can significantly affect the outcome. Prompt, thorough, and strategic action is essential.
@@ -53,7 +55,7 @@ Cooperate with the EEOC investigation while protecting your interests:
 - Make witnesses available for interviews as requested
 - Provide requested documents promptly
 - Do not obstruct or delay the investigation
-- Keep records of all interactions with the EEOC
+- Keeping records of all interactions with the EEOC may be a prudent practice
 - Continue to treat the charging party fairly and without retaliation
 
 ## Possible Outcomes
@@ -67,3 +69,5 @@ The charge may be resolved in several ways:
 - **Lawsuit**: If conciliation fails, the EEOC may file suit (though this is relatively rare)
 
 Consider mediation seriously, as it is often the fastest and least expensive way to resolve a charge, even if you believe the charge lacks merit.
+
+---

@@ -5,6 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["hospitality", "overtime", "wages", "FLSA"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:07:51.106Z"
 ---
 
 ## Overtime Basics for Hospitality Employers
@@ -15,9 +17,9 @@ Calculating the regular rate in hospitality requires careful attention because i
 
 ## Tipped Employee Overtime Calculations
 
-When a tipped employee works overtime, the overtime premium must be calculated based on the full minimum wage, not the reduced cash wage. The correct formula is: (full minimum wage x 1.5) minus the tip credit. The resulting cash overtime wage is what the employer must pay per overtime hour. Verify the current federal minimum wage and maximum tip credit amount with the DOL, as these figures determine the exact calculation.
+When a tipped employee works overtime, the overtime premium must be calculated based on the full minimum wage, not the reduced cash wage. Employers should verify the appropriate formula with the Department of Labor or legal counsel to ensure compliance. Verify the current federal minimum wage and maximum tip credit amount with the DOL, as these figures determine the exact calculation.
 
-Employers frequently miscalculate tipped employee overtime by simply multiplying the cash wage by 1.5. This common error results in systematic underpayment and is a frequent target of DOL investigations in the hospitality sector.
+Employers frequently miscalculate tipped employee overtime by simply multiplying the cash wage by 1.5. This common error results in systematic underpayment and may be a target of DOL investigations in the hospitality sector.
 
 ## Dual Jobs and Multiple Rates
 
@@ -33,4 +35,4 @@ Some states, such as New York, have specific hospitality industry wage orders th
 
 ## Practical Compliance Steps
 
-Hospitality employers should implement timekeeping systems that accurately track hours by position and pay rate. Regular audits of overtime calculations, particularly for tipped employees and dual-rate workers, help identify systemic errors. Training payroll staff on the nuances of hospitality overtime rules and staying current on regulatory changes are essential for maintaining compliance and avoiding costly wage and hour litigation.
+Hospitality employers should implement timekeeping systems that accurately track hours by position and pay rate. Regular audits of overtime calculations, particularly for tipped employees and dual-rate workers, help identify potential errors. Training payroll staff on the nuances of hospitality overtime rules and staying current on regulatory changes are essential for maintaining compliance and avoiding costly wage and hour litigation.

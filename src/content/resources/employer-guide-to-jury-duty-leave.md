@@ -5,6 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["jury duty", "leave", "compliance", "employee rights"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:51:59.884Z"
 ---
 
 When an employee receives a jury duty summons, employers must navigate a set of federal and state obligations. While federal law provides limited protections, state laws vary widely on issues such as pay during jury service, job protection, and permissible employer actions.

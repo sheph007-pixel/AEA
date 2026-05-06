@@ -1,245 +1,454 @@
 {
-  "2026-03-31-ai-workplace-tools-raise-compliance-questions-2.md": {
-    "file": "2026-03-31-ai-workplace-tools-raise-compliance-questions-2.md",
+  "2026-04-30-embracing-employee-well-being-a-new-frontier-in-hr-practices-1.md": {
     "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article presents accurate information regarding the regulatory landscape and employer obligations related to AI workplace tools.",
-    "checkedAt": "2026-04-07T07:02:26.077Z",
-    "hash": "f207f9a8508625c5500fe21bea19ffec",
-    "dir": "src/content/news"
-  },
-  "2026-03-31-dol-announces-updated-overtime-threshold-0.md": {
-    "file": "2026-03-31-dol-announces-updated-overtime-threshold-0.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article accurately reflects the current state of overtime salary threshold requirements under the Fair Labor Standards Act.",
-    "checkedAt": "2026-04-07T07:02:29.045Z",
-    "hash": "c83d3b41d5c945b9deb84c967acb032c",
-    "dir": "src/content/news"
-  },
-  "2026-03-31-small-business-health-insurance-costs-3.md": {
-    "file": "2026-03-31-small-business-health-insurance-costs-3.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article presents accurate information regarding health insurance costs and strategies for small employers without any factual errors.",
-    "checkedAt": "2026-04-07T07:02:31.066Z",
-    "hash": "b94b01936f1d82b44a14b79e77c15998",
-    "dir": "src/content/news"
-  },
-  "2026-03-31-state-paid-leave-programs-expanding-1.md": {
-    "file": "2026-03-31-state-paid-leave-programs-expanding-1.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article presents accurate information regarding state-level paid leave programs and employer obligations.",
-    "checkedAt": "2026-04-07T07:02:33.790Z",
-    "hash": "30f0f4d72624082cd8c8877b1c533f48",
-    "dir": "src/content/news"
-  },
-  "2026-03-31-workplace-violence-prevention-gaining-attention-4.md": {
-    "file": "2026-03-31-workplace-violence-prevention-gaining-attention-4.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article presents accurate information regarding workplace violence prevention standards and employer obligations.",
-    "checkedAt": "2026-04-07T07:02:35.491Z",
-    "hash": "57a7a13fb89f31bc69de7a94984b2147",
-    "dir": "src/content/news"
-  },
-  "2026-04-06-navigating-the-rise-of-remote-work-regulations-1.md": {
-    "file": "2026-04-06-navigating-the-rise-of-remote-work-regulations-1.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article accurately discusses the evolving regulations surrounding remote work without any factual inaccuracies.",
-    "checkedAt": "2026-04-07T07:02:58.861Z",
-    "hash": "cddf8a00846e56dd6e91ee564aa4bfba",
-    "dir": "src/content/news",
-    "autoFixed": true
-  },
-  "2026-04-06-new-federal-guidance-on-remote-work-policies-what-employers--2.md": {
-    "file": "2026-04-06-new-federal-guidance-on-remote-work-policies-what-employers--2.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article provides accurate information regarding DOL guidance on remote work policies without any factual issues.",
-    "checkedAt": "2026-04-07T07:03:01.299Z",
-    "hash": "d212b8ae333d99a5c25bfa64dbca6ee9",
-    "dir": "src/content/news"
-  },
-  "2026-04-06-new-federal-regulations-on-workplace-safety-what-employers-n-3.md": {
-    "file": "2026-04-06-new-federal-regulations-on-workplace-safety-what-employers-n-3.md",
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "summary": "The article accurately discusses workplace safety regulations and employer obligations without any factual errors.",
-    "checkedAt": "2026-04-07T07:03:03.488Z",
-    "hash": "68b7248d695e1582337676a44dfac2f8",
-    "dir": "src/content/news"
-  },
-  "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md": {
-    "file": "2026-04-06-new-guidance-on-employee-benefits-compliance-under-the-secur-4.md",
-    "status": "flag",
     "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "the law adjusted the RMD age to 73",
-        "issue": "The SECURE 2.0 Act actually adjusts the RMD age to 73 starting in 2023, but it is important to specify that this change is phased in, with the age increasing to 75 in 2033.",
-        "suggestion": "Clarify that the RMD age is 73 starting in 2023 and will increase to 75 in 2033."
-      },
-      {
-        "severity": "medium",
-        "text": "Employers should verify the specific hours and service requirements with their plan administrators.",
-        "issue": "The article does not specify the actual hours and service requirements for part-time workers under SECURE 2.0, which could mislead employers.",
-        "suggestion": "Include specific details about the hours and service requirements for part-time workers as outlined in SECURE 2.0."
-      },
-      {
-        "severity": "medium",
-        "text": "Employers may need to provide clearer disclosures regarding the fees associated with their retirement plans",
-        "issue": "The article does not specify the exact reporting and disclosure requirements that have changed under SECURE 2.0, which could lead to confusion.",
-        "suggestion": "Provide specific details about the updated reporting and disclosure requirements under SECURE 2.0."
-      }
-    ],
-    "summary": "The article contains some inaccuracies and lacks specific details that could mislead employers regarding compliance with the SECURE 2.0 Act.",
-    "checkedAt": "2026-04-07T07:03:39.528Z",
-    "hash": "15029deb9ec49d3e54c89f36647d76bf",
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-embracing-employee-well-being-a-new-frontier-in-hr-practices-1.md",
+    "hash": "e1052a19fd02c4a3f77356f0be5ca7b3",
     "dir": "src/content/news",
-    "autoFixed": true
+    "checkedAt": "2026-05-02T07:17:50.273Z"
   },
-  "2026-04-07-navigating-the-new-federal-overtime-rule-what-employers-need-3.md": {
-    "file": "2026-04-07-navigating-the-new-federal-overtime-rule-what-employers-need-3.md",
-    "status": "flag",
+  "2026-04-30-navigating-the-rise-of-employee-gig-work-what-employers-need-3.md": {
+    "status": "pass",
     "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "the threshold will rise from $684 per week to $1,059 per week, making it approximately $55,000 annually.",
-        "issue": "The new salary threshold for exempt employees is actually $1,059 per week, which translates to approximately $55,000 annually, but the article does not clarify that this is based on a 52-week year calculation, which could be misleading.",
-        "suggestion": "Clarify that the annual figure is based on a standard 52-week year calculation."
-      },
-      {
-        "severity": "medium",
-        "text": "the DOL has indicated that the salary threshold may be reviewed and adjusted periodically.",
-        "issue": "While the DOL does review regulations, the article should specify that any adjustments are not guaranteed and depend on future regulatory actions.",
-        "suggestion": "Add a disclaimer that adjustments are subject to the DOL's discretion and not guaranteed."
-      }
-    ],
-    "summary": "The article contains some potentially misleading statements regarding the new overtime regulations that should be clarified for accuracy.",
-    "checkedAt": "2026-04-07T07:04:09.177Z",
-    "hash": "d461e380d1b9a19725d904746b1e17f7",
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-navigating-the-rise-of-employee-gig-work-what-employers-need-3.md",
+    "hash": "386ea175ab61258d5153e474860bcb29",
     "dir": "src/content/news",
-    "autoFixed": true
+    "checkedAt": "2026-05-02T07:17:51.909Z"
   },
-  "2026-04-07-navigating-the-new-fmla-regulations-what-employers-need-to-k-1.md": {
-    "file": "2026-04-07-navigating-the-new-fmla-regulations-what-employers-need-to-k-1.md",
-    "status": "flag",
+  "2026-04-30-the-expanding-role-of-wellness-programs-in-employee-benefits-4.md": {
+    "status": "pass",
     "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "the DOL often looks to align state and federal regulations, which could influence local compliance.",
-        "issue": "This statement implies a direct influence of federal regulations on state laws without clarifying that state laws can vary significantly and may not always align with federal regulations.",
-        "suggestion": "Clarify that while the DOL may encourage alignment, state laws can differ and employers should consult state-specific regulations."
-      },
-      {
-        "severity": "medium",
-        "text": "expanded definition of 'serious health condition,' which now encompasses a broader range of health issues, including mental health conditions.",
-        "issue": "The article does not specify the exact changes to the definition of 'serious health condition' as per the latest regulations, which could mislead readers about the nature of the updates.",
-        "suggestion": "Provide specific details or examples of the changes to the definition to avoid ambiguity."
-      }
-    ],
-    "summary": "The article contains some ambiguous statements regarding the alignment of state and federal regulations and lacks specific details about the updated definition of 'serious health condition.'",
-    "checkedAt": "2026-04-07T07:04:38.201Z",
-    "hash": "5553cae2f3a46381fe8dfd72f64b71d1",
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-the-expanding-role-of-wellness-programs-in-employee-benefits-4.md",
+    "hash": "f4db3c1d8f85c1327b856d751e458329",
     "dir": "src/content/news",
-    "autoFixed": true
+    "checkedAt": "2026-05-02T07:17:53.992Z"
   },
-  "2026-04-07-new-california-law-mandates-pay-transparency-for-employers-2.md": {
-    "file": "2026-04-07-new-california-law-mandates-pay-transparency-for-employers-2.md",
-    "status": "fail",
-    "confidence": 0.9,
-    "issues": [
-      {
-        "severity": "high",
-        "text": "This legislation, known as Assembly Bill 5 (AB 5)",
-        "issue": "AB 5 is not related to pay transparency; it pertains to independent contractor classification. The correct law for pay transparency in California is Assembly Bill 168.",
-        "suggestion": "Correct the reference to the appropriate law, Assembly Bill 168, which addresses pay transparency."
-      },
-      {
-        "severity": "high",
-        "text": "starting January 1, 2023",
-        "issue": "The article states that the law requires compliance starting January 1, 2023, which is incorrect. The law was enacted in 2022 and took effect on January 1, 2023, but the article does not clarify this distinction.",
-        "suggestion": "Clarify that the law was enacted in 2022 and took effect on January 1, 2023."
-      },
-      {
-        "severity": "medium",
-        "text": "employers with 100 or more employees must include the salary range",
-        "issue": "The threshold for employers required to disclose salary ranges is actually for employers with 15 or more employees, not 100.",
-        "suggestion": "Revise the threshold to state that it applies to employers with 15 or more employees."
-      }
-    ],
-    "summary": "The article contains significant factual inaccuracies regarding the legal references and compliance requirements of California's pay transparency law.",
-    "checkedAt": "2026-04-07T07:05:05.131Z",
-    "hash": "cc89a99642c2ccceeb3844f4fa803b77",
-    "dir": "src/content/news",
-    "autoFixed": true
-  },
-  "2026-04-07-new-federal-guidance-on-employee-benefits-administration-4.md": {
-    "file": "2026-04-07-new-federal-guidance-on-employee-benefits-administration-4.md",
-    "status": "flag",
+  "2026-04-30-understanding-the-new-federal-guidelines-on-non-compete-agre-0.md": {
+    "status": "pass",
     "confidence": 0.8,
-    "issues": [
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-understanding-the-new-federal-guidelines-on-non-compete-agre-0.md",
+    "hash": "35dd4112555ea2b40d97f516fa1cec8e",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:55.781Z"
+  },
+  "2026-04-30-updates-on-labor-relations-key-changes-affecting-private-sec-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-04-30-updates-on-labor-relations-key-changes-affecting-private-sec-2.md",
+    "hash": "4447c293899b41e82245cec1ef6e6ab4",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:57.621Z"
+  },
+  "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md",
+    "hash": "02821a07bef56bb4be26c00ca6527b6d",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:17:59.701Z"
+  },
+  "2026-05-01-new-developments-in-remote-work-tax-regulations-what-employe-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-new-developments-in-remote-work-tax-regulations-what-employe-2.md",
+    "hash": "f8715422c90dec55cef83b1defbf6958",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:01.239Z"
+  },
+  "2026-05-01-the-impact-of-state-level-retirement-savings-mandates-on-emp-4.md": {
+    "status": "pass",
+    "confidence": 1,
+    "issues": [],
+    "confirmed_claims": 4,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "summary": "All claims in the article are confirmed by credible sources, and the article is accurate and well-supported.",
+    "claims_extracted": 4,
+    "verification_details": [
       {
-        "severity": "medium",
-        "text": "Employers should also be aware that failure to comply with this advisory guidance may lead to increased scrutiny from regulators, although penalties are typically associated with violations of established laws rather than non-compliance with guidance.",
-        "issue": "The statement downplays the potential consequences of non-compliance with DOL guidance, which can lead to enforcement actions even if not directly tied to penalties.",
-        "suggestion": "Clarify that while advisory guidance may not carry penalties like laws do, non-compliance can still result in increased scrutiny and potential legal challenges."
+        "claim_number": 1,
+        "claim": "As of October 2023, approximately 17 states may have enacted legislation requiring employers to either offer a retirement plan or enroll their employees in state-sponsored retirement savings programs.",
+        "verdict": "confirmed",
+        "source": "https://www.betterment.com/work/resources/guide-to-state-mandated-retirement-plans",
+        "explanation": "As of October 2023, multiple states have enacted legislation requiring employers to offer retirement plans or enroll employees in state-sponsored programs. The exact number of states varies by source, but the claim is generally supported."
       },
       {
-        "severity": "medium",
-        "text": "While the DOL suggests that employers may conduct periodic audits of their benefit plans as a best practice to ensure compliance with federal regulations and to identify any areas for improvement, it is important to note that such audits are not a legal requirement for all employers under ERISA.",
-        "issue": "The phrasing may mislead readers into thinking that audits are optional for all employers, while certain employers may have specific audit requirements under ERISA or other regulations.",
-        "suggestion": "Specify that while audits are not universally required, certain employers may have obligations under specific circumstances, and it is advisable for all to consider them as best practice."
+        "claim_number": 2,
+        "claim": "States such as California and Illinois are known to be leading this initiative.",
+        "verdict": "confirmed",
+        "source": "https://www.betterment.com/work/resources/guide-to-state-mandated-retirement-plans",
+        "explanation": "California and Illinois have implemented state-mandated retirement savings programs, positioning them as leaders in this initiative."
+      },
+      {
+        "claim_number": 3,
+        "claim": "In California, employers with one or more employees must comply.",
+        "verdict": "confirmed",
+        "source": "https://www.calsavers.com/home/frequently-asked-questions.html",
+        "explanation": "California's CalSavers program requires employers with one or more employees to comply, with deadlines varying based on employer size."
+      },
+      {
+        "claim_number": 4,
+        "claim": "California’s mandate required compliance by employers with five or more employees by June 30, 2022.",
+        "verdict": "confirmed",
+        "source": "https://www.calsavers.com/home/frequently-asked-questions.html",
+        "explanation": "Employers with five or more employees were required to comply with California's CalSavers program by June 30, 2022."
       }
     ],
-    "summary": "The article contains some misleading claims regarding the implications of DOL guidance and the necessity of audits under ERISA.",
-    "checkedAt": "2026-04-07T07:05:34.501Z",
-    "hash": "159ce52092e22b1a5f831fec91b574fb",
+    "file": "2026-05-01-the-impact-of-state-level-retirement-savings-mandates-on-emp-4.md",
+    "hash": "cc444b671f15bb180364cc4bb5412a3f",
     "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:31.522Z",
     "autoFixed": true
   },
-  "2026-04-07-new-wage-transparency-laws-on-the-rise-what-employers-need-t-0.md": {
-    "file": "2026-04-07-new-wage-transparency-laws-on-the-rise-what-employers-need-t-0.md",
-    "status": "flag",
+  "2026-05-01-the-increasing-importance-of-employee-training-and-developme-1.md": {
+    "status": "pass",
     "confidence": 0.8,
-    "issues": [
-      {
-        "severity": "medium",
-        "text": "California Equal Pay Act",
-        "issue": "The California Equal Pay Act does not specifically mandate salary range disclosure in job postings; this requirement is part of the California Pay Transparency Law, which is separate.",
-        "suggestion": "Clarify that the requirement to disclose salary ranges in job postings is part of the California Pay Transparency Law, not the Equal Pay Act."
-      },
-      {
-        "severity": "medium",
-        "text": "New York City Salary Transparency Law",
-        "issue": "The article does not specify that the New York City Salary Transparency Law applies only to employers with four or more employees, which is a critical threshold.",
-        "suggestion": "Include the threshold of four employees to clarify the applicability of the New York City Salary Transparency Law."
-      },
-      {
-        "severity": "low",
-        "text": "Certain states, such as California and Colorado, require employers to report salary data to state agencies.",
-        "issue": "While California and Colorado have reporting requirements, the article should specify that these requirements may vary and not all employers are subject to the same reporting obligations.",
-        "suggestion": "Add a note that reporting obligations can vary by employer size and specific local laws."
-      }
-    ],
-    "summary": "The article contains some inaccuracies regarding the specific laws governing wage transparency in California and New York, which should be clarified for accuracy.",
-    "checkedAt": "2026-04-07T07:06:04.081Z",
-    "hash": "91a8e0660e2343386387e6ca6fee031b",
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-the-increasing-importance-of-employee-training-and-developme-1.md",
+    "hash": "e89ddb3462d23e41f0cebad055f04989",
     "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:33.254Z"
+  },
+  "2026-05-01-the-push-for-business-continuity-planning-what-employers-nee-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-01-the-push-for-business-continuity-planning-what-employers-nee-3.md",
+    "hash": "45d1ff9e18da955eae167e2a7a41525b",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:34.935Z"
+  },
+  "2026-05-02-navigating-the-landscape-of-supply-chain-transparency-regula-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-02-navigating-the-landscape-of-supply-chain-transparency-regula-3.md",
+    "hash": "1ebe5d9819ca99f833873dbfab572d80",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:36.513Z"
+  },
+  "2026-05-02-new-protections-for-pregnant-workers-what-employers-need-to--0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-02-new-protections-for-pregnant-workers-what-employers-need-to--0.md",
+    "hash": "b972f75f643a1a6c10b51f6b06c729d3",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:38.121Z"
+  },
+  "2026-05-02-the-growing-importance-of-total-rewards-strategies-in-employ-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-02-the-growing-importance-of-total-rewards-strategies-in-employ-4.md",
+    "hash": "837e0592f50ff1cae41e35b4336c3cdd",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:39.764Z"
+  },
+  "2026-05-02-the-impact-of-new-remote-work-regulations-on-employer-polici-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-02-the-impact-of-new-remote-work-regulations-on-employer-polici-2.md",
+    "hash": "bbd6eb91f55d3a2e19f9f4572aa0a063",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:41.448Z"
+  },
+  "2026-05-02-the-rise-of-hybrid-work-policies-best-practices-for-employer-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-02-the-rise-of-hybrid-work-policies-best-practices-for-employer-1.md",
+    "hash": "9901ed2a3d04799697f70eb95231a00e",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-02T07:18:43.110Z"
+  },
+  "2026-05-03-navigating-the-new-regulations-on-environmental-sustainabili-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-03-navigating-the-new-regulations-on-environmental-sustainabili-3.md",
+    "hash": "5d41f805a86eda1ee12f0ebc6c17bb60",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-03T07:43:41.940Z"
+  },
+  "2026-05-03-the-growing-focus-on-diversity-equity-and-inclusion-training-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-03-the-growing-focus-on-diversity-equity-and-inclusion-training-1.md",
+    "hash": "0ff699ecfc4b908cf96e97ef31ed6fa9",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-03T07:43:43.746Z"
+  },
+  "2026-05-03-the-growing-importance-of-mental-health-benefits-in-employee-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-03-the-growing-importance-of-mental-health-benefits-in-employee-4.md",
+    "hash": "3f39dec32f9b1577cb25d502d2e86a58",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-03T07:43:45.836Z"
+  },
+  "2026-05-03-the-increasing-scrutiny-of-workplace-harassment-policies-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-03-the-increasing-scrutiny-of-workplace-harassment-policies-0.md",
+    "hash": "0e4e27c922eac67ecced0d97bd32b9a5",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-03T07:43:47.495Z"
+  },
+  "2026-05-03-the-new-trends-in-employee-privacy-rights-what-employers-mus-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-03-the-new-trends-in-employee-privacy-rights-what-employers-mus-2.md",
+    "hash": "6837207b88501094d715005125865f99",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-03T07:43:49.396Z"
+  },
+  "2026-05-04-navigating-the-new-ftc-rules-on-employment-non-disclosure-ag-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-04-navigating-the-new-ftc-rules-on-employment-non-disclosure-ag-0.md",
+    "hash": "d0ba1da9dfbfaea845f29200091f0287",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-04T08:13:04.920Z",
     "autoFixed": true
+  },
+  "2026-05-04-the-rise-of-skills-based-hiring-a-shift-in-recruitment-strat-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-04-the-rise-of-skills-based-hiring-a-shift-in-recruitment-strat-1.md",
+    "hash": "e4e0118ca711fe23531250442654b1a9",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-04T08:13:06.956Z"
+  },
+  "2026-05-04-the-shift-toward-flexible-benefits-meeting-employee-expectat-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-04-the-shift-toward-flexible-benefits-meeting-employee-expectat-4.md",
+    "hash": "40682fe5912b12de94f42ba6f5e097aa",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-04T08:13:08.785Z"
+  },
+  "2026-05-04-understanding-the-new-federal-cybersecurity-regulations-for--3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-04-understanding-the-new-federal-cybersecurity-regulations-for--3.md",
+    "hash": "b5488339f50bea12a2314f7b3aa4076f",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-04T08:13:10.619Z"
+  },
+  "2026-05-04-understanding-the-new-federal-guidelines-on-remote-work-poli-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-04-understanding-the-new-federal-guidelines-on-remote-work-poli-2.md",
+    "hash": "08d771f174c7a8817d87625baf70cf56",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-04T08:13:13.185Z"
+  },
+  "2026-05-05-navigating-the-new-regulations-on-business-travel-expenses-3.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-05-navigating-the-new-regulations-on-business-travel-expenses-3.md",
+    "hash": "5ec03f24f3b8e41b4eed6dbe67deceb9",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-05T07:51:10.057Z"
+  },
+  "2026-05-05-the-impact-of-inflation-adjustments-on-employee-benefits-pac-4.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-05-the-impact-of-inflation-adjustments-on-employee-benefits-pac-4.md",
+    "hash": "c0e8badc2502532486cc750203906c90",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-05T07:51:11.944Z"
+  },
+  "2026-05-05-the-importance-of-emotional-intelligence-in-leadership-devel-1.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-05-the-importance-of-emotional-intelligence-in-leadership-devel-1.md",
+    "hash": "c374f588c7272a79674f1ba74d9194f9",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-05T07:51:13.803Z"
+  },
+  "2026-05-05-the-rise-of-pay-transparency-laws-what-employers-need-to-kno-0.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-05-the-rise-of-pay-transparency-laws-what-employers-need-to-kno-0.md",
+    "hash": "fc56e6f7fc977f08bb366cc52be2f005",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-05T07:51:15.845Z"
+  },
+  "2026-05-05-understanding-the-national-labor-relations-board-s-new-guide-2.md": {
+    "status": "pass",
+    "confidence": 0.8,
+    "issues": [],
+    "confirmed_claims": 0,
+    "unverified_claims": 0,
+    "false_claims": 0,
+    "claims_extracted": 0,
+    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
+    "file": "2026-05-05-understanding-the-national-labor-relations-board-s-new-guide-2.md",
+    "hash": "5c13938b78a57c10ab066881a88f33b8",
+    "dir": "src/content/news",
+    "checkedAt": "2026-05-05T07:51:17.726Z"
   }
 }

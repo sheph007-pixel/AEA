@@ -5,6 +5,8 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["employee relations", "complaints", "management", "HR"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:57:35.730Z"
 ---
 
 When an employee complains about a manager, how you respond matters enormously. A poorly handled complaint can escalate into a harassment or retaliation lawsuit, while a well-managed process can resolve issues early and strengthen workplace trust. Every complaint deserves a thoughtful, consistent response.
@@ -20,7 +22,7 @@ The first step is to make the employee feel heard without making promises you ca
 - Explain the next steps in general terms without promising specific outcomes
 - Assure the employee that retaliation will not be tolerated
 
-Never dismiss a complaint as trivial or tell the employee to "work it out" with the manager directly, especially if the complaint involves harassment, discrimination, or illegal conduct.
+Employers should generally avoid dismissing a complaint as trivial or telling the employee to "work it out" with the manager directly, especially if the complaint involves harassment, discrimination, or illegal conduct. Employers should consult legal counsel to ensure compliance with applicable laws.
 
 ## Assessing the Complaint
 
@@ -45,7 +47,7 @@ When a formal investigation is warranted:
 - Reach conclusions based on the preponderance of evidence
 - Prepare a written summary of findings
 
-The investigation should be prompt. Unnecessary delays can be used as evidence of indifference in a later legal proceeding.
+The investigation should generally be prompt. Unnecessary delays may be used as evidence of indifference in a later legal proceeding. Employers should consult legal counsel to understand the implications of delays.
 
 ## Taking Appropriate Action
 
@@ -68,3 +70,5 @@ Retaliation claims are among the most common employment complaints filed with th
 - Check in with the complainant periodically after the matter is resolved
 - Take swift action if any retaliatory conduct is identified
 - Document all follow-up conversations and monitoring efforts
+
+---

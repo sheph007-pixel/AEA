@@ -5,6 +5,8 @@ category: "Small Business"
 date: "2026-02-22"
 tags: ["recession", "small business", "financial planning", "workforce", "cost management"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:39:59.758Z"
 ---
 
 Economic uncertainty creates anxiety for small business owners, but proactive preparation significantly reduces the impact of a downturn. The employers who survive and even thrive during recessions are those who plan ahead, manage costs intelligently, and retain their core team.
@@ -57,7 +59,7 @@ Determine which employees are essential to maintain operations at reduced capaci
 Losing critical employees during a downturn compounds the financial pressure:
 
 - Have honest conversations with key employees about the business outlook and your commitment to their role
-- Consider retention agreements or bonuses tied to continued employment through a defined period
+- Consider retention agreements or bonuses tied to continued employment through a defined period; employers should consult legal or financial advisors to ensure compliance with applicable laws
 - Ensure key employees feel valued and see a future with the organization
 - Address compensation competitiveness proactively for your most important people
 
@@ -65,7 +67,7 @@ Losing critical employees during a downturn compounds the financial pressure:
 If revenue declines significantly, you may need to reduce labor costs. Having a plan in advance makes difficult decisions more thoughtful:
 
 - Define objective criteria for any future workforce reduction (seniority, performance, business need)
-- Review legal requirements (WARN Act, state notification laws, final pay deadlines)
+- Review legal requirements, including the WARN Act, which generally applies to employers with 100 or more employees during mass layoffs, as well as state notification laws and final pay deadlines, which may vary by state
 - Budget for severance and benefits continuation costs
 - Consider alternatives to layoffs: hiring freezes, reduced hours, voluntary furloughs, elimination of overtime, temporary pay reductions with restoration commitments
 

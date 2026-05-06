@@ -5,6 +5,8 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["youth employment", "child labor", "FLSA", "compliance"]
 author: "AEA Editorial Team"
+verified: false
+factCheckedAt: "2026-05-04T09:59:26.969Z"
 ---
 
 Hiring minors requires compliance with both federal child labor provisions under the FLSA and state youth employment laws, which are often stricter. Violations can result in civil penalties, and in cases of willful violation leading to serious injury or death, criminal penalties are possible.
@@ -51,7 +53,7 @@ Many states impose additional requirements:
 - **Work permits**: Many states require minors to obtain a work permit or employment certificate before beginning work
 - **Stricter hour limits**: Some states have tighter restrictions on hours than federal law
 - **Additional prohibited occupations**: States may ban minors from additional types of work
-- **Meal and rest break requirements**: Some states require specific breaks for minor employees
+- **Meal and rest break requirements**: Some states reportedly require specific breaks for minor employees
 - **Record retention**: States may require employers to keep work permits on file and maintain specific records
 
 Always check the youth employment laws in your state, as the stricter standard between federal and state law applies.

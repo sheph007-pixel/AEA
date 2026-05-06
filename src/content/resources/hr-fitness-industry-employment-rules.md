@@ -5,6 +5,8 @@ category: "HR Management"
 date: "2026-01-15"
 tags: ["fitness", "gym", "employee classification", "wages"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:04:19.415Z"
 ---
 
 ## Classification of Fitness Professionals

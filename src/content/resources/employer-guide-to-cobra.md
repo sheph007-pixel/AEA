@@ -5,6 +5,8 @@ category: "Benefits"
 date: "2026-01-15"
 tags: ["COBRA", "health insurance", "benefits", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:48:00.699Z"
 ---
 
 The Consolidated Omnibus Budget Reconciliation Act (COBRA) requires employers with 20 or more employees who sponsor group health plans to offer continuation of coverage to employees and their dependents who lose coverage due to certain qualifying events. COBRA compliance involves strict notice requirements and timelines that employers must follow carefully.
@@ -66,9 +68,11 @@ Key rules about COBRA premiums:
 
 Avoid these frequent COBRA errors:
 
-- Missing notice deadlines, which can result in penalties of up to $110 per day per affected individual under ERISA
+- Missing notice deadlines, which may result in penalties under ERISA
 - Failing to offer COBRA when reducing hours triggers a loss of coverage
 - Not tracking the 20-employee threshold accurately
 - Terminating coverage during the grace period for late payment
 - Failing to account for state mini-COBRA requirements
 - Not offering COBRA for dental and vision plans
+
+---

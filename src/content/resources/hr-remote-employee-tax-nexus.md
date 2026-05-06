@@ -5,6 +5,8 @@ category: "Operations"
 date: "2026-01-15"
 tags: ["remote work", "tax nexus", "multistate", "payroll"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:14:54.550Z"
 ---
 
 ## How Remote Employees Create State Tax Nexus
@@ -15,15 +17,15 @@ The expansion of remote work has dramatically increased the number of employers 
 
 ## State Income Tax Withholding
 
-Employers generally must withhold state income taxes in the state where work is performed, regardless of where the employer is located. If an employee lives and works in a state different from the employer's home state, the employer typically must register with the employee's state revenue department and withhold income taxes according to that state's rules.
+Employers generally must withhold state income taxes in the state where work is performed, regardless of where the employer is located. However, employers should consult specific state laws, as there may be exceptions or additional requirements, particularly for non-resident employees. If an employee lives and works in a state different from the employer's home state, the employer typically must register with the employee's state revenue department and withhold income taxes according to that state's rules.
 
-Reciprocal tax agreements between some states simplify this obligation. For example, employees living in one state and working in another state covered by a reciprocity agreement need only pay income tax to their state of residence. However, these agreements only cover a minority of state pairs, and employers must verify whether a reciprocity agreement applies.
+Reciprocal tax agreements between some states may simplify this obligation. For example, employees living in one state and working in another state covered by a reciprocity agreement may only need to pay income tax to their state of residence. However, these agreements only cover a minority of state pairs, and employers must verify whether a reciprocity agreement applies.
 
 ## Unemployment Insurance Obligations
 
-State unemployment insurance laws generally require employers to pay unemployment taxes in the state where work is performed. Under the localization of work rules established by the Federal Unemployment Tax Act and state laws, an employee's wages are reported to the state where the work is localized. For remote employees who work exclusively from their home state, that state receives the unemployment insurance tax payments.
+State unemployment insurance laws generally require employers to pay unemployment taxes in the state where work is performed. An employee's wages are generally reported to the state where the work is localized. For remote employees who work exclusively from their home state, that state typically receives the unemployment insurance tax payments.
 
-Registration requirements vary by state. Some states require registration immediately upon having a single employee in the state, while others have threshold requirements based on the number of employees or amount of payroll. Employers should verify registration requirements in each state where remote employees are located.
+Registration requirements vary by state. Some states require registration immediately upon having a single employee in the state, such as New York and California, while others have threshold requirements based on the number of employees or amount of payroll, like Texas and Florida. Employers should verify registration requirements in each state where remote employees are located.
 
 ## Corporate Tax Implications
 

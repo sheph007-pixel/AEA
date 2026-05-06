@@ -5,6 +5,8 @@ category: "Workplace Culture"
 date: "2024-01-10"
 tags: ["engagement", "surveys", "workplace culture", "retention", "employee feedback"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:41:40.285Z"
 ---
 
 ## The Problem with Most Engagement Surveys

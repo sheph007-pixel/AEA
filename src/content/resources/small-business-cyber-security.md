@@ -5,6 +5,8 @@ category: "Technology"
 date: "2026-02-20"
 tags: ["cybersecurity", "small business", "data protection", "technology", "employee data"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:39:48.387Z"
 ---
 
 ## Small Businesses Are Prime Targets
@@ -51,7 +53,7 @@ Install reputable antivirus and endpoint detection software on all company devic
 
 Develop a simple incident response plan that answers these questions: Who do you call if you discover a breach? How do you contain the damage? What are your legal notification obligations? Who communicates with affected individuals?
 
-Most states have data breach notification laws requiring employers to notify affected individuals within a specific timeframe, often 30 to 60 days. Know your obligations before a breach occurs.
+Notification requirements for data breaches may vary by state, and employers should consult legal counsel to understand their obligations before a breach occurs.
 
 ## Employee Training
 

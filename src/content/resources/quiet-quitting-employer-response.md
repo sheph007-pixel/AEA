@@ -5,6 +5,8 @@ category: "Workplace Culture"
 date: "2026-02-22"
 tags: ["quiet quitting", "engagement", "burnout", "workplace culture", "management"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:35:40.264Z"
 ---
 
 The term "quiet quitting" entered mainstream discourse in 2022, describing employees who fulfill their job requirements but decline to go above and beyond. Before reacting defensively, employers should understand what quiet quitting actually signals and how to address it constructively.

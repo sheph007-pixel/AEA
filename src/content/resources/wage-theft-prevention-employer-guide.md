@@ -5,9 +5,11 @@ category: "Compliance"
 date: "2026-01-15"
 tags: ["wage theft", "FLSA", "payroll", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:43:06.936Z"
 ---
 
-Wage theft is not just an intentional act. Many employers unknowingly engage in practices that constitute wage theft under federal and state law. Common forms include failing to pay for all hours worked, misclassifying employees, improperly rounding time, and not paying final wages on time. The consequences include back pay awards, penalties, legal fees, and reputational damage.
+Wage theft is not just an intentional act. Many employers unknowingly engage in practices that may constitute wage theft under federal and state law. Common forms include failing to pay for all hours worked, misclassifying employees, improperly rounding time, and not paying final wages on time. The consequences can include back pay awards, penalties, legal fees, and reputational damage.
 
 ## Common Forms of Wage Theft
 
@@ -25,7 +27,7 @@ Employers should be aware of these frequently cited violations:
 Several states have enacted specific wage theft prevention measures:
 
 - **New York**: Requires employers to provide written wage notices to new hires detailing pay rate, pay frequency, employer information, and other compensation details
-- **California**: Requires similar wage theft prevention notices at time of hire and when wage information changes
+- **California**: Employers should consult counsel regarding requirements for written notice of pay rates and other information at the time of hire; changes in wage information may require a new notice depending on specific legal requirements
 - **Other states**: An increasing number of jurisdictions are enacting notice and transparency requirements
 
 Even without a specific state law, clear communication about pay practices helps prevent disputes and demonstrates good faith.
@@ -50,7 +52,7 @@ Implement systems and practices that prevent wage theft:
 - Require supervisor approval for overtime rather than simply prohibiting it after the fact
 - Pay employees for all mandatory activities including meetings, training, and donning and doffing required safety gear
 - Review and correct automatic time rounding policies to ensure they are neutral over time
-- Process final paychecks in accordance with state law deadlines
+- Process final paychecks in accordance with state law deadlines, noting that deadlines may vary by state law and employers should verify the specific requirements in their jurisdiction
 
 ## Responding to Wage Claims
 

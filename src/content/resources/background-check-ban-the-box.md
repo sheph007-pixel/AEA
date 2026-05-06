@@ -5,11 +5,13 @@ category: "Hiring"
 date: "2026-02-21"
 tags: ["ban the box", "fair chance hiring", "background checks", "criminal history", "state law"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:33:53.264Z"
 ---
 
 ## The Fair Chance Hiring Movement
 
-Fair chance hiring laws, commonly known as "ban-the-box" laws, restrict when and how employers can inquire about a job applicant's criminal history. The movement has expanded rapidly: over 35 states and more than 150 cities and counties have enacted some form of fair chance hiring legislation. For multi-state employers, compliance requires a detailed understanding of each jurisdiction's specific requirements.
+Fair chance hiring laws, commonly known as "ban-the-box" laws, restrict when and how employers can inquire about a job applicant's criminal history. The movement has expanded rapidly; as of now, many states and cities have enacted some form of fair chance hiring legislation. For multi-state employers, compliance requires a detailed understanding of each jurisdiction's specific requirements.
 
 ## What Ban-the-Box Laws Typically Require
 
@@ -25,13 +27,13 @@ While the specifics vary by jurisdiction, most ban-the-box laws share a common f
 
 ## Key Jurisdictional Differences
 
-**Federal contractors.** The Fair Chance to Compete for Jobs Act prohibits federal contractors and agencies from requesting criminal history information before a conditional offer for most positions.
+**Federal contractors.** The Fair Chance to Compete for Jobs Act prohibits federal contractors and agencies from requesting criminal history information before a conditional offer for most positions, although there may be exceptions based on specific circumstances.
 
-**California.** The California Fair Chance Act applies to employers with five or more employees. It prohibits criminal history inquiries before a conditional offer and requires a detailed individualized assessment process with specific notice requirements if an employer intends to deny employment.
+**California.** The California Fair Chance Act generally applies to employers with five or more employees, although specific circumstances may affect applicability. It prohibits criminal history inquiries before a conditional offer and requires a detailed individualized assessment process with specific notice requirements if an employer intends to deny employment.
 
-**New York City.** The NYC Fair Chance Act is among the most comprehensive. It applies to employers with four or more employees, restricts the timing of criminal history inquiries, requires a multi-factor analysis, and mandates specific written notices before and during any adverse action process. It also covers current employees, not just applicants.
+**New York City.** The NYC Fair Chance Act is among the most comprehensive. It may apply to employers with four or more employees, restricts the timing of criminal history inquiries, requires a multi-factor analysis, and mandates specific written notices before and during any adverse action process. It also covers current employees, not just applicants. Employers should consult legal counsel to confirm applicability.
 
-**Illinois.** The Illinois Human Rights Act prohibits employers from using conviction records as a basis for employment decisions unless there is a substantial relationship between the conviction and the position or the employment would create an unreasonable risk.
+**Illinois.** The Illinois Human Rights Act generally prohibits employers from using conviction records as a basis for employment decisions unless there is a substantial relationship between the conviction and the position or the employment would create an unreasonable risk. Employers should verify specific requirements with legal counsel.
 
 **Other jurisdictions.** Many states and cities have unique provisions. Some prohibit salary history inquiries alongside criminal history restrictions. Others limit how far back an employer can look. Some restrict the use of arrest records (as opposed to convictions) entirely.
 
@@ -51,6 +53,6 @@ While the specifics vary by jurisdiction, most ban-the-box laws share a common f
 
 ## The Business Case
 
-Beyond compliance, fair chance hiring expands your talent pool. Millions of Americans have criminal records, many for offenses that have no bearing on their ability to perform most jobs. Employers who adopt fair chance practices consistently report that these hires perform well and often demonstrate strong loyalty and retention.
+Beyond compliance, fair chance hiring expands your talent pool. Millions of Americans have criminal records, many for offenses that may have no bearing on their ability to perform most jobs. Employers who adopt fair chance practices consistently report that these hires perform well and often demonstrate strong loyalty and retention.
 
 Fair chance hiring is not about ignoring legitimate safety concerns. It is about making employment decisions based on a thoughtful evaluation of the individual rather than an automatic exclusion.

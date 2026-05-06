@@ -4,6 +4,8 @@ description: "Navigate the legal requirements of hiring, from job postings to ba
 category: "Hiring"
 date: "2024-10-28"
 tags: ["hiring", "employment law", "background checks", "interviewing"]
+verified: true
+factCheckedAt: "2026-05-04T09:59:29.301Z"
 ---
 
 ## Job Postings and Descriptions
@@ -22,7 +24,7 @@ Write job descriptions that focus on actual duties and necessary qualifications.
 - Use a standardized application form for all positions
 - Avoid questions about age, marital status, religion, national origin, disability, or other protected characteristics
 - Many jurisdictions have "ban the box" laws restricting when you can ask about criminal history
-- Keep all applications on file for at least one year (longer in some jurisdictions)
+- Employers should consult local laws regarding how long to retain job applications, as requirements vary by jurisdiction
 
 ## Interviewing
 

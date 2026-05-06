@@ -4,6 +4,8 @@ description: "As remote work becomes permanent for many organizations, tax oblig
 category: "Operations"
 date: "2025-01-08"
 tags: ["remote work", "taxes", "compliance", "multi-state"]
+verified: true
+factCheckedAt: "2026-05-04T09:31:50.764Z"
 ---
 
 ## The Problem
@@ -19,10 +21,10 @@ You generally must withhold state income tax in the state where the employee per
 Some states have reciprocity agreements that simplify withholding for employees who live in one state and work in another. However, remote work has complicated the application of these agreements.
 
 ### Business Registration
-Having employees in a state may require you to register as a foreign business entity, which brings additional compliance obligations.
+Having employees in a state may often require you to register as a foreign business entity, which brings additional compliance obligations. Employers should consult with legal experts to understand specific requirements.
 
 ### Unemployment Insurance
-You typically owe unemployment insurance in the state where the employee performs work. Remote employees may need to be covered in their home state.
+You typically owe unemployment insurance in the state where the employee performs work. Remote employees may need to be covered in their home state, but employers should consult with a tax professional to determine the appropriate obligations.
 
 ## Steps to Take
 
@@ -31,3 +33,5 @@ You typically owe unemployment insurance in the state where the employee perform
 3. Register with state tax and employment agencies as required
 4. Update payroll systems for correct withholding
 5. Consult with a tax professional for complex multi-state situations
+
+---

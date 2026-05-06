@@ -6,6 +6,8 @@ date: "2026-01-15"
 tags: ["workforce planning", "small business", "talent strategy", "labor market", "2026"]
 author: "AEA Editorial Team"
 featured: false
+verified: true
+factCheckedAt: "2026-05-04T10:43:20.801Z"
 ---
 
 ## Why Workforce Planning Matters for Small Employers

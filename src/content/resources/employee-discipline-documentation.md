@@ -4,6 +4,8 @@ description: "How to create clear, consistent disciplinary documentation that su
 category: "HR"
 date: "2024-05-18"
 tags: ["discipline", "documentation", "HR management", "performance"]
+verified: true
+factCheckedAt: "2026-05-04T09:41:36.950Z"
 ---
 
 ## Why Documentation Matters

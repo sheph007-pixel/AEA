@@ -5,6 +5,8 @@ category: "Workplace Culture"
 date: "2026-02-21"
 tags: ["DEI", "diversity", "Title VII", "compliance", "workplace culture"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:39:51.706Z"
 ---
 
 ## The Current Legal Landscape

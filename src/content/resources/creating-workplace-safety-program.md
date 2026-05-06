@@ -5,6 +5,8 @@ category: "Safety"
 date: "2026-01-15"
 tags: ["OSHA", "workplace safety", "safety program", "compliance"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:39:44.620Z"
 ---
 
 A strong workplace safety program protects employees, reduces costs associated with injuries and illnesses, and helps employers comply with OSHA requirements. OSHA recommends that all employers establish a safety and health program based on a framework of core elements. Many states require written safety programs for certain industries.
@@ -68,6 +70,6 @@ When a workplace injury or near-miss occurs:
 - Investigate promptly while details are fresh
 - Identify root causes, not just immediate causes
 - Develop corrective actions to prevent recurrence
-- Report fatalities to OSHA within 8 hours and hospitalizations, amputations, or losses of an eye within 24 hours
+- Report fatalities to OSHA within 8 hours. Hospitalizations, amputations, or losses of an eye must be reported within 24 hours.
 
 A non-punitive reporting culture encourages employees to report hazards and near-misses before injuries occur.

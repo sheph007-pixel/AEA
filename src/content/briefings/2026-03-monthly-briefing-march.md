@@ -6,11 +6,13 @@ date: "2026-03-02"
 month: "2026-03"
 author: "AEA Editorial Team"
 tags: ["monthly-briefing", "hiring", "EEO-1", "state-legislation", "workplace-safety", "Q2-planning", "March-2026"]
+verified: false
+factCheckedAt: "2026-05-04T09:29:31.452Z"
 ---
 
 # Monthly Employer Briefing: March 2026
 
-March marks the transition from Q1 compliance obligations to Q2 planning. Spring hiring is ramping up across industries, several major federal reporting deadlines are approaching, state legislatures are in full session, and employers should be looking ahead to mid-year priorities. Here is what employers need to know this month.
+March marks the transition from Q1 compliance obligations to Q2 planning. Spring hiring is ramping up across industries, several major federal reporting deadlines are approaching, state legislatures may be in full session, and employers should be looking ahead to mid-year priorities. Here is what employers need to know this month.
 
 ## Spring Hiring Season
 
@@ -25,9 +27,9 @@ Employers entering spring hiring season in 2026 should prepare by:
 
 ## EEO-1 Reporting
 
-The EEOC's EEO-1 Component 1 report — which generally requires covered employers to submit workforce demographic data by job category, race, ethnicity, and sex — is typically due in the spring. Employers with 100 or more employees, and federal contractors meeting certain size and contract value thresholds, are generally required to file. Employers should verify current filing requirements, as thresholds and timelines may change.
+The EEOC's EEO-1 Component 1 report — which generally requires covered employers to submit workforce demographic data by job category, race, ethnicity, and sex — is typically due in the spring. Employers with 100 or more employees, and federal contractors meeting specific size and contract value thresholds, are generally required to file. For federal contractors, the thresholds include having a contract of $50,000 or more and employing 50 or more employees. Employers should consult the EEOC for the most current requirements.
 
-Employers should monitor the EEOC's website for the opening of the 2025 EEO-1 data collection portal and the announced filing deadline. In recent years, the collection timeline has shifted, so relying on historical deadlines alone is not sufficient. Employers should begin assembling their workforce data now so they are prepared to file promptly once the portal opens.
+Employers should monitor the EEOC's website for the opening of the 2026 EEO-1 data collection portal and the announced filing deadline. In recent years, the collection timeline has shifted, so relying on historical deadlines alone is not sufficient. Employers should begin assembling their workforce data now so they are prepared to file promptly once the portal opens.
 
 Key preparation steps include:
 
@@ -38,10 +40,10 @@ Key preparation steps include:
 
 ## State Legislative Activity
 
-State legislatures across the country are in active session, and employment-related legislation is a prominent feature on many agendas. Among the most common themes in 2026 state legislative activity:
+State legislatures may be in active session, and employment-related legislation could be a prominent feature on many agendas. Among the most common themes in 2026 state legislative activity:
 
 - **Paid leave expansion.** Several states are considering new paid family and medical leave programs or expanding the scope and benefits of existing programs.
-- **Pay transparency.** Several states are considering bills that may require salary range disclosure in job postings, wage data reporting, and pay equity audits.
+- **Pay transparency.** Some states are considering bills that may require salary range disclosure in job postings, wage data reporting, and pay equity audits. Employers should consult legal counsel to stay informed about developments in their specific states.
 - **AI regulation.** Several states are considering bills that would regulate the use of artificial intelligence in employment decisions, potentially including requirements for bias audits, impact assessments, and candidate notification.
 - **Non-compete restrictions.** Several states are considering bills to limit or ban non-compete agreements, continuing a broader legislative trend in this area.
 - **Heat illness and outdoor worker protections.** Several states are considering workplace heat safety standards, which may include required rest breaks, access to water and shade, and acclimatization protocols.
@@ -74,4 +76,6 @@ March is a month of action for employers. Staying on top of reporting deadlines,
 
 ---
 
-*This briefing is prepared by the AEA Editorial Team based on publicly available regulatory guidance, employment law developments, and employer-reported trends. Individual data from AEA members is never disclosed. All analysis reflects general observations and should not be treated as legal advice. Consult qualified counsel for guidance on specific situations.*
+*This briefing is prepared by the AEA
+
+---

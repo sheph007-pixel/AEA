@@ -5,13 +5,15 @@ category: "Safety"
 date: "2026-02-18"
 tags: ["OSHA", "recordkeeping", "workplace safety", "compliance"]
 author: "AEA Editorial Team"
+verified: false
+factCheckedAt: "2026-05-04T10:29:27.573Z"
 ---
 
 ## Who Needs to Keep OSHA Records?
 
-Most employers with 11 or more employees at any point during the previous calendar year are required to maintain OSHA injury and illness records. Certain low-hazard industries in retail, finance, insurance, and real estate are partially exempt, but this exemption only applies to routine recordkeeping — not to reporting fatalities or severe injuries directly to OSHA.
+Most employers with 10 or more employees at any point during the previous calendar year are required to maintain OSHA injury and illness records. Certain low-hazard industries in retail, finance, insurance, and real estate may be partially exempt, but this exemption generally applies to routine recordkeeping — not to reporting fatalities or severe injuries directly to OSHA.
 
-Even if you are normally exempt, OSHA can require you to keep records during a specific survey year. Always check the current list of partially exempt industries published in 29 CFR 1904.2.
+Even if you are normally exempt, OSHA may require you to keep records during a specific survey year. Employers should consult the current list of partially exempt industries published in 29 CFR 1904.2.
 
 ## The Three Core Forms
 
@@ -19,7 +21,7 @@ OSHA's recordkeeping system revolves around three forms:
 
 - **OSHA Form 300 (Log of Work-Related Injuries and Illnesses)**: This is the running log you maintain throughout the year. Each qualifying incident gets its own line entry.
 - **OSHA Form 301 (Injury and Illness Incident Report)**: A detailed supplementary report for each individual case. An equivalent form, such as a workers' compensation first report of injury, may substitute if it contains all required data points.
-- **OSHA Form 300A (Summary of Work-Related Injuries and Illnesses)**: This annual summary must be posted in a visible workplace location from February 1 through April 30 of the following year. A company executive must certify the form.
+- **OSHA Form 300A (Summary of Work-Related Injuries and Illnesses)**: This annual summary must be posted in a visible workplace location by February 1 of the year following the year covered by the summary and remain posted through April 30. A company executive must certify the form.
 
 ## What Counts as a Recordable Incident?
 
@@ -32,19 +34,19 @@ An injury or illness is recordable if it is work-related and results in any of t
 5. Loss of consciousness
 6. A significant injury or illness diagnosed by a physician or licensed healthcare professional
 
-The distinction between first aid and medical treatment is critical. First aid includes wound cleaning, bandaging, non-prescription medications, tetanus shots, and similar minor treatments. Anything more — stitches, prescription medications, physical therapy — makes the case recordable.
+The distinction between first aid and medical treatment is critical. First aid includes wound cleaning, bandaging, non-prescription medications, tetanus shots, and similar minor treatments. Anything more — stitches, prescription medications, physical therapy — generally makes the case recordable.
 
 ## Common Employer Mistakes
 
-**Failing to record near-misses that resulted in treatment.** If an employee trips, falls, and receives prescription painkillers, that is recordable even if the employee returns to work the same day.
+**Failing to record near-misses that resulted in treatment.** If an employee trips, falls, and receives prescription painkillers, that is generally recordable even if the employee returns to work the same day.
 
-**Recording too late.** You must enter each recordable case on the OSHA 300 Log within seven calendar days of learning about it.
+**Recording too late.** You must enter each recordable case on the OSHA 300 Log within seven calendar days of learning about it, but this applies only to recordable incidents.
 
 **Not updating entries.** If an employee's condition changes — for example, a restricted duty case turns into days away from work — you must update the original log entry.
 
-**Discouraging reporting.** Under 29 CFR 1904.35(b)(1)(iv), employers may not retaliate against employees for reporting injuries or illnesses. Incentive programs that penalize workers for reporting can violate this provision.
+**Discouraging reporting.** Employers may not retaliate against employees for reporting injuries or illnesses, as retaliation is generally prohibited under OSHA regulations. Incentive programs that penalize workers for reporting may violate these provisions.
 
-**Posting the 300A late or not at all.** The annual summary must be posted by February 1 and remain posted through April 30. Missing this window is a citable violation.
+**Posting the 300A late or not at all.** The annual summary must be posted by February 1 of the year following the year covered by the summary and remain posted through April 30. Missing this window can be a citable violation.
 
 ## Retention and Access Requirements
 
@@ -60,4 +62,4 @@ Current and former employees, as well as their authorized representatives, have 
 4. Set a calendar reminder for mid-January to prepare and certify the 300A summary for posting by February 1.
 5. Keep completed forms in an organized, accessible file for the full five-year retention period.
 
-Maintaining accurate OSHA records is not just a compliance obligation — it gives you data to identify injury trends and target your safety improvement efforts where they matter most.
+Maintaining accurate OSHA records is not just a compliance obligation — it provides data to identify injury trends and target your safety improvement efforts where they matter most.

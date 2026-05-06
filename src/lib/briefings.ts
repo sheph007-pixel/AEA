@@ -15,6 +15,8 @@ export interface BriefingItem {
   month: string; // YYYY-MM
   author: string;
   tags: string[];
+  verified: boolean;
+  factChecked: boolean;
   contentHtml?: string;
 }
 
@@ -37,7 +39,13 @@ export function getAllBriefings(): BriefingItem[] {
         month: data.month || data.date?.substring(0, 7) || '2025-01',
         author: data.author || 'AEA Editorial Team',
         tags: data.tags || [],
+        verified: data.verified === true,
+        factChecked: data.factCheckedAt != null,
       };
+    })
+    .filter((item) => {
+      if (item.factChecked && !item.verified) return false;
+      return true;
     })
     .sort((a, b) => (a.date > b.date ? -1 : 1));
 }
@@ -47,6 +55,9 @@ export async function getBriefingBySlug(slug: string): Promise<BriefingItem | nu
   if (!fs.existsSync(fullPath)) return null;
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
+  const factChecked = data.factCheckedAt != null;
+  const verified = data.verified === true;
+  if (factChecked && !verified) return null;
   const processedContent = await remark().use(html).process(content);
   return {
     slug,
@@ -57,6 +68,8 @@ export async function getBriefingBySlug(slug: string): Promise<BriefingItem | nu
     month: data.month || data.date?.substring(0, 7) || '2025-01',
     author: data.author || 'AEA Editorial Team',
     tags: data.tags || [],
+    verified,
+    factChecked,
     contentHtml: processedContent.toString(),
   };
 }

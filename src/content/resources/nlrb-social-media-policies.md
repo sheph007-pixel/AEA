@@ -5,6 +5,8 @@ category: "Compliance"
 date: "2026-02-12"
 tags: ["NLRB", "social media", "employee rights", "policy", "Section 7"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:28:23.389Z"
 ---
 
 ## The NLRB's Workplace-Rules Standard

@@ -4,11 +4,13 @@ description: "An overview of OSHA requirements, employer responsibilities, and p
 category: "Compliance"
 date: "2024-11-05"
 tags: ["OSHA", "workplace safety", "compliance", "health and safety"]
+verified: true
+factCheckedAt: "2026-05-04T10:44:58.329Z"
 ---
 
 ## OSHA Overview
 
-The Occupational Safety and Health Administration (OSHA) sets and enforces workplace safety standards. Nearly all private-sector employers are covered by OSHA or an OSHA-approved state program.
+The Occupational Safety and Health Administration (OSHA) sets and enforces workplace safety standards. While most private-sector employers are covered by OSHA or an OSHA-approved state program, there are exemptions for specific low-risk industries.
 
 ## General Duty Clause
 
@@ -34,7 +36,7 @@ Most employers with more than 10 employees must maintain records of work-related
 ## Handling OSHA Inspections
 
 1. The compliance officer will present credentials - verify them
-2. You may request a warrant before allowing the inspection
+2. You may request a warrant before allowing the inspection, but this is not common practice and may not always be advisable. Employers should consult legal counsel to understand the implications.
 3. Designate a company representative to accompany the inspector
 4. Take notes and photographs during the inspection
 5. Do not volunteer information beyond what is asked
@@ -52,4 +54,4 @@ A basic safety program should include:
 
 ## Reducing Workers' Compensation Costs
 
-A strong safety program directly impacts your workers' compensation costs. Fewer injuries mean fewer claims, lower experience modification rates, and reduced insurance premiums.
+A strong safety program may directly impact your workers' compensation costs. Fewer injuries can lead to fewer claims, potentially lower experience modification rates, and reduced insurance premiums.

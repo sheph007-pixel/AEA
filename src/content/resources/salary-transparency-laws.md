@@ -5,6 +5,8 @@ category: "Compliance"
 date: "2023-09-05"
 tags: ["pay transparency", "salary ranges", "job postings", "state law", "compliance"]
 author: "AEA Editorial Team"
+verified: false
+factCheckedAt: "2026-05-04T10:38:18.046Z"
 ---
 
 ## The Pay Transparency Movement
@@ -19,7 +21,7 @@ While each jurisdiction's law is different, most pay transparency laws share sev
 
 **Salary range in job postings.** Employers must include the minimum and maximum salary or hourly rate they are willing to pay for a position. The range must be based on a good-faith determination of what the employer would actually pay, not an artificially broad range designed to comply technically while disclosing nothing useful.
 
-**Applicability triggers.** Some laws apply to all employers. Others have size thresholds, commonly 15 or more employees. Some apply only to postings for positions that will be performed within the jurisdiction, while others apply to any position that could be performed remotely from that location.
+**Applicability triggers.** Some laws apply to all employers. Others have size thresholds, commonly five or more employees. Some apply only to postings for positions that will be performed within the jurisdiction, while others apply to any position that could be performed remotely from that location.
 
 **Internal posting requirements.** Several jurisdictions also require employers to disclose pay ranges to existing employees, either upon request, when they apply for internal positions, or proactively when they are hired or promoted.
 
@@ -29,13 +31,13 @@ While each jurisdiction's law is different, most pay transparency laws share sev
 
 **Colorado** was the first state to require salary ranges in all job postings. The law applies to any job that could be performed in Colorado, which effectively means remote positions must include ranges.
 
-**New York City** requires salary ranges in job postings for positions performed in whole or in part in the city, for employers with four or more employees.
+**New York City** requires salary ranges in job postings for positions performed in whole or in part in the city, for employers with five or more employees.
 
 **California** requires employers with 15 or more employees to include pay scales in job postings. Employers must also provide the pay scale for a current employee's position upon request.
 
 **Washington** requires employers with 15 or more employees to include salary ranges and a description of benefits and other compensation in job postings.
 
-**New York State** enacted a statewide law effective in 2023, extending transparency requirements beyond New York City.
+**New York State** may be considering extending transparency requirements beyond New York City, but as of now, no statewide law has been confirmed.
 
 ## Practical Compliance Steps
 
@@ -53,6 +55,6 @@ While each jurisdiction's law is different, most pay transparency laws share sev
 
 ## The Ripple Effect
 
-Even if your employees are in states without transparency laws, the cultural shift is real. Candidates increasingly expect salary information upfront, and job postings without ranges receive fewer applications in competitive markets. Many employers are adopting transparency voluntarily as a recruiting advantage.
+Even if your employees are in states without transparency laws, the cultural shift is real. Candidates increasingly expect salary information upfront, and job postings without ranges may receive fewer applications in competitive markets. Many employers are adopting transparency voluntarily as a recruiting advantage.
 
 Pay transparency is not going away. Employers who embrace it thoughtfully, with well-defined ranges built on solid compensation data, will find it easier to recruit, retain, and maintain internal equity.

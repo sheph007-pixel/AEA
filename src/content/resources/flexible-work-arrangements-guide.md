@@ -5,6 +5,8 @@ category: "Operations"
 date: "2026-02-22"
 tags: ["flexible work", "work-life balance", "scheduling", "workplace flexibility"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T09:56:25.891Z"
 ---
 
 ## Types of Flexible Arrangements
@@ -49,7 +51,7 @@ Shared calendars, status indicators in messaging tools, and defined communicatio
 
 ### Overtime for Compressed Workweeks
 
-Under the federal FLSA, overtime is calculated based on hours worked over 40 in a workweek. A four-ten schedule does not trigger overtime at the federal level. However, some states — notably California — require daily overtime for hours worked beyond eight in a single day. In those states, a compressed workweek requires either an alternative workweek schedule election (which has specific procedural requirements in California) or payment of daily overtime.
+Under the federal FLSA, overtime is calculated based on hours worked over 40 in a workweek. A four-ten schedule does not trigger overtime at the federal level; however, employers should be aware that certain industries or specific employment contracts may have different stipulations. Additionally, some states — notably California — require daily overtime for hours worked beyond eight in a single day. In those states, a compressed workweek may require either an alternative workweek schedule election (which has specific procedural requirements in California) or payment of daily overtime.
 
 Check your state law before implementing compressed schedules.
 

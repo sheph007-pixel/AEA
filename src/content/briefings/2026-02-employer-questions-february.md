@@ -6,6 +6,8 @@ date: "2026-02-18"
 month: "2026-02"
 author: "AEA Editorial Team"
 tags: ["employer-questions", "OSHA", "ACA", "AI-hiring", "pay-transparency", "February-2026"]
+verified: true
+factCheckedAt: "2026-05-04T09:28:05.829Z"
 ---
 
 # What Employers Are Asking: February 2026
@@ -14,7 +16,7 @@ Here are the questions employers are raising most frequently this month, along w
 
 ## 1. When does the OSHA 300A need to be posted, and who is required to post it?
 
-The OSHA Form 300A — the Summary of Work-Related Injuries and Illnesses — generally must be posted in a conspicuous location in the workplace by February 1 each year and must remain posted through April 30. The form summarizes injury and illness data recorded on the OSHA 300 Log during the prior calendar year and must be certified by a company executive. Employers should verify the current posting requirements with OSHA.
+The OSHA Form 300A — the Summary of Work-Related Injuries and Illnesses — generally must be posted in a conspicuous location in the workplace by February 1 each year and must remain posted through April 30. The form summarizes injury and illness data recorded on the OSHA 300 Log during the prior calendar year and must be certified by a company executive. Employers should verify the current posting requirements with OSHA, specifically referencing 29 CFR 1904.32, which outlines the posting requirements for the OSHA Form 300A.
 
 Most employers above a certain employee count threshold are generally required to maintain OSHA injury and illness records, though certain low-hazard industries may be partially exempt from routine recordkeeping. Employers should confirm whether their industry classification falls within an exempt category. Even partially exempt employers must generally report certain severe injuries — such as fatalities, amputations, and hospitalizations — directly to OSHA regardless of their recordkeeping exemption status.
 
@@ -22,9 +24,9 @@ In addition to posting the physical form, certain employers in high-hazard indus
 
 ## 2. Can I get an extension for ACA 1095-C distribution to employees?
 
-The IRS has, in several prior years, granted automatic extensions to the deadline for furnishing Form 1095-C to employees. Employers should check the IRS website and recent IRS notices to determine whether an extension has been announced for the 2025 tax year. Even when extensions are available, they may not apply to the IRS filing deadline for Forms 1094-C and 1095-C. Employers should verify current year deadlines with the IRS.
+Employers should regularly check the IRS website and recent IRS notices for any announcements regarding extensions for furnishing Form 1095-C for the 2025 tax year. Even when extensions are available, they may not apply to the IRS filing deadline for Forms 1094-C and 1095-C. Employers should verify current year deadlines with the IRS.
 
-Employers who cannot meet the furnishing deadline — even with any available extension — may wish to explore whether a formal extension request is available. IRS Form 8809 has historically provided an extension for information return filing with the IRS, though it generally applies to the filing with the IRS rather than the furnishing to individuals. The IRS has addressed furnishing deadline extensions through administrative relief announcements when it has chosen to extend that deadline.
+Employers who cannot meet the furnishing deadline — even with any available extension — may wish to explore whether a formal extension request is available. Employers should verify the current applicability of IRS Form 8809 for information return filing with the IRS, as it generally applies to the filing with the IRS rather than the furnishing to individuals. The IRS may address furnishing deadline extensions through administrative relief announcements if it chooses to extend that deadline.
 
 The practical advice is to proceed with preparation as if no extension will be granted. If an extension is announced, it provides a welcome buffer. If not, the employer is ready to meet the original deadline.
 
@@ -32,7 +34,7 @@ The practical advice is to proceed with preparation as if no extension will be g
 
 The regulatory landscape around AI in hiring is evolving. A growing number of jurisdictions have enacted or are considering laws governing the use of automated employment decision tools (AEDTs) in hiring. Depending on the jurisdiction, requirements may include:
 
-- **Bias audits.** Some jurisdictions may require employers using AEDTs to conduct independent bias audits before deploying the tools and to make audit results publicly available. Employers should check the requirements in each jurisdiction where they recruit or hire.
+- **Bias audits.** Some jurisdictions, such as New York City, may require employers using AEDTs to conduct independent bias audits before deploying the tools and to make audit results publicly available. Employers should check the requirements in each jurisdiction where they recruit or hire.
 - **Candidate notice and disclosure.** Laws in certain jurisdictions may require employers to inform candidates when AI or automated tools are being used to screen, evaluate, or rank their applications. Some may also require disclosure of the data inputs used by the tool.
 - **Consent requirements.** In some jurisdictions, candidates may need to consent to AI-based evaluation, or at minimum be given the option to request an alternative selection process.
 - **Record retention.** Employers may be required to retain records related to AI tool usage, bias audit results, and candidate notifications for a specified period.
@@ -55,3 +57,5 @@ Employers should review their job posting practices, ensure compliance with ever
 ---
 
 *This briefing is prepared by the AEA Editorial Team based on publicly available regulatory guidance, employment law developments, and employer-reported trends. Individual data from AEA members is never disclosed. All analysis reflects general observations and should not be treated as legal advice. Consult qualified counsel for guidance on specific situations.*
+
+---

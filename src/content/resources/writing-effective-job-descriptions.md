@@ -5,6 +5,8 @@ category: "Hiring"
 date: "2026-01-15"
 tags: ["job descriptions", "hiring", "recruitment", "ADA"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:46:17.352Z"
 ---
 
 A well-written job description serves multiple purposes. It attracts the right candidates, sets clear expectations, supports ADA compliance by defining essential functions, and provides documentation that can be valuable in employment disputes. Many employers underinvest in this foundational document.

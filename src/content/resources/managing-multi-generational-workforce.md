@@ -5,6 +5,8 @@ category: "Leadership"
 date: "2026-02-22"
 tags: ["multigenerational", "management", "workplace culture", "leadership"]
 author: "AEA Editorial Team"
+verified: true
+factCheckedAt: "2026-05-04T10:27:15.367Z"
 ---
 
 ## Beyond Generational Stereotypes
