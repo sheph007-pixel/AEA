@@ -31,12 +31,16 @@ jobs:
       - name: Generate monthly briefings
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
+          OPENAI_DAILY_TOKEN_CAP: ${{ vars.OPENAI_DAILY_TOKEN_CAP || '5000000' }}
+          OPENAI_DAILY_USD_CAP: ${{ vars.OPENAI_DAILY_USD_CAP || '5' }}
         run: node scripts/generate-monthly-briefings.js
 
       - name: Fact-check briefings (multi-pass with web search)
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          OPENAI_DAILY_TOKEN_CAP: ${{ vars.OPENAI_DAILY_TOKEN_CAP || '5000000' }}
+          OPENAI_DAILY_USD_CAP: ${{ vars.OPENAI_DAILY_USD_CAP || '5' }}
         run: node scripts/fact-check.js src/content/briefings
 
       - name: Determine verification status
@@ -53,7 +57,7 @@ jobs:
         run: |
           git config user.name "AEA Content Bot"
           git config user.email "content-bot@americanemployers.org"
-          git add src/content/
+          git add src/content/ scripts/.api-usage.json 2>/dev/null || git add src/content/
           if git diff --staged --quiet; then
             echo "No new briefings to commit"
           else

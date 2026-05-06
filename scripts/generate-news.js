@@ -13,6 +13,9 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const costGuard = require('./lib/cost-guard');
+
+const SCRIPT_NAME = 'generate-news';
 
 const NEWS_DIR = path.join(__dirname, '..', 'src', 'content', 'news');
 
@@ -37,6 +40,7 @@ function todayFormatted() {
 }
 
 function callOpenAI(prompt) {
+  costGuard.assertCanCall(SCRIPT_NAME);
   return new Promise((resolve, reject) => {
     const data = JSON.stringify({
       model: 'gpt-4o-mini',
@@ -68,6 +72,7 @@ function callOpenAI(prompt) {
       res.on('end', () => {
         try {
           const parsed = JSON.parse(body);
+          if (parsed.usage) costGuard.recordUsage(SCRIPT_NAME, parsed.usage);
           if (parsed.choices && parsed.choices[0]) {
             resolve(parsed.choices[0].message.content);
           } else {
@@ -200,11 +205,17 @@ async function main() {
       const newTitle = await generateArticle(category, i, existingTitles);
       if (newTitle) existingTitles.push(newTitle);
     } catch (err) {
+      if (err && err.code === 'COST_GUARD_TRIPPED') {
+        console.warn(`[cost-guard] ${err.message}`);
+        console.warn('[cost-guard] Halting news generation. The next scheduled run will resume normally.');
+        break;
+      }
       console.error(`Failed to generate article ${i}:`, err.message);
     }
   }
 
   cleanOldNews();
+  costGuard.logSummary(SCRIPT_NAME);
   console.log('Done!');
 }
 

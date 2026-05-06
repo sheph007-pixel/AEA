@@ -16,6 +16,9 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const costGuard = require('./lib/cost-guard');
+
+const SCRIPT_NAME = 'fact-check';
 
 function sendEmail(subject, htmlBody) {
   const apiKey = process.env.RESEND_API_KEY;
@@ -41,6 +44,11 @@ const DEFAULT_DIR = path.join(__dirname, '..', 'src', 'content', 'briefings');
 const REPORT_PATH = path.join(__dirname, '..', 'src', 'content', '.fact-check-report.json');
 
 function callOpenAI(prompt) {
+  // Refuse to call if we are over today's spending cap. This is the only
+  // place the script makes outbound API calls, so this single check is
+  // sufficient.
+  costGuard.assertCanCall(SCRIPT_NAME);
+
   return new Promise((resolve, reject) => {
     const data = JSON.stringify({
       model: 'gpt-4o-mini',
@@ -66,6 +74,7 @@ function callOpenAI(prompt) {
       res.on('end', () => {
         try {
           const parsed = JSON.parse(body);
+          if (parsed.usage) costGuard.recordUsage(SCRIPT_NAME, parsed.usage);
           if (parsed.choices && parsed.choices[0]) {
             resolve(parsed.choices[0].message.content);
           } else {
@@ -238,6 +247,8 @@ async function main() {
   let passCount = 0, flagCount = 0, failCount = 0, errorCount = 0;
   let skippedCount = 0, checkedCount = 0;
 
+  let costGuardTripped = false;
+
   for (const { dir, file, fullPath } of allFiles) {
     const content = fs.readFileSync(fullPath, 'utf8');
     const fileHash = require('crypto').createHash('md5').update(content).digest('hex');
@@ -251,38 +262,75 @@ async function main() {
       continue;
     }
 
+    // If we have already tripped the daily cap on a previous file in this run,
+    // carry forward the prior cached result (or mark unchecked) instead of
+    // attempting another API call.
+    if (costGuardTripped) {
+      if (existingReport[cacheKey]) {
+        results.push({ ...existingReport[cacheKey], file, dir });
+        if (existingReport[cacheKey].status === 'pass') passCount++;
+        else if (existingReport[cacheKey].status === 'flag') flagCount++;
+        else if (existingReport[cacheKey].status === 'fail') failCount++;
+        else errorCount++;
+      }
+      continue;
+    }
+
     // New or changed file - needs checking
     checkedCount++;
     process.stdout.write(`  CHECK ${file}... `);
-    let result = await factCheck(fullPath, content.substring(0, 4000));
+    let result;
+    try {
+      result = await factCheck(fullPath, content.substring(0, 4000));
+    } catch (err) {
+      if (err && err.code === 'COST_GUARD_TRIPPED') {
+        console.log('SKIP - daily API cap reached');
+        console.warn(`\n[cost-guard] ${err.message}`);
+        console.warn('[cost-guard] Halting fact-check; remaining files will be retried tomorrow.');
+        costGuardTripped = true;
+        continue;
+      }
+      throw err;
+    }
     result.hash = fileHash;
     result.dir = dir;
 
-    // Auto-fix flagged or failed content
+    // Auto-fix flagged or failed content (each auto-fix is two API calls -
+    // rewrite + re-check - so we wrap the whole block in cost-guard handling).
     if (result.status === 'flag' || result.status === 'fail') {
       console.log(`${result.status.toUpperCase()} - attempting auto-fix...`);
-      const fixedContent = await autoFixContent(fullPath, content, result.issues || []);
-      if (fixedContent) {
-        // Write the corrected file
-        fs.writeFileSync(fullPath, fixedContent + '\n');
-        console.log(`    FIXED ${file} - re-checking...`);
+      try {
+        const fixedContent = await autoFixContent(fullPath, content, result.issues || []);
+        if (fixedContent) {
+          // Write the corrected file
+          fs.writeFileSync(fullPath, fixedContent + '\n');
+          console.log(`    FIXED ${file} - re-checking...`);
 
-        // Re-check the fixed content
-        const recheck = await factCheck(fullPath, fixedContent.substring(0, 4000));
-        recheck.hash = require('crypto').createHash('md5').update(fixedContent + '\n').digest('hex');
-        recheck.dir = dir;
-        recheck.autoFixed = true;
+          // Re-check the fixed content
+          const recheck = await factCheck(fullPath, fixedContent.substring(0, 4000));
+          recheck.hash = require('crypto').createHash('md5').update(fixedContent + '\n').digest('hex');
+          recheck.dir = dir;
+          recheck.autoFixed = true;
 
-        if (recheck.status === 'pass') {
-          console.log(`    RE-CHECK: PASS (auto-fixed successfully)`);
-          result = recheck;
+          if (recheck.status === 'pass') {
+            console.log(`    RE-CHECK: PASS (auto-fixed successfully)`);
+            result = recheck;
+          } else {
+            console.log(`    RE-CHECK: still ${recheck.status.toUpperCase()} after fix`);
+            result = recheck;
+          }
+          await new Promise(r => setTimeout(r, 500));
         } else {
-          console.log(`    RE-CHECK: still ${recheck.status.toUpperCase()} after fix`);
-          result = recheck;
+          console.log(`    Auto-fix failed for ${file}`);
         }
-        await new Promise(r => setTimeout(r, 500));
-      } else {
-        console.log(`    Auto-fix failed for ${file}`);
+      } catch (err) {
+        if (err && err.code === 'COST_GUARD_TRIPPED') {
+          console.log('    SKIP auto-fix - daily API cap reached');
+          console.warn(`\n[cost-guard] ${err.message}`);
+          costGuardTripped = true;
+        } else {
+          throw err;
+        }
       }
     } else if (result.status === 'pass') {
       console.log('PASS');
@@ -301,6 +349,7 @@ async function main() {
   }
 
   console.log(`\n  ${skippedCount} files already verified (cached), ${checkedCount} files checked this run.`);
+  costGuard.logSummary(SCRIPT_NAME);
 
   // Save report. When called with a directory arg (daily news run, monthly
   // briefings run), merge into the existing report instead of rewriting it -

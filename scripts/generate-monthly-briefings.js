@@ -11,7 +11,9 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const costGuard = require('./lib/cost-guard');
 
+const SCRIPT_NAME = 'generate-monthly-briefings';
 const BRIEFINGS_DIR = path.join(__dirname, '..', 'src', 'content', 'briefings');
 
 const INDUSTRIES = [
@@ -34,6 +36,7 @@ function getMonthYear() {
 }
 
 function callOpenAI(prompt) {
+  costGuard.assertCanCall(SCRIPT_NAME);
   return new Promise((resolve, reject) => {
     const data = JSON.stringify({
       model: 'gpt-4o-mini',
@@ -76,6 +79,7 @@ CRITICAL RULES:
       res.on('end', () => {
         try {
           const parsed = JSON.parse(body);
+          if (parsed.usage) costGuard.recordUsage(SCRIPT_NAME, parsed.usage);
           if (parsed.choices && parsed.choices[0]) {
             resolve(parsed.choices[0].message.content);
           } else {
@@ -90,9 +94,53 @@ CRITICAL RULES:
   });
 }
 
+// Pre-publish quality gate. A briefing must contain at least one specific,
+// verifiable signal: a calendar date with a day, a named bill (HB/SB/AB),
+// a section/CFR/USC citation, or a named regulatory form. Pure-generality
+// content is rejected rather than published.
+//
+// This is a heuristic floor, not a fact-checker - it rejects briefings that
+// have nothing concrete to point at, but does not validate truth. Truth is
+// the job of the downstream fact-check pass.
+function passesQualityGate(body) {
+  const text = body.replace(/^---[\s\S]*?\n---\n/, ''); // strip frontmatter
+
+  // Calendar date with a specific day (e.g. "January 1, 2026" or "1/1/2026")
+  const hasSpecificDate =
+    /\b(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan\.?|Feb\.?|Mar\.?|Apr\.?|Jun\.?|Jul\.?|Aug\.?|Sep\.?|Sept\.?|Oct\.?|Nov\.?|Dec\.?)\s+\d{1,2}(?:,\s*\d{4})?\b/i.test(text) ||
+    /\b\d{1,2}\/\d{1,2}\/(?:19|20)\d{2}\b/.test(text) ||
+    /\b(?:19|20)\d{2}-\d{2}-\d{2}\b/.test(text);
+
+  // Named legislative bill
+  const hasBillNumber = /\b(?:HB|SB|AB|HR|SR|HJR|SJR|HCR|SCR)\s*\d{1,5}\b/.test(text);
+
+  // CFR / USC / Section citation with numbers
+  const hasFormalCitation =
+    /\b\d+\s+CFR\s+\d/.test(text) ||
+    /\b\d+\s+U\.?S\.?C\.?\s*§?\s*\d/.test(text) ||
+    /\bSection\s+\d+(?:\.\d+|\([a-z]\))/.test(text) ||
+    /§\s*\d+\.\d+/.test(text);
+
+  // Specific regulatory form by number
+  const hasFormNumber = /\bForm\s+(?:I-9|W-[24]|1094-[BC]|1095-[BC]|300A?|301|5500|EEO-1|941|940)\b/.test(text);
+
+  return hasSpecificDate || hasBillNumber || hasFormalCitation || hasFormNumber;
+}
+
 async function generate(type, prompt, { month, ym, date }) {
   console.log(`Generating: ${type}...`);
   const content = await callOpenAI(prompt);
+
+  // Pre-publish gate: only enforce on the substantive briefing types.
+  // employer-questions is Q&A and may legitimately not name a statute in every
+  // answer; let it through.
+  const gatedTypes = ['monthly-briefing', 'compliance-alert', 'trends-report', 'industry-snapshot'];
+  if (gatedTypes.includes(type) && !passesQualityGate(content)) {
+    console.warn(`  [quality-gate] ${type} rejected: no specific dates, statutes, or state-law citations found.`);
+    console.warn(`  [quality-gate] Briefing not written. The pipeline will retry next month.`);
+    return;
+  }
+
   const titleMatch = content.match(/title:\s*"([^"]+)"/);
   const title = titleMatch ? titleMatch[1] : `${type} - ${month}`;
 
@@ -247,7 +295,17 @@ Answer...
 ## Q: [Question 2]
 Answer...`, ctx);
 
+  costGuard.logSummary(SCRIPT_NAME);
   console.log('Done! 5 briefings generated.');
 }
 
-main().catch((err) => { console.error('Failed:', err); process.exit(1); });
+main().catch((err) => {
+  if (err && err.code === 'COST_GUARD_TRIPPED') {
+    console.warn(`[cost-guard] ${err.message}`);
+    console.warn('[cost-guard] Halted partway through monthly briefing generation. Re-run after midnight UTC or raise the cap.');
+    costGuard.logSummary(SCRIPT_NAME);
+    process.exit(0); // Soft exit so workflow does not flag a failure
+  }
+  console.error('Failed:', err);
+  process.exit(1);
+});
