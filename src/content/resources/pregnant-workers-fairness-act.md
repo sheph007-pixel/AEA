@@ -26,7 +26,7 @@ Key provisions include:
 
 ## Common Accommodations
 
-The EEOC's proposed regulations and interpretive guidance identify several accommodations that will virtually always be considered reasonable and not an undue hardship:
+The EEOC's final regulations (effective June 18, 2024) and interpretive guidance identify several accommodations (called "predictable assessments") that will virtually always be considered reasonable and not an undue hardship:
 
 - Allowing more frequent restroom breaks
 - Permitting an employee to carry and drink water

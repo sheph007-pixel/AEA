@@ -23,9 +23,9 @@ This is the transmittal form filed with the IRS along with all 1095-C forms. It 
 
 ## Key Deadlines
 
-- **Employee copies**: Must be furnished by March 1 (or the next business day)
+- **Employee copies**: Under final IRS regulations, the furnishing deadline is March 2 (or the next business day if March 2 falls on a weekend or holiday). The Paperwork Burden Reduction Act, enacted in December 2024, allows employers to furnish Form 1095-C only upon request as long as a clear, conspicuous, and accessible notice is posted that the form is available on request.
 - **IRS filing (paper)**: Due by February 28
-- **IRS filing (electronic)**: Due by March 31 (electronic filing required for 250+ forms)
+- **IRS filing (electronic)**: Due by March 31. Under final regulations effective for returns required to be filed on or after January 1, 2024, the electronic filing threshold dropped from 250 returns to 10 or more information returns of any type filed during the calendar year, so most ALEs are now required to file electronically.
 
 ## Common Compliance Issues
 

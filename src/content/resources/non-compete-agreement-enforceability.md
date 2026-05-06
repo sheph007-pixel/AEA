@@ -20,6 +20,10 @@ Non-compete enforceability spans a wide spectrum:
 
 Even in states that enforce non-competes, courts scrutinize them carefully and will often narrow or void agreements that are overly broad.
 
+## The FTC Noncompete Rule
+
+The Federal Trade Commission's final rule banning most noncompete agreements nationwide, issued in April 2024, was struck down by the U.S. District Court for the Northern District of Texas in August 2024 (Ryan LLC v. FTC) before it could take effect. The court held that the FTC lacked statutory authority to issue the rule. The decision was set aside on a nationwide basis, so the federal rule is not in effect. Non-compete enforceability therefore continues to be governed by state law.
+
 ## Elements of an Enforceable Agreement
 
 In states that permit non-competes, courts generally evaluate:

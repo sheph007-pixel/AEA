@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 The Fair Labor Standards Act requires that employees classified as exempt from overtime under the executive, administrative, and professional (EAP) exemptions must be paid on a salary basis at or above a minimum threshold established by the Department of Labor. The salary threshold has been the subject of significant regulatory activity in recent years.
 
-Employers must monitor DOL rulemaking on salary thresholds, as changes can affect the exempt status of large numbers of employees. When thresholds increase, employers must either raise salaries to meet the new minimum or reclassify affected employees as non-exempt and pay them overtime.
+The current federal standard salary threshold is $684 per week ($35,568 annually). The DOL's 2024 final rule that would have raised this to $844 per week on July 1, 2024 and $1,128 per week on January 1, 2025 was vacated nationwide by a federal court in Texas in November 2024, returning the threshold to $684 per week. Employers must monitor DOL rulemaking on salary thresholds, as future changes can affect the exempt status of large numbers of employees. When thresholds increase, employers must either raise salaries to meet the new minimum or reclassify affected employees as non-exempt and pay them overtime.
 
 ## Duties Tests for Exemption
 
@@ -29,7 +29,7 @@ Employers with employees in multiple states must comply with the higher of the f
 
 The FLSA provides a streamlined duties test for highly compensated employees (HCEs) who earn above a higher annual compensation threshold. HCEs need only customarily and regularly perform at least one of the exempt duties of an executive, administrative, or professional employee to qualify for exemption, rather than satisfying the full standard duties test.
 
-The HCE threshold has been subject to the same regulatory changes as the standard salary threshold. Employers should verify the current HCE threshold and ensure that employees classified under this exemption meet both the compensation and minimal duties requirements.
+The HCE threshold has been subject to the same regulatory changes as the standard salary threshold. Following the November 2024 vacatur of the 2024 rule, the HCE threshold reverted to $107,432 per year. Employers should verify the current HCE threshold and ensure that employees classified under this exemption meet both the compensation and minimal duties requirements.
 
 ## Salary Basis Requirements
 

@@ -27,7 +27,7 @@ This process provides a legitimate mechanism for verifying medical certification
 
 ## Addressing Patterns of Suspicious Leave Use
 
-Employers may investigate patterns suggesting abuse, such as leave that consistently occurs on Mondays, Fridays, or around holidays, or leave that coincides with denied vacation requests. However, the investigation must not interfere with the employee's FMLA rights. Employers may not contact the employee's healthcare provider directly but may request that HR communicate with the provider through the employee.
+Employers may investigate patterns suggesting abuse, such as leave that consistently occurs on Mondays, Fridays, or around holidays, or leave that coincides with denied vacation requests. However, the investigation must not interfere with the employee's FMLA rights. Under 29 CFR 825.307, an employer may contact the healthcare provider for authentication or clarification of a certification, but the contact must be made by a healthcare provider, HR professional, leave administrator, or management official — never by the employee's direct supervisor. The employer also must give the employee an opportunity to cure deficiencies first, may not seek information beyond what the certification form requires, and must comply with HIPAA authorization requirements.
 
 Surveillance or social media monitoring of employees on FMLA leave is legally permissible but creates significant risk. Evidence that an employee engaged in activities inconsistent with their stated condition may support disciplinary action, but employers must be cautious about drawing conclusions, as many serious health conditions have good days and bad days.
 
