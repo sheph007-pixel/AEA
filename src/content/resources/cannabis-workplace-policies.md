@@ -2,14 +2,14 @@
 title: "Cannabis Legalization and Employer Drug Policies: A State-by-State Challenge"
 description: "How cannabis legalization is reshaping employer drug testing policies and what employers need to know to stay compliant."
 category: "HR Management"
-date: "2023-12-05"
+date: "2026-02-18"
 tags: ["cannabis", "drug testing", "state law", "HR policy", "compliance"]
 author: "AEA Editorial Team"
 ---
 
 ## A Fractured Legal Landscape
 
-As more states legalize recreational and medical cannabis, employer drug testing policies face increasing legal complexity. The traditional approach of testing for marijuana and treating a positive result as grounds for adverse action is no longer viable in many jurisdictions. Yet cannabis remains a Schedule I substance under federal law, and federal contractors, safety-sensitive industries, and DOT-regulated employers still have testing obligations.
+As more states legalize recreational and medical cannabis (roughly two dozen states plus DC have full adult-use legalization, and roughly 38 to 40 states permit medical use as of 2026), employer drug testing policies face increasing legal complexity. The traditional approach of testing for marijuana and treating a positive result as grounds for adverse action is no longer viable in many jurisdictions. Yet cannabis remains a Schedule I substance under federal law, and federal contractors, safety-sensitive industries, and DOT-regulated employers still have testing obligations.
 
 Employers must navigate a patchwork of state laws that vary dramatically in the protections they afford to cannabis users.
 

@@ -2,7 +2,7 @@
 title: "AI in Hiring: Legal Risks Employers Must Understand"
 description: "A practical overview of the legal landscape surrounding AI-powered hiring tools and what employers need to do to stay compliant."
 category: "Hiring"
-date: "2023-03-15"
+date: "2026-02-22"
 tags: ["AI", "hiring", "compliance", "discrimination", "technology"]
 author: "AEA Editorial Team"
 ---

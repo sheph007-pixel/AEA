@@ -28,7 +28,7 @@ Federal executive orders have established frameworks for AI safety and accountab
 
 ### Colorado AI Act
 
-Colorado's law requires deployers of high-risk AI systems, including employment tools, to implement risk management policies and conduct impact assessments. Employers must disclose to individuals when AI is used in consequential decisions and provide information about how to contest adverse decisions. The law includes specific requirements for documentation, notification, and remediation.
+Colorado's law (SB 24-205, signed May 2024) requires deployers of high-risk AI systems, including employment tools, to implement risk management policies and conduct impact assessments. Employers must disclose to individuals when AI is used in consequential decisions and provide information about how to contest adverse decisions. The original effective date of February 1, 2026 was pushed back to June 30, 2026 by SB 25B-004 (signed August 28, 2025), and amendments narrowing the law's scope remain under active consideration in the legislature. Employers should prepare for the current requirements but watch for further changes before the effective date.
 
 ### Illinois
 

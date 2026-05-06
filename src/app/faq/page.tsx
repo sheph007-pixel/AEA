@@ -39,7 +39,7 @@ const faqs = [
       },
       {
         q: 'Is membership annual?',
-        a: 'Yes. AEA membership is on an annual basis. All memberships include a satisfaction guarantee.',
+        a: 'Yes. AEA membership is on an annual basis. Contact us for current terms and conditions.',
       },
       {
         q: 'Do I need to buy insurance to be a member?',

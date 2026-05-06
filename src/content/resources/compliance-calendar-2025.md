@@ -1,9 +1,9 @@
 ---
-title: "Current Year Employer Compliance Calendar: Key Dates and Deadlines"
-description: "A month-by-month guide to critical compliance deadlines and requirements employers must meet throughout Current Year."
+title: "2026 Employer Compliance Calendar: Key Dates and Deadlines"
+description: "A month-by-month guide to critical compliance deadlines and requirements employers must meet throughout 2026."
 category: "Compliance"
-date: "Current Year-01-02"
-tags: ["compliance", "deadlines", "Current Year", "calendar", "federal requirements"]
+date: "2026-01-02"
+tags: ["compliance", "deadlines", "2026", "calendar", "federal requirements"]
 author: "AEA Editorial Team"
 ---
 

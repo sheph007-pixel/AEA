@@ -1,8 +1,8 @@
 ---
 title: "Employee Retention Credit: What Employers Need to Know Now"
-description: "Current guidance on the Employee Retention Credit, including IRS processing delays, withdrawal options, and fraud concerns."
+description: "Current guidance on the Employee Retention Credit, including IRS processing status, withdrawal options, and fraud concerns."
 category: "Small Business"
-date: "2023-08-20"
+date: "2026-05-06"
 tags: ["ERC", "tax credit", "IRS", "small business", "COVID relief"]
 author: "AEA Editorial Team"
 ---
@@ -11,7 +11,7 @@ author: "AEA Editorial Team"
 
 The Employee Retention Credit (ERC) was created as part of the CARES Act in 2020 to help employers retain employees during the COVID-19 pandemic. It was later expanded and extended through the end of 2021. The credit provided eligible employers up to $5,000 per employee for 2020 and up to $7,000 per employee per quarter for the first three quarters of 2021.
 
-By 2023, the ERC has become one of the most complicated and contentious tax provisions in recent memory. The IRS placed a moratorium on processing new claims in September 2023 due to a flood of questionable claims driven by aggressive third-party promoters. Employers need to understand where things stand.
+The IRS placed a moratorium on processing new claims in September 2023 due to a flood of questionable claims driven by aggressive third-party promoters. The IRS lifted the formal moratorium in August 2024 and resumed processing of claims filed before the moratorium, applying heightened scrutiny. The statutory window for filing ERC claims closed on April 15, 2025 (the last deadline applicable to 2021 quarters), so no new claims can be filed. As of 2026, the IRS continues to work through a substantial backlog of older claims, with processing times often exceeding a year and a high rate of full or partial disallowance for claims the IRS has identified as high-risk.
 
 ## Eligibility Basics
 

@@ -1,23 +1,25 @@
 ---
-title: "NLRB and Social Media: Updating Your Policies for 2023"
-description: "How recent National Labor Relations Board decisions affect employer social media policies and what changes you should make."
+title: "NLRB and Social Media: Keeping Your Policies Current"
+description: "How National Labor Relations Board decisions affect employer social media policies and what changes you should make."
 category: "Compliance"
-date: "2023-01-25"
+date: "2026-02-12"
 tags: ["NLRB", "social media", "employee rights", "policy", "Section 7"]
 author: "AEA Editorial Team"
 ---
 
-## The NLRB's Renewed Focus on Workplace Rules
+## The NLRB's Workplace-Rules Standard
 
-The National Labor Relations Board (NLRB) has significantly shifted its approach to employer workplace rules, including social media policies. The Board's 2023 decision in Stericycle, Inc. established a new, more employee-friendly standard for evaluating whether employer rules violate Section 7 of the National Labor Relations Act, which protects employees' rights to engage in concerted activity for mutual aid and protection.
+The National Labor Relations Board's August 2023 decision in Stericycle, Inc. established a more employee-friendly standard for evaluating whether employer rules violate Section 7 of the National Labor Relations Act, which protects employees' rights to engage in concerted activity for mutual aid and protection. As of 2026, Stericycle remains good law, although a Republican-majority Board confirmed under the second Trump administration is widely expected to revisit the decision.
 
 This affects every private-sector employer, not just those with unionized workforces. If your social media policy has not been reviewed recently, it likely needs updating.
 
 ## What Changed with Stericycle
 
-Under the previous standard from Boeing Co. (2017), the Board balanced employer interests against employee rights and sorted rules into categories based on their likelihood of being found unlawful. The Stericycle decision replaced this with a standard that asks whether a rule has a reasonable tendency to chill employees from exercising their Section 7 rights, as interpreted from the perspective of an employee who is economically dependent on the employer.
+Stericycle replaced the prior Boeing Co. (2017) standard, under which the Board balanced employer interests against employee rights and sorted rules into categories based on their likelihood of being found unlawful. Under Stericycle, the General Counsel must show that a challenged rule has a reasonable tendency to chill employees from exercising their Section 7 rights, viewed from the perspective of an employee economically dependent on the employer. Once that showing is made, the rule is presumptively unlawful and the burden shifts to the employer to demonstrate that the rule advances a legitimate and substantial business interest and that no narrower rule would serve that interest.
 
-If a rule could reasonably be interpreted to restrict protected activity, the burden shifts to the employer to demonstrate that the rule advances a legitimate and substantial business interest and that no narrower rule would serve that interest.
+## Watch for a Standard Shift
+
+After two new Republican members were sworn in in January 2026 and additional Trump nominees moved through the confirmation process, the Board is positioned to reconsider Stericycle and other Biden-era precedents. Until any reversal issues, employers should continue to draft and audit social media policies under the current Stericycle framework, but should expect potential movement back toward a Boeing-style approach.
 
 ## Common Social Media Policy Provisions at Risk
 
