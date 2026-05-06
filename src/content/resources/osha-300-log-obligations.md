@@ -2,7 +2,7 @@
 title: "Understanding Your OSHA 300 Log Obligations"
 description: "A practical guide for employers on maintaining OSHA injury and illness records, including who must file, what to record, and how to avoid common mistakes."
 category: "Safety"
-date: "2015-02-18"
+date: "2026-02-18"
 tags: ["OSHA", "recordkeeping", "workplace safety", "compliance"]
 author: "AEA Editorial Team"
 ---

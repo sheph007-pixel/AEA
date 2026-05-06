@@ -26,7 +26,7 @@ The law defines an AEDT broadly as any computational process derived from machin
 
 ### Colorado AI Act
 
-Colorado enacted comprehensive AI legislation requiring developers and deployers of "high-risk AI systems" to take specific actions. Employment tools are explicitly classified as high-risk. Deployers (employers using the tools) must:
+Colorado SB 24-205 (signed May 17, 2024) requires developers and deployers of "high-risk AI systems" to take specific actions. Employment tools are explicitly classified as high-risk. The original February 1, 2026 effective date was pushed back to June 30, 2026 by SB 25B-004 (signed August 28, 2025), and further amendments are pending. Deployers (employers using the tools) must:
 
 - Implement a risk management policy
 - Complete an impact assessment before deployment
@@ -37,9 +37,17 @@ Colorado enacted comprehensive AI legislation requiring developers and deployers
 
 Illinois continues to enforce its law requiring employers that use AI to analyze video interviews to: notify applicants that AI will be used, explain how it works, and obtain consent before the interview. Employers must also comply with data retention and deletion requirements.
 
+### California
+
+California AB 2930 and Civil Rights Council automated-decision-system regulations, phasing in through 2025 and 2026, prohibit covered employers from using AI tools that contribute to discriminatory employment outcomes and impose recordkeeping and notice obligations.
+
+### Illinois HB 3773
+
+Effective January 1, 2026, Illinois HB 3773 amends the Illinois Human Rights Act to bar employers from using AI in a manner that produces discriminatory effects on protected classes and requires notice to applicants and employees when AI is used for employment decisions.
+
 ### Additional Developments
 
-Several states introduced AI employment bills in their 2024 legislative sessions. While not all passed, the volume of legislative activity signals that more jurisdictions will enact requirements in the near future. Federal legislation remains under discussion but has not been enacted.
+Several other states introduced AI employment bills in their 2024 and 2025 legislative sessions. The volume of legislative activity signals that more jurisdictions will enact requirements in the near future. Federal legislation remains under discussion but has not been enacted.
 
 ## Practical Compliance Framework
 

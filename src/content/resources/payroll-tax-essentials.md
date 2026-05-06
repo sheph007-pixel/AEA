@@ -10,7 +10,7 @@ tags: ["payroll", "taxes", "FICA", "operations"]
 
 ### FICA Taxes
 Employers must withhold and match:
-- **Social Security**: 6.2% on wages up to the annual wage base
+- **Social Security**: 6.2% on wages up to the annual wage base ($184,500 for 2026; the SSA adjusts this each year)
 - **Medicare**: 1.45% on all wages (no wage cap)
 - **Additional Medicare**: 0.9% on wages exceeding $200,000 (employee portion only, no employer match)
 

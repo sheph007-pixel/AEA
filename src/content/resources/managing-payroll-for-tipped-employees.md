@@ -11,11 +11,11 @@ Paying tipped employees correctly is one of the most error-prone areas of wage a
 
 ## Understanding the Tip Credit
 
-Under the FLSA, a tipped employee is one who customarily and regularly receives more than a minimum monthly amount in tips (check the current DOL threshold). For tipped employees, the employer may:
+Under the FLSA, a tipped employee is one who customarily and regularly receives more than $30 per month in tips. For tipped employees, the employer may:
 
-- Pay a direct cash wage at or above the federal tipped minimum wage (verify the current rate with the DOL)
-- Take a tip credit for the difference between the direct cash wage and the full federal minimum wage
-- The direct cash wage plus tips must equal at least the full minimum wage for every hour worked
+- Pay a direct cash wage at or above the federal tipped minimum wage of $2.13 per hour
+- Take a tip credit of up to $5.12 per hour, the difference between the $2.13 direct cash wage and the $7.25 federal minimum wage
+- The direct cash wage plus tips must equal at least the full minimum wage ($7.25 federally, or higher state/local rate) for every hour worked
 
 If an employee's tips combined with the direct cash wage do not reach the minimum wage, the employer must make up the difference.
 

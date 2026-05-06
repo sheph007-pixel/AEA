@@ -36,7 +36,7 @@ The process of establishing a 401(k) involves several steps:
 Once the plan is established, the employer has ongoing duties:
 
 - **Fiduciary duty**: Plan fiduciaries must act solely in the interest of plan participants, with the care, skill, prudence, and diligence of a prudent person
-- **Timely deposit of contributions**: Employee deferrals must be deposited as soon as they can be reasonably segregated from the employer's general assets, but no later than the 15th business day of the following month (small plans) or within a few days (DOL expectation for larger plans)
+- **Timely deposit of contributions**: Employee deferrals must be deposited as soon as they can be reasonably segregated from the employer's general assets. The DOL provides a safe harbor of seven business days after the payroll date for small plans (fewer than 100 participants); the outside limit under the Internal Revenue Code is the 15th business day of the following month, but the DOL views deposits made that late as presumptively untimely for most plans
 - **Annual testing**: Unless operating a Safe Harbor plan, annual nondiscrimination testing (ADP/ACP tests) is required
 - **Form 5500 filing**: Annual return filed with the DOL reporting plan financial information, generally due seven months after the plan year ends
 - **Summary Annual Report**: Must be distributed to participants annually

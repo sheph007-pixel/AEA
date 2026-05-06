@@ -21,7 +21,7 @@ Employees who will not meet these thresholds may file a waiver of PFL coverage, 
 
 ## Benefit Levels and Contribution Rates
 
-As of 2025, eligible employees may receive up to 67 percent of their average weekly wage, capped at 67 percent of the statewide average weekly wage. Benefits are available for up to 12 weeks within a 52-week period.
+Eligible employees may receive up to 67 percent of their average weekly wage, capped at 67 percent of the New York State Average Weekly Wage (NYSAWW). For 2026, the NYSAWW is $1,833.63, resulting in a maximum weekly benefit of $1,228.53. Benefits are available for up to 12 weeks within a 52-week period. The NYSAWW and corresponding cap are updated annually.
 
 The contribution rate is set annually by the New York Department of Financial Services. Employers must deduct the correct amount from employee wages and remit it to their PFL insurance carrier. Employers may not pay the employee share of PFL premiums.
 

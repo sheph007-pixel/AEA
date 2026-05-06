@@ -23,9 +23,9 @@ Existing plans are not required to add automatic enrollment, but it remains a be
 
 ### Increased Catch-Up Contribution Limits
 
-Starting in 2025, employees aged 60 through 63 can make enhanced catch-up contributions above the standard catch-up limit. For 401(k) plans, the enhanced limit is the greater of $10,000 or 150% of the standard catch-up contribution limit.
+Starting in 2025, employees aged 60 through 63 can make enhanced catch-up contributions above the standard catch-up limit. For 401(k) plans, the enhanced limit is the greater of $10,000 or 150% of the standard catch-up contribution limit. For 2026, this enhanced (super) catch-up is $11,250, on top of the regular $24,500 elective deferral limit and the standard age-50 catch-up of $8,000.
 
-Additionally, catch-up contributions for participants earning over $145,000 must be designated as Roth contributions. This Roth catch-up requirement was originally effective January 2024 but was delayed by IRS guidance to January 2026.
+Additionally, catch-up contributions for higher-earning participants must be designated as Roth contributions. The wage threshold was set at $145,000 in the statute and is indexed annually; the IRS announced a $150,000 prior-year FICA-wage threshold for 2026. The Roth catch-up requirement was originally scheduled for 2024, was delayed by IRS guidance, and takes effect January 1, 2026, with a good-faith compliance period through the end of 2026.
 
 ### Small Employer Tax Credits
 

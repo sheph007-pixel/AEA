@@ -34,7 +34,7 @@ For each new hire, collect:
 
 - **Form W-4 (Employee's Withholding Certificate)**: Determines how much federal income tax to withhold. Employees complete this form; you do not fill it in for them.
 - **State W-4 equivalent**: Many states have their own withholding forms.
-- **Form I-9 (Employment Eligibility Verification)**: Must be completed within three business days of the employee's start date. Examine the employee's original identity and work authorization documents in person.
+- **Form I-9 (Employment Eligibility Verification)**: Section 1 must be completed by the employee no later than the first day of employment, and Section 2 (employer verification) must be completed within three business days of the employee's start date. Examine original identity and work authorization documents in person, or use the alternative remote-examination procedure that DHS made permanent for qualifying E-Verify employers in 2023.
 - **Direct deposit authorization**: If offering direct deposit, collect bank routing and account numbers.
 
 ## Step 4: Determine Your Pay Structure

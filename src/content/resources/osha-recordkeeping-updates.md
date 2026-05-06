@@ -2,7 +2,7 @@
 title: "OSHA Recordkeeping and Reporting Updates Employers Should Know"
 description: "Current OSHA recordkeeping requirements, electronic reporting obligations, and best practices for workplace injury and illness documentation."
 category: "Safety"
-date: "2021-11-28"
+date: "2026-02-19"
 tags: ["OSHA", "recordkeeping", "workplace safety", "reporting", "compliance"]
 author: "AEA Editorial Team"
 ---

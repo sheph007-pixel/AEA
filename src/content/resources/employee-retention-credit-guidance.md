@@ -33,7 +33,7 @@ If you filed a claim based on a promoter's advice and are now uncertain about it
 
 ## If You Have a Pending Claim
 
-The IRS moratorium means that new claims filed after September 2023 face indefinite processing delays. Claims filed before the moratorium are being processed, but slowly, with the IRS applying additional scrutiny. If your claim is legitimate, you should retain all supporting documentation including:
+Claims that were filed within the statutory deadlines remain in the IRS processing queue, but processing is slow and many claims are receiving disallowance notices, particularly where the IRS has identified risk indicators. If your claim is legitimate, you should retain all supporting documentation including:
 
 - Quarterly gross receipts figures for 2019, 2020, and 2021
 - Documentation of any government orders that affected your operations
@@ -51,4 +51,4 @@ If you already received an ERC payment and later determined you were not eligibl
 
 ## Moving Forward
 
-The ERC remains a legitimate credit for employers who genuinely qualified, and many employers received it correctly. However, the aggressive promotion of the credit has created a landscape where the IRS is auditing claims heavily. If you are confident in your eligibility, ensure your documentation is in order. If you have doubts, explore the withdrawal or disclosure options before the IRS contacts you. The consequences of an erroneous claim that you voluntarily correct are far less severe than those of one the IRS identifies through audit.
+The ERC remains a legitimate credit for employers who genuinely qualified, and many employers received it correctly. However, the aggressive promotion of the credit has created a landscape where the IRS continues to audit and disallow claims at a high rate. If you are confident in your eligibility, ensure your documentation is in order and respond promptly to any IRS correspondence (including requests for additional information or proposed disallowances). If you received an ERC payment and have doubts about your eligibility, explore the IRS voluntary disclosure program before the IRS contacts you. The consequences of an erroneous claim that you voluntarily correct are far less severe than those of one the IRS identifies through audit. If you receive a disallowance notice, you generally have a limited window to file a protest or pursue judicial review; consult tax counsel promptly.

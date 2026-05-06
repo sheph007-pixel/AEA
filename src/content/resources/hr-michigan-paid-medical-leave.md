@@ -1,36 +1,36 @@
 ---
-title: "Michigan Paid Medical Leave Act: Employer Compliance"
-description: "Guide to Michigan's Paid Medical Leave Act requirements for employers with 50 or more employees."
+title: "Michigan Earned Sick Time Act: Employer Compliance"
+description: "Guide to Michigan's Earned Sick Time Act (ESTA), effective February 21, 2025, which replaced the Paid Medical Leave Act."
 category: "Benefits"
 date: "2026-01-15"
-tags: ["michigan", "paid medical leave", "sick leave", "compliance"]
+tags: ["michigan", "earned sick time", "sick leave", "compliance"]
 author: "AEA Editorial Team"
 ---
 
-## Michigan Paid Medical Leave Overview
+## Michigan Earned Sick Time Overview
 
-The Michigan Paid Medical Leave Act (PMLA), effective March 29, 2019, requires employers with 50 or more employees to provide paid medical leave. Eligible employees accrue one hour of paid medical leave for every 35 hours worked, up to a maximum of 40 hours per benefit year. The law replaced a citizen-initiated ballot proposal with a legislative alternative that narrowed the original measure's scope.
+The Michigan Earned Sick Time Act (ESTA) took effect on February 21, 2025, replacing the Paid Medical Leave Act (PMLA) following a Michigan Supreme Court decision that reinstated the original ballot initiative. The legislature subsequently amended ESTA before its effective date to address employer concerns. Unlike the prior PMLA, ESTA applies to all Michigan employers regardless of size, though the obligations differ for small employers.
 
-The PMLA applies only to employees who work at least 25 hours per week on a normal basis and are not exempt under the law's various exclusions. Exempt employees include those covered by a collective bargaining agreement, variable-hour employees, and temporary employees placed by staffing agencies.
+Eligible employees accrue one hour of earned sick time for every 30 hours worked. Employers with 10 or more employees must allow up to 72 hours of paid earned sick time per year. Employers with fewer than 10 employees must allow up to 40 hours of paid earned sick time per year, with any additional hours up to 72 permitted as unpaid leave at the employer's discretion. Small businesses (fewer than 10 employees) that did not previously have to comply with the PMLA had a delayed compliance date of October 1, 2025.
 
-## Accrual and Usage Rules
+## Accrual, Frontloading, and Carryover
 
-Employees begin accruing paid medical leave upon hire but may not use it until they have been employed for at least 90 days. Employers may frontload the full 40 hours at the beginning of the benefit year rather than using an accrual system. If an employer frontloads, unused leave does not carry over to the next benefit year.
+Accrual begins on the first day of employment, and employees may begin using accrued time after a waiting period that the employer may set, up to 120 days for new hires. Employers may frontload the full annual amount at the start of the benefit year as an alternative to tracking accrual.
 
-Under the accrual method, employers must allow employees to carry over up to 40 hours of unused leave to the following year but may cap total usage at 40 hours per year. Employers are not required to pay out unused accrued leave upon termination.
+Under the accrual method, employers must allow carryover of unused earned sick time from year to year, but may cap carryover at the applicable annual usage limit (72 hours for larger employers, 40 hours for small employers). If an employer frontloads and pays out unused time at year end, carryover is not required. Employers are not required to pay out unused accrued leave upon termination unless their own policy provides for it.
 
 ## Permitted Uses and Documentation
 
-Employees may use paid medical leave for their own or a family member's mental or physical illness, injury, or health condition, including diagnosis, care, treatment, or preventive care. Leave is also available for domestic violence or sexual assault situations and for workplace or school closures due to public health emergencies.
+Employees may use earned sick time for their own or a family member's mental or physical illness, injury, or health condition, including diagnosis, care, treatment, or preventive care. Leave is also available for purposes related to domestic violence or sexual assault and for workplace or school closures due to public health emergencies. ESTA defines family member broadly to include spouses, children, parents, siblings, grandparents, grandchildren, and any individual related by blood or whose close association with the employee is the equivalent of a family relationship.
 
-For absences exceeding three consecutive days, employers may require documentation, such as a healthcare provider's note, that the leave was used for a covered purpose. Employers may not require disclosure of specific medical details. Employees must make a good faith effort to schedule foreseeable leave in a manner that does not unduly disrupt the employer's operations.
+For absences exceeding three consecutive workdays, employers may require reasonable documentation, such as a healthcare provider's note, that the leave was used for a covered purpose. Employers may not require disclosure of specific medical details. Employees must provide notice consistent with the employer's written policy, and for foreseeable leave, must make a good faith effort to schedule it in a manner that does not unduly disrupt operations.
 
 ## Employer Notice and Recordkeeping
 
-Employers must display a poster provided by the Michigan Department of Labor and Economic Opportunity summarizing employee rights under the PMLA. Employers must maintain records of hours worked and paid medical leave accrued and used for each employee for at least three years. Failure to maintain adequate records creates a presumption in favor of the employee in any dispute.
+Employers must provide written notice to employees of their ESTA rights at the start of employment or by the law's effective date for existing employees. The Michigan Department of Labor and Economic Opportunity provides a model poster that must be displayed in the workplace. Employers must maintain records of hours worked and earned sick time accrued and used for each employee for at least three years. Failure to maintain adequate records creates a presumption in favor of the employee in any dispute.
 
-Employers may not retaliate against employees for requesting or using paid medical leave. Retaliation includes discipline, termination, demotion, and any other adverse action taken because an employee exercises their rights under the law.
+Employers may not retaliate against employees for requesting or using earned sick time. Retaliation includes discipline, termination, demotion, and any other adverse action taken because an employee exercises their ESTA rights.
 
 ## Integration With Other Leave Policies
 
-Employers with existing paid time off policies that meet or exceed the PMLA's requirements are considered in compliance. The existing policy must provide at least 40 hours of paid leave per year that can be used for the same purposes as paid medical leave. Employers should review their PTO policies carefully to ensure they meet all PMLA requirements, including accrual rates, carryover rules, and permitted uses.
+Employers with existing paid time off policies that meet or exceed ESTA's minimum requirements are considered in compliance, provided the existing policy allows leave for all the same purposes and at no less generous accrual, usage, and carryover terms. Employers should review PTO and sick leave policies carefully to confirm they meet every element of the ESTA requirements, not just the total hours offered.

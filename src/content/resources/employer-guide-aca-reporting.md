@@ -49,9 +49,9 @@ Forms 1095-C must be furnished to employees by the IRS-established deadline, typ
 
 Electronic filing is mandatory for employers filing 10 or more information returns in the aggregate (the threshold was lowered from 250 by IRS final regulations effective for returns required to be filed in 2024 and later).
 
-## Paperless Burden Reduction Act
+## Paperwork Burden Reduction Act
 
-The Paperless Burden Reduction Act, signed in December 2024, made the automatic distribution of Form 1095-C optional under certain conditions. ALEs may now satisfy the furnishing requirement by providing a clear, conspicuous, and accessible notice that employees may request a copy of their 1095-C, and then furnishing the form within 30 days of any request (or by January 31, whichever is later). The change applies retroactively to statements for the 2024 calendar year and later. Employers must still file the forms with the IRS; only the automatic furnishing to employees is now optional.
+The Paperwork Burden Reduction Act, signed December 23, 2024 (along with the companion Employer Reporting Improvement Act), made the automatic distribution of Forms 1095-B and 1095-C optional under certain conditions. Beginning with the 2024 reporting year, employers may satisfy the furnishing requirement by providing a clear, conspicuous, and accessible notice that employees may request a copy of their 1095, and then furnishing the form by the later of January 31 or 30 days after the request. Employers must still file the forms with the IRS; only the automatic furnishing to employees is now optional.
 
 ## Practical Steps
 

@@ -15,7 +15,7 @@ If your organization uses any automated tool in the hiring process, you need to 
 
 ## Federal Law Still Applies
 
-The Equal Employment Opportunity Commission (EEOC) has made clear that Title VII of the Civil Rights Act and the Americans with Disabilities Act apply to AI-driven hiring decisions just as they do to human ones. In 2023, the EEOC issued updated technical assistance emphasizing two key points:
+The Equal Employment Opportunity Commission (EEOC) has made clear that Title VII of the Civil Rights Act and the Americans with Disabilities Act apply to AI-driven hiring decisions just as they do to human ones. The EEOC's 2023 technical assistance documents on AI emphasized two key points (note: the second Trump-era EEOC rescinded some of those documents in 2025, but the underlying statutes still apply):
 
 - **Disparate impact liability**: If an AI screening tool disproportionately filters out candidates of a particular race, sex, age, or other protected characteristic, the employer can be liable even if the tool was designed without discriminatory intent. The employer bears the burden of demonstrating that the tool is job-related and consistent with business necessity.
 - **Disability discrimination**: AI tools that assess facial expressions, speech patterns, or other behavioral cues during video interviews may screen out individuals with disabilities. Under the ADA, employers must provide reasonable accommodations, which may mean offering alternative assessment methods.
@@ -26,9 +26,10 @@ The key takeaway is that the employer, not the vendor, is ultimately responsible
 
 Several jurisdictions have enacted or proposed laws specifically targeting AI in employment:
 
-- **New York City Local Law 144** requires employers using automated employment decision tools to conduct annual bias audits performed by independent auditors and to notify candidates that such tools are being used.
-- **Illinois** amended its AI Video Interview Act to require employer consent disclosures before using AI to analyze video interviews.
-- **Colorado** passed legislation requiring developers and deployers of high-risk AI systems, including employment tools, to conduct impact assessments and mitigate algorithmic discrimination.
+- **New York City Local Law 144** (effective July 2023) requires employers using automated employment decision tools to conduct annual independent bias audits and to notify candidates that such tools are being used.
+- **Illinois HB 3773** (effective January 1, 2026) prohibits employers from using AI in employment decisions in a manner that produces discriminatory effects, with notice and recordkeeping requirements; the AI Video Interview Act (effective 2020) continues to require disclosure and consent before AI analysis of video interviews.
+- **Colorado SB 24-205** (signed May 2024) requires developers and deployers of high-risk AI systems, including employment tools, to conduct impact assessments and mitigate algorithmic discrimination. The effective date was pushed back to June 30, 2026 by SB 25B-004.
+- **California AB 2930** and related Civil Rights Council regulations phasing in through 2026 prohibit automated decision systems that contribute to discriminatory employment outcomes and impose recordkeeping obligations.
 
 Employers operating in multiple states should expect this patchwork to expand and should track legislative developments in every jurisdiction where they hire.
 

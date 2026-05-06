@@ -23,7 +23,7 @@ Additional permitted uses include absences related to domestic violence, sexual 
 
 Employers must allow employees to use paid sick leave in the smallest increment their payroll system uses to track absences, not to exceed one hour. Employers may not require employees to find a replacement worker as a condition of using sick leave. For absences exceeding three consecutive days, employers may require verification that the leave was used for an authorized purpose, but they may not require disclosure of specific medical details.
 
-Unused paid sick leave must carry over to the following year, though employers are not required to allow use of more than 40 hours in any calendar year if they set such a cap. If an employee separates and is rehired within 12 months, previously accrued leave must be reinstated.
+Employers must allow employees to carry over up to 40 hours of unused, accrued paid sick leave from one year to the next. Employers may choose to allow more generous carryover. If an employee separates and is rehired within 12 months, previously accrued leave must be reinstated.
 
 ## Notice and Recordkeeping
 
