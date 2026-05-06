@@ -2,7 +2,7 @@
 title: "Building a Return-to-Work Program That Actually Works"
 description: "How to design and implement a return-to-work program that reduces workers' compensation costs while supporting injured employees."
 category: "HR Management"
-date: "2017-01-25"
+date: "2026-02-22"
 tags: ["workers compensation", "return to work", "light duty", "disability management"]
 author: "AEA Editorial Team"
 ---

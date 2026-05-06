@@ -2,16 +2,16 @@
 title: "DEI Programs and the Law: What Employers Can and Cannot Do"
 description: "A legal framework for designing diversity, equity, and inclusion initiatives that withstand legal scrutiny while advancing workplace goals."
 category: "Workplace Culture"
-date: "2023-07-14"
+date: "2026-02-21"
 tags: ["DEI", "diversity", "Title VII", "compliance", "workplace culture"]
 author: "AEA Editorial Team"
 ---
 
 ## The Current Legal Landscape
 
-Diversity, equity, and inclusion (DEI) programs remain a priority for many employers seeking to build stronger, more representative workforces. However, the legal environment around these programs has grown more complex. Court decisions, state legislative activity, and shifting enforcement priorities have created uncertainty about what employers can and cannot lawfully do.
+Diversity, equity, and inclusion (DEI) programs remain a priority for many employers seeking to build stronger, more representative workforces. However, the legal environment around these programs has grown significantly more hostile. The Supreme Court's 2023 decision in *Students for Fair Admissions v. Harvard* (addressing higher education affirmative action) accelerated scrutiny of employer DEI programs. In 2025 the second Trump administration issued executive orders targeting "illegal DEI" in federal contracting and the private sector, the EEOC and DOJ released guidance describing when DEI initiatives may constitute unlawful disparate treatment, and several state legislatures restricted DEI activities by public employers and contractors. Many large employers have since rebranded or scaled back formal DEI programs.
 
-The core legal principle has not changed: Title VII of the Civil Rights Act prohibits employment decisions based on race, color, religion, sex, or national origin. This prohibition applies equally to all groups. Programs that cross the line from expanding opportunity into making decisions based on protected characteristics face legal risk.
+The core legal principle has not changed: Title VII of the Civil Rights Act prohibits employment decisions based on race, color, religion, sex, or national origin. This prohibition applies equally to all groups. Programs that cross the line from expanding opportunity into making decisions based on protected characteristics face heightened legal risk under both federal enforcement and private litigation.
 
 ## What Employers Can Do
 

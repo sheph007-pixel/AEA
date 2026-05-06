@@ -2,7 +2,7 @@
 title: "Accelerating Digital Transformation for Small Business Operations"
 description: "How small employers can adopt digital tools to streamline operations, reduce costs, and build resilience."
 category: "Operations"
-date: "2020-10-28"
+date: "2026-02-22"
 tags: ["digital transformation", "small business", "technology", "automation", "operations"]
 author: "AEA Editorial Team"
 ---

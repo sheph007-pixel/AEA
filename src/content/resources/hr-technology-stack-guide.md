@@ -2,7 +2,7 @@
 title: "Building an Effective HR Technology Stack for Growing Companies"
 description: "How to select and integrate HR software tools that streamline people operations as your company scales."
 category: "Technology"
-date: "2022-08-15"
+date: "2026-02-22"
 tags: ["HR technology", "HRIS", "software", "automation", "people operations"]
 author: "AEA Editorial Team"
 ---

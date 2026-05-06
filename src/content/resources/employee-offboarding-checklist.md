@@ -1,8 +1,8 @@
 ---
-title: "The Complete Employee Offboarding Checklist for 2024"
+title: "The Complete Employee Offboarding Checklist"
 description: "A comprehensive offboarding process that protects your organization, ensures compliance, and maintains professional relationships."
 category: "HR Management"
-date: "2024-10-05"
+date: "2026-02-21"
 tags: ["offboarding", "termination", "compliance", "HR process", "exit"]
 author: "AEA Editorial Team"
 ---

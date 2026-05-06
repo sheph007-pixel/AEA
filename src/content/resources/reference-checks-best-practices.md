@@ -2,7 +2,7 @@
 title: "How to Conduct Reference Checks That Actually Tell You Something"
 description: "Practical guidance on conducting meaningful reference checks that go beyond confirming dates of employment."
 category: "Hiring"
-date: "2016-04-25"
+date: "2026-02-21"
 tags: ["reference checks", "hiring", "recruitment", "due diligence"]
 author: "AEA Editorial Team"
 ---

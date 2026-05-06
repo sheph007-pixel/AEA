@@ -2,7 +2,7 @@
 title: "Managing Furloughs and Layoffs: Legal Requirements and Best Practices"
 description: "A guide to conducting workforce reductions lawfully, compassionately, and with an eye toward future recovery."
 category: "HR Management"
-date: "2020-07-28"
+date: "2026-02-22"
 tags: ["furloughs", "layoffs", "WARN Act", "workforce reduction", "HR"]
 author: "AEA Editorial Team"
 ---

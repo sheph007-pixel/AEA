@@ -2,7 +2,7 @@
 title: "Creating a PTO Policy That Works for Employers and Employees"
 description: "How to design a paid time off policy that balances employee flexibility with operational needs and legal compliance."
 category: "Benefits"
-date: "2018-04-19"
+date: "2026-02-21"
 tags: ["PTO", "benefits", "paid time off", "vacation policy"]
 author: "AEA Editorial Team"
 ---

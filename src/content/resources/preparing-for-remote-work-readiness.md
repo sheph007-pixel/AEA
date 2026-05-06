@@ -2,7 +2,7 @@
 title: "Remote Work Readiness: Preparing Your Business for Distributed Teams"
 description: "How to build the infrastructure, policies, and management practices needed to support a remote or partially remote workforce."
 category: "Operations"
-date: "2019-10-30"
+date: "2026-02-22"
 tags: ["remote work", "distributed teams", "workplace flexibility", "technology", "business continuity"]
 author: "AEA Editorial Team"
 ---

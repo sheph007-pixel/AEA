@@ -2,7 +2,7 @@
 title: "Upskilling and Reskilling Your Workforce to Close Skills Gaps"
 description: "How to develop internal training programs that build the capabilities your organization needs without relying solely on external hiring."
 category: "Operations"
-date: "2021-09-01"
+date: "2026-02-22"
 tags: ["upskilling", "reskilling", "training", "workforce development", "skills gaps"]
 author: "AEA Editorial Team"
 ---

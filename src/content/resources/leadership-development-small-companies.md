@@ -2,7 +2,7 @@
 title: "Developing Leaders When You Don't Have a Leadership Development Program"
 description: "Practical approaches for small and mid-sized employers to develop leadership skills in managers and high-potential employees without a formal program."
 category: "Leadership"
-date: "2017-06-28"
+date: "2026-02-22"
 tags: ["leadership development", "management training", "succession planning", "small business"]
 author: "AEA Editorial Team"
 ---

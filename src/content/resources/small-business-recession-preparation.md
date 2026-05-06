@@ -2,7 +2,7 @@
 title: "Preparing Your Small Business for an Economic Downturn"
 description: "Practical steps small employers can take to build financial resilience and protect their workforce during recessionary conditions."
 category: "Small Business"
-date: "2022-12-05"
+date: "2026-02-22"
 tags: ["recession", "small business", "financial planning", "workforce", "cost management"]
 author: "AEA Editorial Team"
 ---

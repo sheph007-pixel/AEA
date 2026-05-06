@@ -2,7 +2,7 @@
 title: "Quiet Quitting: What It Means and How Employers Should Respond"
 description: "Understanding the quiet quitting phenomenon and addressing the underlying engagement issues it signals."
 category: "Workplace Culture"
-date: "2022-04-15"
+date: "2026-02-22"
 tags: ["quiet quitting", "engagement", "burnout", "workplace culture", "management"]
 author: "AEA Editorial Team"
 ---

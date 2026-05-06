@@ -2,7 +2,7 @@
 title: "Succession Planning for Small and Mid-Sized Employers"
 description: "How to identify and develop future leaders to ensure business continuity and smooth leadership transitions."
 category: "Leadership"
-date: "2021-12-15"
+date: "2026-02-22"
 tags: ["succession planning", "leadership development", "small business", "talent management", "business continuity"]
 author: "AEA Editorial Team"
 ---

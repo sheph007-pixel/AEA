@@ -2,7 +2,7 @@
 title: "Workforce Planning for Supply Chain Disruptions"
 description: "How employers can adapt staffing strategies and operations to maintain productivity during supply chain instability."
 category: "Operations"
-date: "2022-11-15"
+date: "2026-02-22"
 tags: ["supply chain", "workforce planning", "operations", "business continuity", "staffing"]
 author: "AEA Editorial Team"
 ---

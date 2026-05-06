@@ -2,7 +2,7 @@
 title: "Managing Inflation's Impact on Employee Compensation"
 description: "Practical strategies for adjusting compensation practices when inflation outpaces traditional raise budgets."
 category: "Benefits"
-date: "2022-03-22"
+date: "2026-02-22"
 tags: ["inflation", "compensation", "salary", "cost of living", "total rewards"]
 author: "AEA Editorial Team"
 ---

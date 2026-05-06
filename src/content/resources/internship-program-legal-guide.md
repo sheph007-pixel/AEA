@@ -2,7 +2,7 @@
 title: "Setting Up a Legally Compliant Internship Program"
 description: "How to structure internship programs that comply with FLSA requirements and provide genuine value to both the employer and the intern."
 category: "Hiring"
-date: "2019-11-25"
+date: "2026-02-21"
 tags: ["internships", "FLSA", "hiring", "compliance", "workforce development"]
 author: "AEA Editorial Team"
 ---

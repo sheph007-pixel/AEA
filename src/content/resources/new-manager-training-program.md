@@ -2,7 +2,7 @@
 title: "Building a New Manager Training Program That Prevents Common Failures"
 description: "Essential training components for first-time managers to set them up for success and protect your organization from management-driven turnover."
 category: "Leadership"
-date: "2022-10-05"
+date: "2026-02-22"
 tags: ["management training", "leadership development", "new managers", "HR", "training"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "Implementing Flexible Work Arrangements Without Losing Productivity"
 description: "How to offer compressed workweeks, flextime, and hybrid schedules while maintaining operational effectiveness and legal compliance."
 category: "Operations"
-date: "2019-04-22"
+date: "2026-02-22"
 tags: ["flexible work", "work-life balance", "scheduling", "workplace flexibility"]
 author: "AEA Editorial Team"
 ---

@@ -2,7 +2,7 @@
 title: "Preparing Your Small Business for a Leadership Transition"
 description: "How small business owners can prepare for ownership transitions by documenting operations, developing successors, and planning their exit strategy."
 category: "Small Business"
-date: "2019-06-10"
+date: "2026-02-22"
 tags: ["succession planning", "small business", "leadership transition", "business continuity"]
 author: "AEA Editorial Team"
 ---
