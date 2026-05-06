@@ -20,6 +20,10 @@ const costGuard = require('./lib/cost-guard');
 
 const SCRIPT_NAME = 'fact-check';
 
+// Model selection. Default to gpt-4o for accurate verification. Set
+// OPENAI_FACTCHECK_MODEL to override.
+const MODEL = process.env.OPENAI_FACTCHECK_MODEL || process.env.OPENAI_MODEL || 'gpt-4o';
+
 function sendEmail(subject, htmlBody) {
   const apiKey = process.env.RESEND_API_KEY;
   if (!apiKey) { console.warn('RESEND_API_KEY not set, skipping email'); return Promise.resolve(); }
@@ -51,7 +55,7 @@ function callOpenAI(prompt) {
 
   return new Promise((resolve, reject) => {
     const data = JSON.stringify({
-      model: 'gpt-4o-mini',
+      model: MODEL,
       messages: [{ role: 'user', content: prompt }],
       max_tokens: 1500,
       temperature: 0.2,

@@ -31,6 +31,7 @@ jobs:
       - name: Generate monthly briefings
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
+          OPENAI_BRIEFINGS_MODEL: ${{ vars.OPENAI_BRIEFINGS_MODEL || vars.OPENAI_MODEL || 'gpt-4o' }}
           OPENAI_DAILY_TOKEN_CAP: ${{ vars.OPENAI_DAILY_TOKEN_CAP || '5000000' }}
           OPENAI_DAILY_USD_CAP: ${{ vars.OPENAI_DAILY_USD_CAP || '5' }}
         run: node scripts/generate-monthly-briefings.js
@@ -39,6 +40,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          OPENAI_FACTCHECK_MODEL: ${{ vars.OPENAI_FACTCHECK_MODEL || vars.OPENAI_MODEL || 'gpt-4o' }}
           OPENAI_DAILY_TOKEN_CAP: ${{ vars.OPENAI_DAILY_TOKEN_CAP || '5000000' }}
           OPENAI_DAILY_USD_CAP: ${{ vars.OPENAI_DAILY_USD_CAP || '5' }}
         run: node scripts/fact-check.js src/content/briefings

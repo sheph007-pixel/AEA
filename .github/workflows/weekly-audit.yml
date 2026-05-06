@@ -34,10 +34,13 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          OPENAI_FACTCHECK_MODEL: ${{ vars.OPENAI_FACTCHECK_MODEL || vars.OPENAI_MODEL || 'gpt-4o' }}
           # Weekly audit needs a higher cap because it scans every article.
           # ~250 articles * ~5k tokens each = ~1.25M expected; cap at 4M for headroom.
+          # USD cap raised to $25 for the weekly job because gpt-4o is ~10x the
+          # cost of gpt-4o-mini; weekly audit at gpt-4o lands ~$15-$20.
           OPENAI_DAILY_TOKEN_CAP: ${{ vars.OPENAI_WEEKLY_TOKEN_CAP || '4000000' }}
-          OPENAI_DAILY_USD_CAP: ${{ vars.OPENAI_WEEKLY_USD_CAP || '5' }}
+          OPENAI_DAILY_USD_CAP: ${{ vars.OPENAI_WEEKLY_USD_CAP || '25' }}
         run: node scripts/fact-check.js
 
       - name: Determine verification status

@@ -16,6 +16,10 @@ const costGuard = require('./lib/cost-guard');
 const SCRIPT_NAME = 'generate-monthly-briefings';
 const BRIEFINGS_DIR = path.join(__dirname, '..', 'src', 'content', 'briefings');
 
+// Model selection. Default to gpt-4o for quality. Set OPENAI_BRIEFINGS_MODEL
+// to override (e.g., 'gpt-4o-mini' for cost savings, or a newer model name).
+const MODEL = process.env.OPENAI_BRIEFINGS_MODEL || process.env.OPENAI_MODEL || 'gpt-4o';
+
 const INDUSTRIES = [
   'Healthcare', 'Retail', 'Manufacturing', 'Construction', 'Technology',
   'Hospitality', 'Professional Services', 'Transportation', 'Education', 'Nonprofits',
@@ -39,27 +43,47 @@ function callOpenAI(prompt) {
   costGuard.assertCanCall(SCRIPT_NAME);
   return new Promise((resolve, reject) => {
     const data = JSON.stringify({
-      model: 'gpt-4o-mini',
+      model: MODEL,
       messages: [
         {
           role: 'system',
-          content: `You are a senior editorial writer for the American Employers Alliance (AEA), a national employer association founded in 2013 that serves businesses with 2-500 employees across all industries.
+          content: `You write for the American Employers Alliance (AEA), a national employer association founded in 2013 serving businesses with 2-500 employees. Your audience is HR directors, business owners, and in-house counsel - people who already know the basics of employment law and resent being talked down to.
 
-Write in an institutional, authoritative tone. You are preparing official association publications.
+VOICE:
+- Direct. Specific. Confident. You write like a senior compliance partner briefing a client, not like a marketing intern padding for SEO.
+- Short paragraphs. Concrete nouns. Active voice. Numbers and dates carry the meaning, not adjectives.
+- Lead with what changed and what to do. Skip preambles like "In today's evolving landscape..." or "As we move forward..."
 
-CRITICAL RULES:
-- Never invent statistics, survey results, member counts, or proprietary data
-- Never fabricate legal citations or case names
-- Use careful language: "may," "consider," "employers should be aware," "consult counsel"
-- Reference real laws by name (FMLA, ADA, FLSA, OSHA, Title VII, COBRA, ACA) where relevant
-- Frame trend observations as general industry observations, not AEA member data
-- Every piece must be factually defensible and privacy-safe
-- Do not reference specific companies, named individuals, or AEA member organizations`,
+ABSOLUTELY FORBIDDEN PHRASES (these are AI tells - if you write any of them, the briefing is rejected):
+- "navigating the [X] landscape" / "evolving landscape" / "dynamic landscape"
+- "in today's [anything]"
+- "as we move into" / "as we move forward" / "looking ahead"  (use only in a clearly labeled "Looking Ahead" section, and only with a SPECIFIC upcoming date)
+- "stay informed" / "stay vigilant" / "remain attentive"
+- "employers should be aware" / "it is important to note" / "it is advisable"
+- "may want to consider" / "should consider" / "may consider" (just say what they should DO)
+- "robust" / "comprehensive" / "holistic" / "leverage" / "unlock" / "empower"
+- "fostering a culture of" / "championing" / "cultivating"
+- "the importance of" - if it's important, just write the substance
+- Cliched openings: "In recent years..." / "More than ever before..." / "A growing number of employers..."
+
+REQUIRED:
+- Every "key development" must include either a specific calendar date in 2026 or later, a named statute or bill (with number), a CFR or USC citation, or a named regulatory form. No date-free generalities.
+- When you reference a law, name the section. "FMLA" alone is filler; "29 U.S.C. § 2614(a) reinstatement" is content.
+- Numbers when you have them. Dollar thresholds, employee-count triggers, calendar deadlines, contribution caps.
+- One specific action item per recommendation. Not "review your policies" but "pull the EEO-1 snapshot pay period before May 31."
+
+NEVER:
+- Invent statistics, survey results, member counts, court cases, agency announcements, or comment-period dates.
+- Cite as current any rule that has been vacated (the 2024 FLSA overtime rule was vacated November 15, 2024) or struck down (the FTC noncompete rule was struck down by *Ryan LLC v. FTC* August 20, 2024).
+- Frame anything as "AEA member data" or "our members report" - we don't disclose member data.
+- Reference specific companies or named individuals.
+
+If you don't have a verifiable, current item to fill a section, OMIT THE SECTION. Filling space with vague hedging is worse than a shorter briefing.`,
         },
         { role: 'user', content: prompt },
       ],
-      max_tokens: 2000,
-      temperature: 0.5,
+      max_tokens: 2500,
+      temperature: 0.4,
     });
 
     const options = {
@@ -94,18 +118,38 @@ CRITICAL RULES:
   });
 }
 
-// Pre-publish quality gate. A briefing must contain at least one specific,
-// verifiable signal that is RELEVANT TO THE CURRENT TIMEFRAME:
-//   - a calendar date in the current year or future (NOT a closed comment
-//     period from 2023, which is what the model defaulted to filling in
-//     when it had nothing concrete to say)
-//   - a named bill (HB/SB/AB...)
-//   - a section/CFR/USC citation
-//   - a named regulatory form
+// Phrases that mark the model is padding with filler instead of saying anything.
+// We tolerate up to AI_TELL_THRESHOLD occurrences total - a couple of natural
+// uses of common phrases is fine, but high concentration means the body is
+// boilerplate rather than substance.
+const AI_TELL_PATTERNS = [
+  /\bnavigating the [a-z\s-]{3,30}landscape\b/i,
+  /\b(?:evolving|dynamic|complex|shifting|changing|ever-changing) (?:legal |regulatory |employment |compliance |workplace )?landscape\b/i,
+  /\bin today'?s\s+(?:dynamic|evolving|complex|fast-paced|modern|competitive|business|workplace|regulatory)\b/i,
+  /\bas we move (?:into|forward|through|toward)\b/i,
+  /\bstay (?:informed|vigilant|attentive|ahead|abreast|tuned|aware) (?:of|about)\b/i,
+  /\b(?:employers|companies|organizations) (?:should|must|may want to) (?:be aware|stay informed|stay vigilant|consider)\b/i,
+  /\bit is (?:important|crucial|essential|advisable|critical) to (?:note|remember|recognize|understand)\b/i,
+  /\bmay (?:want to )?consider\b/i,
+  /\b(?:foster|fostering|cultivate|cultivating|champion|championing) a culture of\b/i,
+  /\b(?:robust|comprehensive|holistic|seamless|cutting-edge|state-of-the-art) (?:approach|solution|strategy|framework|policy|program)\b/i,
+  /\b(?:leverage|unlock|empower|harness)\s+(?:the power of|your|their|our|new)\b/i,
+  /\bthe importance of\b/i,
+  /\bmore than ever before\b/i,
+  /\ba growing number of\b/i,
+  /\bin recent years,?\s+(?:there has been|employers have|companies have|the workplace)\b/i,
+];
+const AI_TELL_THRESHOLD = 3;
+
+// Pre-publish quality gate. A briefing must:
+//   1. Contain at least one specific, current/upcoming signal: calendar date
+//      in current year or future, deadline phrase, named bill, formal
+//      citation, or named regulatory form.
+//   2. Not exceed AI_TELL_THRESHOLD filler phrases - those are signs the
+//      model padded instead of writing substance.
 //
-// This is a heuristic floor, not a fact-checker - it rejects briefings that
-// have nothing concrete and current to point at. Truth is the job of the
-// downstream fact-check pass.
+// This is a heuristic floor, not a fact-checker. Truth is the downstream
+// fact-check pass's job.
 function passesQualityGate(body) {
   const text = body.replace(/^---[\s\S]*?\n---\n/, ''); // strip frontmatter
   const currentYear = new Date().getFullYear();
@@ -139,7 +183,30 @@ function passesQualityGate(body) {
   // Specific regulatory form by number
   const hasFormNumber = /\bForm\s+(?:I-9|W-[24]|1094-[BC]|1095-[BC]|300A?|301|5500|EEO-1|941|940|5558)\b/.test(text);
 
-  return hasCurrentOrFutureDate || hasMonthDayNoYear || hasBillNumber || hasFormalCitation || hasFormNumber;
+  const hasConcreteSignal = hasCurrentOrFutureDate || hasMonthDayNoYear || hasBillNumber || hasFormalCitation || hasFormNumber;
+  if (!hasConcreteSignal) {
+    return { ok: false, reason: 'no specific date / bill / citation / form found' };
+  }
+
+  // Count AI filler phrases. Tolerate a few but reject if the body is mostly
+  // padding.
+  let aiTellCount = 0;
+  const tellsFound = [];
+  for (const pattern of AI_TELL_PATTERNS) {
+    const matches = text.match(new RegExp(pattern.source, pattern.flags + (pattern.flags.includes('g') ? '' : 'g'))) || [];
+    if (matches.length > 0) {
+      aiTellCount += matches.length;
+      tellsFound.push(`"${matches[0]}"`);
+    }
+  }
+  if (aiTellCount > AI_TELL_THRESHOLD) {
+    return {
+      ok: false,
+      reason: `${aiTellCount} AI-cliche phrases (threshold ${AI_TELL_THRESHOLD}); examples: ${tellsFound.slice(0, 3).join(', ')}`,
+    };
+  }
+
+  return { ok: true };
 }
 
 async function generate(type, prompt, { month, ym, date }) {
@@ -150,10 +217,13 @@ async function generate(type, prompt, { month, ym, date }) {
   // employer-questions is Q&A and may legitimately not name a statute in every
   // answer; let it through.
   const gatedTypes = ['monthly-briefing', 'compliance-alert', 'trends-report', 'industry-snapshot'];
-  if (gatedTypes.includes(type) && !passesQualityGate(content)) {
-    console.warn(`  [quality-gate] ${type} rejected: no specific dates, statutes, or state-law citations found.`);
-    console.warn(`  [quality-gate] Briefing not written. The pipeline will retry next month.`);
-    return;
+  if (gatedTypes.includes(type)) {
+    const gateResult = passesQualityGate(content);
+    if (!gateResult.ok) {
+      console.warn(`  [quality-gate] ${type} rejected: ${gateResult.reason}`);
+      console.warn(`  [quality-gate] Briefing not written. The pipeline will skip rather than publish filler.`);
+      return;
+    }
   }
 
   const titleMatch = content.match(/title:\s*"([^"]+)"/);

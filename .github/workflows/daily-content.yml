@@ -37,6 +37,8 @@ jobs:
       - name: Generate daily news articles
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
+          # Quality model. Override via repo Variables: OPENAI_NEWS_MODEL or OPENAI_MODEL.
+          OPENAI_NEWS_MODEL: ${{ vars.OPENAI_NEWS_MODEL || vars.OPENAI_MODEL || 'gpt-4o' }}
           # Daily token / USD caps shared by all scripts via scripts/lib/cost-guard.js
           OPENAI_DAILY_TOKEN_CAP: ${{ vars.OPENAI_DAILY_TOKEN_CAP || '5000000' }}
           OPENAI_DAILY_USD_CAP: ${{ vars.OPENAI_DAILY_USD_CAP || '5' }}
@@ -46,6 +48,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.ChatGPT }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          OPENAI_FACTCHECK_MODEL: ${{ vars.OPENAI_FACTCHECK_MODEL || vars.OPENAI_MODEL || 'gpt-4o' }}
           OPENAI_DAILY_TOKEN_CAP: ${{ vars.OPENAI_DAILY_TOKEN_CAP || '5000000' }}
           OPENAI_DAILY_USD_CAP: ${{ vars.OPENAI_DAILY_USD_CAP || '5' }}
         run: node scripts/fact-check.js src/content/news

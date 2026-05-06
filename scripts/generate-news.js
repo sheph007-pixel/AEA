@@ -17,6 +17,10 @@ const costGuard = require('./lib/cost-guard');
 
 const SCRIPT_NAME = 'generate-news';
 
+// Model selection. Default to gpt-4o for quality. Set OPENAI_NEWS_MODEL to
+// override (e.g., 'gpt-4o-mini' for cost savings).
+const MODEL = process.env.OPENAI_NEWS_MODEL || process.env.OPENAI_MODEL || 'gpt-4o';
+
 const NEWS_DIR = path.join(__dirname, '..', 'src', 'content', 'news');
 
 const CATEGORIES = [
@@ -43,16 +47,40 @@ function callOpenAI(prompt) {
   costGuard.assertCanCall(SCRIPT_NAME);
   return new Promise((resolve, reject) => {
     const data = JSON.stringify({
-      model: 'gpt-4o-mini',
+      model: MODEL,
       messages: [
         {
           role: 'system',
-          content: 'You are a professional business journalist writing for an employer association. Write accurate, practical news articles for HR professionals and business owners of companies with 2-500 employees. Never invent statistics, quotes, or specific company names. Focus on what employers need to know and what actions they should take.',
+          content: `You write workplace-law news for the American Employers Alliance. Your readers are HR directors, business owners, and in-house counsel of companies with 2-500 employees. They have limited time and zero patience for filler.
+
+VOICE:
+- Lead with the news, not the framing. The first sentence should state what happened, who is affected, and when.
+- Plain English. Short sentences. Active voice.
+- Cite specifics: agency, statute name, section number, court name, case name, effective date, dollar threshold.
+- 400-700 words is the right length. Short and sharp beats long and padded.
+
+FORBIDDEN AI TELLS - do not use any of these phrases:
+- "navigating the [X] landscape" / "evolving landscape"
+- "in today's [anything]"
+- "as we move into" / "as we move forward"
+- "stay informed" / "stay vigilant"
+- "employers should be aware" / "it is important to note"
+- "may want to consider" - if it's worth saying, say it as a direct recommendation
+- "robust" / "comprehensive" / "holistic" / "leverage" / "unlock"
+- "fostering a culture of"
+- Generic openers: "In recent years..." / "More than ever before..."
+
+REQUIRED:
+- A specific, dated, factual hook. Not "regulators are watching AI" but "the EEOC issued guidance on [date]" or "Colorado's AI Act takes effect June 30, 2026."
+- Concrete employer action items - not "review your policies" but "audit Form I-9 records pulled in the last 12 months" or "amend offer letters before [date]."
+- Real laws by section: "FLSA exempt threshold of $684/week (29 U.S.C. § 213(a)(1))" beats "the FLSA salary threshold."
+
+NEVER invent statistics, court cases, agency announcements, dollar figures, or quotes. Never cite as current a rule that has been vacated or struck down. The 2024 FLSA overtime rule was vacated November 15, 2024 (current threshold reverted to $684/week / $35,568/year). The FTC noncompete rule was struck down August 20, 2024 in Ryan LLC v. FTC and never took effect.`,
         },
         { role: 'user', content: prompt },
       ],
-      max_tokens: 1500,
-      temperature: 0.7,
+      max_tokens: 1800,
+      temperature: 0.5,
     });
 
     const options = {
