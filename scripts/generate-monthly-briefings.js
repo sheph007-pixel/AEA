@@ -95,21 +95,36 @@ CRITICAL RULES:
 }
 
 // Pre-publish quality gate. A briefing must contain at least one specific,
-// verifiable signal: a calendar date with a day, a named bill (HB/SB/AB),
-// a section/CFR/USC citation, or a named regulatory form. Pure-generality
-// content is rejected rather than published.
+// verifiable signal that is RELEVANT TO THE CURRENT TIMEFRAME:
+//   - a calendar date in the current year or future (NOT a closed comment
+//     period from 2023, which is what the model defaulted to filling in
+//     when it had nothing concrete to say)
+//   - a named bill (HB/SB/AB...)
+//   - a section/CFR/USC citation
+//   - a named regulatory form
 //
 // This is a heuristic floor, not a fact-checker - it rejects briefings that
-// have nothing concrete to point at, but does not validate truth. Truth is
-// the job of the downstream fact-check pass.
+// have nothing concrete and current to point at. Truth is the job of the
+// downstream fact-check pass.
 function passesQualityGate(body) {
   const text = body.replace(/^---[\s\S]*?\n---\n/, ''); // strip frontmatter
+  const currentYear = new Date().getFullYear();
 
-  // Calendar date with a specific day (e.g. "January 1, 2026" or "1/1/2026")
-  const hasSpecificDate =
-    /\b(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan\.?|Feb\.?|Mar\.?|Apr\.?|Jun\.?|Jul\.?|Aug\.?|Sep\.?|Sept\.?|Oct\.?|Nov\.?|Dec\.?)\s+\d{1,2}(?:,\s*\d{4})?\b/i.test(text) ||
-    /\b\d{1,2}\/\d{1,2}\/(?:19|20)\d{2}\b/.test(text) ||
-    /\b(?:19|20)\d{2}-\d{2}-\d{2}\b/.test(text);
+  // Find every 4-digit year in dates and check at least one is current or future.
+  // We look for years following date-shaped patterns (so we don't false-positive
+  // on stray "the 2014 case" mentions in unrelated text, which is fine to allow
+  // as a citation, but we want at least ONE current-or-future date).
+  const dateYearMatches = [
+    ...text.matchAll(/\b(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan\.?|Feb\.?|Mar\.?|Apr\.?|Jun\.?|Jul\.?|Aug\.?|Sep\.?|Sept\.?|Oct\.?|Nov\.?|Dec\.?)\s+\d{1,2},?\s+(\d{4})\b/gi),
+    ...text.matchAll(/\b\d{1,2}\/\d{1,2}\/(\d{4})\b/g),
+    ...text.matchAll(/\b(\d{4})-\d{2}-\d{2}\b/g),
+  ];
+  const hasCurrentOrFutureDate = dateYearMatches.some(m => Number(m[1]) >= currentYear);
+
+  // A current-year date without a specific year (e.g. "by July 31") is also
+  // acceptable - we look for "Month Day" with no following year that occurs
+  // in a deadline-like context.
+  const hasMonthDayNoYear = /\b(?:by|due|deadline|effective|on|takes effect|expires)\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}\b(?!,?\s*\d{4})/i.test(text);
 
   // Named legislative bill
   const hasBillNumber = /\b(?:HB|SB|AB|HR|SR|HJR|SJR|HCR|SCR)\s*\d{1,5}\b/.test(text);
@@ -122,9 +137,9 @@ function passesQualityGate(body) {
     /§\s*\d+\.\d+/.test(text);
 
   // Specific regulatory form by number
-  const hasFormNumber = /\bForm\s+(?:I-9|W-[24]|1094-[BC]|1095-[BC]|300A?|301|5500|EEO-1|941|940)\b/.test(text);
+  const hasFormNumber = /\bForm\s+(?:I-9|W-[24]|1094-[BC]|1095-[BC]|300A?|301|5500|EEO-1|941|940|5558)\b/.test(text);
 
-  return hasSpecificDate || hasBillNumber || hasFormalCitation || hasFormNumber;
+  return hasCurrentOrFutureDate || hasMonthDayNoYear || hasBillNumber || hasFormalCitation || hasFormNumber;
 }
 
 async function generate(type, prompt, { month, ym, date }) {
