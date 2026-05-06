@@ -1,11 +1,11 @@
 {
-  "lastChecked": "2026-05-05T07:51:18.729Z",
+  "lastChecked": "2026-05-06T14:07:37.860Z",
   "totalFiles": 30,
-  "totalVerified": 30,
+  "totalVerified": 25,
   "newChecked": 5,
   "cached": 25,
   "totalChecked": 30,
-  "passed": 30,
+  "passed": 25,
   "flagged": 0,
   "failed": 0,
   "status": "verified"

@@ -1,0 +1,14 @@
+{
+  "2026-05-06": {
+    "tokens": {
+      "prompt": 9608,
+      "completion": 3485,
+      "total": 13093
+    },
+    "usd": 0.0035321999999999997,
+    "callsByScript": {
+      "generate-news": 5,
+      "fact-check": 5
+    }
+  }
+}

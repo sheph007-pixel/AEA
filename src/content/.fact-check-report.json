@@ -1,74 +1,4 @@
 {
-  "2026-04-30-embracing-employee-well-being-a-new-frontier-in-hr-practices-1.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-30-embracing-employee-well-being-a-new-frontier-in-hr-practices-1.md",
-    "hash": "e1052a19fd02c4a3f77356f0be5ca7b3",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:17:50.273Z"
-  },
-  "2026-04-30-navigating-the-rise-of-employee-gig-work-what-employers-need-3.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-30-navigating-the-rise-of-employee-gig-work-what-employers-need-3.md",
-    "hash": "386ea175ab61258d5153e474860bcb29",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:17:51.909Z"
-  },
-  "2026-04-30-the-expanding-role-of-wellness-programs-in-employee-benefits-4.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-30-the-expanding-role-of-wellness-programs-in-employee-benefits-4.md",
-    "hash": "f4db3c1d8f85c1327b856d751e458329",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:17:53.992Z"
-  },
-  "2026-04-30-understanding-the-new-federal-guidelines-on-non-compete-agre-0.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-30-understanding-the-new-federal-guidelines-on-non-compete-agre-0.md",
-    "hash": "35dd4112555ea2b40d97f516fa1cec8e",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:17:55.781Z"
-  },
-  "2026-04-30-updates-on-labor-relations-key-changes-affecting-private-sec-2.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-04-30-updates-on-labor-relations-key-changes-affecting-private-sec-2.md",
-    "hash": "4447c293899b41e82245cec1ef6e6ab4",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:17:57.621Z"
-  },
   "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -450,5 +380,55 @@
     "hash": "5c13938b78a57c10ab066881a88f33b8",
     "dir": "src/content/news",
     "checkedAt": "2026-05-05T07:51:17.726Z"
+  },
+  "2026-05-06-fmla-updates-new-dol-guidance-on-remote-employees-2.md": {
+    "file": "2026-05-06-fmla-updates-new-dol-guidance-on-remote-employees-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-06T14:07:15.036Z",
+    "hash": "737836dda419408fbaec707454a67bd5",
+    "dir": "src/content/news"
+  },
+  "2026-05-06-irs-announces-new-e-filing-mandate-for-form-1099-what-employ-3.md": {
+    "file": "2026-05-06-irs-announces-new-e-filing-mandate-for-form-1099-what-employ-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-06T14:07:21.546Z",
+    "hash": "5a1407dc7ac67c366cd63ba39f87ba16",
+    "dir": "src/content/news"
+  },
+  "2026-05-06-new-dol-rule-changes-to-tipped-employee-wage-calculations-4.md": {
+    "file": "2026-05-06-new-dol-rule-changes-to-tipped-employee-wage-calculations-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-06T14:07:30.837Z",
+    "hash": "a813bb0e24df82e698affdde257094f1",
+    "dir": "src/content/news"
+  },
+  "2026-05-06-osha-updates-heat-illness-prevention-guidelines-for-summer-2-0.md": {
+    "file": "2026-05-06-osha-updates-heat-illness-prevention-guidelines-for-summer-2-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-06T14:07:32.743Z",
+    "hash": "899cc434c8ec7f0d30be99c117bb86f8",
+    "dir": "src/content/news"
+  },
+  "2026-05-06-the-rise-of-ai-in-recruitment-new-eeoc-guidelines-to-follow-1.md": {
+    "file": "2026-05-06-the-rise-of-ai-in-recruitment-new-eeoc-guidelines-to-follow-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-06T14:07:37.346Z",
+    "hash": "58f6afa96da37f3cc073aab2d7b6adf8",
+    "dir": "src/content/news"
   }
 }
