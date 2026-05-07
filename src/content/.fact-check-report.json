@@ -1,105 +1,4 @@
 {
-  "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-01-new-developments-in-employee-classification-under-the-abc-te-0.md",
-    "hash": "02821a07bef56bb4be26c00ca6527b6d",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:17:59.701Z"
-  },
-  "2026-05-01-new-developments-in-remote-work-tax-regulations-what-employe-2.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-01-new-developments-in-remote-work-tax-regulations-what-employe-2.md",
-    "hash": "f8715422c90dec55cef83b1defbf6958",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:01.239Z"
-  },
-  "2026-05-01-the-impact-of-state-level-retirement-savings-mandates-on-emp-4.md": {
-    "status": "pass",
-    "confidence": 1,
-    "issues": [],
-    "confirmed_claims": 4,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "summary": "All claims in the article are confirmed by credible sources, and the article is accurate and well-supported.",
-    "claims_extracted": 4,
-    "verification_details": [
-      {
-        "claim_number": 1,
-        "claim": "As of October 2023, approximately 17 states may have enacted legislation requiring employers to either offer a retirement plan or enroll their employees in state-sponsored retirement savings programs.",
-        "verdict": "confirmed",
-        "source": "https://www.betterment.com/work/resources/guide-to-state-mandated-retirement-plans",
-        "explanation": "As of October 2023, multiple states have enacted legislation requiring employers to offer retirement plans or enroll employees in state-sponsored programs. The exact number of states varies by source, but the claim is generally supported."
-      },
-      {
-        "claim_number": 2,
-        "claim": "States such as California and Illinois are known to be leading this initiative.",
-        "verdict": "confirmed",
-        "source": "https://www.betterment.com/work/resources/guide-to-state-mandated-retirement-plans",
-        "explanation": "California and Illinois have implemented state-mandated retirement savings programs, positioning them as leaders in this initiative."
-      },
-      {
-        "claim_number": 3,
-        "claim": "In California, employers with one or more employees must comply.",
-        "verdict": "confirmed",
-        "source": "https://www.calsavers.com/home/frequently-asked-questions.html",
-        "explanation": "California's CalSavers program requires employers with one or more employees to comply, with deadlines varying based on employer size."
-      },
-      {
-        "claim_number": 4,
-        "claim": "California’s mandate required compliance by employers with five or more employees by June 30, 2022.",
-        "verdict": "confirmed",
-        "source": "https://www.calsavers.com/home/frequently-asked-questions.html",
-        "explanation": "Employers with five or more employees were required to comply with California's CalSavers program by June 30, 2022."
-      }
-    ],
-    "file": "2026-05-01-the-impact-of-state-level-retirement-savings-mandates-on-emp-4.md",
-    "hash": "cc444b671f15bb180364cc4bb5412a3f",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:31.522Z",
-    "autoFixed": true
-  },
-  "2026-05-01-the-increasing-importance-of-employee-training-and-developme-1.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-01-the-increasing-importance-of-employee-training-and-developme-1.md",
-    "hash": "e89ddb3462d23e41f0cebad055f04989",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:33.254Z"
-  },
-  "2026-05-01-the-push-for-business-continuity-planning-what-employers-nee-3.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-01-the-push-for-business-continuity-planning-what-employers-nee-3.md",
-    "hash": "45d1ff9e18da955eae167e2a7a41525b",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:34.935Z"
-  },
   "2026-05-02-navigating-the-landscape-of-supply-chain-transparency-regula-3.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -387,7 +286,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-06T14:07:15.036Z",
+    "checkedAt": "2026-05-07T08:09:58.015Z",
     "hash": "737836dda419408fbaec707454a67bd5",
     "dir": "src/content/news"
   },
@@ -397,7 +296,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-06T14:07:21.546Z",
+    "checkedAt": "2026-05-07T08:10:03.073Z",
     "hash": "5a1407dc7ac67c366cd63ba39f87ba16",
     "dir": "src/content/news"
   },
@@ -407,7 +306,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-06T14:07:30.837Z",
+    "checkedAt": "2026-05-07T08:10:07.545Z",
     "hash": "a813bb0e24df82e698affdde257094f1",
     "dir": "src/content/news"
   },
@@ -417,7 +316,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-06T14:07:32.743Z",
+    "checkedAt": "2026-05-07T08:10:09.033Z",
     "hash": "899cc434c8ec7f0d30be99c117bb86f8",
     "dir": "src/content/news"
   },
@@ -427,8 +326,58 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-06T14:07:37.346Z",
+    "checkedAt": "2026-05-07T08:10:12.849Z",
     "hash": "58f6afa96da37f3cc073aab2d7b6adf8",
+    "dir": "src/content/news"
+  },
+  "2026-05-07-california-s-new-pay-data-reporting-law-takes-effect-what-em-0.md": {
+    "file": "2026-05-07-california-s-new-pay-data-reporting-law-takes-effect-what-em-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-07T08:10:18.480Z",
+    "hash": "ce83fe6ff7ecd872636651f84fcb8fe6",
+    "dir": "src/content/news"
+  },
+  "2026-05-07-dol-proposes-new-rule-on-employee-scheduling-potential-impac-2.md": {
+    "file": "2026-05-07-dol-proposes-new-rule-on-employee-scheduling-potential-impac-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-07T08:10:24.672Z",
+    "hash": "d56e9fa7f43b7a0b3b2a77c8adb3d0f0",
+    "dir": "src/content/news"
+  },
+  "2026-05-07-new-irs-guidance-on-employee-relocation-expenses-key-implica-3.md": {
+    "file": "2026-05-07-new-irs-guidance-on-employee-relocation-expenses-key-implica-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-07T08:10:29.988Z",
+    "hash": "00f579f230c8488a8c9a6b74562b1d05",
+    "dir": "src/content/news"
+  },
+  "2026-05-07-new-secure-2-0-act-provisions-impact-retirement-plan-adminis-4.md": {
+    "file": "2026-05-07-new-secure-2-0-act-provisions-impact-retirement-plan-adminis-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-07T08:10:35.648Z",
+    "hash": "d6d0d281049bbd75e36d2ab8499b06eb",
+    "dir": "src/content/news"
+  },
+  "2026-05-07-nlrb-s-new-joint-employer-rule-what-it-means-for-businesses-1.md": {
+    "file": "2026-05-07-nlrb-s-new-joint-employer-rule-what-it-means-for-businesses-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-07T08:10:39.869Z",
+    "hash": "a56c8f7aa0b542cb62c688f01ee4bec4",
     "dir": "src/content/news"
   }
 }
