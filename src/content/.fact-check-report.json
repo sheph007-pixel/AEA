@@ -1,74 +1,4 @@
 {
-  "2026-05-02-navigating-the-landscape-of-supply-chain-transparency-regula-3.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-02-navigating-the-landscape-of-supply-chain-transparency-regula-3.md",
-    "hash": "1ebe5d9819ca99f833873dbfab572d80",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:36.513Z"
-  },
-  "2026-05-02-new-protections-for-pregnant-workers-what-employers-need-to--0.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-02-new-protections-for-pregnant-workers-what-employers-need-to--0.md",
-    "hash": "b972f75f643a1a6c10b51f6b06c729d3",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:38.121Z"
-  },
-  "2026-05-02-the-growing-importance-of-total-rewards-strategies-in-employ-4.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-02-the-growing-importance-of-total-rewards-strategies-in-employ-4.md",
-    "hash": "837e0592f50ff1cae41e35b4336c3cdd",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:39.764Z"
-  },
-  "2026-05-02-the-impact-of-new-remote-work-regulations-on-employer-polici-2.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-02-the-impact-of-new-remote-work-regulations-on-employer-polici-2.md",
-    "hash": "bbd6eb91f55d3a2e19f9f4572aa0a063",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:41.448Z"
-  },
-  "2026-05-02-the-rise-of-hybrid-work-policies-best-practices-for-employer-1.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-02-the-rise-of-hybrid-work-policies-best-practices-for-employer-1.md",
-    "hash": "9901ed2a3d04799697f70eb95231a00e",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-02T07:18:43.110Z"
-  },
   "2026-05-03-navigating-the-new-regulations-on-environmental-sustainabili-3.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -286,7 +216,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:09:58.015Z",
+    "checkedAt": "2026-05-08T07:12:40.564Z",
     "hash": "737836dda419408fbaec707454a67bd5",
     "dir": "src/content/news"
   },
@@ -296,7 +226,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:03.073Z",
+    "checkedAt": "2026-05-08T07:12:44.779Z",
     "hash": "5a1407dc7ac67c366cd63ba39f87ba16",
     "dir": "src/content/news"
   },
@@ -306,7 +236,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:07.545Z",
+    "checkedAt": "2026-05-08T07:12:47.481Z",
     "hash": "a813bb0e24df82e698affdde257094f1",
     "dir": "src/content/news"
   },
@@ -316,7 +246,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:09.033Z",
+    "checkedAt": "2026-05-08T07:12:49.873Z",
     "hash": "899cc434c8ec7f0d30be99c117bb86f8",
     "dir": "src/content/news"
   },
@@ -326,7 +256,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:12.849Z",
+    "checkedAt": "2026-05-08T07:12:52.399Z",
     "hash": "58f6afa96da37f3cc073aab2d7b6adf8",
     "dir": "src/content/news"
   },
@@ -336,7 +266,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:18.480Z",
+    "checkedAt": "2026-05-08T07:12:56.890Z",
     "hash": "ce83fe6ff7ecd872636651f84fcb8fe6",
     "dir": "src/content/news"
   },
@@ -346,7 +276,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:24.672Z",
+    "checkedAt": "2026-05-08T07:13:00.618Z",
     "hash": "d56e9fa7f43b7a0b3b2a77c8adb3d0f0",
     "dir": "src/content/news"
   },
@@ -356,7 +286,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:29.988Z",
+    "checkedAt": "2026-05-08T07:13:04.773Z",
     "hash": "00f579f230c8488a8c9a6b74562b1d05",
     "dir": "src/content/news"
   },
@@ -366,7 +296,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:35.648Z",
+    "checkedAt": "2026-05-08T07:13:09.425Z",
     "hash": "d6d0d281049bbd75e36d2ab8499b06eb",
     "dir": "src/content/news"
   },
@@ -376,8 +306,58 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-07T08:10:39.869Z",
+    "checkedAt": "2026-05-08T07:13:13.041Z",
     "hash": "a56c8f7aa0b542cb62c688f01ee4bec4",
+    "dir": "src/content/news"
+  },
+  "2026-05-08-irs-announces-new-mileage-rate-for-2026-what-employers-need--3.md": {
+    "file": "2026-05-08-irs-announces-new-mileage-rate-for-2026-what-employers-need--3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-08T07:13:15.802Z",
+    "hash": "5df37789eb3c688b047d93a679685f1d",
+    "dir": "src/content/news"
+  },
+  "2026-05-08-new-federal-guidelines-on-employee-internet-monitoring-relea-2.md": {
+    "file": "2026-05-08-new-federal-guidelines-on-employee-internet-monitoring-relea-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-08T07:13:19.559Z",
+    "hash": "dc1c10c544d07c8ece2d1aaf144c66f9",
+    "dir": "src/content/news"
+  },
+  "2026-05-08-new-federal-rule-on-employee-wellness-programs-key-changes-f-4.md": {
+    "file": "2026-05-08-new-federal-rule-on-employee-wellness-programs-key-changes-f-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-08T07:13:22.025Z",
+    "hash": "3b38f0e9b821eab10c681ae5eaeb1e47",
+    "dir": "src/content/news"
+  },
+  "2026-05-08-new-final-rule-on-independent-contractor-status-released-by--0.md": {
+    "file": "2026-05-08-new-final-rule-on-independent-contractor-status-released-by--0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-08T07:13:24.771Z",
+    "hash": "a45aeef00e5de65aedd37e17a63f998b",
+    "dir": "src/content/news"
+  },
+  "2026-05-08-new-h-1b-visa-wage-rule-takes-effect-implications-for-employ-1.md": {
+    "file": "2026-05-08-new-h-1b-visa-wage-rule-takes-effect-implications-for-employ-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-08T07:13:28.115Z",
+    "hash": "7ea4f3b099fbd676789e530a84fa7882",
     "dir": "src/content/news"
   }
 }
