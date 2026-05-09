@@ -1,74 +1,4 @@
 {
-  "2026-05-03-navigating-the-new-regulations-on-environmental-sustainabili-3.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-03-navigating-the-new-regulations-on-environmental-sustainabili-3.md",
-    "hash": "5d41f805a86eda1ee12f0ebc6c17bb60",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-03T07:43:41.940Z"
-  },
-  "2026-05-03-the-growing-focus-on-diversity-equity-and-inclusion-training-1.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-03-the-growing-focus-on-diversity-equity-and-inclusion-training-1.md",
-    "hash": "0ff699ecfc4b908cf96e97ef31ed6fa9",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-03T07:43:43.746Z"
-  },
-  "2026-05-03-the-growing-importance-of-mental-health-benefits-in-employee-4.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-03-the-growing-importance-of-mental-health-benefits-in-employee-4.md",
-    "hash": "3f39dec32f9b1577cb25d502d2e86a58",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-03T07:43:45.836Z"
-  },
-  "2026-05-03-the-increasing-scrutiny-of-workplace-harassment-policies-0.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-03-the-increasing-scrutiny-of-workplace-harassment-policies-0.md",
-    "hash": "0e4e27c922eac67ecced0d97bd32b9a5",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-03T07:43:47.495Z"
-  },
-  "2026-05-03-the-new-trends-in-employee-privacy-rights-what-employers-mus-2.md": {
-    "status": "pass",
-    "confidence": 0.8,
-    "issues": [],
-    "confirmed_claims": 0,
-    "unverified_claims": 0,
-    "false_claims": 0,
-    "claims_extracted": 0,
-    "summary": "No specific verifiable claims found in article. Content uses hedged language.",
-    "file": "2026-05-03-the-new-trends-in-employee-privacy-rights-what-employers-mus-2.md",
-    "hash": "6837207b88501094d715005125865f99",
-    "dir": "src/content/news",
-    "checkedAt": "2026-05-03T07:43:49.396Z"
-  },
   "2026-05-04-navigating-the-new-ftc-rules-on-employment-non-disclosure-ag-0.md": {
     "status": "pass",
     "confidence": 0.8,
@@ -216,7 +146,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:12:40.564Z",
+    "checkedAt": "2026-05-09T07:28:52.646Z",
     "hash": "737836dda419408fbaec707454a67bd5",
     "dir": "src/content/news"
   },
@@ -226,7 +156,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:12:44.779Z",
+    "checkedAt": "2026-05-09T07:28:56.795Z",
     "hash": "5a1407dc7ac67c366cd63ba39f87ba16",
     "dir": "src/content/news"
   },
@@ -236,7 +166,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:12:47.481Z",
+    "checkedAt": "2026-05-09T07:28:59.830Z",
     "hash": "a813bb0e24df82e698affdde257094f1",
     "dir": "src/content/news"
   },
@@ -246,7 +176,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:12:49.873Z",
+    "checkedAt": "2026-05-09T07:29:02.270Z",
     "hash": "899cc434c8ec7f0d30be99c117bb86f8",
     "dir": "src/content/news"
   },
@@ -256,7 +186,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:12:52.399Z",
+    "checkedAt": "2026-05-09T07:29:04.682Z",
     "hash": "58f6afa96da37f3cc073aab2d7b6adf8",
     "dir": "src/content/news"
   },
@@ -266,7 +196,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:12:56.890Z",
+    "checkedAt": "2026-05-09T07:29:08.094Z",
     "hash": "ce83fe6ff7ecd872636651f84fcb8fe6",
     "dir": "src/content/news"
   },
@@ -276,7 +206,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:00.618Z",
+    "checkedAt": "2026-05-09T07:29:12.052Z",
     "hash": "d56e9fa7f43b7a0b3b2a77c8adb3d0f0",
     "dir": "src/content/news"
   },
@@ -286,7 +216,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:04.773Z",
+    "checkedAt": "2026-05-09T07:29:15.981Z",
     "hash": "00f579f230c8488a8c9a6b74562b1d05",
     "dir": "src/content/news"
   },
@@ -296,7 +226,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:09.425Z",
+    "checkedAt": "2026-05-09T07:29:18.824Z",
     "hash": "d6d0d281049bbd75e36d2ab8499b06eb",
     "dir": "src/content/news"
   },
@@ -306,7 +236,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:13.041Z",
+    "checkedAt": "2026-05-09T07:29:21.353Z",
     "hash": "a56c8f7aa0b542cb62c688f01ee4bec4",
     "dir": "src/content/news"
   },
@@ -316,7 +246,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:15.802Z",
+    "checkedAt": "2026-05-09T07:29:24.558Z",
     "hash": "5df37789eb3c688b047d93a679685f1d",
     "dir": "src/content/news"
   },
@@ -326,7 +256,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:19.559Z",
+    "checkedAt": "2026-05-09T07:29:28.144Z",
     "hash": "dc1c10c544d07c8ece2d1aaf144c66f9",
     "dir": "src/content/news"
   },
@@ -336,7 +266,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:22.025Z",
+    "checkedAt": "2026-05-09T07:29:31.255Z",
     "hash": "3b38f0e9b821eab10c681ae5eaeb1e47",
     "dir": "src/content/news"
   },
@@ -346,7 +276,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:24.771Z",
+    "checkedAt": "2026-05-09T07:29:34.484Z",
     "hash": "a45aeef00e5de65aedd37e17a63f998b",
     "dir": "src/content/news"
   },
@@ -356,8 +286,58 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-08T07:13:28.115Z",
+    "checkedAt": "2026-05-09T07:29:38.436Z",
     "hash": "7ea4f3b099fbd676789e530a84fa7882",
+    "dir": "src/content/news"
+  },
+  "2026-05-09-dol-issues-new-guidance-on-health-savings-accounts-for-2026-4.md": {
+    "file": "2026-05-09-dol-issues-new-guidance-on-health-savings-accounts-for-2026-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-09T07:29:43.185Z",
+    "hash": "a0e0a772d23ad37e8a836e6581b9c875",
+    "dir": "src/content/news"
+  },
+  "2026-05-09-dol-issues-new-guidance-on-remote-work-expense-reimbursement-0.md": {
+    "file": "2026-05-09-dol-issues-new-guidance-on-remote-work-expense-reimbursement-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-09T07:29:44.540Z",
+    "hash": "58c4b8739c4dad5fce99093fec0977a5",
+    "dir": "src/content/news"
+  },
+  "2026-05-09-dol-issues-new-rule-on-telework-eligibility-for-fmla-3.md": {
+    "file": "2026-05-09-dol-issues-new-rule-on-telework-eligibility-for-fmla-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-09T07:29:47.851Z",
+    "hash": "7532888df2b1b34bc9c26b0f332af56e",
+    "dir": "src/content/news"
+  },
+  "2026-05-09-new-irs-guidelines-on-employee-stock-purchase-plans-what-emp-2.md": {
+    "file": "2026-05-09-new-irs-guidelines-on-employee-stock-purchase-plans-what-emp-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-09T07:29:51.612Z",
+    "hash": "74e50d4887757e660554a80771c83567",
+    "dir": "src/content/news"
+  },
+  "2026-05-09-nlrb-expands-definition-of-protected-concerted-activity-1.md": {
+    "file": "2026-05-09-nlrb-expands-definition-of-protected-concerted-activity-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-09T07:29:54.939Z",
+    "hash": "3dc0b4afcdcb9e3a5958d079caa37b07",
     "dir": "src/content/news"
   }
 }
