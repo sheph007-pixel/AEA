@@ -1,13 +1,193 @@
 {
+  "2026-01-compliance-alert-minimum-wages-2026.md": {
+    "file": "2026-01-compliance-alert-minimum-wages-2026.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:40:30.707Z",
+    "hash": "0e5cd0fe92a17b15441573c3f2b484a9",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-01-employer-questions-january.md": {
+    "file": "2026-01-employer-questions-january.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:40:34.777Z",
+    "hash": "1c22a5987c07f3e43e300ed706b58824",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-01-monthly-briefing-january.md": {
+    "file": "2026-01-monthly-briefing-january.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:40:38.752Z",
+    "hash": "f05901304c6889ae74d183e03d8813f0",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-01-trends-report-ai-hr-tools.md": {
+    "file": "2026-01-trends-report-ai-hr-tools.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:40:41.230Z",
+    "hash": "8ad7d886c6f7ff6dc2d04757a92c9fdf",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-02-compliance-alert-aca-reporting.md": {
+    "file": "2026-02-compliance-alert-aca-reporting.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:40:44.679Z",
+    "hash": "3e63433f84eeef99216726e2f072bc57",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-02-employer-questions-february.md": {
+    "file": "2026-02-employer-questions-february.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:40:50.600Z",
+    "hash": "4ef3143d441fe69b843e273d0d2d3f0d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-02-industry-snapshot-healthcare.md": {
+    "file": "2026-02-industry-snapshot-healthcare.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:40:53.781Z",
+    "hash": "8c3a7a9ad0c7d96b33e4a5bb3a9c3c4b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-02-monthly-briefing-february.md": {
+    "file": "2026-02-monthly-briefing-february.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:40:57.162Z",
+    "hash": "153103fa61c3cf817953b4e8e2b98fe7",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-03-compliance-alert-state-paid-leave.md": {
+    "file": "2026-03-compliance-alert-state-paid-leave.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:01.276Z",
+    "hash": "ff1305d3e3b6e6d9228db73933f89e67",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-03-industry-snapshot-construction.md": {
+    "file": "2026-03-industry-snapshot-construction.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:06.430Z",
+    "hash": "417be702091a2bd4ce84ce7e3fc4edcc",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-03-monthly-briefing-march.md": {
+    "file": "2026-03-monthly-briefing-march.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:10.550Z",
+    "hash": "4542f15cfcec5b43afc544584b1ccf41",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-03-trends-report-retention-2026.md": {
+    "file": "2026-03-trends-report-retention-2026.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:11.852Z",
+    "hash": "3b753f4c3c6194366e40ad93e9ad4ff4",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-04-monthly-briefing-april.md": {
+    "file": "2026-04-monthly-briefing-april.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:15.445Z",
+    "hash": "051a7bd9b055e14d67d2c681fea52a33",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-05-compliance-alert-form-5500.md": {
+    "file": "2026-05-compliance-alert-form-5500.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:18.779Z",
+    "hash": "db7f6db54b78356f70ff5f956160ae64",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-05-employer-questions.md": {
+    "file": "2026-05-employer-questions.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:20.763Z",
+    "hash": "a96c712bba14803487b7394ecd526245",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-05-industry-snapshot-technology.md": {
+    "file": "2026-05-industry-snapshot-technology.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:25.133Z",
+    "hash": "6dd7e9e29dcb5faaa0581a3ba99bb45b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-05-monthly-briefing.md": {
+    "file": "2026-05-monthly-briefing.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:28.238Z",
+    "hash": "3de24a6cca510daccedbc80180c32653",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-05-trends-report-workplace-flexibility-mental-health.md": {
+    "file": "2026-05-trends-report-workplace-flexibility-mental-health.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:41:31.841Z",
+    "hash": "7ab3de151ac41fbbd17a373026746642",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
   "2026-05-06-fmla-updates-new-dol-guidance-on-remote-employees-2.md": {
     "file": "2026-05-06-fmla-updates-new-dol-guidance-on-remote-employees-2.md",
     "status": "error",
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:52:58.223Z",
+    "checkedAt": "2026-05-11T10:41:34.523Z",
     "hash": "737836dda419408fbaec707454a67bd5",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-06-irs-announces-new-e-filing-mandate-for-form-1099-what-employ-3.md": {
     "file": "2026-05-06-irs-announces-new-e-filing-mandate-for-form-1099-what-employ-3.md",
@@ -15,9 +195,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:02.879Z",
+    "checkedAt": "2026-05-11T10:41:38.421Z",
     "hash": "5a1407dc7ac67c366cd63ba39f87ba16",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-06-new-dol-rule-changes-to-tipped-employee-wage-calculations-4.md": {
     "file": "2026-05-06-new-dol-rule-changes-to-tipped-employee-wage-calculations-4.md",
@@ -25,9 +205,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:06.547Z",
+    "checkedAt": "2026-05-11T10:41:41.136Z",
     "hash": "a813bb0e24df82e698affdde257094f1",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-06-osha-updates-heat-illness-prevention-guidelines-for-summer-2-0.md": {
     "file": "2026-05-06-osha-updates-heat-illness-prevention-guidelines-for-summer-2-0.md",
@@ -35,9 +215,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:09.318Z",
+    "checkedAt": "2026-05-11T10:41:42.456Z",
     "hash": "899cc434c8ec7f0d30be99c117bb86f8",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-06-the-rise-of-ai-in-recruitment-new-eeoc-guidelines-to-follow-1.md": {
     "file": "2026-05-06-the-rise-of-ai-in-recruitment-new-eeoc-guidelines-to-follow-1.md",
@@ -45,9 +225,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:12.673Z",
+    "checkedAt": "2026-05-11T10:41:46.402Z",
     "hash": "58f6afa96da37f3cc073aab2d7b6adf8",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-07-california-s-new-pay-data-reporting-law-takes-effect-what-em-0.md": {
     "file": "2026-05-07-california-s-new-pay-data-reporting-law-takes-effect-what-em-0.md",
@@ -55,9 +235,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:17.470Z",
+    "checkedAt": "2026-05-11T10:41:52.217Z",
     "hash": "ce83fe6ff7ecd872636651f84fcb8fe6",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-07-dol-proposes-new-rule-on-employee-scheduling-potential-impac-2.md": {
     "file": "2026-05-07-dol-proposes-new-rule-on-employee-scheduling-potential-impac-2.md",
@@ -65,9 +245,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:21.498Z",
+    "checkedAt": "2026-05-11T10:41:56.899Z",
     "hash": "d56e9fa7f43b7a0b3b2a77c8adb3d0f0",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-07-new-irs-guidance-on-employee-relocation-expenses-key-implica-3.md": {
     "file": "2026-05-07-new-irs-guidance-on-employee-relocation-expenses-key-implica-3.md",
@@ -75,9 +255,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:24.693Z",
+    "checkedAt": "2026-05-11T10:42:01.196Z",
     "hash": "00f579f230c8488a8c9a6b74562b1d05",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-07-new-secure-2-0-act-provisions-impact-retirement-plan-adminis-4.md": {
     "file": "2026-05-07-new-secure-2-0-act-provisions-impact-retirement-plan-adminis-4.md",
@@ -85,9 +265,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:27.227Z",
+    "checkedAt": "2026-05-11T10:42:05.468Z",
     "hash": "d6d0d281049bbd75e36d2ab8499b06eb",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-07-nlrb-s-new-joint-employer-rule-what-it-means-for-businesses-1.md": {
     "file": "2026-05-07-nlrb-s-new-joint-employer-rule-what-it-means-for-businesses-1.md",
@@ -95,9 +275,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:32.501Z",
+    "checkedAt": "2026-05-11T10:42:08.646Z",
     "hash": "a56c8f7aa0b542cb62c688f01ee4bec4",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-08-irs-announces-new-mileage-rate-for-2026-what-employers-need--3.md": {
     "file": "2026-05-08-irs-announces-new-mileage-rate-for-2026-what-employers-need--3.md",
@@ -105,9 +285,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:35.081Z",
+    "checkedAt": "2026-05-11T10:42:11.548Z",
     "hash": "5df37789eb3c688b047d93a679685f1d",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-08-new-federal-guidelines-on-employee-internet-monitoring-relea-2.md": {
     "file": "2026-05-08-new-federal-guidelines-on-employee-internet-monitoring-relea-2.md",
@@ -115,9 +295,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:38.155Z",
+    "checkedAt": "2026-05-11T10:42:15.482Z",
     "hash": "dc1c10c544d07c8ece2d1aaf144c66f9",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-08-new-federal-rule-on-employee-wellness-programs-key-changes-f-4.md": {
     "file": "2026-05-08-new-federal-rule-on-employee-wellness-programs-key-changes-f-4.md",
@@ -125,9 +305,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:41.550Z",
+    "checkedAt": "2026-05-11T10:42:19.396Z",
     "hash": "3b38f0e9b821eab10c681ae5eaeb1e47",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-08-new-final-rule-on-independent-contractor-status-released-by--0.md": {
     "file": "2026-05-08-new-final-rule-on-independent-contractor-status-released-by--0.md",
@@ -135,9 +315,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:46.343Z",
+    "checkedAt": "2026-05-11T10:42:22.511Z",
     "hash": "a45aeef00e5de65aedd37e17a63f998b",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-08-new-h-1b-visa-wage-rule-takes-effect-implications-for-employ-1.md": {
     "file": "2026-05-08-new-h-1b-visa-wage-rule-takes-effect-implications-for-employ-1.md",
@@ -145,9 +325,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:53:51.005Z",
+    "checkedAt": "2026-05-11T10:42:27.276Z",
     "hash": "7ea4f3b099fbd676789e530a84fa7882",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-09-dol-issues-new-guidance-on-health-savings-accounts-for-2026-4.md": {
     "file": "2026-05-09-dol-issues-new-guidance-on-health-savings-accounts-for-2026-4.md",
@@ -155,9 +335,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:01.705Z",
+    "checkedAt": "2026-05-11T10:42:31.435Z",
     "hash": "a0e0a772d23ad37e8a836e6581b9c875",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-09-dol-issues-new-guidance-on-remote-work-expense-reimbursement-0.md": {
     "file": "2026-05-09-dol-issues-new-guidance-on-remote-work-expense-reimbursement-0.md",
@@ -165,9 +345,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:02.958Z",
+    "checkedAt": "2026-05-11T10:42:32.985Z",
     "hash": "58c4b8739c4dad5fce99093fec0977a5",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-09-dol-issues-new-rule-on-telework-eligibility-for-fmla-3.md": {
     "file": "2026-05-09-dol-issues-new-rule-on-telework-eligibility-for-fmla-3.md",
@@ -175,9 +355,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:06.283Z",
+    "checkedAt": "2026-05-11T10:42:36.240Z",
     "hash": "7532888df2b1b34bc9c26b0f332af56e",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-09-new-irs-guidelines-on-employee-stock-purchase-plans-what-emp-2.md": {
     "file": "2026-05-09-new-irs-guidelines-on-employee-stock-purchase-plans-what-emp-2.md",
@@ -185,9 +365,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:11.618Z",
+    "checkedAt": "2026-05-11T10:42:40.045Z",
     "hash": "74e50d4887757e660554a80771c83567",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-09-nlrb-expands-definition-of-protected-concerted-activity-1.md": {
     "file": "2026-05-09-nlrb-expands-definition-of-protected-concerted-activity-1.md",
@@ -195,9 +375,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:15.032Z",
+    "checkedAt": "2026-05-11T10:42:42.892Z",
     "hash": "3dc0b4afcdcb9e3a5958d079caa37b07",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-10-dol-proposes-changes-to-family-and-medical-leave-act-definit-3.md": {
     "file": "2026-05-10-dol-proposes-changes-to-family-and-medical-leave-act-definit-3.md",
@@ -205,9 +385,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:18.090Z",
+    "checkedAt": "2026-05-11T10:42:46.746Z",
     "hash": "200e923359df83fc25a8e804f91d00ce",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-10-eeoc-issues-new-guidance-on-religious-accommodations-in-the--1.md": {
     "file": "2026-05-10-eeoc-issues-new-guidance-on-religious-accommodations-in-the--1.md",
@@ -215,9 +395,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:21.660Z",
+    "checkedAt": "2026-05-11T10:42:52.611Z",
     "hash": "6cf478058485346083f6a4bb549b5495",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-10-new-dol-rule-on-overtime-for-agricultural-workers-key-detail-0.md": {
     "file": "2026-05-10-new-dol-rule-on-overtime-for-agricultural-workers-key-detail-0.md",
@@ -225,9 +405,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:26.140Z",
+    "checkedAt": "2026-05-11T10:42:57.611Z",
     "hash": "c13ca578d5014dc5488effcbd021eb7f",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-10-new-irs-guidance-on-student-loan-repayment-benefits-what-emp-4.md": {
     "file": "2026-05-10-new-irs-guidance-on-student-loan-repayment-benefits-what-emp-4.md",
@@ -235,9 +415,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:30.099Z",
+    "checkedAt": "2026-05-11T10:43:01.752Z",
     "hash": "b53e573a8ff5365291252778e8898806",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-10-new-nlrb-ruling-limits-employer-use-of-non-disparagement-cla-2.md": {
     "file": "2026-05-10-new-nlrb-ruling-limits-employer-use-of-non-disparagement-cla-2.md",
@@ -245,9 +425,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:36.710Z",
+    "checkedAt": "2026-05-11T10:43:05.034Z",
     "hash": "dc4bb89571896f4ec455a941da771765",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-11-dol-announces-new-rule-on-prevailing-wage-for-federal-contra-4.md": {
     "file": "2026-05-11-dol-announces-new-rule-on-prevailing-wage-for-federal-contra-4.md",
@@ -255,9 +435,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:40.637Z",
+    "checkedAt": "2026-05-11T10:43:08.062Z",
     "hash": "80687a3681131ffa7313f2d25c068193",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-11-dol-releases-new-rule-on-tip-credit-for-dual-jobs-0.md": {
     "file": "2026-05-11-dol-releases-new-rule-on-tip-credit-for-dual-jobs-0.md",
@@ -265,9 +445,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:45.270Z",
+    "checkedAt": "2026-05-11T10:43:11.292Z",
     "hash": "e47c4bf8aec5ee3d71b15bd0aaa99576",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-11-eeoc-updates-ada-guidance-on-mental-health-conditions-2.md": {
     "file": "2026-05-11-eeoc-updates-ada-guidance-on-mental-health-conditions-2.md",
@@ -275,9 +455,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:46.757Z",
+    "checkedAt": "2026-05-11T10:43:12.587Z",
     "hash": "19625b3eb24ed59477764ffd6069828b",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-11-ftc-issues-new-guidelines-on-data-privacy-for-small-business-3.md": {
     "file": "2026-05-11-ftc-issues-new-guidelines-on-data-privacy-for-small-business-3.md",
@@ -285,9 +465,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:49.907Z",
+    "checkedAt": "2026-05-11T10:43:15.834Z",
     "hash": "da0ae721ae9c799385d79cd554fdd749",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2026-05-11-new-irs-rule-alters-fringe-benefit-valuation-for-2026-1.md": {
     "file": "2026-05-11-new-irs-rule-alters-fringe-benefit-valuation-for-2026-1.md",
@@ -295,8 +475,2178 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-05-11T08:54:53.409Z",
+    "checkedAt": "2026-05-11T10:43:18.611Z",
     "hash": "c8683ce768c8f00f8cd38f6e958fb9df",
-    "dir": "src/content/news"
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2024-minimum-wage-updates.md": {
+    "file": "2024-minimum-wage-updates.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:23.512Z",
+    "hash": "d3b78b0cdd12afd4a94e199576853bf7",
+    "dir": "/home/runner/work/AEA/AEA/src/content/insights"
+  },
+  "aca-reporting-reminders.md": {
+    "file": "aca-reporting-reminders.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:26.304Z",
+    "hash": "130ed4372e43c818efb1c9744c42e5d6",
+    "dir": "/home/runner/work/AEA/AEA/src/content/insights"
+  },
+  "cyber-security-basics-employers.md": {
+    "file": "cyber-security-basics-employers.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:27.712Z",
+    "hash": "28bb45a723c6d883b77bb4e5edac7f37",
+    "dir": "/home/runner/work/AEA/AEA/src/content/insights"
+  },
+  "ftc-noncompete-developments.md": {
+    "file": "ftc-noncompete-developments.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:30.225Z",
+    "hash": "3b8d5545f715e54f58405b29346e3f41",
+    "dir": "/home/runner/work/AEA/AEA/src/content/insights"
+  },
+  "hiring-in-tight-labor-market.md": {
+    "file": "hiring-in-tight-labor-market.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:32.042Z",
+    "hash": "b32d7e7c6c54fb8726573d2ee38c8d56",
+    "dir": "/home/runner/work/AEA/AEA/src/content/insights"
+  },
+  "managing-employee-leave.md": {
+    "file": "managing-employee-leave.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:35.977Z",
+    "hash": "e07c13c222ce8460d4b3974d9d44822d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/insights"
+  },
+  "remote-work-tax-implications.md": {
+    "file": "remote-work-tax-implications.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:41.729Z",
+    "hash": "56316c7aa1b26c52688173a4cd7b0479",
+    "dir": "/home/runner/work/AEA/AEA/src/content/insights"
+  },
+  "workplace-safety-seasonal-risks.md": {
+    "file": "workplace-safety-seasonal-risks.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:42.956Z",
+    "hash": "3840ef28230b9ac804a732b1c724d444",
+    "dir": "/home/runner/work/AEA/AEA/src/content/insights"
+  },
+  "ada-accommodation-guide.md": {
+    "file": "ada-accommodation-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:44.419Z",
+    "hash": "8e4cc05be3dee18f70e150c743e9454d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "ada-interactive-process-guide.md": {
+    "file": "ada-interactive-process-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:45.647Z",
+    "hash": "fc486f45957386dcb8f4f786ebc738bb",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "ai-hiring-legal-risks.md": {
+    "file": "ai-hiring-legal-risks.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:49.829Z",
+    "hash": "13b7b5fd23392a84df3b7b71c2e42af3",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "ai-hiring-regulations-2024.md": {
+    "file": "ai-hiring-regulations-2024.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:53.848Z",
+    "hash": "8007737dc00b3f3ddcf592f5b1166037",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "ai-policy-compliance-2025.md": {
+    "file": "ai-policy-compliance-2025.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:43:57.926Z",
+    "hash": "da135fa330d9400118c8b724170b87fb",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "ai-workplace-policy-guide.md": {
+    "file": "ai-workplace-policy-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:01.326Z",
+    "hash": "008a11bfde0e373aee038397959b311a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "background-check-ban-the-box.md": {
+    "file": "background-check-ban-the-box.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:05.062Z",
+    "hash": "6e4af59bef38ce3e978b5072d1da961e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "background-check-compliance.md": {
+    "file": "background-check-compliance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:08.517Z",
+    "hash": "d8e894d6b5d65f3a98e18814500dca82",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "benefits-benchmarking-small-employers.md": {
+    "file": "benefits-benchmarking-small-employers.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:11.877Z",
+    "hash": "9b6f9e82ef6969cada766edb9f42980f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "business-continuity-planning.md": {
+    "file": "business-continuity-planning.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:13.292Z",
+    "hash": "ed06aa93c0d73a0be39bf6f934e10687",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "cannabis-workplace-policies.md": {
+    "file": "cannabis-workplace-policies.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:16.350Z",
+    "hash": "9bdddd3d912f4ddf30c29a6b4984834c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "cobra-administration-guide.md": {
+    "file": "cobra-administration-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:20.677Z",
+    "hash": "95153be9797f8f3bbdef855ec6aa651d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "compliance-calendar-2025.md": {
+    "file": "compliance-calendar-2025.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:25.086Z",
+    "hash": "66f2a8881475fd31d17289c8bdc39e5f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "conducting-effective-exit-interviews.md": {
+    "file": "conducting-effective-exit-interviews.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:26.436Z",
+    "hash": "2fd9fc32c4e08cc9f2f4f9740dd9d73d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "conducting-workplace-investigations.md": {
+    "file": "conducting-workplace-investigations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:27.721Z",
+    "hash": "734a64f2eaa5414ca7b72b41b6b6e41c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "conflict-resolution-strategies.md": {
+    "file": "conflict-resolution-strategies.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:29.078Z",
+    "hash": "3af05263a117bfc60a815496ab1fb90a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "cost-effective-employee-wellness.md": {
+    "file": "cost-effective-employee-wellness.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:30.515Z",
+    "hash": "8ed6c1a87afe14166c0912ec0198d33e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "creating-effective-job-postings.md": {
+    "file": "creating-effective-job-postings.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:33.290Z",
+    "hash": "f195ce8794522c5db35f363d2a7e9fa8",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "creating-effective-pto-policy.md": {
+    "file": "creating-effective-pto-policy.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:36.573Z",
+    "hash": "68a00d9ffe9ff6d36c12110d1a53a848",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "creating-employee-recognition-program.md": {
+    "file": "creating-employee-recognition-program.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:37.969Z",
+    "hash": "fa46b1f93ea69b58fd08a9813e9edf68",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "creating-workplace-safety-program.md": {
+    "file": "creating-workplace-safety-program.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:39.330Z",
+    "hash": "73be2880c4aebdc01265996909f27a38",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "data-privacy-employee-records.md": {
+    "file": "data-privacy-employee-records.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:42.768Z",
+    "hash": "747dbcb9b1664a26e972df8e62a39975",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "dei-program-legal-framework.md": {
+    "file": "dei-program-legal-framework.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:49.283Z",
+    "hash": "9d58903368803d7aab5e8ee40586dac0",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "developing-leadership-pipeline.md": {
+    "file": "developing-leadership-pipeline.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:50.692Z",
+    "hash": "4c66eb74098e8f6b754e23ffc0025314",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-benefits-package-design.md": {
+    "file": "employee-benefits-package-design.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:52.032Z",
+    "hash": "6eaec930af3440f3193fff5d286c133d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-benefits-strategy.md": {
+    "file": "employee-benefits-strategy.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:55.737Z",
+    "hash": "bd70241b79353c0fd9a9366fffa51127",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-classification-audit-guide.md": {
+    "file": "employee-classification-audit-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:44:59.315Z",
+    "hash": "5a2f9a42ca2defa32f39689e20773936",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-discipline-documentation.md": {
+    "file": "employee-discipline-documentation.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:00.561Z",
+    "hash": "9d4987e5819eb8a9172e9da9c02f52ac",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-engagement-surveys.md": {
+    "file": "employee-engagement-surveys.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:01.732Z",
+    "hash": "63480540d8da8130925c7f80b3fba92e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-file-management-best-practices.md": {
+    "file": "employee-file-management-best-practices.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:04.982Z",
+    "hash": "bb5012ab03f81987227f6006c1c6c359",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-handbook-essentials.md": {
+    "file": "employee-handbook-essentials.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:06.252Z",
+    "hash": "149db1768247b0acbb99776200963d23",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-monitoring-privacy-balance.md": {
+    "file": "employee-monitoring-privacy-balance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:08.884Z",
+    "hash": "bcd14f207b72ee6f476cb54ccfadfba0",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-offboarding-checklist.md": {
+    "file": "employee-offboarding-checklist.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:13.339Z",
+    "hash": "7a8e26ac574f07d0f8388c90e082a4ed",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-retention-credit-guidance.md": {
+    "file": "employee-retention-credit-guidance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:17.572Z",
+    "hash": "31eae82eb4f9235d76666ed14efc945a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-retention-strategies.md": {
+    "file": "employee-retention-strategies.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:19.147Z",
+    "hash": "0aee7031fb57557e88ce9ab4d012403d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employee-scheduling-automation.md": {
+    "file": "employee-scheduling-automation.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:24.206Z",
+    "hash": "fb6ffea51623492a2f53df64d642b64c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-401k-secure-act.md": {
+    "file": "employer-guide-401k-secure-act.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:27.426Z",
+    "hash": "5b05962bd751c7fb3344779037218133",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-aca-reporting.md": {
+    "file": "employer-guide-aca-reporting.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:31.158Z",
+    "hash": "f667e3392dfb419e64a70d82de9a25bd",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-eap-programs.md": {
+    "file": "employer-guide-eap-programs.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:32.515Z",
+    "hash": "28c7bafa6044afa789cad08b57805ac6",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-health-plans.md": {
+    "file": "employer-guide-health-plans.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:33.792Z",
+    "hash": "d021d1cb7f14abbd49a459cbdd1e4d3a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-401k-plans.md": {
+    "file": "employer-guide-to-401k-plans.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:38.427Z",
+    "hash": "c0b2c9d03d5a84fac0c38468d9907aca",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-cobra.md": {
+    "file": "employer-guide-to-cobra.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:39.888Z",
+    "hash": "509db414bc05e47771702f9e6ccdace6",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-disability-insurance.md": {
+    "file": "employer-guide-to-disability-insurance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:41.219Z",
+    "hash": "bb87b98cf1dd0c002661f324eeb0239d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-eeo-reporting.md": {
+    "file": "employer-guide-to-eeo-reporting.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:44.437Z",
+    "hash": "0bc3647646cb9f037a9e4925a7842279",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-eeoc-charges.md": {
+    "file": "employer-guide-to-eeoc-charges.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:45.708Z",
+    "hash": "ffe83b2e35f6d0ce41011b960b3f8aae",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-employment-at-will.md": {
+    "file": "employer-guide-to-employment-at-will.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:46.993Z",
+    "hash": "ad0c5e328910f708956713adaf9ead1d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-health-savings-accounts.md": {
+    "file": "employer-guide-to-health-savings-accounts.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:50.274Z",
+    "hash": "f30a282ac3ac85a6219028519187b2c7",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-jury-duty-leave.md": {
+    "file": "employer-guide-to-jury-duty-leave.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:51.418Z",
+    "hash": "71120859232673e5a1bf68afbb1c328b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-military-leave.md": {
+    "file": "employer-guide-to-military-leave.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:56.492Z",
+    "hash": "07ff5ff21b6e6ce17d423b4275f98b9e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-guide-to-wage-garnishments.md": {
+    "file": "employer-guide-to-wage-garnishments.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:45:59.982Z",
+    "hash": "d9c7c845404f6d604bfa222a306fd621",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-liability-social-media.md": {
+    "file": "employer-liability-social-media.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:01.326Z",
+    "hash": "5f1a9f05da14e39c290675a59bd4f1bc",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-recordkeeping-requirements.md": {
+    "file": "employer-recordkeeping-requirements.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:06.352Z",
+    "hash": "85ff0dd916e791975a1fb51b27bf4427",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-reference-check-guide.md": {
+    "file": "employer-reference-check-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:09.201Z",
+    "hash": "6679f9d0fba34624d2c4d6142dd96f30",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-response-to-data-breach.md": {
+    "file": "employer-response-to-data-breach.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:12.887Z",
+    "hash": "b2a557e697435d329537e47ee178ce6e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employer-social-media-policies.md": {
+    "file": "employer-social-media-policies.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:14.367Z",
+    "hash": "5cc909fe4e64b5a86693065c7bd16e2f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "employment-law-multi-state.md": {
+    "file": "employment-law-multi-state.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:17.512Z",
+    "hash": "c00893fe1e27ca1d3adb586b6f6f09a4",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "eor-peo-guide-employers.md": {
+    "file": "eor-peo-guide-employers.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:21.801Z",
+    "hash": "46018b3a32575530dab6da14bdaa2f36",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "ergonomics-hybrid-workforce.md": {
+    "file": "ergonomics-hybrid-workforce.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:27.078Z",
+    "hash": "be619bba793826713f5be14bd95a94b8",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "exempt-employee-classification-guide.md": {
+    "file": "exempt-employee-classification-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:31.173Z",
+    "hash": "d7837cb1140241f089e9d1cb306fc11d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "exempt-vs-non-exempt-employees.md": {
+    "file": "exempt-vs-non-exempt-employees.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:33.754Z",
+    "hash": "c86cba34b08f1ba3bb7aa21b5c3ea035",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "flexible-work-arrangements-guide.md": {
+    "file": "flexible-work-arrangements-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:36.815Z",
+    "hash": "822b7224dfb6778c6aa9e6aa7bf99cc5",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "flsa-overtime-final-rule-2024.md": {
+    "file": "flsa-overtime-final-rule-2024.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:41.108Z",
+    "hash": "5ee8fc958b0978e143bd1a2b7bf37b90",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "flsa-overtime-rule-changes-2023.md": {
+    "file": "flsa-overtime-rule-changes-2023.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:44.748Z",
+    "hash": "1f1eccaea237cb0fcffcd95bbed8e358",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "flsa-recordkeeping-requirements.md": {
+    "file": "flsa-recordkeeping-requirements.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:48.839Z",
+    "hash": "70498d7270ef8aa1783946663c2ffc55",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "four-day-workweek-employer-guide.md": {
+    "file": "four-day-workweek-employer-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:52.097Z",
+    "hash": "303f57fcdfc9df01015908a55e69acbd",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "fractional-hr-small-business.md": {
+    "file": "fractional-hr-small-business.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:46:53.671Z",
+    "hash": "4681bd13732089fc0000658abeeb73f3",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "handling-employee-complaints-about-manager.md": {
+    "file": "handling-employee-complaints-about-manager.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:03.462Z",
+    "hash": "36e42dfa431f09a8406cfb4df77b74ea",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "handling-workplace-bullying.md": {
+    "file": "handling-workplace-bullying.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:05.089Z",
+    "hash": "89c4f4b2facb1f89f652a7f8c46ab322",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hazard-communication-program.md": {
+    "file": "hazard-communication-program.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:06.555Z",
+    "hash": "e6a5b553ad5de124ae843a5af286f8ee",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "health-plan-cost-management.md": {
+    "file": "health-plan-cost-management.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:09.557Z",
+    "hash": "c0b7d9bd4db8e4806afea978b772bbfc",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "heat-illness-prevention-employers.md": {
+    "file": "heat-illness-prevention-employers.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:13.991Z",
+    "hash": "ece472ff3e6e54fd3f9c77008b023d4a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hiring-minors-youth-employment-laws.md": {
+    "file": "hiring-minors-youth-employment-laws.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:15.085Z",
+    "hash": "d3ff255a0f1ef5f54208edbb3d8eb9c1",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hiring-process-legal-guide.md": {
+    "file": "hiring-process-legal-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:18.323Z",
+    "hash": "76aafd75818aeeeabaafd7259a9c5367",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-agricultural-employer-labor-laws.md": {
+    "file": "hr-agricultural-employer-labor-laws.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:22.434Z",
+    "hash": "55dba10ac0fd102d28272e785d75d1de",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-arizona-employment-law-essentials.md": {
+    "file": "hr-arizona-employment-law-essentials.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:25.994Z",
+    "hash": "7213c638a3bf6c95524a9fbd801c4ed4",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-auto-dealership-employment-law.md": {
+    "file": "hr-auto-dealership-employment-law.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:28.916Z",
+    "hash": "39c7cf4b3c5b47394f1c8ccd6d5fda36",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-california-meal-break-requirements.md": {
+    "file": "hr-california-meal-break-requirements.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:32.355Z",
+    "hash": "d1034c175eba69ece433be78cdb673bd",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-california-privacy-rights-act-employment.md": {
+    "file": "hr-california-privacy-rights-act-employment.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:35.975Z",
+    "hash": "ffe0fe20735bd4cd633cf246b65be488",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-colorado-equal-pay-transparency.md": {
+    "file": "hr-colorado-equal-pay-transparency.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:39.649Z",
+    "hash": "8a1890cb2a7f60b22b563dfd94d9c448",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-construction-industry-safety-requirements.md": {
+    "file": "hr-construction-industry-safety-requirements.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:40.982Z",
+    "hash": "9256b85c578b9e5de7cfe314dad220e6",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-dental-practice-employment-issues.md": {
+    "file": "hr-dental-practice-employment-issues.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:44.004Z",
+    "hash": "ffeb6c2cfb4ad528639d1401ad361deb",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-eeoc-investigation-process.md": {
+    "file": "hr-eeoc-investigation-process.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:49.405Z",
+    "hash": "97cf2bcca60e59831bb9d0c93b1676d0",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-employee-handbook-multistate.md": {
+    "file": "hr-employee-handbook-multistate.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:50.712Z",
+    "hash": "c80d7147c25b0c2ec88ffd57ad5dac8a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-employee-privacy-workplace-monitoring.md": {
+    "file": "hr-employee-privacy-workplace-monitoring.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:54.417Z",
+    "hash": "9333b30501a175542c7b8972555a0cb1",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-exempt-employee-salary-threshold.md": {
+    "file": "hr-exempt-employee-salary-threshold.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:47:57.326Z",
+    "hash": "33b18b828232a27e106c1845fb6c1882",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-fitness-industry-employment-rules.md": {
+    "file": "hr-fitness-industry-employment-rules.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:00.656Z",
+    "hash": "17f39f16e14499337e29cb74fc41cabc",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-florida-employment-law-overview.md": {
+    "file": "hr-florida-employment-law-overview.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:05.390Z",
+    "hash": "836cb4e283454beff4ac7f74efadc38a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-georgia-employment-regulations.md": {
+    "file": "hr-georgia-employment-regulations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:08.379Z",
+    "hash": "4c80529f20838f3d22e22708a110c24f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-healthcare-employer-hipaa-obligations.md": {
+    "file": "hr-healthcare-employer-hipaa-obligations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:18.433Z",
+    "hash": "a358fb7d2dbb927010f818d2bac3f6bb",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-hiring-veterans-tax-credits.md": {
+    "file": "hr-hiring-veterans-tax-credits.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:21.562Z",
+    "hash": "f74f9d5fe3871ef33ec5fd5bc95bc565",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-hospitality-overtime-rules.md": {
+    "file": "hr-hospitality-overtime-rules.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:24.337Z",
+    "hash": "2d5fae2bb0ca69b9ab77ef0465588614",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-illinois-workplace-transparency-act.md": {
+    "file": "hr-illinois-workplace-transparency-act.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:27.780Z",
+    "hash": "41d9a0d3cf08c8a4215d3bb78f9aa521",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-joint-employer-liability.md": {
+    "file": "hr-joint-employer-liability.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:30.436Z",
+    "hash": "a7a2bcb56f0d7452ae41b120aaa2a0c9",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-law-firm-employment-practices.md": {
+    "file": "hr-law-firm-employment-practices.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:32.563Z",
+    "hash": "cb1e388a5fdab0a3eb93ff62769462f7",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-managing-employee-leave-abuse.md": {
+    "file": "hr-managing-employee-leave-abuse.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:37.712Z",
+    "hash": "54983865cfc65a04e0f4a173e78d42df",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-manufacturing-lockout-tagout-procedures.md": {
+    "file": "hr-manufacturing-lockout-tagout-procedures.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:38.955Z",
+    "hash": "acc550ff8eab1e232145711581956a9d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-massachusetts-noncompete-law.md": {
+    "file": "hr-massachusetts-noncompete-law.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:40.140Z",
+    "hash": "ba57d1d3cb0a346bed0d05973abd44f5",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-michigan-paid-medical-leave.md": {
+    "file": "hr-michigan-paid-medical-leave.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:43.691Z",
+    "hash": "a61fb1192ae4f49140fe24258bbb2387",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-minnesota-earned-sick-safe-time.md": {
+    "file": "hr-minnesota-earned-sick-safe-time.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:46.934Z",
+    "hash": "443fc700e918e38f1e75d7f76ffd7e61",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-new-jersey-temporary-worker-protections.md": {
+    "file": "hr-new-jersey-temporary-worker-protections.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:49.509Z",
+    "hash": "b56fd46a4f67e930bd062364c434da71",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-new-york-paid-family-leave-guide.md": {
+    "file": "hr-new-york-paid-family-leave-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:53.887Z",
+    "hash": "db89d3ab00d1731635f0681e9d89c208",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-nonprofit-volunteer-vs-employee.md": {
+    "file": "hr-nonprofit-volunteer-vs-employee.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:56.443Z",
+    "hash": "1f138fc2333219f79d4786bd678b8b4f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-oregon-predictive-scheduling-law.md": {
+    "file": "hr-oregon-predictive-scheduling-law.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:48:57.496Z",
+    "hash": "2b1a9820f3b8604ddd7fb7fda7dab0de",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-osha-whistleblower-protections.md": {
+    "file": "hr-osha-whistleblower-protections.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:00.887Z",
+    "hash": "3a91df99dbabe712c418f74d9a26edee",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-pennsylvania-employment-law-guide.md": {
+    "file": "hr-pennsylvania-employment-law-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:05.122Z",
+    "hash": "1a2ec2e214c840dce2bd0edad213c8db",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-prevailing-wage-compliance.md": {
+    "file": "hr-prevailing-wage-compliance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:07.905Z",
+    "hash": "569b4035c93160628179cab51ad58583",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-religious-accommodation-workplace.md": {
+    "file": "hr-religious-accommodation-workplace.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:09.157Z",
+    "hash": "6fe9eaed746634a9a67f5f050a5e3e38",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-remote-employee-tax-nexus.md": {
+    "file": "hr-remote-employee-tax-nexus.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:12.245Z",
+    "hash": "e92fb5cdc117699ceb05feef0d7fad20",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-restaurant-tip-pooling-rules.md": {
+    "file": "hr-restaurant-tip-pooling-rules.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:16.235Z",
+    "hash": "5622f0d51e95e5ed308bcbefebad39af",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-retail-scheduling-laws.md": {
+    "file": "hr-retail-scheduling-laws.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:21.862Z",
+    "hash": "97672f7fa39014ca42fb3dc3cf7b5da8",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-succession-planning-key-employees.md": {
+    "file": "hr-succession-planning-key-employees.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:23.819Z",
+    "hash": "af0cd3c77df5a160710181f7142b994b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-tech-company-noncompete-issues.md": {
+    "file": "hr-tech-company-noncompete-issues.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:27.424Z",
+    "hash": "2f78ae38f7f170d60c42db0a261ea75c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-technology-selection-guide.md": {
+    "file": "hr-technology-selection-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:28.866Z",
+    "hash": "1100a07af9dd8de5ae6cccfd049c982e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-technology-stack-guide.md": {
+    "file": "hr-technology-stack-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:30.309Z",
+    "hash": "6908e932e2b9bb2e3ba1b40298de628f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-texas-workers-compensation-overview.md": {
+    "file": "hr-texas-workers-compensation-overview.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:33.800Z",
+    "hash": "b943627de6783a21849e96100bcbe907",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-trucking-dot-drug-testing.md": {
+    "file": "hr-trucking-dot-drug-testing.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:35.185Z",
+    "hash": "5ec95c183b50bb77767310a0a6705dbd",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-warehouse-safety-compliance.md": {
+    "file": "hr-warehouse-safety-compliance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:39.045Z",
+    "hash": "b57d4721a7e3ce368e201de256381cbc",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-washington-state-paid-sick-leave.md": {
+    "file": "hr-washington-state-paid-sick-leave.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:40.207Z",
+    "hash": "ca4610fcd05735b3ed9776cd0551c36f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hr-workplace-violence-prevention-program.md": {
+    "file": "hr-workplace-violence-prevention-program.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:45.854Z",
+    "hash": "447812f231eedb291d029caf52825aa8",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "hybrid-work-policies.md": {
+    "file": "hybrid-work-policies.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:47.060Z",
+    "hash": "ed4c2f18ba0862faa3d9a022ed5d535e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "i9-compliance-guide.md": {
+    "file": "i9-compliance-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:55.171Z",
+    "hash": "35d39fc8b1ffe331b16e50ef2f4be312",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "i9-compliance-remote-verification.md": {
+    "file": "i9-compliance-remote-verification.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:49:58.674Z",
+    "hash": "e47feabda06d2fc82dd6685db61df32e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "independent-contractor-rule-2024.md": {
+    "file": "independent-contractor-rule-2024.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:01.952Z",
+    "hash": "5716af765c4683d1424fd841417e8f29",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "independent-contractor-vs-employee.md": {
+    "file": "independent-contractor-vs-employee.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:03.294Z",
+    "hash": "927a1a784f0ce4cf619a705de971d00c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "internship-program-legal-guide.md": {
+    "file": "internship-program-legal-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:04.722Z",
+    "hash": "5b178c804ba19d6ab9cf2e706efad97b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "leadership-development-small-companies.md": {
+    "file": "leadership-development-small-companies.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:06.037Z",
+    "hash": "d1fdaa5d87ec231d4090c2ce52190c25",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "leave-management-multistate.md": {
+    "file": "leave-management-multistate.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:09.832Z",
+    "hash": "3b3fb37da3def72af88ec4bc513208b3",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "legally-docking-employee-pay.md": {
+    "file": "legally-docking-employee-pay.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:12.875Z",
+    "hash": "a1383a02db962102e0c846ad642c1615",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "manager-training-legal-liability.md": {
+    "file": "manager-training-legal-liability.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:14.193Z",
+    "hash": "2086c5eec7b4fbd9ec631f2a4aee420f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-difficult-employee-conversations.md": {
+    "file": "managing-difficult-employee-conversations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:16.104Z",
+    "hash": "878690ff0490aa2515803c0136daec0f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-employee-leaves-of-absence.md": {
+    "file": "managing-employee-leaves-of-absence.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:17.414Z",
+    "hash": "2c04941a5257aac4fc30d36a8c3a7081",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-employee-performance-reviews.md": {
+    "file": "managing-employee-performance-reviews.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:18.641Z",
+    "hash": "464c238683b974868e3b6206ab0cd967",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-fmla-intermittent-leave.md": {
+    "file": "managing-fmla-intermittent-leave.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:22.414Z",
+    "hash": "35e4ea0f63015058c1f79eb205a49715",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-furloughs-layoffs.md": {
+    "file": "managing-furloughs-layoffs.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:24.600Z",
+    "hash": "731ccd19d145168e873cd5ef25b99fb8",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-inflation-compensation.md": {
+    "file": "managing-inflation-compensation.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:26.187Z",
+    "hash": "336c3f9cb693849fe944da8a8c9e06dc",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-multi-generational-workforce.md": {
+    "file": "managing-multi-generational-workforce.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:27.535Z",
+    "hash": "dd72f0f6ebc7ce71f9f9f904de759e8a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-payroll-for-tipped-employees.md": {
+    "file": "managing-payroll-for-tipped-employees.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:31.031Z",
+    "hash": "e6d4ec191da787b89b77cf67d7dc928c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-performance-remote-employees.md": {
+    "file": "managing-performance-remote-employees.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:32.314Z",
+    "hash": "5aa2f8a3f20b7eb56d4cb5d9768b9724",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-remote-workforce.md": {
+    "file": "managing-remote-workforce.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:35.386Z",
+    "hash": "d8dc0ff8c2c0a8ea92c21f91bad558b0",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-seasonal-employees.md": {
+    "file": "managing-seasonal-employees.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:41.068Z",
+    "hash": "3f63dc46198dd5a192a101a261bfd538",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "managing-workplace-conflict.md": {
+    "file": "managing-workplace-conflict.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:42.332Z",
+    "hash": "99cc548bc99ea7d7142f9f4a26b648a8",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "multi-state-handbook-management.md": {
+    "file": "multi-state-handbook-management.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:43.583Z",
+    "hash": "9b858b9281c8fa6d48e3b0a3125e711c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "multistate-employer-tax-obligations.md": {
+    "file": "multistate-employer-tax-obligations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:45.966Z",
+    "hash": "77ebcd1b8eaa3ee8cea62418b243f8c9",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "multistate-employment-compliance.md": {
+    "file": "multistate-employment-compliance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:49.586Z",
+    "hash": "9fdc90c0ba563e724b465ff79f3464ce",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "new-manager-training-program.md": {
+    "file": "new-manager-training-program.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:51.061Z",
+    "hash": "533c52606dadd6bc4bcdd0301594dc1b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "nlrb-social-media-policies.md": {
+    "file": "nlrb-social-media-policies.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:54.191Z",
+    "hash": "f634a5d9e5e14ac6ba4b766c7c66f483",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "non-compete-agreement-enforceability.md": {
+    "file": "non-compete-agreement-enforceability.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:56.982Z",
+    "hash": "ac4a3a4de026d7656b2fd90c4000657b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "osha-300-log-obligations.md": {
+    "file": "osha-300-log-obligations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:50:58.432Z",
+    "hash": "caa826fca71dc27292b99e8d90f936ca",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "osha-inspection-preparation.md": {
+    "file": "osha-inspection-preparation.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:01.268Z",
+    "hash": "4bc790c70683941283c4c0ad12cad7c2",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "osha-recordkeeping-updates.md": {
+    "file": "osha-recordkeeping-updates.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:05.531Z",
+    "hash": "1ee3db99e93d9e74a254f327193eecd2",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "overtime-calculation-methods.md": {
+    "file": "overtime-calculation-methods.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:06.949Z",
+    "hash": "5f9d258e35c0c8db915c2b444d6bf226",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "paid-sick-leave-laws-by-state.md": {
+    "file": "paid-sick-leave-laws-by-state.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:09.929Z",
+    "hash": "ee7b7b067348c1b5f7b47d8fe36d39a9",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "pay-equity-audit-guide.md": {
+    "file": "pay-equity-audit-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:11.115Z",
+    "hash": "8f541c243d421fdfed27ca2b3c8a1675",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "payroll-compliance-common-mistakes.md": {
+    "file": "payroll-compliance-common-mistakes.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:14.229Z",
+    "hash": "df4d2606d520f55ffd4e48f45ef905e2",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "payroll-tax-essentials.md": {
+    "file": "payroll-tax-essentials.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:16.781Z",
+    "hash": "074a24ab37152a0a27b8e3570aab7592",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "performance-management-framework.md": {
+    "file": "performance-management-framework.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:18.072Z",
+    "hash": "808c19ac0c6440011e1ef0644d6f258d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "pregnancy-discrimination-employer-obligations.md": {
+    "file": "pregnancy-discrimination-employer-obligations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:19.297Z",
+    "hash": "f9be618fe44c013b05e8914895a81b71",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "pregnant-workers-fairness-act.md": {
+    "file": "pregnant-workers-fairness-act.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:21.225Z",
+    "hash": "fd65ff03f1679906965995f23f9a313a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "preparing-for-remote-work-readiness.md": {
+    "file": "preparing-for-remote-work-readiness.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:24.529Z",
+    "hash": "a9a3f38caf3eaa9b27014b318a84eed0",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "preventing-workplace-harassment.md": {
+    "file": "preventing-workplace-harassment.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:28.226Z",
+    "hash": "8c22ad1b341a99921b75e25b199831f6",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "progressive-discipline-guide.md": {
+    "file": "progressive-discipline-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:29.487Z",
+    "hash": "ac14ed943a815acf3261c9dd865f293c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "quiet-quitting-employer-response.md": {
+    "file": "quiet-quitting-employer-response.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:31.502Z",
+    "hash": "8b9a9ba8248468fbacdf1cae08c63bd1",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "recordkeeping-mistakes-dol-audits.md": {
+    "file": "recordkeeping-mistakes-dol-audits.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:34.206Z",
+    "hash": "eba950fdda7048abaaf6a9c62a2e9d58",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "reducing-employee-turnover.md": {
+    "file": "reducing-employee-turnover.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:35.838Z",
+    "hash": "5928c143889f93a45241d5dfa3d21487",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "reducing-unemployment-insurance-costs.md": {
+    "file": "reducing-unemployment-insurance-costs.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:37.278Z",
+    "hash": "bba4a1f2238417dc1cbad8ce499a4401",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "reference-checks-best-practices.md": {
+    "file": "reference-checks-best-practices.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:38.482Z",
+    "hash": "78c1183e5ce5f66636a9afad0a2ac087",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "remote-work-policy-guide.md": {
+    "file": "remote-work-policy-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:41.466Z",
+    "hash": "e09342ddcb7a9e7c8498ff51be44d49e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "return-to-office-strategy.md": {
+    "file": "return-to-office-strategy.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:42.678Z",
+    "hash": "e097b14add4607a17418fc168ad2354f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "return-to-work-programs.md": {
+    "file": "return-to-work-programs.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:44.047Z",
+    "hash": "2f2d1a74dea01bd85e0b4bd9e41e246a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "salary-transparency-laws.md": {
+    "file": "salary-transparency-laws.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:47.027Z",
+    "hash": "0604d258fceda4fde760ce86607965d2",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "setting-up-direct-deposit-small-business.md": {
+    "file": "setting-up-direct-deposit-small-business.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:48.524Z",
+    "hash": "2d9d4f395bc84a3c84326f23758dbb7d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "sexual-harassment-investigation-guide.md": {
+    "file": "sexual-harassment-investigation-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:52.186Z",
+    "hash": "c2b247f1006190ca345074a66601c07d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "sexual-harassment-prevention.md": {
+    "file": "sexual-harassment-prevention.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:55.072Z",
+    "hash": "6a1c651c8227855a516f270ff583c8df",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "skills-based-hiring.md": {
+    "file": "skills-based-hiring.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:56.292Z",
+    "hash": "80b1deb827d0e762222aa2945ddf846b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "small-business-benefits-packages.md": {
+    "file": "small-business-benefits-packages.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:51:59.729Z",
+    "hash": "fc27bf576b609d641c99e12307354b61",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "small-business-cyber-security.md": {
+    "file": "small-business-cyber-security.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:00.939Z",
+    "hash": "eb54b9b957050f4a8827a73deb7fff07",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "small-business-digital-transformation.md": {
+    "file": "small-business-digital-transformation.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:02.242Z",
+    "hash": "411baf3915eab4f7c105b096d941664d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "small-business-exit-succession.md": {
+    "file": "small-business-exit-succession.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:03.575Z",
+    "hash": "600e223cab1bfff762971b8d43a34c7e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "small-business-hr-compliance-checklist.md": {
+    "file": "small-business-hr-compliance-checklist.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:08.632Z",
+    "hash": "d27a98bb983149f2bca55a1e2aa77962",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "small-business-payroll-setup.md": {
+    "file": "small-business-payroll-setup.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:11.747Z",
+    "hash": "e114bdf0c7416283359daf16f602fc07",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "small-business-recession-preparation.md": {
+    "file": "small-business-recession-preparation.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:14.716Z",
+    "hash": "2ead51f0a77ee641acd592fd3e51e72c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "small-business-retirement-plans.md": {
+    "file": "small-business-retirement-plans.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:16.007Z",
+    "hash": "3d6938ee295b1c1ee800b0c49f78f395",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "state-minimum-wage-2025.md": {
+    "file": "state-minimum-wage-2025.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:19.855Z",
+    "hash": "bacea16880ccba9ea30b26f7b95a9485",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "state-paid-family-leave-compliance.md": {
+    "file": "state-paid-family-leave-compliance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:23.688Z",
+    "hash": "26cdefd6bf27a6cdd02576f335e37760",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "structured-interview-process.md": {
+    "file": "structured-interview-process.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:25.254Z",
+    "hash": "055eab28e2517511277bc49f44f79bcf",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "succession-planning-small-business.md": {
+    "file": "succession-planning-small-business.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:26.670Z",
+    "hash": "2f2c29fa34bef405d7842ffe0f28994e",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "supply-chain-workforce-planning.md": {
+    "file": "supply-chain-workforce-planning.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:27.978Z",
+    "hash": "1de19e982eb3796184ba193112d38ef6",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "termination-best-practices.md": {
+    "file": "termination-best-practices.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:31.924Z",
+    "hash": "242327b0f83032145860a67e41825f17",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "termination-meeting-best-practices.md": {
+    "file": "termination-meeting-best-practices.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:35.535Z",
+    "hash": "2a229be02557e8c0d403bcd46abd6c60",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "understanding-constructive-dismissal.md": {
+    "file": "understanding-constructive-dismissal.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:37.204Z",
+    "hash": "610a00b185056d652ac8d9f4b4509abe",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "understanding-erisa-obligations.md": {
+    "file": "understanding-erisa-obligations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:40.987Z",
+    "hash": "17b5919c17d33d29cb82ced378895cc3",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "understanding-fmla-requirements.md": {
+    "file": "understanding-fmla-requirements.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:42.233Z",
+    "hash": "9f1a3e75b74c719956567efbfcca9c8d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "unemployment-insurance-guide.md": {
+    "file": "unemployment-insurance-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:43.473Z",
+    "hash": "ad0771ea366c194c54e775f8860ebe80",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "upskilling-reskilling-workforce.md": {
+    "file": "upskilling-reskilling-workforce.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:44.746Z",
+    "hash": "d35e197f0d64605a6fa0375a3668862b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "wage-and-hour-compliance.md": {
+    "file": "wage-and-hour-compliance.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:46.221Z",
+    "hash": "ea61aa7ef0f40a11695850572a094a99",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "wage-theft-prevention-employer-guide.md": {
+    "file": "wage-theft-prevention-employer-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:49.366Z",
+    "hash": "013e9bf490f8aa7afb984d50c4fccee2",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workers-comp-premium-audits.md": {
+    "file": "workers-comp-premium-audits.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:50.901Z",
+    "hash": "12ec88333388c5db96240285e9be9249",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workers-compensation-fundamentals.md": {
+    "file": "workers-compensation-fundamentals.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:52.741Z",
+    "hash": "2bb580f29cd346c46b76d88ef0d83e28",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workforce-planning-small-employers-2025.md": {
+    "file": "workforce-planning-small-employers-2025.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:54.197Z",
+    "hash": "15d21bbf3e6a079bf6b849ec2cbda831",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-accommodation-best-practices.md": {
+    "file": "workplace-accommodation-best-practices.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:55.286Z",
+    "hash": "6f037791d225d1b616e4644045dbd5f5",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-drug-testing-guide.md": {
+    "file": "workplace-drug-testing-guide.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:52:59.168Z",
+    "hash": "dd08eaba2a196d7bb3f72418585c356d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-emergency-action-plan.md": {
+    "file": "workplace-emergency-action-plan.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:53:00.804Z",
+    "hash": "aab7c18e316e792de6d93d6bee971076",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-ergonomics-program.md": {
+    "file": "workplace-ergonomics-program.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:53:02.379Z",
+    "hash": "4ef6207bca965431916e18952902d80a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-flexibility-as-retention-tool.md": {
+    "file": "workplace-flexibility-as-retention-tool.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:53:04.423Z",
+    "hash": "d8c709475ad58011ff7d278a7a4ba113",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-mental-health-policy.md": {
+    "file": "workplace-mental-health-policy.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:53:07.668Z",
+    "hash": "27de883c420da0095203df6f1a0b853b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-safety-culture.md": {
+    "file": "workplace-safety-culture.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:53:09.291Z",
+    "hash": "7db3293cd48cde07de421b2b5285f35d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-safety-osha-basics.md": {
+    "file": "workplace-safety-osha-basics.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:53:13.141Z",
+    "hash": "04ec3c39cc27748a0f6c2658835945dc",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "workplace-wellness-program-design.md": {
+    "file": "workplace-wellness-program-design.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:53:18.419Z",
+    "hash": "a548bc9501e73781fe22532f4e0cbae9",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "writing-effective-job-descriptions.md": {
+    "file": "writing-effective-job-descriptions.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-05-11T10:53:19.731Z",
+    "hash": "dbeee66ec3fcffe3fcfd80689520eb19",
+    "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   }
 }
