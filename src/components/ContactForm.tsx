@@ -2,8 +2,10 @@
 
 import { useState, FormEvent } from 'react';
 
+const BLOCKED_EMAIL_DOMAINS = ['savistarcm.com'];
+
 export default function ContactForm() {
-  const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle');
+  const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error' | 'blocked'>('idle');
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -20,6 +22,12 @@ export default function ContactForm() {
       message: (form.elements.namedItem('message') as HTMLTextAreaElement).value,
     };
 
+    const domain = data.email.split('@')[1]?.toLowerCase().trim();
+    if (domain && BLOCKED_EMAIL_DOMAINS.includes(domain)) {
+      setStatus('blocked');
+      return;
+    }
+
     try {
       const res = await fetch('/api/contact', {
         method: 'POST',
@@ -29,6 +37,8 @@ export default function ContactForm() {
       if (res.ok) {
         setStatus('sent');
         form.reset();
+      } else if (res.status === 403) {
+        setStatus('blocked');
       } else {
         setStatus('error');
       }
@@ -153,6 +163,9 @@ export default function ContactForm() {
       </button>
       {status === 'error' && (
         <p className="text-sm text-red-600">Something went wrong. Please try again.</p>
+      )}
+      {status === 'blocked' && (
+        <p className="text-sm text-red-600">Submissions from this email domain are not accepted.</p>
       )}
     </form>
   );

@@ -1,10 +1,17 @@
 import { NextResponse } from 'next/server';
 import { saveSubmission, sendNotification } from '@/lib/db';
 
+const BLOCKED_EMAIL_DOMAINS = ['savistarcm.com'];
+
 export async function POST(request: Request) {
   try {
     const body = await request.json();
     const { firstName, lastName, email, company, employees, interest, message } = body;
+
+    const domain = typeof email === 'string' ? email.split('@')[1]?.toLowerCase().trim() : '';
+    if (domain && BLOCKED_EMAIL_DOMAINS.includes(domain)) {
+      return NextResponse.json({ error: 'Submissions from this email domain are not accepted.' }, { status: 403 });
+    }
 
     // Save to database
     const row = await saveSubmission({

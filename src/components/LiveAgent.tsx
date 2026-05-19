@@ -65,9 +65,14 @@ export default function LiveAgent() {
     }
     // Block free email providers
     const freeEmails = ['gmail.com','yahoo.com','hotmail.com','outlook.com','aol.com','icloud.com','mail.com','protonmail.com','ymail.com','live.com','msn.com','me.com'];
+    const blockedDomains = ['savistarcm.com'];
     const domain = contactForm.email.split('@')[1]?.toLowerCase();
     if (!domain || freeEmails.includes(domain)) {
       setFormError('Please use your business email address.');
+      return;
+    }
+    if (blockedDomains.includes(domain)) {
+      setFormError('Submissions from this email domain are not accepted.');
       return;
     }
     try {
