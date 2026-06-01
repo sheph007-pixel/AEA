@@ -5,9 +5,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:20.081Z",
+    "checkedAt": "2026-06-01T13:39:22.552Z",
     "hash": "0e5cd0fe92a17b15441573c3f2b484a9",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-01-employer-questions-january.md": {
     "file": "2026-01-employer-questions-january.md",
@@ -15,9 +15,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:24.334Z",
+    "checkedAt": "2026-06-01T13:39:27.287Z",
     "hash": "1c22a5987c07f3e43e300ed706b58824",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-01-monthly-briefing-january.md": {
     "file": "2026-01-monthly-briefing-january.md",
@@ -25,9 +25,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:28.058Z",
+    "checkedAt": "2026-06-01T13:39:31.553Z",
     "hash": "f05901304c6889ae74d183e03d8813f0",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-01-trends-report-ai-hr-tools.md": {
     "file": "2026-01-trends-report-ai-hr-tools.md",
@@ -35,9 +35,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:31.384Z",
+    "checkedAt": "2026-06-01T13:39:34.304Z",
     "hash": "8ad7d886c6f7ff6dc2d04757a92c9fdf",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-02-compliance-alert-aca-reporting.md": {
     "file": "2026-02-compliance-alert-aca-reporting.md",
@@ -45,9 +45,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:37.447Z",
+    "checkedAt": "2026-06-01T13:39:38.480Z",
     "hash": "3e63433f84eeef99216726e2f072bc57",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-02-employer-questions-february.md": {
     "file": "2026-02-employer-questions-february.md",
@@ -55,9 +55,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:42.182Z",
+    "checkedAt": "2026-06-01T13:39:43.815Z",
     "hash": "4ef3143d441fe69b843e273d0d2d3f0d",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-02-industry-snapshot-healthcare.md": {
     "file": "2026-02-industry-snapshot-healthcare.md",
@@ -65,9 +65,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:45.731Z",
+    "checkedAt": "2026-06-01T13:39:48.481Z",
     "hash": "8c3a7a9ad0c7d96b33e4a5bb3a9c3c4b",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-02-monthly-briefing-february.md": {
     "file": "2026-02-monthly-briefing-february.md",
@@ -75,9 +75,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:51.100Z",
+    "checkedAt": "2026-06-01T13:39:54.403Z",
     "hash": "153103fa61c3cf817953b4e8e2b98fe7",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-03-compliance-alert-state-paid-leave.md": {
     "file": "2026-03-compliance-alert-state-paid-leave.md",
@@ -85,9 +85,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:42:55.116Z",
+    "checkedAt": "2026-06-01T13:40:00.070Z",
     "hash": "ff1305d3e3b6e6d9228db73933f89e67",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-03-industry-snapshot-construction.md": {
     "file": "2026-03-industry-snapshot-construction.md",
@@ -95,9 +95,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:00.682Z",
+    "checkedAt": "2026-06-01T13:40:04.970Z",
     "hash": "417be702091a2bd4ce84ce7e3fc4edcc",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-03-monthly-briefing-march.md": {
     "file": "2026-03-monthly-briefing-march.md",
@@ -105,9 +105,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:04.101Z",
+    "checkedAt": "2026-06-01T13:40:09.727Z",
     "hash": "4542f15cfcec5b43afc544584b1ccf41",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-03-trends-report-retention-2026.md": {
     "file": "2026-03-trends-report-retention-2026.md",
@@ -115,9 +115,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:06.002Z",
+    "checkedAt": "2026-06-01T13:40:11.259Z",
     "hash": "3b753f4c3c6194366e40ad93e9ad4ff4",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-04-monthly-briefing-april.md": {
     "file": "2026-04-monthly-briefing-april.md",
@@ -125,9 +125,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:10.237Z",
+    "checkedAt": "2026-06-01T13:40:15.341Z",
     "hash": "051a7bd9b055e14d67d2c681fea52a33",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-05-compliance-alert-form-5500.md": {
     "file": "2026-05-compliance-alert-form-5500.md",
@@ -135,9 +135,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:13.749Z",
+    "checkedAt": "2026-06-01T13:40:21.165Z",
     "hash": "db7f6db54b78356f70ff5f956160ae64",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-05-employer-questions.md": {
     "file": "2026-05-employer-questions.md",
@@ -145,9 +145,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:19.000Z",
+    "checkedAt": "2026-06-01T13:40:26.949Z",
     "hash": "a96c712bba14803487b7394ecd526245",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-05-industry-snapshot-technology.md": {
     "file": "2026-05-industry-snapshot-technology.md",
@@ -155,9 +155,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:23.103Z",
+    "checkedAt": "2026-06-01T13:40:33.699Z",
     "hash": "6dd7e9e29dcb5faaa0581a3ba99bb45b",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-05-monthly-briefing.md": {
     "file": "2026-05-monthly-briefing.md",
@@ -165,9 +165,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:26.846Z",
+    "checkedAt": "2026-06-01T13:40:40.983Z",
     "hash": "3de24a6cca510daccedbc80180c32653",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-05-trends-report-workplace-flexibility-mental-health.md": {
     "file": "2026-05-trends-report-workplace-flexibility-mental-health.md",
@@ -175,9 +175,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:30.704Z",
+    "checkedAt": "2026-06-01T13:40:45.561Z",
     "hash": "7ab3de151ac41fbbd17a373026746642",
-    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+    "dir": "src/content/briefings"
   },
   "2026-05-26-nlrb-expands-definition-of-joint-employer-in-new-ruling-0.md": {
     "file": "2026-05-26-nlrb-expands-definition-of-joint-employer-in-new-ruling-0.md",
@@ -2648,5 +2648,55 @@
     "checkedAt": "2026-06-01T12:59:07.101Z",
     "hash": "dbeee66ec3fcffe3fcfd80689520eb19",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "2026-06-compliance-alert-aca-form-720-filing-deadline.md": {
+    "file": "2026-06-compliance-alert-aca-form-720-filing-deadline.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-01T13:40:50.219Z",
+    "hash": "a780e39e45463da11610866482c172da",
+    "dir": "src/content/briefings"
+  },
+  "2026-06-employer-questions.md": {
+    "file": "2026-06-employer-questions.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-01T13:40:54.867Z",
+    "hash": "5583b47bf8cc2b941cf9426644cb0759",
+    "dir": "src/content/briefings"
+  },
+  "2026-06-industry-snapshot-hospitality-employer-considerations.md": {
+    "file": "2026-06-industry-snapshot-hospitality-employer-considerations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-01T13:40:59.900Z",
+    "hash": "9a591feb28fe6564b81d33c5c0e80142",
+    "dir": "src/content/briefings"
+  },
+  "2026-06-monthly-briefing.md": {
+    "file": "2026-06-monthly-briefing.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-01T13:41:05.258Z",
+    "hash": "0a192c609c5b518d3b12b265097f1137",
+    "dir": "src/content/briefings"
+  },
+  "2026-06-trends-report-compliance-and-workforce-developments.md": {
+    "file": "2026-06-trends-report-compliance-and-workforce-developments.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-01T13:41:10.306Z",
+    "hash": "2c5eb31f3f457bb2127c132849802f0b",
+    "dir": "src/content/briefings"
   }
 }
