@@ -5,9 +5,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:39:22.552Z",
+    "checkedAt": "2026-06-08T12:02:41.011Z",
     "hash": "0e5cd0fe92a17b15441573c3f2b484a9",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-01-employer-questions-january.md": {
     "file": "2026-01-employer-questions-january.md",
@@ -15,9 +15,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:39:27.287Z",
+    "checkedAt": "2026-06-08T12:02:45.568Z",
     "hash": "1c22a5987c07f3e43e300ed706b58824",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-01-monthly-briefing-january.md": {
     "file": "2026-01-monthly-briefing-january.md",
@@ -25,9 +25,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:39:31.553Z",
+    "checkedAt": "2026-06-08T12:02:49.587Z",
     "hash": "f05901304c6889ae74d183e03d8813f0",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-01-trends-report-ai-hr-tools.md": {
     "file": "2026-01-trends-report-ai-hr-tools.md",
@@ -35,9 +35,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:39:34.304Z",
+    "checkedAt": "2026-06-08T12:02:52.029Z",
     "hash": "8ad7d886c6f7ff6dc2d04757a92c9fdf",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-02-compliance-alert-aca-reporting.md": {
     "file": "2026-02-compliance-alert-aca-reporting.md",
@@ -45,9 +45,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:39:38.480Z",
+    "checkedAt": "2026-06-08T12:02:59.725Z",
     "hash": "3e63433f84eeef99216726e2f072bc57",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-02-employer-questions-february.md": {
     "file": "2026-02-employer-questions-february.md",
@@ -55,9 +55,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:39:43.815Z",
+    "checkedAt": "2026-06-08T12:03:06.471Z",
     "hash": "4ef3143d441fe69b843e273d0d2d3f0d",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-02-industry-snapshot-healthcare.md": {
     "file": "2026-02-industry-snapshot-healthcare.md",
@@ -65,9 +65,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:39:48.481Z",
+    "checkedAt": "2026-06-08T12:03:11.388Z",
     "hash": "8c3a7a9ad0c7d96b33e4a5bb3a9c3c4b",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-02-monthly-briefing-february.md": {
     "file": "2026-02-monthly-briefing-february.md",
@@ -75,9 +75,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:39:54.403Z",
+    "checkedAt": "2026-06-08T12:03:18.840Z",
     "hash": "153103fa61c3cf817953b4e8e2b98fe7",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-03-compliance-alert-state-paid-leave.md": {
     "file": "2026-03-compliance-alert-state-paid-leave.md",
@@ -85,9 +85,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:00.070Z",
+    "checkedAt": "2026-06-08T12:03:27.204Z",
     "hash": "ff1305d3e3b6e6d9228db73933f89e67",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-03-industry-snapshot-construction.md": {
     "file": "2026-03-industry-snapshot-construction.md",
@@ -95,9 +95,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:04.970Z",
+    "checkedAt": "2026-06-08T12:03:32.960Z",
     "hash": "417be702091a2bd4ce84ce7e3fc4edcc",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-03-monthly-briefing-march.md": {
     "file": "2026-03-monthly-briefing-march.md",
@@ -105,9 +105,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:09.727Z",
+    "checkedAt": "2026-06-08T12:03:37.709Z",
     "hash": "4542f15cfcec5b43afc544584b1ccf41",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-03-trends-report-retention-2026.md": {
     "file": "2026-03-trends-report-retention-2026.md",
@@ -115,9 +115,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:11.259Z",
+    "checkedAt": "2026-06-08T12:03:39.858Z",
     "hash": "3b753f4c3c6194366e40ad93e9ad4ff4",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-04-monthly-briefing-april.md": {
     "file": "2026-04-monthly-briefing-april.md",
@@ -125,9 +125,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:15.341Z",
+    "checkedAt": "2026-06-08T12:03:45.073Z",
     "hash": "051a7bd9b055e14d67d2c681fea52a33",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-05-compliance-alert-form-5500.md": {
     "file": "2026-05-compliance-alert-form-5500.md",
@@ -135,9 +135,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:21.165Z",
+    "checkedAt": "2026-06-08T12:03:51.171Z",
     "hash": "db7f6db54b78356f70ff5f956160ae64",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-05-employer-questions.md": {
     "file": "2026-05-employer-questions.md",
@@ -145,9 +145,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:26.949Z",
+    "checkedAt": "2026-06-08T12:03:56.782Z",
     "hash": "a96c712bba14803487b7394ecd526245",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-05-industry-snapshot-technology.md": {
     "file": "2026-05-industry-snapshot-technology.md",
@@ -155,9 +155,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:33.699Z",
+    "checkedAt": "2026-06-08T12:04:14.698Z",
     "hash": "6dd7e9e29dcb5faaa0581a3ba99bb45b",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-05-monthly-briefing.md": {
     "file": "2026-05-monthly-briefing.md",
@@ -165,9 +165,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:40.983Z",
+    "checkedAt": "2026-06-08T12:04:21.644Z",
     "hash": "3de24a6cca510daccedbc80180c32653",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
   "2026-05-trends-report-workplace-flexibility-mental-health.md": {
     "file": "2026-05-trends-report-workplace-flexibility-mental-health.md",
@@ -175,58 +175,358 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:45.561Z",
+    "checkedAt": "2026-06-08T12:04:28.007Z",
     "hash": "7ab3de151ac41fbbd17a373026746642",
-    "dir": "src/content/briefings"
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
   },
-  "2026-05-26-nlrb-expands-definition-of-joint-employer-in-new-ruling-0.md": {
-    "file": "2026-05-26-nlrb-expands-definition-of-joint-employer-in-new-ruling-0.md",
+  "2026-06-compliance-alert-aca-form-720-filing-deadline.md": {
+    "file": "2026-06-compliance-alert-aca-form-720-filing-deadline.md",
     "status": "error",
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:33.595Z",
-    "hash": "815ddfe266502d86442cb88db2cf4fb9",
+    "checkedAt": "2026-06-08T12:04:33.001Z",
+    "hash": "a780e39e45463da11610866482c172da",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-06-employer-questions.md": {
+    "file": "2026-06-employer-questions.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:04:42.913Z",
+    "hash": "5583b47bf8cc2b941cf9426644cb0759",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-06-industry-snapshot-hospitality-employer-considerations.md": {
+    "file": "2026-06-industry-snapshot-hospitality-employer-considerations.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:04:47.045Z",
+    "hash": "9a591feb28fe6564b81d33c5c0e80142",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-06-monthly-briefing.md": {
+    "file": "2026-06-monthly-briefing.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:04:53.394Z",
+    "hash": "0a192c609c5b518d3b12b265097f1137",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-06-trends-report-compliance-and-workforce-developments.md": {
+    "file": "2026-06-trends-report-compliance-and-workforce-developments.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:04:58.144Z",
+    "hash": "2c5eb31f3f457bb2127c132849802f0b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/briefings"
+  },
+  "2026-06-02-supreme-court-rules-on-employer-vaccine-mandates-2.md": {
+    "file": "2026-06-02-supreme-court-rules-on-employer-vaccine-mandates-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:05:04.968Z",
+    "hash": "9905b1f07c3c6f1d8dd020bf296e9048",
     "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
-  "2026-05-27-dol-revamps-overtime-calculation-for-fluctuating-workweek-0.md": {
-    "file": "2026-05-27-dol-revamps-overtime-calculation-for-fluctuating-workweek-0.md",
+  "2026-06-03-dol-issues-new-rule-on-remote-worker-health-and-safety-oblig-0.md": {
+    "file": "2026-06-03-dol-issues-new-rule-on-remote-worker-health-and-safety-oblig-0.md",
     "status": "error",
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:35.283Z",
-    "hash": "ecad787c92065e4b2b66680049213635",
+    "checkedAt": "2026-06-08T12:05:11.622Z",
+    "hash": "965342bb661be4d933c7747415291c6e",
     "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
-  "2026-05-27-irs-announces-new-guidelines-on-health-savings-accounts-for--4.md": {
-    "file": "2026-05-27-irs-announces-new-guidelines-on-health-savings-accounts-for--4.md",
+  "2026-06-03-hsa-contribution-limits-set-to-increase-in-2027-4.md": {
+    "file": "2026-06-03-hsa-contribution-limits-set-to-increase-in-2027-4.md",
     "status": "error",
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:39.988Z",
-    "hash": "9a490310cfaa9c69cac05b0d04b0c294",
+    "checkedAt": "2026-06-08T12:05:16.177Z",
+    "hash": "667edebc8d88f7cbea3bb603113fcbf4",
     "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
-  "2026-05-27-irs-announces-new-rule-on-remote-work-tax-deductions-1.md": {
-    "file": "2026-05-27-irs-announces-new-rule-on-remote-work-tax-deductions-1.md",
+  "2026-06-03-irs-issues-new-guidance-on-employee-retention-credit-claims-3.md": {
+    "file": "2026-06-03-irs-issues-new-guidance-on-employee-retention-credit-claims-3.md",
     "status": "error",
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:44.330Z",
-    "hash": "759a66cc986ac486196a48a203c3176d",
+    "checkedAt": "2026-06-08T12:05:25.189Z",
+    "hash": "f2e2dc47f3852a3351e412197b32dd07",
     "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
-  "2026-05-27-nlrb-issues-new-rule-on-micro-unit-unionization-2.md": {
-    "file": "2026-05-27-nlrb-issues-new-rule-on-micro-unit-unionization-2.md",
+  "2026-06-03-nlrb-expands-definition-of-joint-employer-1.md": {
+    "file": "2026-06-03-nlrb-expands-definition-of-joint-employer-1.md",
     "status": "error",
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:43:49.195Z",
-    "hash": "6c29884de86334ea83e91346911259f2",
+    "checkedAt": "2026-06-08T12:05:29.449Z",
+    "hash": "10e486bfb161db72c3df35669ff427f1",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-03-nlrb-proposes-rule-to-simplify-union-election-processes-2.md": {
+    "file": "2026-06-03-nlrb-proposes-rule-to-simplify-union-election-processes-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:05:34.053Z",
+    "hash": "4eb3d6133ab1225181404da37c0ed3db",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-04-california-privacy-rights-act-compliance-deadline-approaches-1.md": {
+    "file": "2026-06-04-california-privacy-rights-act-compliance-deadline-approaches-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:05:42.029Z",
+    "hash": "c28c3859857c3db0912e49891dc5fdb0",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-04-irs-clarifies-tax-treatment-of-remote-work-reimbursements-2.md": {
+    "file": "2026-06-04-irs-clarifies-tax-treatment-of-remote-work-reimbursements-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:05:43.620Z",
+    "hash": "feddfe1f44bb7fa76b5f3e0c307cdfd1",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-04-osha-finalizes-new-ergonomics-guidelines-for-workplaces-3.md": {
+    "file": "2026-06-04-osha-finalizes-new-ergonomics-guidelines-for-workplaces-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:05:48.310Z",
+    "hash": "3e0979d6616f81f7d47b3a7b04116a32",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-04-osha-proposes-new-rule-on-heat-safety-standards-0.md": {
+    "file": "2026-06-04-osha-proposes-new-rule-on-heat-safety-standards-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:05:54.779Z",
+    "hash": "99e33d59047859aa4236035babd9914b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-04-social-security-wage-base-increases-for-2026-4.md": {
+    "file": "2026-06-04-social-security-wage-base-increases-for-2026-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:05:58.329Z",
+    "hash": "8c61022f1090fbfc8bfa871c33818115",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-05-dol-proposes-new-rule-on-employee-data-privacy-3.md": {
+    "file": "2026-06-05-dol-proposes-new-rule-on-employee-data-privacy-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:03.176Z",
+    "hash": "d9c618fe9dd1d2602b7afa5b15ecab2f",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-05-eeoc-issues-new-guidance-on-ai-in-hiring-processes-0.md": {
+    "file": "2026-06-05-eeoc-issues-new-guidance-on-ai-in-hiring-processes-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:10.734Z",
+    "hash": "2182411b02801396e2d93e8dd24cc255",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-05-fmla-leave-expanded-to-include-mental-health-days-1.md": {
+    "file": "2026-06-05-fmla-leave-expanded-to-include-mental-health-days-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:15.628Z",
+    "hash": "1323fe224cd55716cefcd4b53a4abb3a",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-05-irs-releases-new-guidance-on-fringe-benefits-for-remote-work-4.md": {
+    "file": "2026-06-05-irs-releases-new-guidance-on-fringe-benefits-for-remote-work-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:20.496Z",
+    "hash": "b41c64b20ff4e71223480d5100a61c58",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-05-sec-mandates-new-climate-disclosure-rules-for-public-compani-2.md": {
+    "file": "2026-06-05-sec-mandates-new-climate-disclosure-rules-for-public-compani-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:27.555Z",
+    "hash": "2cf78c7e007b6519cc1d3b351cc73c77",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-06-california-enacts-new-worker-classification-law-for-gig-econ-0.md": {
+    "file": "2026-06-06-california-enacts-new-worker-classification-law-for-gig-econ-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:35.596Z",
+    "hash": "7aed67e8239ba48ce550be7a365af03d",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-06-dol-finalizes-rule-on-retirement-plan-fee-disclosures-4.md": {
+    "file": "2026-06-06-dol-finalizes-rule-on-retirement-plan-fee-disclosures-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:43.567Z",
+    "hash": "fb2adcb0dbe4ab2076c4ae7aab5514f1",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-06-dol-proposes-new-rule-on-workplace-injury-reporting-3.md": {
+    "file": "2026-06-06-dol-proposes-new-rule-on-workplace-injury-reporting-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:56.941Z",
+    "hash": "b2357d601313bb79833e297ede46d16c",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-06-irs-updates-guidelines-for-employee-relocation-expenses-2.md": {
+    "file": "2026-06-06-irs-updates-guidelines-for-employee-relocation-expenses-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:06:58.700Z",
+    "hash": "cd28036aa8524aa5dde76479eedf51dd",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-06-proposed-federal-legislation-targets-pay-transparency-nation-1.md": {
+    "file": "2026-06-06-proposed-federal-legislation-targets-pay-transparency-nation-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:06.710Z",
+    "hash": "b8679585d430700f5dded5756a9b8d2b",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-07-dol-announces-new-guidance-on-employee-wellness-program-ince-4.md": {
+    "file": "2026-06-07-dol-announces-new-guidance-on-employee-wellness-program-ince-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:12.302Z",
+    "hash": "3ccf37f667344b4588e61ad7bde0bd93",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-07-irs-updates-mileage-reimbursement-rates-for-2026-3.md": {
+    "file": "2026-06-07-irs-updates-mileage-reimbursement-rates-for-2026-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:15.608Z",
+    "hash": "b68881ed57fb85ddf41f30148c5d00c8",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-07-new-federal-guidelines-on-mental-health-parity-in-employee-b-1.md": {
+    "file": "2026-06-07-new-federal-guidelines-on-mental-health-parity-in-employee-b-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:22.129Z",
+    "hash": "d7dd11d4661f855424ff4b6535916c61",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-07-osha-proposes-new-rule-on-indoor-air-quality-standards-2.md": {
+    "file": "2026-06-07-osha-proposes-new-rule-on-indoor-air-quality-standards-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:30.349Z",
+    "hash": "31171f84862b07f2dc8d91e76d9f86bf",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-07-supreme-court-to-review-ada-accommodations-for-remote-work-0.md": {
+    "file": "2026-06-07-supreme-court-to-review-ada-accommodations-for-remote-work-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:37.357Z",
+    "hash": "07b929fdc1e87b8d254be2456a521707",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-08-dol-updates-flsa-tip-regulations-effective-july-1-2026-2.md": {
+    "file": "2026-06-08-dol-updates-flsa-tip-regulations-effective-july-1-2026-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:44.289Z",
+    "hash": "dc14566e266f00fd43e75fcd05ed3259",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-08-eeoc-expands-definition-of-disability-under-ada-0.md": {
+    "file": "2026-06-08-eeoc-expands-definition-of-disability-under-ada-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:52.334Z",
+    "hash": "0999509b84601e0f200880549c9a72d3",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-08-ftc-introduces-new-guidelines-on-green-marketing-claims-3.md": {
+    "file": "2026-06-08-ftc-introduces-new-guidelines-on-green-marketing-claims-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:07:57.563Z",
+    "hash": "ffd70a6a1abaf433ae6f38fbba0ffbb6",
+    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+  },
+  "2026-06-08-new-federal-guidelines-on-background-checks-for-employment-1.md": {
+    "file": "2026-06-08-new-federal-guidelines-on-background-checks-for-employment-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-08T12:08:03.210Z",
+    "hash": "5011fa1de89a4d92504833d60e6f5f63",
     "dir": "/home/runner/work/AEA/AEA/src/content/news"
   },
   "2024-minimum-wage-updates.md": {
@@ -235,7 +535,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:35.232Z",
+    "checkedAt": "2026-06-08T12:08:05.609Z",
     "hash": "d3b78b0cdd12afd4a94e199576853bf7",
     "dir": "/home/runner/work/AEA/AEA/src/content/insights"
   },
@@ -245,7 +545,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:39.240Z",
+    "checkedAt": "2026-06-08T12:08:11.907Z",
     "hash": "130ed4372e43c818efb1c9744c42e5d6",
     "dir": "/home/runner/work/AEA/AEA/src/content/insights"
   },
@@ -255,7 +555,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:40.545Z",
+    "checkedAt": "2026-06-08T12:08:13.496Z",
     "hash": "28bb45a723c6d883b77bb4e5edac7f37",
     "dir": "/home/runner/work/AEA/AEA/src/content/insights"
   },
@@ -265,7 +565,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:43.844Z",
+    "checkedAt": "2026-06-08T12:08:19.304Z",
     "hash": "3b8d5545f715e54f58405b29346e3f41",
     "dir": "/home/runner/work/AEA/AEA/src/content/insights"
   },
@@ -275,7 +575,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:45.623Z",
+    "checkedAt": "2026-06-08T12:08:20.961Z",
     "hash": "b32d7e7c6c54fb8726573d2ee38c8d56",
     "dir": "/home/runner/work/AEA/AEA/src/content/insights"
   },
@@ -285,7 +585,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:49.502Z",
+    "checkedAt": "2026-06-08T12:08:25.252Z",
     "hash": "e07c13c222ce8460d4b3974d9d44822d",
     "dir": "/home/runner/work/AEA/AEA/src/content/insights"
   },
@@ -295,7 +595,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:53.260Z",
+    "checkedAt": "2026-06-08T12:08:29.289Z",
     "hash": "56316c7aa1b26c52688173a4cd7b0479",
     "dir": "/home/runner/work/AEA/AEA/src/content/insights"
   },
@@ -305,7 +605,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:55.043Z",
+    "checkedAt": "2026-06-08T12:08:31.099Z",
     "hash": "3840ef28230b9ac804a732b1c724d444",
     "dir": "/home/runner/work/AEA/AEA/src/content/insights"
   },
@@ -315,7 +615,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:56.581Z",
+    "checkedAt": "2026-06-08T12:08:32.401Z",
     "hash": "8e4cc05be3dee18f70e150c743e9454d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -325,7 +625,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:45:57.888Z",
+    "checkedAt": "2026-06-08T12:08:33.824Z",
     "hash": "fc486f45957386dcb8f4f786ebc738bb",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -335,7 +635,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:03.018Z",
+    "checkedAt": "2026-06-08T12:08:41.932Z",
     "hash": "13b7b5fd23392a84df3b7b71c2e42af3",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -345,7 +645,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:07.473Z",
+    "checkedAt": "2026-06-08T12:08:46.014Z",
     "hash": "8007737dc00b3f3ddcf592f5b1166037",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -355,7 +655,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:12.957Z",
+    "checkedAt": "2026-06-08T12:08:54.496Z",
     "hash": "da135fa330d9400118c8b724170b87fb",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -365,7 +665,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:16.970Z",
+    "checkedAt": "2026-06-08T12:09:00.078Z",
     "hash": "008a11bfde0e373aee038397959b311a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -375,7 +675,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:22.600Z",
+    "checkedAt": "2026-06-08T12:09:05.421Z",
     "hash": "6e4af59bef38ce3e978b5072d1da961e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -385,7 +685,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:24.707Z",
+    "checkedAt": "2026-06-08T12:09:10.987Z",
     "hash": "d8e894d6b5d65f3a98e18814500dca82",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -395,7 +695,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:30.527Z",
+    "checkedAt": "2026-06-08T12:09:16.294Z",
     "hash": "9b6f9e82ef6969cada766edb9f42980f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -405,7 +705,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:32.257Z",
+    "checkedAt": "2026-06-08T12:09:17.874Z",
     "hash": "ed06aa93c0d73a0be39bf6f934e10687",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -415,7 +715,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:36.040Z",
+    "checkedAt": "2026-06-08T12:09:22.225Z",
     "hash": "9bdddd3d912f4ddf30c29a6b4984834c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -425,7 +725,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:41.203Z",
+    "checkedAt": "2026-06-08T12:09:27.281Z",
     "hash": "95153be9797f8f3bbdef855ec6aa651d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -435,7 +735,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:51.323Z",
+    "checkedAt": "2026-06-08T12:09:34.868Z",
     "hash": "66f2a8881475fd31d17289c8bdc39e5f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -445,7 +745,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:53.134Z",
+    "checkedAt": "2026-06-08T12:09:36.501Z",
     "hash": "2fd9fc32c4e08cc9f2f4f9740dd9d73d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -455,7 +755,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:55.498Z",
+    "checkedAt": "2026-06-08T12:09:39.509Z",
     "hash": "734a64f2eaa5414ca7b72b41b6b6e41c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -465,7 +765,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:57.327Z",
+    "checkedAt": "2026-06-08T12:09:40.873Z",
     "hash": "3af05263a117bfc60a815496ab1fb90a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -475,7 +775,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:46:59.026Z",
+    "checkedAt": "2026-06-08T12:09:44.808Z",
     "hash": "8ed6c1a87afe14166c0912ec0198d33e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -485,7 +785,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:04.101Z",
+    "checkedAt": "2026-06-08T12:09:48.517Z",
     "hash": "f195ce8794522c5db35f363d2a7e9fa8",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -495,7 +795,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:10.382Z",
+    "checkedAt": "2026-06-08T12:09:53.188Z",
     "hash": "68a00d9ffe9ff6d36c12110d1a53a848",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -505,7 +805,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:12.377Z",
+    "checkedAt": "2026-06-08T12:09:55.885Z",
     "hash": "fa46b1f93ea69b58fd08a9813e9edf68",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -515,7 +815,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:15.684Z",
+    "checkedAt": "2026-06-08T12:09:57.822Z",
     "hash": "73be2880c4aebdc01265996909f27a38",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -525,7 +825,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:35.862Z",
+    "checkedAt": "2026-06-08T12:10:04.025Z",
     "hash": "747dbcb9b1664a26e972df8e62a39975",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -535,7 +835,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:40.873Z",
+    "checkedAt": "2026-06-08T12:10:12.202Z",
     "hash": "9d58903368803d7aab5e8ee40586dac0",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -545,7 +845,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:42.346Z",
+    "checkedAt": "2026-06-08T12:10:13.693Z",
     "hash": "4c66eb74098e8f6b754e23ffc0025314",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -555,7 +855,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:43.861Z",
+    "checkedAt": "2026-06-08T12:10:15.919Z",
     "hash": "6eaec930af3440f3193fff5d286c133d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -565,7 +865,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:48.306Z",
+    "checkedAt": "2026-06-08T12:10:19.978Z",
     "hash": "bd70241b79353c0fd9a9366fffa51127",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -575,7 +875,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:54.710Z",
+    "checkedAt": "2026-06-08T12:10:26.396Z",
     "hash": "5a2f9a42ca2defa32f39689e20773936",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -585,7 +885,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:55.977Z",
+    "checkedAt": "2026-06-08T12:10:28.053Z",
     "hash": "9d4987e5819eb8a9172e9da9c02f52ac",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -595,7 +895,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:47:57.766Z",
+    "checkedAt": "2026-06-08T12:10:29.454Z",
     "hash": "63480540d8da8130925c7f80b3fba92e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -605,7 +905,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:02.597Z",
+    "checkedAt": "2026-06-08T12:10:34.186Z",
     "hash": "bb5012ab03f81987227f6006c1c6c359",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -615,7 +915,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:04.161Z",
+    "checkedAt": "2026-06-08T12:10:35.791Z",
     "hash": "149db1768247b0acbb99776200963d23",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -625,7 +925,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:08.777Z",
+    "checkedAt": "2026-06-08T12:10:40.749Z",
     "hash": "bcd14f207b72ee6f476cb54ccfadfba0",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -635,7 +935,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:12.898Z",
+    "checkedAt": "2026-06-08T12:10:44.951Z",
     "hash": "7a8e26ac574f07d0f8388c90e082a4ed",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -645,7 +945,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:20.264Z",
+    "checkedAt": "2026-06-08T12:10:52.409Z",
     "hash": "31eae82eb4f9235d76666ed14efc945a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -655,7 +955,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:21.933Z",
+    "checkedAt": "2026-06-08T12:10:53.988Z",
     "hash": "0aee7031fb57557e88ce9ab4d012403d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -665,7 +965,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:26.675Z",
+    "checkedAt": "2026-06-08T12:11:00.004Z",
     "hash": "fb6ffea51623492a2f53df64d642b64c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -675,7 +975,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:30.774Z",
+    "checkedAt": "2026-06-08T12:11:04.509Z",
     "hash": "5b05962bd751c7fb3344779037218133",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -685,7 +985,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:34.377Z",
+    "checkedAt": "2026-06-08T12:11:08.969Z",
     "hash": "f667e3392dfb419e64a70d82de9a25bd",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -695,7 +995,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:36.172Z",
+    "checkedAt": "2026-06-08T12:11:10.932Z",
     "hash": "28c7bafa6044afa789cad08b57805ac6",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -705,7 +1005,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:40.120Z",
+    "checkedAt": "2026-06-08T12:11:12.560Z",
     "hash": "d021d1cb7f14abbd49a459cbdd1e4d3a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -715,7 +1015,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:43.624Z",
+    "checkedAt": "2026-06-08T12:11:17.142Z",
     "hash": "c0b2c9d03d5a84fac0c38468d9907aca",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -725,7 +1025,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:56.462Z",
+    "checkedAt": "2026-06-08T12:11:18.746Z",
     "hash": "509db414bc05e47771702f9e6ccdace6",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -735,7 +1035,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:48:58.052Z",
+    "checkedAt": "2026-06-08T12:11:20.255Z",
     "hash": "bb87b98cf1dd0c002661f324eeb0239d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -745,7 +1045,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:01.638Z",
+    "checkedAt": "2026-06-08T12:11:25.472Z",
     "hash": "0bc3647646cb9f037a9e4925a7842279",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -755,7 +1055,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:03.083Z",
+    "checkedAt": "2026-06-08T12:11:27.161Z",
     "hash": "ffe83b2e35f6d0ce41011b960b3f8aae",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -765,7 +1065,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:06.314Z",
+    "checkedAt": "2026-06-08T12:11:28.912Z",
     "hash": "ad0c5e328910f708956713adaf9ead1d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -775,7 +1075,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:12.416Z",
+    "checkedAt": "2026-06-08T12:11:36.111Z",
     "hash": "f30a282ac3ac85a6219028519187b2c7",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -785,7 +1085,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:13.941Z",
+    "checkedAt": "2026-06-08T12:11:37.961Z",
     "hash": "71120859232673e5a1bf68afbb1c328b",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -795,7 +1095,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:20.775Z",
+    "checkedAt": "2026-06-08T12:11:43.466Z",
     "hash": "07ff5ff21b6e6ce17d423b4275f98b9e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -805,7 +1105,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:25.746Z",
+    "checkedAt": "2026-06-08T12:11:47.936Z",
     "hash": "d9c7c845404f6d604bfa222a306fd621",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -815,7 +1115,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:28.217Z",
+    "checkedAt": "2026-06-08T12:11:49.875Z",
     "hash": "5f1a9f05da14e39c290675a59bd4f1bc",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -825,7 +1125,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:33.207Z",
+    "checkedAt": "2026-06-08T12:11:54.494Z",
     "hash": "85ff0dd916e791975a1fb51b27bf4427",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -835,7 +1135,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:38.533Z",
+    "checkedAt": "2026-06-08T12:11:59.891Z",
     "hash": "6679f9d0fba34624d2c4d6142dd96f30",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -845,7 +1145,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:44.111Z",
+    "checkedAt": "2026-06-08T12:12:04.948Z",
     "hash": "b2a557e697435d329537e47ee178ce6e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -855,7 +1155,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:45.596Z",
+    "checkedAt": "2026-06-08T12:12:06.655Z",
     "hash": "5cc909fe4e64b5a86693065c7bd16e2f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -865,7 +1165,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:50.762Z",
+    "checkedAt": "2026-06-08T12:12:11.200Z",
     "hash": "c00893fe1e27ca1d3adb586b6f6f09a4",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -875,7 +1175,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:49:56.347Z",
+    "checkedAt": "2026-06-08T12:12:20.035Z",
     "hash": "46018b3a32575530dab6da14bdaa2f36",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -885,7 +1185,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:00.255Z",
+    "checkedAt": "2026-06-08T12:12:26.664Z",
     "hash": "be619bba793826713f5be14bd95a94b8",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -895,7 +1195,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:05.971Z",
+    "checkedAt": "2026-06-08T12:12:31.873Z",
     "hash": "d7837cb1140241f089e9d1cb306fc11d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -905,7 +1205,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:09.651Z",
+    "checkedAt": "2026-06-08T12:12:43.557Z",
     "hash": "c86cba34b08f1ba3bb7aa21b5c3ea035",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -915,7 +1215,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:14.044Z",
+    "checkedAt": "2026-06-08T12:12:50.155Z",
     "hash": "822b7224dfb6778c6aa9e6aa7bf99cc5",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -925,7 +1225,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:19.375Z",
+    "checkedAt": "2026-06-08T12:12:54.625Z",
     "hash": "5ee8fc958b0978e143bd1a2b7bf37b90",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -935,7 +1235,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:22.893Z",
+    "checkedAt": "2026-06-08T12:12:58.902Z",
     "hash": "1f1eccaea237cb0fcffcd95bbed8e358",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -945,7 +1245,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:27.920Z",
+    "checkedAt": "2026-06-08T12:13:04.551Z",
     "hash": "70498d7270ef8aa1783946663c2ffc55",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -955,7 +1255,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:34.764Z",
+    "checkedAt": "2026-06-08T12:13:11.443Z",
     "hash": "303f57fcdfc9df01015908a55e69acbd",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -965,7 +1265,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:36.398Z",
+    "checkedAt": "2026-06-08T12:13:13.024Z",
     "hash": "4681bd13732089fc0000658abeeb73f3",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -975,7 +1275,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:37.778Z",
+    "checkedAt": "2026-06-08T12:13:14.605Z",
     "hash": "36e42dfa431f09a8406cfb4df77b74ea",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -985,7 +1285,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:39.334Z",
+    "checkedAt": "2026-06-08T12:13:16.263Z",
     "hash": "89c4f4b2facb1f89f652a7f8c46ab322",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -995,7 +1295,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:41.059Z",
+    "checkedAt": "2026-06-08T12:13:18.007Z",
     "hash": "e6a5b553ad5de124ae843a5af286f8ee",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1005,7 +1305,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:45.315Z",
+    "checkedAt": "2026-06-08T12:13:21.824Z",
     "hash": "c0b7d9bd4db8e4806afea978b772bbfc",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1015,7 +1315,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:51.549Z",
+    "checkedAt": "2026-06-08T12:13:27.150Z",
     "hash": "ece472ff3e6e54fd3f9c77008b023d4a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1025,7 +1325,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:50:55.334Z",
+    "checkedAt": "2026-06-08T12:13:30.520Z",
     "hash": "d3ff255a0f1ef5f54208edbb3d8eb9c1",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1035,7 +1335,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:00.546Z",
+    "checkedAt": "2026-06-08T12:13:34.843Z",
     "hash": "76aafd75818aeeeabaafd7259a9c5367",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1045,7 +1345,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:07.062Z",
+    "checkedAt": "2026-06-08T12:13:41.433Z",
     "hash": "55dba10ac0fd102d28272e785d75d1de",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1055,7 +1355,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:11.748Z",
+    "checkedAt": "2026-06-08T12:13:50.113Z",
     "hash": "7213c638a3bf6c95524a9fbd801c4ed4",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1065,7 +1365,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:16.218Z",
+    "checkedAt": "2026-06-08T12:13:55.033Z",
     "hash": "39c7cf4b3c5b47394f1c8ccd6d5fda36",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1075,7 +1375,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:17.826Z",
+    "checkedAt": "2026-06-08T12:13:56.531Z",
     "hash": "d1034c175eba69ece433be78cdb673bd",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1085,7 +1385,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:23.636Z",
+    "checkedAt": "2026-06-08T12:14:00.166Z",
     "hash": "ffe0fe20735bd4cd633cf246b65be488",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1095,7 +1395,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:26.583Z",
+    "checkedAt": "2026-06-08T12:14:05.154Z",
     "hash": "8a1890cb2a7f60b22b563dfd94d9c448",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1105,7 +1405,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:30.438Z",
+    "checkedAt": "2026-06-08T12:14:06.866Z",
     "hash": "9256b85c578b9e5de7cfe314dad220e6",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1115,7 +1415,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:34.696Z",
+    "checkedAt": "2026-06-08T12:14:13.226Z",
     "hash": "ffeb6c2cfb4ad528639d1401ad361deb",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1125,7 +1425,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:41.015Z",
+    "checkedAt": "2026-06-08T12:14:18.670Z",
     "hash": "97cf2bcca60e59831bb9d0c93b1676d0",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1135,7 +1435,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:42.466Z",
+    "checkedAt": "2026-06-08T12:14:20.203Z",
     "hash": "c80d7147c25b0c2ec88ffd57ad5dac8a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1145,7 +1445,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:47.445Z",
+    "checkedAt": "2026-06-08T12:14:24.874Z",
     "hash": "9333b30501a175542c7b8972555a0cb1",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1155,7 +1455,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:51:58.313Z",
+    "checkedAt": "2026-06-08T12:14:27.006Z",
     "hash": "33b18b828232a27e106c1845fb6c1882",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1165,7 +1465,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:03.326Z",
+    "checkedAt": "2026-06-08T12:14:31.546Z",
     "hash": "17f39f16e14499337e29cb74fc41cabc",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1175,7 +1475,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:08.675Z",
+    "checkedAt": "2026-06-08T12:14:39.502Z",
     "hash": "836cb4e283454beff4ac7f74efadc38a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1185,7 +1485,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:13.726Z",
+    "checkedAt": "2026-06-08T12:14:41.675Z",
     "hash": "4c80529f20838f3d22e22708a110c24f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1195,7 +1495,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:15.135Z",
+    "checkedAt": "2026-06-08T12:14:43.990Z",
     "hash": "a358fb7d2dbb927010f818d2bac3f6bb",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1205,7 +1505,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:19.338Z",
+    "checkedAt": "2026-06-08T12:14:48.638Z",
     "hash": "f74f9d5fe3871ef33ec5fd5bc95bc565",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1215,7 +1515,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:23.992Z",
+    "checkedAt": "2026-06-08T12:14:52.784Z",
     "hash": "2d5fae2bb0ca69b9ab77ef0465588614",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1225,7 +1525,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:28.457Z",
+    "checkedAt": "2026-06-08T12:14:55.274Z",
     "hash": "41d9a0d3cf08c8a4215d3bb78f9aa521",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1235,7 +1535,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:32.938Z",
+    "checkedAt": "2026-06-08T12:15:00.278Z",
     "hash": "a7a2bcb56f0d7452ae41b120aaa2a0c9",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1245,7 +1545,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:37.161Z",
+    "checkedAt": "2026-06-08T12:15:01.999Z",
     "hash": "cb1e388a5fdab0a3eb93ff62769462f7",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1255,7 +1555,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:43.038Z",
+    "checkedAt": "2026-06-08T12:15:06.405Z",
     "hash": "54983865cfc65a04e0f4a173e78d42df",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1265,7 +1565,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:44.565Z",
+    "checkedAt": "2026-06-08T12:15:07.523Z",
     "hash": "acc550ff8eab1e232145711581956a9d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1275,7 +1575,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:45.916Z",
+    "checkedAt": "2026-06-08T12:15:14.104Z",
     "hash": "ba57d1d3cb0a346bed0d05973abd44f5",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1285,7 +1585,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:50.747Z",
+    "checkedAt": "2026-06-08T12:15:17.036Z",
     "hash": "a61fb1192ae4f49140fe24258bbb2387",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1295,7 +1595,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:55.129Z",
+    "checkedAt": "2026-06-08T12:15:19.988Z",
     "hash": "443fc700e918e38f1e75d7f76ffd7e61",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1305,7 +1605,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:52:58.868Z",
+    "checkedAt": "2026-06-08T12:15:23.787Z",
     "hash": "b56fd46a4f67e930bd062364c434da71",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1315,7 +1615,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:02.801Z",
+    "checkedAt": "2026-06-08T12:15:26.626Z",
     "hash": "db89d3ab00d1731635f0681e9d89c208",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1325,7 +1625,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:06.616Z",
+    "checkedAt": "2026-06-08T12:15:29.280Z",
     "hash": "1f138fc2333219f79d4786bd678b8b4f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1335,7 +1635,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:08.145Z",
+    "checkedAt": "2026-06-08T12:15:30.473Z",
     "hash": "2b1a9820f3b8604ddd7fb7fda7dab0de",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1345,7 +1645,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:09.392Z",
+    "checkedAt": "2026-06-08T12:15:32.097Z",
     "hash": "3a91df99dbabe712c418f74d9a26edee",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1355,7 +1655,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:16.273Z",
+    "checkedAt": "2026-06-08T12:15:38.666Z",
     "hash": "1a2ec2e214c840dce2bd0edad213c8db",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1365,7 +1665,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:20.131Z",
+    "checkedAt": "2026-06-08T12:15:41.767Z",
     "hash": "569b4035c93160628179cab51ad58583",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1375,7 +1675,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:23.058Z",
+    "checkedAt": "2026-06-08T12:15:46.291Z",
     "hash": "6fe9eaed746634a9a67f5f050a5e3e38",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1385,7 +1685,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:27.946Z",
+    "checkedAt": "2026-06-08T12:15:49.805Z",
     "hash": "e92fb5cdc117699ceb05feef0d7fad20",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1395,7 +1695,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:32.589Z",
+    "checkedAt": "2026-06-08T12:15:54.352Z",
     "hash": "5622f0d51e95e5ed308bcbefebad39af",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1405,7 +1705,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:37.819Z",
+    "checkedAt": "2026-06-08T12:15:59.879Z",
     "hash": "97672f7fa39014ca42fb3dc3cf7b5da8",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1415,7 +1715,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:39.119Z",
+    "checkedAt": "2026-06-08T12:16:01.757Z",
     "hash": "af0cd3c77df5a160710181f7142b994b",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1425,7 +1725,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:44.847Z",
+    "checkedAt": "2026-06-08T12:16:06.157Z",
     "hash": "2f78ae38f7f170d60c42db0a261ea75c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1435,7 +1735,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:46.276Z",
+    "checkedAt": "2026-06-08T12:16:07.643Z",
     "hash": "1100a07af9dd8de5ae6cccfd049c982e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1445,7 +1745,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:47.836Z",
+    "checkedAt": "2026-06-08T12:16:08.893Z",
     "hash": "6908e932e2b9bb2e3ba1b40298de628f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1455,7 +1755,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:51.507Z",
+    "checkedAt": "2026-06-08T12:16:11.645Z",
     "hash": "b943627de6783a21849e96100bcbe907",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1465,7 +1765,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:53.120Z",
+    "checkedAt": "2026-06-08T12:16:13.545Z",
     "hash": "5ec95c183b50bb77767310a0a6705dbd",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1475,7 +1775,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:56.690Z",
+    "checkedAt": "2026-06-08T12:16:17.995Z",
     "hash": "b57d4721a7e3ce368e201de256381cbc",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1485,7 +1785,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:53:58.027Z",
+    "checkedAt": "2026-06-08T12:16:19.297Z",
     "hash": "ca4610fcd05735b3ed9776cd0551c36f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1495,7 +1795,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:02.772Z",
+    "checkedAt": "2026-06-08T12:16:22.627Z",
     "hash": "447812f231eedb291d029caf52825aa8",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1505,7 +1805,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:04.248Z",
+    "checkedAt": "2026-06-08T12:16:26.236Z",
     "hash": "ed4c2f18ba0862faa3d9a022ed5d535e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1515,7 +1815,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:08.447Z",
+    "checkedAt": "2026-06-08T12:16:31.199Z",
     "hash": "35d39fc8b1ffe331b16e50ef2f4be312",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1525,7 +1825,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:12.016Z",
+    "checkedAt": "2026-06-08T12:16:34.665Z",
     "hash": "e47feabda06d2fc82dd6685db61df32e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1535,7 +1835,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:16.757Z",
+    "checkedAt": "2026-06-08T12:16:39.986Z",
     "hash": "5716af765c4683d1424fd841417e8f29",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1545,7 +1845,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:18.144Z",
+    "checkedAt": "2026-06-08T12:16:41.412Z",
     "hash": "927a1a784f0ce4cf619a705de971d00c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1555,7 +1855,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:20.417Z",
+    "checkedAt": "2026-06-08T12:16:43.359Z",
     "hash": "5b178c804ba19d6ab9cf2e706efad97b",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1565,7 +1865,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:21.911Z",
+    "checkedAt": "2026-06-08T12:16:45.093Z",
     "hash": "d1fdaa5d87ec231d4090c2ce52190c25",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1575,7 +1875,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:26.969Z",
+    "checkedAt": "2026-06-08T12:16:49.337Z",
     "hash": "3b3fb37da3def72af88ec4bc513208b3",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1585,7 +1885,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:32.324Z",
+    "checkedAt": "2026-06-08T12:16:53.497Z",
     "hash": "a1383a02db962102e0c846ad642c1615",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1595,7 +1895,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:37.270Z",
+    "checkedAt": "2026-06-08T12:16:57.263Z",
     "hash": "2086c5eec7b4fbd9ec631f2a4aee420f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1605,7 +1905,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:38.699Z",
+    "checkedAt": "2026-06-08T12:16:58.875Z",
     "hash": "878690ff0490aa2515803c0136daec0f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1615,7 +1915,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:41.777Z",
+    "checkedAt": "2026-06-08T12:17:00.570Z",
     "hash": "2c04941a5257aac4fc30d36a8c3a7081",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1625,7 +1925,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:44.672Z",
+    "checkedAt": "2026-06-08T12:17:02.199Z",
     "hash": "464c238683b974868e3b6206ab0cd967",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1635,7 +1935,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:48.661Z",
+    "checkedAt": "2026-06-08T12:17:07.773Z",
     "hash": "35e4ea0f63015058c1f79eb205a49715",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1645,7 +1945,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:49.980Z",
+    "checkedAt": "2026-06-08T12:17:09.172Z",
     "hash": "731ccd19d145168e873cd5ef25b99fb8",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1655,7 +1955,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:51.436Z",
+    "checkedAt": "2026-06-08T12:17:10.679Z",
     "hash": "336c3f9cb693849fe944da8a8c9e06dc",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1665,7 +1965,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:53.190Z",
+    "checkedAt": "2026-06-08T12:17:12.139Z",
     "hash": "dd72f0f6ebc7ce71f9f9f904de759e8a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1675,7 +1975,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:56.241Z",
+    "checkedAt": "2026-06-08T12:17:14.387Z",
     "hash": "e6d4ec191da787b89b77cf67d7dc928c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1685,7 +1985,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:54:57.870Z",
+    "checkedAt": "2026-06-08T12:17:15.947Z",
     "hash": "5aa2f8a3f20b7eb56d4cb5d9768b9724",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1695,7 +1995,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:01.602Z",
+    "checkedAt": "2026-06-08T12:17:19.638Z",
     "hash": "d8dc0ff8c2c0a8ea92c21f91bad558b0",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1705,7 +2005,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:05.725Z",
+    "checkedAt": "2026-06-08T12:17:26.616Z",
     "hash": "3f63dc46198dd5a192a101a261bfd538",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1715,7 +2015,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:07.342Z",
+    "checkedAt": "2026-06-08T12:17:28.346Z",
     "hash": "99cc548bc99ea7d7142f9f4a26b648a8",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1725,7 +2025,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:08.783Z",
+    "checkedAt": "2026-06-08T12:17:29.840Z",
     "hash": "9b858b9281c8fa6d48e3b0a3125e711c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1735,7 +2035,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:19.187Z",
+    "checkedAt": "2026-06-08T12:17:34.233Z",
     "hash": "77ebcd1b8eaa3ee8cea62418b243f8c9",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1745,7 +2045,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:24.635Z",
+    "checkedAt": "2026-06-08T12:17:38.384Z",
     "hash": "9fdc90c0ba563e724b465ff79f3464ce",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1755,7 +2055,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:26.428Z",
+    "checkedAt": "2026-06-08T12:17:39.970Z",
     "hash": "533c52606dadd6bc4bcdd0301594dc1b",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1765,7 +2065,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:30.342Z",
+    "checkedAt": "2026-06-08T12:17:43.036Z",
     "hash": "f634a5d9e5e14ac6ba4b766c7c66f483",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1775,7 +2075,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:34.314Z",
+    "checkedAt": "2026-06-08T12:17:47.505Z",
     "hash": "ac4a3a4de026d7656b2fd90c4000657b",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1785,7 +2085,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:38.290Z",
+    "checkedAt": "2026-06-08T12:17:50.347Z",
     "hash": "caa826fca71dc27292b99e8d90f936ca",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1795,7 +2095,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:43.771Z",
+    "checkedAt": "2026-06-08T12:17:53.945Z",
     "hash": "4bc790c70683941283c4c0ad12cad7c2",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1805,7 +2105,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:49.166Z",
+    "checkedAt": "2026-06-08T12:17:59.193Z",
     "hash": "1ee3db99e93d9e74a254f327193eecd2",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1815,7 +2115,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:51.135Z",
+    "checkedAt": "2026-06-08T12:18:01.499Z",
     "hash": "5f9d258e35c0c8db915c2b444d6bf226",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1825,7 +2125,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:55:57.376Z",
+    "checkedAt": "2026-06-08T12:18:08.270Z",
     "hash": "ee7b7b067348c1b5f7b47d8fe36d39a9",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1835,7 +2135,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:01.489Z",
+    "checkedAt": "2026-06-08T12:18:09.798Z",
     "hash": "8f541c243d421fdfed27ca2b3c8a1675",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1845,7 +2145,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:07.389Z",
+    "checkedAt": "2026-06-08T12:18:13.148Z",
     "hash": "df4d2606d520f55ffd4e48f45ef905e2",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1855,7 +2155,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:12.473Z",
+    "checkedAt": "2026-06-08T12:18:17.050Z",
     "hash": "074a24ab37152a0a27b8e3570aab7592",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1865,7 +2165,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:13.850Z",
+    "checkedAt": "2026-06-08T12:18:18.580Z",
     "hash": "808c19ac0c6440011e1ef0644d6f258d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1875,7 +2175,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:17.399Z",
+    "checkedAt": "2026-06-08T12:18:22.206Z",
     "hash": "f9be618fe44c013b05e8914895a81b71",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1885,7 +2185,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:19.040Z",
+    "checkedAt": "2026-06-08T12:18:23.643Z",
     "hash": "fd65ff03f1679906965995f23f9a313a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1895,7 +2195,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:21.123Z",
+    "checkedAt": "2026-06-08T12:18:28.690Z",
     "hash": "a9a3f38caf3eaa9b27014b318a84eed0",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1905,7 +2205,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:22.618Z",
+    "checkedAt": "2026-06-08T12:18:33.038Z",
     "hash": "8c22ad1b341a99921b75e25b199831f6",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1915,7 +2215,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:24.042Z",
+    "checkedAt": "2026-06-08T12:18:34.428Z",
     "hash": "ac14ed943a815acf3261c9dd865f293c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1925,7 +2225,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:25.463Z",
+    "checkedAt": "2026-06-08T12:18:36.232Z",
     "hash": "8b9a9ba8248468fbacdf1cae08c63bd1",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1935,7 +2235,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:32.238Z",
+    "checkedAt": "2026-06-08T12:18:40.722Z",
     "hash": "eba950fdda7048abaaf6a9c62a2e9d58",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1945,7 +2245,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:33.560Z",
+    "checkedAt": "2026-06-08T12:18:44.510Z",
     "hash": "5928c143889f93a45241d5dfa3d21487",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1955,7 +2255,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:35.022Z",
+    "checkedAt": "2026-06-08T12:18:46.057Z",
     "hash": "bba4a1f2238417dc1cbad8ce499a4401",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1965,7 +2265,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:36.669Z",
+    "checkedAt": "2026-06-08T12:18:47.669Z",
     "hash": "78c1183e5ce5f66636a9afad0a2ac087",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1975,7 +2275,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:41.277Z",
+    "checkedAt": "2026-06-08T12:18:51.183Z",
     "hash": "e09342ddcb7a9e7c8498ff51be44d49e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1985,7 +2285,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:44.673Z",
+    "checkedAt": "2026-06-08T12:18:56.854Z",
     "hash": "e097b14add4607a17418fc168ad2354f",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -1995,7 +2295,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:46.198Z",
+    "checkedAt": "2026-06-08T12:18:58.715Z",
     "hash": "2f2d1a74dea01bd85e0b4bd9e41e246a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2005,7 +2305,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:51.230Z",
+    "checkedAt": "2026-06-08T12:19:03.010Z",
     "hash": "0604d258fceda4fde760ce86607965d2",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2015,7 +2315,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:56:56.359Z",
+    "checkedAt": "2026-06-08T12:19:04.586Z",
     "hash": "2d9d4f395bc84a3c84326f23758dbb7d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2025,7 +2325,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:04.625Z",
+    "checkedAt": "2026-06-08T12:19:11.090Z",
     "hash": "c2b247f1006190ca345074a66601c07d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2035,7 +2335,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:08.268Z",
+    "checkedAt": "2026-06-08T12:19:13.632Z",
     "hash": "6a1c651c8227855a516f270ff583c8df",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2045,7 +2345,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:09.923Z",
+    "checkedAt": "2026-06-08T12:19:14.986Z",
     "hash": "80b1deb827d0e762222aa2945ddf846b",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2055,7 +2355,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:16.152Z",
+    "checkedAt": "2026-06-08T12:19:20.746Z",
     "hash": "fc27bf576b609d641c99e12307354b61",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2065,7 +2365,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:17.838Z",
+    "checkedAt": "2026-06-08T12:19:22.251Z",
     "hash": "eb54b9b957050f4a8827a73deb7fff07",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2075,7 +2375,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:19.488Z",
+    "checkedAt": "2026-06-08T12:19:23.767Z",
     "hash": "411baf3915eab4f7c105b096d941664d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2085,7 +2385,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:21.309Z",
+    "checkedAt": "2026-06-08T12:19:25.176Z",
     "hash": "600e223cab1bfff762971b8d43a34c7e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2095,7 +2395,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:27.371Z",
+    "checkedAt": "2026-06-08T12:19:30.916Z",
     "hash": "d27a98bb983149f2bca55a1e2aa77962",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2105,7 +2405,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:33.377Z",
+    "checkedAt": "2026-06-08T12:19:35.484Z",
     "hash": "e114bdf0c7416283359daf16f602fc07",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2115,7 +2415,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:36.775Z",
+    "checkedAt": "2026-06-08T12:19:37.854Z",
     "hash": "2ead51f0a77ee641acd592fd3e51e72c",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2125,7 +2425,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:38.118Z",
+    "checkedAt": "2026-06-08T12:19:41.913Z",
     "hash": "3d6938ee295b1c1ee800b0c49f78f395",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2135,7 +2435,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:50.823Z",
+    "checkedAt": "2026-06-08T12:19:47.583Z",
     "hash": "bacea16880ccba9ea30b26f7b95a9485",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2145,7 +2445,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:57.300Z",
+    "checkedAt": "2026-06-08T12:19:52.464Z",
     "hash": "26cdefd6bf27a6cdd02576f335e37760",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2155,7 +2455,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:57:59.314Z",
+    "checkedAt": "2026-06-08T12:19:54.147Z",
     "hash": "055eab28e2517511277bc49f44f79bcf",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2165,7 +2465,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:01.132Z",
+    "checkedAt": "2026-06-08T12:19:56.961Z",
     "hash": "2f2c29fa34bef405d7842ffe0f28994e",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2175,7 +2475,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:03.312Z",
+    "checkedAt": "2026-06-08T12:19:58.744Z",
     "hash": "1de19e982eb3796184ba193112d38ef6",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2185,7 +2485,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:08.729Z",
+    "checkedAt": "2026-06-08T12:20:03.118Z",
     "hash": "242327b0f83032145860a67e41825f17",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2195,7 +2495,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:12.703Z",
+    "checkedAt": "2026-06-08T12:20:06.600Z",
     "hash": "2a229be02557e8c0d403bcd46abd6c60",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2205,7 +2505,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:14.260Z",
+    "checkedAt": "2026-06-08T12:20:07.988Z",
     "hash": "610a00b185056d652ac8d9f4b4509abe",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2215,7 +2515,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:18.662Z",
+    "checkedAt": "2026-06-08T12:20:11.887Z",
     "hash": "17b5919c17d33d29cb82ced378895cc3",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2225,7 +2525,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:20.092Z",
+    "checkedAt": "2026-06-08T12:20:13.202Z",
     "hash": "9f1a3e75b74c719956567efbfcca9c8d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2235,7 +2535,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:21.477Z",
+    "checkedAt": "2026-06-08T12:20:14.924Z",
     "hash": "ad0771ea366c194c54e775f8860ebe80",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2245,7 +2545,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:23.209Z",
+    "checkedAt": "2026-06-08T12:20:16.395Z",
     "hash": "d35e197f0d64605a6fa0375a3668862b",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2255,7 +2555,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:27.220Z",
+    "checkedAt": "2026-06-08T12:20:20.908Z",
     "hash": "ea61aa7ef0f40a11695850572a094a99",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2265,7 +2565,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:31.118Z",
+    "checkedAt": "2026-06-08T12:20:24.872Z",
     "hash": "013e9bf490f8aa7afb984d50c4fccee2",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2275,7 +2575,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:32.743Z",
+    "checkedAt": "2026-06-08T12:20:31.525Z",
     "hash": "12ec88333388c5db96240285e9be9249",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2285,7 +2585,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:34.589Z",
+    "checkedAt": "2026-06-08T12:20:33.609Z",
     "hash": "2bb580f29cd346c46b76d88ef0d83e28",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2295,7 +2595,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:36.156Z",
+    "checkedAt": "2026-06-08T12:20:35.358Z",
     "hash": "15d21bbf3e6a079bf6b849ec2cbda831",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2305,7 +2605,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:37.664Z",
+    "checkedAt": "2026-06-08T12:20:36.878Z",
     "hash": "6f037791d225d1b616e4644045dbd5f5",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2315,7 +2615,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:42.028Z",
+    "checkedAt": "2026-06-08T12:20:40.847Z",
     "hash": "dd08eaba2a196d7bb3f72418585c356d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2325,7 +2625,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:43.487Z",
+    "checkedAt": "2026-06-08T12:20:43.576Z",
     "hash": "aab7c18e316e792de6d93d6bee971076",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2335,7 +2635,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:45.216Z",
+    "checkedAt": "2026-06-08T12:20:45.164Z",
     "hash": "4ef6207bca965431916e18952902d80a",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2345,7 +2645,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:46.845Z",
+    "checkedAt": "2026-06-08T12:20:46.758Z",
     "hash": "d8c709475ad58011ff7d278a7a4ba113",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2355,7 +2655,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:50.742Z",
+    "checkedAt": "2026-06-08T12:20:51.471Z",
     "hash": "27de883c420da0095203df6f1a0b853b",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2365,7 +2665,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:52.547Z",
+    "checkedAt": "2026-06-08T12:20:53.324Z",
     "hash": "7db3293cd48cde07de421b2b5285f35d",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2375,7 +2675,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:58:58.167Z",
+    "checkedAt": "2026-06-08T12:20:56.774Z",
     "hash": "04ec3c39cc27748a0f6c2658835945dc",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2385,7 +2685,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:59:05.400Z",
+    "checkedAt": "2026-06-08T12:21:01.402Z",
     "hash": "a548bc9501e73781fe22532f4e0cbae9",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
@@ -2395,358 +2695,8 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T12:59:07.101Z",
+    "checkedAt": "2026-06-08T12:21:02.864Z",
     "hash": "dbeee66ec3fcffe3fcfd80689520eb19",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
-  },
-  "2026-06-compliance-alert-aca-form-720-filing-deadline.md": {
-    "file": "2026-06-compliance-alert-aca-form-720-filing-deadline.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:50.219Z",
-    "hash": "a780e39e45463da11610866482c172da",
-    "dir": "src/content/briefings"
-  },
-  "2026-06-employer-questions.md": {
-    "file": "2026-06-employer-questions.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:54.867Z",
-    "hash": "5583b47bf8cc2b941cf9426644cb0759",
-    "dir": "src/content/briefings"
-  },
-  "2026-06-industry-snapshot-hospitality-employer-considerations.md": {
-    "file": "2026-06-industry-snapshot-hospitality-employer-considerations.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:40:59.900Z",
-    "hash": "9a591feb28fe6564b81d33c5c0e80142",
-    "dir": "src/content/briefings"
-  },
-  "2026-06-monthly-briefing.md": {
-    "file": "2026-06-monthly-briefing.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:41:05.258Z",
-    "hash": "0a192c609c5b518d3b12b265097f1137",
-    "dir": "src/content/briefings"
-  },
-  "2026-06-trends-report-compliance-and-workforce-developments.md": {
-    "file": "2026-06-trends-report-compliance-and-workforce-developments.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-01T13:41:10.306Z",
-    "hash": "2c5eb31f3f457bb2127c132849802f0b",
-    "dir": "src/content/briefings"
-  },
-  "2026-06-02-supreme-court-rules-on-employer-vaccine-mandates-2.md": {
-    "file": "2026-06-02-supreme-court-rules-on-employer-vaccine-mandates-2.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:08.036Z",
-    "hash": "9905b1f07c3c6f1d8dd020bf296e9048",
-    "dir": "src/content/news"
-  },
-  "2026-06-03-dol-issues-new-rule-on-remote-worker-health-and-safety-oblig-0.md": {
-    "file": "2026-06-03-dol-issues-new-rule-on-remote-worker-health-and-safety-oblig-0.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:13.191Z",
-    "hash": "965342bb661be4d933c7747415291c6e",
-    "dir": "src/content/news"
-  },
-  "2026-06-03-hsa-contribution-limits-set-to-increase-in-2027-4.md": {
-    "file": "2026-06-03-hsa-contribution-limits-set-to-increase-in-2027-4.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:16.383Z",
-    "hash": "667edebc8d88f7cbea3bb603113fcbf4",
-    "dir": "src/content/news"
-  },
-  "2026-06-03-irs-issues-new-guidance-on-employee-retention-credit-claims-3.md": {
-    "file": "2026-06-03-irs-issues-new-guidance-on-employee-retention-credit-claims-3.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:21.113Z",
-    "hash": "f2e2dc47f3852a3351e412197b32dd07",
-    "dir": "src/content/news"
-  },
-  "2026-06-03-nlrb-expands-definition-of-joint-employer-1.md": {
-    "file": "2026-06-03-nlrb-expands-definition-of-joint-employer-1.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:25.284Z",
-    "hash": "10e486bfb161db72c3df35669ff427f1",
-    "dir": "src/content/news"
-  },
-  "2026-06-03-nlrb-proposes-rule-to-simplify-union-election-processes-2.md": {
-    "file": "2026-06-03-nlrb-proposes-rule-to-simplify-union-election-processes-2.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:28.868Z",
-    "hash": "4eb3d6133ab1225181404da37c0ed3db",
-    "dir": "src/content/news"
-  },
-  "2026-06-04-california-privacy-rights-act-compliance-deadline-approaches-1.md": {
-    "file": "2026-06-04-california-privacy-rights-act-compliance-deadline-approaches-1.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:33.520Z",
-    "hash": "c28c3859857c3db0912e49891dc5fdb0",
-    "dir": "src/content/news"
-  },
-  "2026-06-04-irs-clarifies-tax-treatment-of-remote-work-reimbursements-2.md": {
-    "file": "2026-06-04-irs-clarifies-tax-treatment-of-remote-work-reimbursements-2.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:34.828Z",
-    "hash": "feddfe1f44bb7fa76b5f3e0c307cdfd1",
-    "dir": "src/content/news"
-  },
-  "2026-06-04-osha-finalizes-new-ergonomics-guidelines-for-workplaces-3.md": {
-    "file": "2026-06-04-osha-finalizes-new-ergonomics-guidelines-for-workplaces-3.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:39.877Z",
-    "hash": "3e0979d6616f81f7d47b3a7b04116a32",
-    "dir": "src/content/news"
-  },
-  "2026-06-04-osha-proposes-new-rule-on-heat-safety-standards-0.md": {
-    "file": "2026-06-04-osha-proposes-new-rule-on-heat-safety-standards-0.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:43.790Z",
-    "hash": "99e33d59047859aa4236035babd9914b",
-    "dir": "src/content/news"
-  },
-  "2026-06-04-social-security-wage-base-increases-for-2026-4.md": {
-    "file": "2026-06-04-social-security-wage-base-increases-for-2026-4.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:45.925Z",
-    "hash": "8c61022f1090fbfc8bfa871c33818115",
-    "dir": "src/content/news"
-  },
-  "2026-06-05-dol-proposes-new-rule-on-employee-data-privacy-3.md": {
-    "file": "2026-06-05-dol-proposes-new-rule-on-employee-data-privacy-3.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:48.843Z",
-    "hash": "d9c618fe9dd1d2602b7afa5b15ecab2f",
-    "dir": "src/content/news"
-  },
-  "2026-06-05-eeoc-issues-new-guidance-on-ai-in-hiring-processes-0.md": {
-    "file": "2026-06-05-eeoc-issues-new-guidance-on-ai-in-hiring-processes-0.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:52.638Z",
-    "hash": "2182411b02801396e2d93e8dd24cc255",
-    "dir": "src/content/news"
-  },
-  "2026-06-05-fmla-leave-expanded-to-include-mental-health-days-1.md": {
-    "file": "2026-06-05-fmla-leave-expanded-to-include-mental-health-days-1.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:11:56.720Z",
-    "hash": "1323fe224cd55716cefcd4b53a4abb3a",
-    "dir": "src/content/news"
-  },
-  "2026-06-05-irs-releases-new-guidance-on-fringe-benefits-for-remote-work-4.md": {
-    "file": "2026-06-05-irs-releases-new-guidance-on-fringe-benefits-for-remote-work-4.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:12:01.110Z",
-    "hash": "b41c64b20ff4e71223480d5100a61c58",
-    "dir": "src/content/news"
-  },
-  "2026-06-05-sec-mandates-new-climate-disclosure-rules-for-public-compani-2.md": {
-    "file": "2026-06-05-sec-mandates-new-climate-disclosure-rules-for-public-compani-2.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:12:05.434Z",
-    "hash": "2cf78c7e007b6519cc1d3b351cc73c77",
-    "dir": "src/content/news"
-  },
-  "2026-06-06-california-enacts-new-worker-classification-law-for-gig-econ-0.md": {
-    "file": "2026-06-06-california-enacts-new-worker-classification-law-for-gig-econ-0.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:12:10.644Z",
-    "hash": "7aed67e8239ba48ce550be7a365af03d",
-    "dir": "src/content/news"
-  },
-  "2026-06-06-dol-finalizes-rule-on-retirement-plan-fee-disclosures-4.md": {
-    "file": "2026-06-06-dol-finalizes-rule-on-retirement-plan-fee-disclosures-4.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:12:16.686Z",
-    "hash": "fb2adcb0dbe4ab2076c4ae7aab5514f1",
-    "dir": "src/content/news"
-  },
-  "2026-06-06-dol-proposes-new-rule-on-workplace-injury-reporting-3.md": {
-    "file": "2026-06-06-dol-proposes-new-rule-on-workplace-injury-reporting-3.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:12:21.171Z",
-    "hash": "b2357d601313bb79833e297ede46d16c",
-    "dir": "src/content/news"
-  },
-  "2026-06-06-irs-updates-guidelines-for-employee-relocation-expenses-2.md": {
-    "file": "2026-06-06-irs-updates-guidelines-for-employee-relocation-expenses-2.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:12:22.746Z",
-    "hash": "cd28036aa8524aa5dde76479eedf51dd",
-    "dir": "src/content/news"
-  },
-  "2026-06-06-proposed-federal-legislation-targets-pay-transparency-nation-1.md": {
-    "file": "2026-06-06-proposed-federal-legislation-targets-pay-transparency-nation-1.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:13:28.466Z",
-    "hash": "b8679585d430700f5dded5756a9b8d2b",
-    "dir": "src/content/news"
-  },
-  "2026-06-07-dol-announces-new-guidance-on-employee-wellness-program-ince-4.md": {
-    "file": "2026-06-07-dol-announces-new-guidance-on-employee-wellness-program-ince-4.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:13:32.348Z",
-    "hash": "3ccf37f667344b4588e61ad7bde0bd93",
-    "dir": "src/content/news"
-  },
-  "2026-06-07-irs-updates-mileage-reimbursement-rates-for-2026-3.md": {
-    "file": "2026-06-07-irs-updates-mileage-reimbursement-rates-for-2026-3.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:13:35.843Z",
-    "hash": "b68881ed57fb85ddf41f30148c5d00c8",
-    "dir": "src/content/news"
-  },
-  "2026-06-07-new-federal-guidelines-on-mental-health-parity-in-employee-b-1.md": {
-    "file": "2026-06-07-new-federal-guidelines-on-mental-health-parity-in-employee-b-1.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:13:42.930Z",
-    "hash": "d7dd11d4661f855424ff4b6535916c61",
-    "dir": "src/content/news"
-  },
-  "2026-06-07-osha-proposes-new-rule-on-indoor-air-quality-standards-2.md": {
-    "file": "2026-06-07-osha-proposes-new-rule-on-indoor-air-quality-standards-2.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:13:46.871Z",
-    "hash": "31171f84862b07f2dc8d91e76d9f86bf",
-    "dir": "src/content/news"
-  },
-  "2026-06-07-supreme-court-to-review-ada-accommodations-for-remote-work-0.md": {
-    "file": "2026-06-07-supreme-court-to-review-ada-accommodations-for-remote-work-0.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:13:54.087Z",
-    "hash": "07b929fdc1e87b8d254be2456a521707",
-    "dir": "src/content/news"
-  },
-  "2026-06-08-dol-updates-flsa-tip-regulations-effective-july-1-2026-2.md": {
-    "file": "2026-06-08-dol-updates-flsa-tip-regulations-effective-july-1-2026-2.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:13:58.295Z",
-    "hash": "dc14566e266f00fd43e75fcd05ed3259",
-    "dir": "src/content/news"
-  },
-  "2026-06-08-eeoc-expands-definition-of-disability-under-ada-0.md": {
-    "file": "2026-06-08-eeoc-expands-definition-of-disability-under-ada-0.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:14:01.943Z",
-    "hash": "0999509b84601e0f200880549c9a72d3",
-    "dir": "src/content/news"
-  },
-  "2026-06-08-ftc-introduces-new-guidelines-on-green-marketing-claims-3.md": {
-    "file": "2026-06-08-ftc-introduces-new-guidelines-on-green-marketing-claims-3.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:14:03.292Z",
-    "hash": "ffd70a6a1abaf433ae6f38fbba0ffbb6",
-    "dir": "src/content/news"
-  },
-  "2026-06-08-new-federal-guidelines-on-background-checks-for-employment-1.md": {
-    "file": "2026-06-08-new-federal-guidelines-on-background-checks-for-employment-1.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-08T10:14:04.742Z",
-    "hash": "5011fa1de89a4d92504833d60e6f5f63",
-    "dir": "src/content/news"
   }
 }
