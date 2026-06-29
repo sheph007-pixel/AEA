@@ -2449,63 +2449,13 @@
     "hash": "dbeee66ec3fcffe3fcfd80689520eb19",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
   },
-  "2026-06-23-eeoc-proposes-new-guidelines-on-workplace-harassment-trainin-2.md": {
-    "file": "2026-06-23-eeoc-proposes-new-guidelines-on-workplace-harassment-trainin-2.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:19.305Z",
-    "hash": "9da4f171e0b7c5b7cde9d6dd5a21539b",
-    "dir": "src/content/news"
-  },
-  "2026-06-23-new-dol-rule-on-child-labor-protections-takes-effect-august--0.md": {
-    "file": "2026-06-23-new-dol-rule-on-child-labor-protections-takes-effect-august--0.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:21.807Z",
-    "hash": "363022e8dc9f3588e7a2134263cf67ab",
-    "dir": "src/content/news"
-  },
-  "2026-06-23-new-dol-rule-on-tip-credit-utilization-set-for-july-2026-3.md": {
-    "file": "2026-06-23-new-dol-rule-on-tip-credit-utilization-set-for-july-2026-3.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:24.927Z",
-    "hash": "efbbb02eb92c6fd8e939d5fe86354986",
-    "dir": "src/content/news"
-  },
-  "2026-06-23-nlrb-ruling-expands-employee-rights-for-remote-work-1.md": {
-    "file": "2026-06-23-nlrb-ruling-expands-employee-rights-for-remote-work-1.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:27.733Z",
-    "hash": "013dac9e6656d260ec58465a8298e000",
-    "dir": "src/content/news"
-  },
-  "2026-06-23-secure-2-0-act-alters-retirement-plan-catch-up-contributions-4.md": {
-    "file": "2026-06-23-secure-2-0-act-alters-retirement-plan-catch-up-contributions-4.md",
-    "status": "error",
-    "confidence": 0,
-    "issues": [],
-    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:30.928Z",
-    "hash": "a7d72eb6816aec3d519b4bae4a556b5d",
-    "dir": "src/content/news"
-  },
   "2026-06-24-dol-finalizes-rule-on-worker-classification-for-gig-economy-3.md": {
     "file": "2026-06-24-dol-finalizes-rule-on-worker-classification-for-gig-economy-3.md",
     "status": "error",
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:35.305Z",
+    "checkedAt": "2026-06-29T10:16:21.520Z",
     "hash": "b4d6182fd22ca5c765e24278335e3324",
     "dir": "src/content/news"
   },
@@ -2515,7 +2465,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:37.708Z",
+    "checkedAt": "2026-06-29T10:16:26.392Z",
     "hash": "f3f5b786593efe3a7579e7b5fe144efa",
     "dir": "src/content/news"
   },
@@ -2525,7 +2475,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:40.421Z",
+    "checkedAt": "2026-06-29T10:16:31.293Z",
     "hash": "9b4d01e79115d4f1699e5d8c1f44c879",
     "dir": "src/content/news"
   },
@@ -2535,7 +2485,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:43.017Z",
+    "checkedAt": "2026-06-29T10:16:34.704Z",
     "hash": "5ef5c7ff6cde60bf791e9e0a58515157",
     "dir": "src/content/news"
   },
@@ -2545,7 +2495,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:45.226Z",
+    "checkedAt": "2026-06-29T10:16:39.826Z",
     "hash": "d2f343eed38fb62aa9bd185a8e590070",
     "dir": "src/content/news"
   },
@@ -2555,7 +2505,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:47.785Z",
+    "checkedAt": "2026-06-29T10:16:44.421Z",
     "hash": "74735f60c3b80ee93970303a98179a26",
     "dir": "src/content/news"
   },
@@ -2565,7 +2515,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:50.269Z",
+    "checkedAt": "2026-06-29T10:16:48.203Z",
     "hash": "814fc50ca3992219941ae274d5249dba",
     "dir": "src/content/news"
   },
@@ -2575,7 +2525,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:54.131Z",
+    "checkedAt": "2026-06-29T10:16:54.165Z",
     "hash": "9ea2f55a47e80b75bb659660eb9e5d4c",
     "dir": "src/content/news"
   },
@@ -2585,7 +2535,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:37:56.937Z",
+    "checkedAt": "2026-06-29T10:16:58.790Z",
     "hash": "164f398c7513ea8c24e51aaee3d4c175",
     "dir": "src/content/news"
   },
@@ -2595,7 +2545,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:00.043Z",
+    "checkedAt": "2026-06-29T10:17:02.977Z",
     "hash": "a2d0581c077ad5c64dd46e8a94a09083",
     "dir": "src/content/news"
   },
@@ -2605,7 +2555,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:03.424Z",
+    "checkedAt": "2026-06-29T10:17:07.269Z",
     "hash": "487b7663cc8e63ab58fdc3da8e64621f",
     "dir": "src/content/news"
   },
@@ -2615,7 +2565,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:06.746Z",
+    "checkedAt": "2026-06-29T10:17:11.472Z",
     "hash": "df0df6b74ec574bfb3ed68b69e086cc5",
     "dir": "src/content/news"
   },
@@ -2625,7 +2575,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:21.069Z",
+    "checkedAt": "2026-06-29T10:17:16.175Z",
     "hash": "0d207a5243180b35855b80d815607adb",
     "dir": "src/content/news"
   },
@@ -2635,7 +2585,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:24.568Z",
+    "checkedAt": "2026-06-29T10:17:20.479Z",
     "hash": "711106cfc0382bfe6487e78d45a43f6e",
     "dir": "src/content/news"
   },
@@ -2645,7 +2595,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:27.546Z",
+    "checkedAt": "2026-06-29T10:17:25.070Z",
     "hash": "e2423c51b7cd2c03ecc4f9a6ffc377a7",
     "dir": "src/content/news"
   },
@@ -2655,7 +2605,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:30.263Z",
+    "checkedAt": "2026-06-29T10:17:28.517Z",
     "hash": "ad942d017e935ccb401c86048c9727dd",
     "dir": "src/content/news"
   },
@@ -2665,7 +2615,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:33.592Z",
+    "checkedAt": "2026-06-29T10:17:32.967Z",
     "hash": "66b63a8bdc8a59364049c5b94dd6bcc6",
     "dir": "src/content/news"
   },
@@ -2675,7 +2625,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:36.554Z",
+    "checkedAt": "2026-06-29T10:17:37.623Z",
     "hash": "bea07c34fc13cb8f03a1350247c920b1",
     "dir": "src/content/news"
   },
@@ -2685,7 +2635,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:39.880Z",
+    "checkedAt": "2026-06-29T10:17:42.356Z",
     "hash": "1a4508b889b43bb52fb75b81306541dd",
     "dir": "src/content/news"
   },
@@ -2695,7 +2645,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:43.056Z",
+    "checkedAt": "2026-06-29T10:17:47.662Z",
     "hash": "b7f5b2f2105a66213854901426ace636",
     "dir": "src/content/news"
   },
@@ -2705,7 +2655,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:45.939Z",
+    "checkedAt": "2026-06-29T10:17:51.558Z",
     "hash": "1023a347c27987f0060d391ee525d19d",
     "dir": "src/content/news"
   },
@@ -2715,7 +2665,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:49.600Z",
+    "checkedAt": "2026-06-29T10:17:55.543Z",
     "hash": "2567239e53e5283758b6a2db9a3972b7",
     "dir": "src/content/news"
   },
@@ -2725,7 +2675,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:52.057Z",
+    "checkedAt": "2026-06-29T10:17:58.434Z",
     "hash": "f54ee135e546fe9056e44d02739f3c0b",
     "dir": "src/content/news"
   },
@@ -2735,7 +2685,7 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:55.412Z",
+    "checkedAt": "2026-06-29T10:18:02.649Z",
     "hash": "50ff3dbeedea1931dc72132bd76865f9",
     "dir": "src/content/news"
   },
@@ -2745,8 +2695,58 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-06-28T08:38:58.980Z",
+    "checkedAt": "2026-06-29T10:18:07.379Z",
     "hash": "1b486db7ea87c52eea5d04d3b394f928",
+    "dir": "src/content/news"
+  },
+  "2026-06-29-ftc-issues-new-guidelines-on-data-privacy-for-small-business-3.md": {
+    "file": "2026-06-29-ftc-issues-new-guidelines-on-data-privacy-for-small-business-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-29T10:18:10.266Z",
+    "hash": "1f9a3d2c436fd418c332a3beed05ed71",
+    "dir": "src/content/news"
+  },
+  "2026-06-29-irs-releases-new-guidelines-on-remote-work-tax-implications-1.md": {
+    "file": "2026-06-29-irs-releases-new-guidelines-on-remote-work-tax-implications-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-29T10:18:15.536Z",
+    "hash": "6b317a3a5fc05b166761fa6335d87f5a",
+    "dir": "src/content/news"
+  },
+  "2026-06-29-new-ftc-guidelines-on-employee-surveillance-practices-releas-0.md": {
+    "file": "2026-06-29-new-ftc-guidelines-on-employee-surveillance-practices-releas-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-29T10:18:19.615Z",
+    "hash": "8683b75309e58b5243098aa2399ef832",
+    "dir": "src/content/news"
+  },
+  "2026-06-29-new-guidance-on-cobra-continuation-coverage-released-by-dol-4.md": {
+    "file": "2026-06-29-new-guidance-on-cobra-continuation-coverage-released-by-dol-4.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-29T10:18:22.838Z",
+    "hash": "0d8d5c6a7bb3ec34efe0c8784d9308e1",
+    "dir": "src/content/news"
+  },
+  "2026-06-29-new-irs-rule-alters-fringe-benefit-valuation-for-commuter-be-2.md": {
+    "file": "2026-06-29-new-irs-rule-alters-fringe-benefit-valuation-for-commuter-be-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-06-29T10:18:27.530Z",
+    "hash": "21606a2f34a9d18b2737fb8b399b9d03",
     "dir": "src/content/news"
   }
 }
