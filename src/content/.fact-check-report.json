@@ -325,9 +325,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:18:37.124Z",
+    "checkedAt": "2026-07-21T08:02:49.109Z",
     "hash": "c3d66779ea10c56855327f7a5ecbae3a",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-16-dol-releases-new-guidance-on-employee-wellness-programs-and--4.md": {
     "file": "2026-07-16-dol-releases-new-guidance-on-employee-wellness-programs-and--4.md",
@@ -335,9 +335,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:18:40.679Z",
+    "checkedAt": "2026-07-21T08:02:53.319Z",
     "hash": "d249df002251f064675ace6c11071e66",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-16-eeoc-issues-new-guidance-on-workplace-harassment-key-takeawa-2.md": {
     "file": "2026-07-16-eeoc-issues-new-guidance-on-workplace-harassment-key-takeawa-2.md",
@@ -345,9 +345,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:18:43.168Z",
+    "checkedAt": "2026-07-21T08:02:56.890Z",
     "hash": "154ebb902f55ea4e91bf54b4c8ae1f50",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-16-ftc-proposes-new-rule-on-algorithmic-management-key-implicat-1.md": {
     "file": "2026-07-16-ftc-proposes-new-rule-on-algorithmic-management-key-implicat-1.md",
@@ -355,9 +355,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:18:46.711Z",
+    "checkedAt": "2026-07-21T08:03:02.274Z",
     "hash": "422f89492a6d0ee32876a2be5dc64676",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-16-irs-proposes-rule-to-simplify-fringe-benefit-taxation-3.md": {
     "file": "2026-07-16-irs-proposes-rule-to-simplify-fringe-benefit-taxation-3.md",
@@ -365,9 +365,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:18:49.442Z",
+    "checkedAt": "2026-07-21T08:03:07.265Z",
     "hash": "fe30f9a9778a2b1da33a78645454c6e5",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-16-nlrb-revises-joint-employer-standard-immediate-implications-0.md": {
     "file": "2026-07-16-nlrb-revises-joint-employer-standard-immediate-implications-0.md",
@@ -375,9 +375,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:18:52.678Z",
+    "checkedAt": "2026-07-21T08:03:12.532Z",
     "hash": "f09dc2862e7baca5bceb46fc49b29b22",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-17-california-mandates-pay-data-reporting-for-private-employers-1.md": {
     "file": "2026-07-17-california-mandates-pay-data-reporting-for-private-employers-1.md",
@@ -385,9 +385,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:18:55.290Z",
+    "checkedAt": "2026-07-21T08:03:16.163Z",
     "hash": "4757a015d1386fecf10b13ea48ff500b",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-17-federal-court-blocks-new-dol-rule-on-employee-classification-0.md": {
     "file": "2026-07-17-federal-court-blocks-new-dol-rule-on-employee-classification-0.md",
@@ -395,9 +395,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:18:59.579Z",
+    "checkedAt": "2026-07-21T08:03:22.246Z",
     "hash": "da403b989418d1345007172eafbef7c7",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-17-ftc-cracks-down-on-misleading-subscription-practices-new-gui-3.md": {
     "file": "2026-07-17-ftc-cracks-down-on-misleading-subscription-practices-new-gui-3.md",
@@ -405,9 +405,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:02.846Z",
+    "checkedAt": "2026-07-21T08:03:26.805Z",
     "hash": "bd2e9295f892514bbfcdb6033a52a872",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-17-new-federal-rule-on-employee-mental-health-support-what-empl-2.md": {
     "file": "2026-07-17-new-federal-rule-on-employee-mental-health-support-what-empl-2.md",
@@ -415,9 +415,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:09.592Z",
+    "checkedAt": "2026-07-21T08:03:32.314Z",
     "hash": "75b64af8e2341920e6a0b52d798d2cf8",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-17-new-irs-guidance-on-employee-educational-assistance-programs-4.md": {
     "file": "2026-07-17-new-irs-guidance-on-employee-educational-assistance-programs-4.md",
@@ -425,9 +425,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:10.853Z",
+    "checkedAt": "2026-07-21T08:03:34.163Z",
     "hash": "5e447bdad008d402abd1baeaffa7babd",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-18-dol-updates-fmla-regulations-new-definitions-for-family-care-1.md": {
     "file": "2026-07-18-dol-updates-fmla-regulations-new-definitions-for-family-care-1.md",
@@ -435,9 +435,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:14.876Z",
+    "checkedAt": "2026-07-21T08:03:39.984Z",
     "hash": "cc6379071fd90c37ca9125bfffa611fb",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-18-eeoc-updates-guidance-on-religious-accommodations-in-the-wor-0.md": {
     "file": "2026-07-18-eeoc-updates-guidance-on-religious-accommodations-in-the-wor-0.md",
@@ -445,9 +445,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:16.202Z",
+    "checkedAt": "2026-07-21T08:03:45.847Z",
     "hash": "63f57ee0a80644a455a9461e83c6ffb7",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-18-ftc-issues-guidance-on-green-marketing-claims-what-businesse-3.md": {
     "file": "2026-07-18-ftc-issues-guidance-on-green-marketing-claims-what-businesse-3.md",
@@ -455,9 +455,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:18.761Z",
+    "checkedAt": "2026-07-21T08:03:49.563Z",
     "hash": "e603be8b783baf3666362613db20551b",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-18-new-federal-guidelines-on-retirement-plan-fee-disclosures-re-4.md": {
     "file": "2026-07-18-new-federal-guidelines-on-retirement-plan-fee-disclosures-re-4.md",
@@ -465,9 +465,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:21.621Z",
+    "checkedAt": "2026-07-21T08:04:09.472Z",
     "hash": "66ccca8cf8a7b7de7f2567b85ddee899",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-18-new-irs-rule-on-employee-stock-purchase-plans-compliance-req-2.md": {
     "file": "2026-07-18-new-irs-rule-on-employee-stock-purchase-plans-compliance-req-2.md",
@@ -475,9 +475,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:24.787Z",
+    "checkedAt": "2026-07-21T08:04:14.812Z",
     "hash": "8ce30aa6cb44f1e5f4e7bd59d646b3d9",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-19-dol-issues-new-guidance-on-employee-misclassification-and-be-4.md": {
     "file": "2026-07-19-dol-issues-new-guidance-on-employee-misclassification-and-be-4.md",
@@ -485,9 +485,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:27.944Z",
+    "checkedAt": "2026-07-21T08:04:24.224Z",
     "hash": "1ba183fc6aa8a1f00b0b76a13b333bf2",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-19-dol-proposes-new-rule-on-apprenticeship-programs-1.md": {
     "file": "2026-07-19-dol-proposes-new-rule-on-apprenticeship-programs-1.md",
@@ -495,9 +495,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:33.435Z",
+    "checkedAt": "2026-07-21T08:04:30.476Z",
     "hash": "e8636e2c0e30cf70c07709e0c5c8334d",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-19-federal-trade-commission-issues-final-rule-on-data-privacy-f-0.md": {
     "file": "2026-07-19-federal-trade-commission-issues-final-rule-on-data-privacy-f-0.md",
@@ -505,9 +505,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:41.600Z",
+    "checkedAt": "2026-07-21T08:04:36.359Z",
     "hash": "e4af57b8b775d0cd563471bbe5f54495",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-19-new-federal-rule-mandates-cybersecurity-training-for-remote--3.md": {
     "file": "2026-07-19-new-federal-rule-mandates-cybersecurity-training-for-remote--3.md",
@@ -515,9 +515,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:46.737Z",
+    "checkedAt": "2026-07-21T08:04:41.847Z",
     "hash": "ae9b4535120b0a64c01e5d38e4bc0c47",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-19-sec-finalizes-rule-on-climate-related-disclosures-for-public-2.md": {
     "file": "2026-07-19-sec-finalizes-rule-on-climate-related-disclosures-for-public-2.md",
@@ -525,9 +525,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:50.273Z",
+    "checkedAt": "2026-07-21T08:04:48.300Z",
     "hash": "9d4624a6342e7829cc9b795cb2ee09d9",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-20-dol-proposes-new-rule-on-gig-worker-classification-2.md": {
     "file": "2026-07-20-dol-proposes-new-rule-on-gig-worker-classification-2.md",
@@ -535,9 +535,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:55.623Z",
+    "checkedAt": "2026-07-21T08:04:52.803Z",
     "hash": "4e523416d02b812eca9233308fe6fef0",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-20-eeoc-introduces-new-guidance-on-gender-identity-discriminati-1.md": {
     "file": "2026-07-20-eeoc-introduces-new-guidance-on-gender-identity-discriminati-1.md",
@@ -545,9 +545,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:57.014Z",
+    "checkedAt": "2026-07-21T08:04:54.908Z",
     "hash": "2491e08a5d4187f31077a36ea0a7daef",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-20-irs-expands-reporting-requirements-for-cryptocurrency-transa-3.md": {
     "file": "2026-07-20-irs-expands-reporting-requirements-for-cryptocurrency-transa-3.md",
@@ -555,9 +555,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:19:58.267Z",
+    "checkedAt": "2026-07-21T08:04:56.871Z",
     "hash": "1ed083b6c80bddab5f2df6ad33dd2259",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-20-irs-issues-new-guidelines-on-hsas-key-changes-for-2026-4.md": {
     "file": "2026-07-20-irs-issues-new-guidelines-on-hsas-key-changes-for-2026-4.md",
@@ -565,9 +565,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:20:02.192Z",
+    "checkedAt": "2026-07-21T08:05:02.480Z",
     "hash": "3ee886cfc50ac63827054543ac02ad64",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2026-07-20-osha-updates-heat-illness-prevention-standards-for-employers-0.md": {
     "file": "2026-07-20-osha-updates-heat-illness-prevention-standards-for-employers-0.md",
@@ -575,9 +575,9 @@
     "confidence": 0,
     "issues": [],
     "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
-    "checkedAt": "2026-07-20T10:20:05.807Z",
+    "checkedAt": "2026-07-21T08:05:09.435Z",
     "hash": "a176055577acc84b4db03f58858f1ddf",
-    "dir": "/home/runner/work/AEA/AEA/src/content/news"
+    "dir": "src/content/news"
   },
   "2024-minimum-wage-updates.md": {
     "file": "2024-minimum-wage-updates.md",
@@ -2748,5 +2748,45 @@
     "checkedAt": "2026-07-20T10:30:04.392Z",
     "hash": "dbeee66ec3fcffe3fcfd80689520eb19",
     "dir": "/home/runner/work/AEA/AEA/src/content/resources"
+  },
+  "2026-07-21-new-federal-rule-on-ai-driven-employee-monitoring-compliance-2.md": {
+    "file": "2026-07-21-new-federal-rule-on-ai-driven-employee-monitoring-compliance-2.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-07-21T08:05:14.801Z",
+    "hash": "43635d825706fe6d7629b131cdfb70ba",
+    "dir": "src/content/news"
+  },
+  "2026-07-21-new-osha-rule-on-workplace-ergonomics-takes-effect-january-2-3.md": {
+    "file": "2026-07-21-new-osha-rule-on-workplace-ergonomics-takes-effect-january-2-3.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-07-21T08:05:25.742Z",
+    "hash": "443bc16dba3867ca07b8447856a412d8",
+    "dir": "src/content/news"
+  },
+  "2026-07-21-nlrb-issues-new-rule-on-employee-use-of-company-email-system-0.md": {
+    "file": "2026-07-21-nlrb-issues-new-rule-on-employee-use-of-company-email-system-0.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-07-21T08:05:31.126Z",
+    "hash": "34db34bf7078927da9ca5d1520d55400",
+    "dir": "src/content/news"
+  },
+  "2026-07-21-sec-proposes-rule-on-human-capital-disclosures-what-employer-1.md": {
+    "file": "2026-07-21-sec-proposes-rule-on-human-capital-disclosures-what-employer-1.md",
+    "status": "error",
+    "confidence": 0,
+    "issues": [],
+    "summary": "Check failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+    "checkedAt": "2026-07-21T08:05:36.074Z",
+    "hash": "7816b61453f356b2c9730e6a0c208d07",
+    "dir": "src/content/news"
   }
 }
