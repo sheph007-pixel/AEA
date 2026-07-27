@@ -349,7 +349,7 @@ export default function AdminPage() {
                 </div>
 
                 <div className="text-sm text-ink-500 space-y-2">
-                  <p>Content is automatically fact-checked by AI (OpenAI gpt-4o-mini) on a weekly schedule.</p>
+                  <p>Automated content auditing has been discontinued. This report reflects the last audit that was performed.</p>
                   <p>The system checks for: incorrect legal references, fabricated statistics, wrong compliance deadlines, misleading claims, and opinions presented as facts.</p>
                   <p>If issues are found, a notification is sent to hunter@kennion.com and failed content is removed before publishing.</p>
                   <p>The green checkmark in the site footer confirms the last successful audit.</p>
